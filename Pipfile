@@ -4,6 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pandas = "==2.2.1"
 
 [dev-packages]
 ruff = "==0.3.5"
