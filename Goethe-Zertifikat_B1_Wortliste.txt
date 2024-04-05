@@ -263,7 +263,7 @@ VS_03
                                          anstellen.                                                                  einen Salat?
                                                                                                                   3. Guten Appetit!
                 der Angestellte, -n     Björn ist Angestellter in einem
-                die Angestellte, -n     Reisebüro.                               die Aprikose, -n (D, CH) → Schmecken dir die Aprikosen?
+                die Angestellte, -n     Reisebüro.                               die Aprikose, -n (D, CH) →         Schmecken dir die Aprikosen?
                                                                                  A: Marille
         sich anstrengen, strengt      1. Diese Arbeit strengt mich sehr an.
         sich an, strengte sich an,    2. Wenn du die Prüfung schaffen willst,    arbeiten, arbeitet,              1. Er arbeitet heute bis 16 Uhr.
@@ -388,7 +388,7 @@ VS_03
                                           auf.                                                 der Ausdruck, ¨-e 1. Diesen Ausdruck habe ich noch nie
                                        3. Heute hast du eine Prüfung. Bist du                                       gehört.
                                           schon aufgeregt?
-                                       4. Die Musikgruppe zu erleben war sehr                   der Ausdruck, -e 2. Machen Sie doch bitte einen Ausdruck
+                                       4. Die Musikgruppe zu erleben war sehr                   der Ausdruck, -e 1. Machen Sie doch bitte einen Ausdruck
                                           aufregend.                                                                von der E-Mail.
 
         aufstehen, steht auf,          1. Ich stehe jeden Morgen um sechs Uhr        auseinander                     Wir wohnen nicht weit auseinander.
@@ -525,7 +525,7 @@ VS_03
         backte, hat gebacken              Kuchen.
                                                                                   bar                               Zahlen Sie bar?
                   die Bäckerei, -en       Wir kaufen unser Brot immer in der
-                                          Bäckerei am Markt.                                        das Bargeld Ich habe kein Bargeld mehr.
+                                          Bäckerei am Markt.                                        das Bargeld     Ich habe kein Bargeld mehr.
 
 
         baden, badet, badete, hat 1. Wenn du baden möchtest: Das                  der Bart, ¨-e                     John trägt jetzt einen Bart.
@@ -898,58 +898,58 @@ VS_03
                                                                                                                    2. Hol bitte mal die Zeitung aus dem
         der Bogen, -/¨-                    Bitte schreiben Sie Ihren Namen auf                                        Briefkasten.
                                            den Antwortbogen.
-        die Bohne, -n                                                                          die Briefmarke, -n      Briefmarken bekommen Sie am
-                                           Ich esse gern Bohnen.                                                       Schalter 7.
-        das Boot, -e
-                                           An diesem See kann man Boote                        der Briefträger,        War die Briefträgerin schon da?
+                                                                                               die Briefmarke, -n      Briefmarken bekommen Sie am
+        die Bohne, -n                      Ich esse gern Bohnen.                                                       Schalter 7.
+
+        das Boot, -e                       An diesem See kann man Boote                        der Briefträger,        War die Briefträgerin schon da?
                                            mieten.                                    →CH:dieBriefträgerin,-nen
-        die Botschaft, -en                                                                              Pöstler
-                                           Das Visum habe ich von der Botschaft
+                                                                                                        Pöstler
+        die Botschaft, -en                 Das Visum habe ich von der Botschaft
                                            bekommen.                                   der Briefumschlag, ¨-e →        Ich hätte gern 50 Briefumschläge und
-        böse                                                                             A: Kuvert; CH: Couvert        Briefmarken dazu.
-                                         1. Ich habe das Buch leider vergessen.
+                                                                                         A: Kuvert; CH: Couvert        Briefmarken dazu.
+        böse                             1. Ich habe das Buch leider vergessen.
                                             Hoffentlich bist du mir nicht böse.       die Brieftasche, -n → D,         Ich habe nur Kleingeld in meiner
                                          2. Mach nicht so ein böses Gesicht!          CH: Portemonnaie/Port-           Brieftasche.
                                          3. Ich bin böse auf dich, du bist wieder     monee; A: Geldbörse
                                             nicht gekommen!
                                          4. Zeig mal! Du hast dich verletzt? Das      die Brille, -n                   Ich brauche eine neue Brille.
                                             sieht aber böse aus.
-        braten, brät, briet,                                                          bringen, bringt, brachte,      1. Bringen Sie mir bitte ein Glas Tee!
-        hat gebraten                     1. Das Fleisch muss zehn Minuten braten.     hat gebracht                   2. Ich bringe dich nach Hause.
-                                         2. Heute gibt’s gebratenen Fisch.                                           3. Die Abendzeitung hat einen Bericht
-                        der Braten, -                                                                                   über den Unfall gebracht.
-                                           Nehmen Sie noch etwas Soße zum
+                                                                                      bringen, bringt, brachte,      1. Bringen Sie mir bitte ein Glas Tee!
+        braten, brät, briet,             1. Das Fleisch muss zehn Minuten braten.     hat gebracht                   2. Ich bringe dich nach Hause.
+        hat gebraten                     2. Heute gibt’s gebratenen Fisch.                                           3. Die Abendzeitung hat einen Bericht
+                                                                                                                        über den Unfall gebracht.
+        der Braten, -                      Nehmen Sie noch etwas Soße zum
                                            Braten?                                    die Broschüre, -n                In der Broschüre finden Sie die
-        brauchen, braucht,                                                                                             neuesten Informationen.
-        brauchte, hat gebraucht          1. Ich brauche ein Auto.
-                                         2. Brauchst du die Zeitung noch?             das Brot, -e                   1. Brot kaufe ich immer beim Bäcker,
+                                                                                                                       neuesten Informationen.
+        brauchen, braucht,               1. Ich brauche ein Auto.
+        brauchte, hat gebraucht          2. Brauchst du die Zeitung noch?             das Brot, -e                   1. Brot kaufe ich immer beim Bäcker,
                                          3. Meine Großmutter ist krank. Sie                                             nicht im Supermarkt.
                                             braucht viel Ruhe.                                                       2. Was möchtest du aufs Brot haben?
                                          4. Ich habe für die Renovierung eine                                        3. Nimm noch ein paar belegte Brote für
                                             Woche gebraucht.                                                            die Fahrt mit.
                                          5. Sie brauchen morgen nicht zu
                                             kommen. Ich schaffe das alleine.             das Brötchen, - (D) → A:      Ich hole schnell ein paar Brötchen zum
-        brechen, bricht, brach,                                                               Semmel; CH: Brötli       Frühstück.
-        hat gebrochen                    1. Er hat sich beim Skifahren verletzt,
-                                            sein Bein ist gebrochen.                       das Brötli, - (CH) → D:     Ich hole schnell ein paar Brötli zum
+                                                                                              Semmel; CH: Brötli       Frühstück.
+        brechen, bricht, brach,          1. Er hat sich beim Skifahren verletzt,
+        hat gebrochen                       sein Bein ist gebrochen.                       das Brötli, - (CH) → D:     Ich hole schnell ein paar Brötli zum
                                          2. Ich habe mir im Urlaub das Bein                 Brötchen; A: Semmel        Frühstück.
                                             gebrochen.
-        breit                                                                         die Brücke, -n                   Fahren Sie über die nächste Brücke
-                                           Der Teppich ist zwei Meter lang und                                         und dann rechts.
+                                                                                      die Brücke, -n                   Fahren Sie über die nächste Brücke
+        breit                              Der Teppich ist zwei Meter lang und                                         und dann rechts.
                                            einen Meter breit.
-                        die Breite, -n                                                der Bruder, ¨-                   Mein jüngster Bruder geht noch zur
-                                           Welche Maße hat der Tisch? –                                                Schule.
+                                                                                      der Bruder, ¨-                   Mein jüngster Bruder geht noch zur
+        die Breite, -n                     Welche Maße hat der Tisch? –                                                Schule.
                                            Länge: 1 m, Breite: 80 cm, Höhe: 1,20 m.
-        bremsen, bremst,                                                              die Brust                        Ich habe Schmerzen in der Brust.
-        bremste, hat gebremst              Der Mann ist ganz plötzlich über die
-                                           Straße gegangen. Ich musste stark          der Bub, -en (A, CH) → D:        In der Schulklasse sind 15 Buben und
+                                                                                      die Brust                        Ich habe Schmerzen in der Brust.
+        bremsen, bremst,                   Der Mann ist ganz plötzlich über die
+        bremste, hat gebremst              Straße gegangen. Ich musste stark          der Bub, -en (A, CH) → D:        In der Schulklasse sind 15 Buben und
                                            bremsen.                                   Junge                            10 Mädchen.
-                       die Bremse, -n
-                                           Du musst unbedingt die Bremsen             das Buch, ¨-er                   Haben Sie ein Buch über die
+
+        die Bremse, -n                     Du musst unbedingt die Bremsen             das Buch, ¨-er                   Haben Sie ein Buch über die
                                            kontrollieren lassen.                                                       Geschichte von Berlin?
-        brennen, brennt, brannte,
-        hat gebrannt              1. In diesem Haus hat es letztes Jahr                   die Buchhandlung, -en        In der Buchhandlung in der Stadt
-                                     gebrannt.                                                                         haben sie das Buch sicher.
+
+        brennen, brennt, brannte, 1. In diesem Haus hat es letztes Jahr                   die Buchhandlung, -en        In der Buchhandlung in der Stadt
+        hat gebrannt                 gebrannt.                                                                         haben sie das Buch sicher.
                                   2. Die Kerze brennt noch. Mach sie bitte
                                      aus.                                             buchen, bucht, buchte,           Ich habe für morgen einen Flug nach
                                   3. In deinem Zimmer hat die ganze Nacht             hat gebucht                      Rom gebucht.
@@ -2419,7 +2419,7 @@ VS_03
                                           3. Halten Sie bitte im Keller die Fenster                                       Dann sollten Sie nicht so lange am
                                              geschlossen.                                                                 Computer sitzen.
                                           4. Alle Mieter müssen sich an die
-                                             Hausordnung halten.                       Haupt-
+                                             Hausordnung halten.
                                           5. Die Stadt will einen neuen Flughafen               die Hauptstadt, ¨-e       Berlin ist die Hauptstadt von
                                              bauen. Was halten Sie davon?                                                 Deutschland.
 VS_03
@@ -2491,7 +2491,7 @@ VS_03
         heißen, heißt, hieß,          1. Wie heißen Sie?                                                            an den Hersteller zurück und lassen es
         hat geheißen                  2. Wie heißt das auf Deutsch?                                                 reparieren.
                                       3. Die Erklärung verstehe ich nicht. Was
-                                         heißt das?                               herunter-, runter-
+                                         heißt das?
                                                                                        (herunter-)laden, lädt       Ich habe mir Musik aus dem Internet
         heizen, heizt, heizte,        1. Wir heizen mit Öl.                           herunter, lud herunter,       (he)runtergeladen.
         hat geheizt                   2. Ziehen Sie sich warm an. In der Halle          hat heruntergeladen
@@ -2661,7 +2661,7 @@ VS_03
         insgesamt                           Insgesamt haben sich 20 Teilnehmer                                             können inzwischen in seinem Büro
                                             für die Prüfung angemeldet.                                                    warten.
 
-        installieren, installiert,          Können Sie mir helfen, meinen               irgend-
+        installieren, installiert,          Können Sie mir helfen, meinen
         installierte, hat installiert       Computer zu installieren?                                        irgendein     Was für einen Saft möchten Sie? –
                                                                                                                            Ganz egal, irgendeinen.
         das Institut, -e                    Ich besuche einen Sprachkurs in einem
@@ -3813,7 +3813,7 @@ VS_03
 
                       normalerweise      Wann haben Sie normalerweise Pause?                            nützlich     Danke für den Tipp. Das war sehr
                                                                                                                      nützlich.
-        Not-
+
                  die Notaufnahme, -n     Die Notaufnahme ist gleich hier links.
 
                  der Notausgang, ¨-e     Der Notausgang ist gleich hier bei der
@@ -4831,7 +4831,7 @@ VS_03
                                         3. Sollten Sie mit dem Vorschlag nicht                                        sehr sparsam sein.
                                            einverstanden sein, rufen Sie mich an.                                  2. Mein Auto ist sehr sparsam. Es
                                                                                                                       verbraucht nur 5 Liter auf 100 km.
-        Sonder-
+
            das Sonderangebot, -e          Das ist ein Sonderangebot: 25 % re-         der Spaß                        1. Meine Arbeit macht mir viel Spaß.
                                           duziert.                                                                    2. Viel Spaß bei der Party!
 
@@ -5437,7 +5437,7 @@ VS_03
                                                                                  umgehen, geht um,            Er kann sehr gut mit Kindern umgehen.
         die Überstunde, -n             Ich muss heute Überstunden machen.        ging um, ist umgegangen
 
-        über-                                                                    umgekehrt                    Nein, umgekehrt: erst der Vorname,
+                                                                                 umgekehrt                    Nein, umgekehrt: erst der Vorname,
         übertreiben, übertreibt,       Ein bisschen Sport ist gesund. Aber                                    dann der Nachname.
         übertrieb, hat übertrieben     man sollte es nicht übertreiben.
                                                                                  die Umleitung, -en           Es gibt wegen des Unfalls eine
@@ -5465,24 +5465,26 @@ VS_03
                                        2. Nichts hat geholfen, es war alles        die Uniform, -en                 In der Schule, die sie besucht, trägt
                                           umsonst.                                                                  man Uniformen.
 
-        umsteigen, steigt um,                                                      die Universität, -en              Mein Sohn studiert an der Universität.
-        stieg um, ist umgestiegen        In Ulm müssen Sie umsteigen.              unten                          1. Wir wohnen im 3. Stock, meine Eltern
-                                                                                                                     unten im 1. Stock.
-        umtauschen, tauscht um,                                                                                   2. Sie ist mal kurz nach unten gegangen.
-        tauschte um,                   1. Ich möchte diese Bluse umtauschen.
-        hat umgetauscht                   Sie passt mir nicht.                     unter                          1. Unter uns wohnt eine Familie mit drei
-                                       2. Wo kann ich Geld umtauschen?                                               Kindern.
-                 der Umtausch, ¨-e                                                                                2. Die CDs sind im Regal unter dem
-                                         Ein Umtausch ist leider nicht möglich.                                      Fernseher.
-        die Umwelt
-                                         Alte Autos sind ein Problem für die       unter-                           Mein Pass ist im unteren Regal.
+                                                                                   die Universität, -en              Mein Sohn studiert an der Universität.
+
+        umsteigen, steigt um,            In Ulm müssen Sie umsteigen.              unten                          1. Wir wohnen im 3. Stock, meine Eltern
+        stieg um, ist umgestiegen                                                                                    unten im 1. Stock.
+                                                                                                                  2. Sie ist mal kurz nach unten gegangen.
+        umtauschen, tauscht um,        1. Ich möchte diese Bluse umtauschen.
+        tauschte um,                      Sie passt mir nicht.                     unter                          1. Unter uns wohnt eine Familie mit drei
+        hat umgetauscht                2. Wo kann ich Geld umtauschen?                                               Kindern.
+                                                                                                                  2. Die CDs sind im Regal unter dem
+                                                                                                                     Fernseher.
+                 der Umtausch, ¨-e       Ein Umtausch ist leider nicht möglich.
+
+        die Umwelt                       Alte Autos sind ein Problem für die       unter-                           Mein Pass ist im unteren Regal.
                                          Umwelt.
-                 der Umweltschutz                                                  unterbrechen, unterbricht, 1. Wir unterbrechen die Sendung für eine
-                                         Das Land muss mehr Geld für               unterbrach,                   wichtige Nachricht.
+                                                                                   unterbrechen, unterbricht, 1. Wir unterbrechen die Sendung für eine
+        der Umweltschutz                 Das Land muss mehr Geld für               unterbrach,                   wichtige Nachricht.
                                          Umweltschutz ausgeben.                    hat unterbrochen           2. Bitte unterbrich mich nicht, wenn ich
                                                                                                                  spreche.
-                     die Umweltver-
-                    schmutzung, -en      Die Umweltverschmutzung nimmt             (sich) unterhalten, unter-     1. Wir haben uns über das Fußballspiel
+
+       die Umweltverschmutzung, -en      Die Umweltverschmutzung nimmt             (sich) unterhalten, unter-     1. Wir haben uns über das Fußballspiel
                                          weiter zu.                                hält, unterhielt,                 unterhalten.
                                                                                    hat unterhalten                2. Ich habe mich bei der Party sehr gut
         umziehen, zieht um, zog          Familie Meier ist letzten Monat                                             unterhalten.
