@@ -2,7 +2,7 @@
 
 
 
-        2      Alphabetischer Wortschatz
+
 
         A                                                                         abschreiben, schreibt ab,     Er hat die Hausaufgaben von mir
                                                                                   schrieb ab,                   abgeschrieben.
@@ -87,7 +87,7 @@ VS_03
                                             Situation wie ich.                        das Alphabet, -e                 Wie viele Buchstaben hat das Alphabet
                                          2. Oleg sieht seinem Bruder sehr ähnlich.                                     in Ihrer Sprache?
 
-        die Ahnung                         Ich hatte keine Ahnung, dass du heute      als                            1. Als mein Mann kam, war die Party
+        die Ahnung, -en                    Ich hatte keine Ahnung, dass du heute      als                            1. Als mein Mann kam, war die Party
                                            Geburtstag hast.                                                             schon zu Ende.
                                                                                                                      2. Sie können sich sowohl persönlich als
         die Aktion, -en                    Die Stadt sollte eine Aktion für                                             auch im Internet anmelden.
@@ -105,10 +105,10 @@ VS_03
         akzeptieren, akzeptiert,           Ich kann diese Bedingungen nicht           alt                            1. Wie alt sind Sie?
         akzeptierte, hat akzeptiert        akzeptieren.                                                              2. Maria ist eine alte Freundin von mir.
 
-        der Alarm, -e                      Bei Feueralarm dürfen Sie die Aufzüge      das Alter                      1. Wir sind etwa im gleichen Alter.
+        der Alarm, -e                      Bei Feueralarm dürfen Sie die Aufzüge      das Alter, -                   1. Wir sind etwa im gleichen Alter.
                                            nicht benutzen.                                                           2. Alter: 26 Jahre
 
-        der Alkohol                      1. Du musst die Wunde mit Alkohol                   das Altenheim, -e →       Die Großeltern unserer Nachbarn sind
+        der Alkohol, -e                  1. Du musst die Wunde mit Alkohol                   das Altenheim, -e →       Die Großeltern unserer Nachbarn sind
                                             reinigen.                                                 Altersheim       im Altenheim.
                                          2. Nein, danke! Ich trinke keinen Alkohol.
                                                                                              das Altersheim, -e →      Die Großeltern unserer Nachbarn sind
@@ -277,7 +277,7 @@ VS_03
                                                                                              der Arbeiter, -        Maria ist seit zwei Jahren Arbeiterin
         anwenden, wendet an,            Diese Salbe muss man dreimal am Tag             die Arbeiterin, -nen        bei Siemens.
         wandte an, hat ange-            anwenden.
-        wandt/angewendet                                                               die Arbeitserlaubnis         Haben Sie eine Arbeitserlaubnis?
+        wandt/angewendet                                                               die Arbeitserlaubnis, -se    Haben Sie eine Arbeitserlaubnis?
 
         anwesend                        Bei dem Treffen waren alle Mitglieder                        arbeitslos     Wie lange sind Sie schon arbeitslos?
                                         anwesend.
@@ -334,7 +334,7 @@ VS_03
         der Arzt, ¨-e                  1. Ich muss heute zum Arzt.                   auf, hat aufgehalten              München.
         die Ärztin, -nen               2. Wann warst du beim Zahnarzt?                                              2. Darf ich Ihnen die Tür aufhalten?
                                                                                                                     3. Entschuldigen Sie die Verspätung, ich
-        das Asyl                         Die Menschen sind auf der Flucht und                                          wurde aufgehalten.
+        das Asyl, -e                     Die Menschen sind auf der Flucht und                                          wurde aufgehalten.
                                          bitten um Asyl.
                                                                                      aufheben, hebt auf,            1. Lassen Sie die Papiere nur auf dem
         atmen, atmet, atmete,            Er hat eine Erkältung und kann nicht        hob auf, hat aufgehoben           Boden liegen, ich hebe sie schon auf.
@@ -456,7 +456,7 @@ VS_03
         machte aus,                       Problem. Das macht mir nichts aus.       sprach aus,
         hat ausgemacht                 2. Machen Sie bitte das Licht aus!          hat ausgesprochen
                                        3. Wir hatten doch ausgemacht, dass du
-                                          die Getränke besorgst.                               die Aussprache     Ali hat eine gute Aussprache.
+                                          die Getränke besorgst.                   die Aussprache, -n             Ali hat eine gute Aussprache.
                                        4. Haben Sie einen Termin ausgemacht?
                                                                                    ausstellen, stellt aus,      1. Im Schaufenster sind Winterschuhe
         die Ausnahme, -n                 Normalerweise muss ich am                 stellte aus,                    ausgestellt.
@@ -525,7 +525,7 @@ VS_03
         backte, hat gebacken              Kuchen.
                                                                                   bar                               Zahlen Sie bar?
                   die Bäckerei, -en       Wir kaufen unser Brot immer in der
-                                          Bäckerei am Markt.                                        das Bargeld     Ich habe kein Bargeld mehr.
+                                          Bäckerei am Markt.                                   das Bargeld, -er     Ich habe kein Bargeld mehr.
 
 
         baden, badet, badete, hat  1. Wenn du baden möchtest: Das                 der Bart, ¨-e                     John trägt jetzt einen Bart.
@@ -651,9 +651,9 @@ VS_03
                                         erhöht.                                             der Bekannte, -n     In Hannover wohnen Bekannte von
                                                                                             die Bekannte, -n     mir.
         begrüßen, begrüßt,              Der Gastgeber begrüßt seine Gäste.
-        begrüßte, hat begrüßt                                                          bekannt geben, gibt       Den Prüfungsort geben wir Ihnen noch
+        begrüßte, hat begrüßt                                                     bekannt geben, gibt            Den Prüfungsort geben wir Ihnen noch
                                                                                   bekannt, gab bekannt, hat      rechtzeitig bekannt.
-        behalten, behält, behielt,      Darf ich die Zeitschrift behalten?                bekannt gegeben
+        behalten, behält, behielt,      Darf ich die Zeitschrift behalten?        bekannt gegeben
         hat behalten
                                                                                   bekommen, bekommt,           1. Haben Sie meinen Brief bekommen?
         behandeln, behandelt,         1. Welcher Arzt hat Sie bis jetzt           bekam, hat bekommen          2. Ich bekomme jeden Tag eine Spritze.
@@ -698,12 +698,12 @@ VS_03
         benutzen, benutzt,                Benutzen Sie bitte die öffentlichen        beschädigte,                      die Einbrecher beschädigt haben.
         benutzte, hat benutzt             Verkehrsmittel.                            hat beschädigt
 
-        das Benzin                        Das Benzin soll wieder teurer werden.      beschäftigen, beschäftigt,  1. Womit haben Sie sich bei Ihrer Arbeit
+        das Benzin, -e                    Das Benzin soll wieder teurer werden.      beschäftigen, beschäftigt,  1. Womit haben Sie sich bei Ihrer Arbeit
                                                                                      beschäftigte,                  beschäftigt?
         beobachten, beobachtet,           Wer hat den Unfall beobachtet?             hat beschäftigt             2. Seit wann sind Sie bei dieser Firma
         beobachtete,                                                                                                beschäftigt?
         hat beobachtet
-                                                                                               die Beschäftigung       Ich suche eine Halbtagsbeschäftigung,
+                                                                                          die Beschäftigung, -en       Ich suche eine Halbtagsbeschäftigung,
         bequem                         1. Meine Kinder ziehen am liebsten                                              weil ich ein kleines Kind habe.
                                           bequeme Sachen an.
                                        2. Im Supermarkt einkaufen ist sehr           der Bescheid, -e                  Den endgültigen Bescheid erhalten Sie
@@ -713,7 +713,7 @@ VS_03
         beraten, berät, beriet,           Unser Personal berät Sie gern, wenn                                          und sage Ihnen dann Bescheid.
         hat beraten                       Sie Fragen haben.
                                                                                                  Bescheid geben        Kannst du mir bis morgen Bescheid
-                        die Beratung      Beratungen für Familien gibt es jeden                                        geben?
+                   die Beratung, -en      Beratungen für Familien gibt es jeden                                        geben?
                                           Dienstag zwischen 14 und 16 Uhr.
                                                                                      beschließen, beschließt,          Wir haben beschlossen, uns ein
         berechnen, berechnet,             Die Kosten für die Fahrt müssen erst       beschloss,                        kleineres Auto zu kaufen.
@@ -775,14 +775,14 @@ VS_03
               die Besprechung, -en      Tut mir leid, Herr Schmidt ist noch in                                2. Die Rechnung stimmt nicht. Der Kellner
                                         einer Besprechung.                                                       hat mich betrogen.
 
-        die Besserung                   Gute Besserung!                           betrunken                        Wenn Sie betrunken Auto fahren,
+        die Besserung, -en              Gute Besserung!                           betrunken                        Wenn Sie betrunken Auto fahren,
                                                                                                                    verlieren Sie Ihren Führerschein.
         bestätigen, bestätigt,        1. Die Firma hat mir den Termin
         bestätigte,                      schriftlich bestätigt.                   das Bett, -en                  1. Wir wollten uns neue Betten kaufen.
         hat bestätigt                 2. Ich kann bestätigen, dass er hier war.                                  2. Solange Sie Fieber haben, müssen Sie
                                                                                                                     im Bett bleiben.
                die Bestätigung, -en     Ich brauche eine schriftliche
-                                        Bestätigung für das Amt.                  die Bevölkerung                  11 % der Bevölkerung wurden nicht im
+                                        Bestätigung für das Amt.                  die Bevölkerung, -en             11 % der Bevölkerung wurden nicht im
                                                                                                                    Inland geboren.
         bestehen, besteht,            1. Das Modul Lesen besteht aus fünf
         bestand, hat bestanden           Teilen.                                  bevor                            Bevor wir gehen, möchte ich noch
@@ -831,7 +831,7 @@ VS_03
         die Bibliothek, -en               Die Stadtbibliothek hat bereits
                                           geschlossen.                               blass                               Du siehst ganz blass aus. Bist du
                                                                                                                          krank?
-        das Bier                          Ein Bier, bitte!
+        das Bier, -e                       Ein Bier, bitte!
                                                                                      das Blatt, ¨-er                   1. Die Bäume bekommen schon gelbe
         bieten, bietet, bot,            1. Er hat mir für den alten Wagen noch                                            Blätter.
         hat geboten                        800 Euro geboten.                                                           2. Haben Sie ein Blatt Papier für mich?
@@ -941,7 +941,7 @@ VS_03
                                                                                       der Bruder, ¨-                   Mein jüngster Bruder geht noch zur
         die Breite, -n                     Welche Maße hat der Tisch? –                                                Schule.
                                            Länge: 1 m, Breite: 80 cm, Höhe: 1,20 m.
-                                                                                      die Brust                        Ich habe Schmerzen in der Brust.
+                                                                                      die Brust, , ¨-e                 Ich habe Schmerzen in der Brust.
         bremsen, bremst,                   Der Mann ist ganz plötzlich über die
         bremste, hat gebremst              Straße gegangen. Ich musste stark          der Bub, -en (A, CH) → D:        In der Schulklasse sind 15 Buben und
                                            bremsen.                                   Junge                            10 Mädchen.
@@ -1120,7 +1120,7 @@ VS_03
                                                                                             die Diskussion, -en     Im Fernsehen gab es eine Diskussion
         deutlich                       Schreiben Sie bitte deutlich!                                                zum Thema „Kinderbetreuung“.
 
-        die Diät                       Ich möchte abnehmen. Deshalb mache         die Distanz, -en                  Diese Firma transportiert Waren auch
+        die Diät, -en                  Ich möchte abnehmen. Deshalb mache         die Distanz, -en                  Diese Firma transportiert Waren auch
                                        ich eine Diät.                                                               über große Distanzen.
 
         der Dialekt, -e                Ich verstehe dich besser, wenn du          doch                            1. Isst du kein Fleisch? – Doch, manchmal
@@ -1146,7 +1146,7 @@ VS_03
                                      3. Er hat der Firma viele Jahre lang                                         2. Der Lkw donnert über die Landstraße.
                                         gedient.
                                                                                                  der Donner, -      Der Donner kam erst lange nach dem
-        der Dienst                   1. Als Krankenschwester habe ich oft                                           Blitz.
+        der Dienst, -e               1. Als Krankenschwester habe ich oft                                           Blitz.
                                         Frühdienst.
                                      2. Morgen habe ich Dienst. Deshalb kann      doppelt                           Das Buch habe ich doppelt.
                                         ich nicht kommen.
@@ -1226,7 +1226,7 @@ VS_03
                                       2. Die neuen Schuhe drücken.                                                   du trinken?
                                       3. Wenn du hier drückst, geht die Tür auf.
                                                                                     (sich) duschen, duscht,        1. Wenn Sie sich duschen wollen: Das
-                           der Druck   1. Mit einem Knopfdruck schaltet man         duschte, hat geduscht             Badezimmer ist dort hinten links.
+                     der Druck, ¨-e    1. Mit einem Knopfdruck schaltet man         duschte, hat geduscht             Badezimmer ist dort hinten links.
                                           das Gerät ein.                                                           2. Ich bade nicht so gern, ich dusche
                                        2. Wie hoch muss der Druck in den                                              lieber.
                                           vorderen Reifen sein?
@@ -1268,7 +1268,7 @@ VS_03
                                            Perserteppich.                                                             2. Das hat keine Eile.
                                         2. Der Film war echt gut.
                                                                                                                eilig     Hast du es eilig?
-        die EC-Karte →                    Bezahlen Sie bar? Sie können auch mit
+        die EC-Karte, -n →                Bezahlen Sie bar? Sie können auch mit
         A: Bankomat-Karte                 der EC-Karte zahlen.                       ein-                              1. Ich nehme ein Bier. Willst du auch
                                                                                                                           eins?
         die Ecke, -n (D, CH) → A:       1. Das Regal stellen wir hier in die Ecke.                                     2. Wir haben zu wenig Mitspieler. Wir
@@ -1384,7 +1384,7 @@ VS_03
         einmal                         1. Ich habe diese Oper leider nur einmal     eintreten, tritt ein, trat      Letztes Jahr bin ich in einen
                                           gesehen.                                  ein, ist eingetreten            Sportverein eingetreten.
                                        2. Bitte rufen Sie morgen noch einmal an.
-                                       3. Auf einmal ging das Licht aus.                          der Eintritt    1. Kinder über 10 Jahre zahlen den
+                                       3. Auf einmal ging das Licht aus.                      der Eintritt, -e    1. Kinder über 10 Jahre zahlen den
                                        4. Ich kann nicht alles auf einmal machen.                                    vollen Eintritt.
                                        5. Sehen wir uns (ein)mal wieder?                                          2. Der Eintritt ist frei.
                                        6. Vor Jahren habe ich (ein)mal in Wien
@@ -1409,7 +1409,7 @@ VS_03
         einzahlen, zahlt ein,               Ich habe gestern Geld auf mein            enden, endet, endete,           1. Die Straße endet hier.
         zahlte ein, hat eingezahlt          Bankkonto eingezahlt.                     hat geendet                     2. Das Arbeitsverhältnis endet im Mai.
 
-                  die Einzahlung, -en       Sie sollten die Einzahlung pünktlich                       das Ende    1. Ich wohne am Ende der Straße.
+                  die Einzahlung, -en       Sie sollten die Einzahlung pünktlich                   das Ende, -n    1. Ich wohne am Ende der Straße.
                                             machen.                                                                2. Die nächste Prüfung findet Ende
                                                                                                                       August statt.
         einzeln                           1. Dieses Mineralwasser gibt es nur als                                  3. Rinaldo ist Ende fünfzig.
@@ -1539,7 +1539,7 @@ VS_03
                die Entwicklung, -en      Genug Schlaf ist wichtig für die
                                          Entwicklung Ihres Kindes.                  erhalten, erhält, erhielt,        Ihr Schreiben vom 3. Januar haben wir
                                                                                     hat erhalten                      erhalten.
-        die Erde                       1. Die Pflanzen brauchen neue Erde.
+        die Erde, -n                   1. Die Pflanzen brauchen neue Erde.
                                        2. Mein Sohn hat das Glas auf die Erde       erhöhen, erhöht, erhöhte,  1. Die Regierung wird sicher bald wieder
                                           fallen lassen.                            hat erhöht                    die Steuern erhöhen.
 VS_03
@@ -1613,7 +1613,7 @@ VS_03
         erlaubte, hat erlaubt              lange fernzusehen.                                                         ersetzen.
                                         2. Parken ist hier nicht erlaubt.
                                                                                                         der Ersatz     Sie bekommen von unserer Firma
-                      die Erlaubnis       Sie hätten ihn vorher um Erlaubnis bit-                                      einen Ersatz für das kaputte Gerät.
+                 die Erlaubnis, -se       Sie hätten ihn vorher um Erlaubnis bit-                                      einen Ersatz für das kaputte Gerät.
                                           ten müssen.
                                                                                      erst                            1. Sofia ist erst 20 Jahre alt.
         erleben, erlebt, erlebte,         In unserem Urlaub haben wir viel                                           2. Ich habe das erst gestern erfahren.
@@ -1676,8 +1676,8 @@ VS_03
                                        4. Wer ist da? – Ich bin’s.                                                    2. Welches Fach magst du in der Schule
                                        5. Mir geht es gut.                                                               am liebsten?
                                        6. Ich finde es sehr nett von Ihnen, dass
-                                          Sie mich abholen.                                         der Fachmann        Meine Schwester ist Computerfachfrau.
-                                       7. Es macht Spaß, zusammen ein Picknick                   die Fachfrau, -en
+                                          Sie mich abholen.                          der Fachmann, Fachleute die Fachfrau, -en     Meine Schwester ist Computerfachfrau.
+                                       7. Es macht Spaß, zusammen ein Picknick
                                           zu machen.
                                                                                               die Fachleute (Pl.)       Die suchen Fachleute für dieses
         essen, isst, aß,               1. Haben Sie schon zu Mittag gegessen?                                           Computerprogramm.
@@ -1687,7 +1687,7 @@ VS_03
                            das Essen, -    1. Darf ich Sie zum Essen einladen?                                        2. Ich glaube, sie hat die Fähigkeit dazu.
                                            2. Das Essen ist kalt geworden.
                                                                                      fahren, fährt, fuhr, ist/hat    1. Wir sind mit dem Zug gefahren.
-        der Essig                         Am Salat fehlt noch etwas Essig.           gefahren                        2. Fahr nicht so schnell.
+        der Essig, -e                     Am Salat fehlt noch etwas Essig.           gefahren                        2. Fahr nicht so schnell.
                                                                                                                      3. Frau Koch fährt einen Mercedes.
         die Etage, -n (D, CH) →           Das Büro ist in der 3. Etage,                                              4. Soll ich dich nach Hause fahren?
         Stock                             Zimmer 305.                                                                5. Er hat das Auto in die Garage gefahren.
@@ -1984,10 +1984,11 @@ VS_03
                                                                                                                      5. Für einen Anfänger spielt er schon
         die Frucht, ¨-e                     Welche Früchte kann man essen?                                              sehr gut Klavier.
                                                                                                                      6. Du kannst nicht einkaufen gehen? Ich
-        Früchte (CH) → D, A: Obst           Früchte kaufe ich am liebsten auf dem                                       kann es für dich machen.
+        die Früchte (CH) → D, A: Obst       Früchte kaufe ich am liebsten auf dem                                       kann es für dich machen.
                                             Markt.                                                                   7. Für mich ist das ein schwerer Fehler.
-        früh                             1. Hier ist schon am frühen Morgen                                          8. Wir haben die Wohnung für ein Jahr
-                                            starker Verkehr.                                                            gemietet.
+                                                                                                                     8. Wir haben die Wohnung für ein Jahr
+        früh                             1. Hier ist schon am frühen Morgen                                             gemietet.
+                                            starker Verkehr.
                                          2. Mein Vater arbeitet von früh bis spät.
                                          3. Ich bin heute sehr früh aufgestanden.
 VS_03
@@ -2226,7 +2227,7 @@ VS_03
                                          gewinnt.                                                                     man Durst.
 
         das Gespräch, -e               1. Herr Müller ist gerade in einem          gießen, gießt, goss,               Es hat nicht geregnet. Ich muss meine
-                                          Gespräch.                                gegossen                           Blumen gießen.
+                                          Gespräch.                                hat gegossen                       Blumen gießen.
                                        2. Ich erwarte ein Gespräch aus Berlin.
                                                                                    das Gift, -e                       Vorsicht, das Gift dieser Pflanze ist für
         gestern                          Ich bin erst gestern zurückgekommen.                                         Menschen gefährlich!
@@ -2235,7 +2236,7 @@ VS_03
                                           gesund.
                                        2. Zu viel Zucker ist nicht gesund.         die Gitarre, -n                    Ich spiele seit drei Jahren Gitarre.
 
-                 die Gesundheit    1. Sie müssen mehr auf Ihre Gesundheit          die/das Glace/Glacé, -n            Zum Dessert gibt es Schokoladenglace.
+                 die Gesundheit    1. Sie müssen mehr auf Ihre Gesundheit          die Glace, -n                       Zum Dessert gibt es Schokoladenglace.
                                       achten.                                      (CH) → D, A: Eis
                                    2. Gesundheit! Sind Sie erkältet?               das Glas, ¨-er                   1. Vorsicht, die Kanne ist aus Glas!
                                                                                                                     2. Eine Flasche Mineralwasser und zwei
@@ -2450,8 +2451,8 @@ VS_03
                die Hausaufgabe, -n      Kannst du mir bei den Hausaufgaben                                        2. Die Tabletten haben mir gut geholfen.
                                         helfen?
                                                                                                      die Hilfe     1. Vielen Dank für Ihre Hilfe.
-           die Hausfrau/der Haus-       Meine Frau ist Hausfrau und kümmert                                        2. Haben Sie einen Kurs für Erste Hilfe
-                            mann        sich um die Kinder./Mein Mann ist                                             gemacht? Das müssen Sie, wenn Sie
+        der Hausmann, ¨-er              Meine Frau ist Hausfrau und kümmert                                        2. Haben Sie einen Kurs für Erste Hilfe
+        die Hausfrau, -en                sich um die Kinder./Mein Mann ist                                             gemacht? Das müssen Sie, wenn Sie
                                         Hausmann und kümmert sich um die                                              den Führerschein machen wollen.
                                         Kinder.                                                                    3. Hilfe! Jemand hat mir die Handtasche
                                                                                                                       gestohlen. Bitte helfen Sie mir!
@@ -3057,8 +3058,8 @@ VS_03
         das Kraftfahrzeug, -e             Auf dieser Straße sind Kraftfahrzeuge      hat gekriegt                      2. Was kriegen Sie? – Ein Schwarzbrot,
                                           nicht erlaubt.                                                                  bitte.
 
-        das Kraftwerk, -e                 Die Menschen protestieren gegen das        Kriminal-                           Ein Nachbar von uns arbeitet bei der
-                                          Kraftwerk.                                 die Kriminalpolizei                 Kriminalpolizei.
+        das Kraftwerk, -e                 Die Menschen protestieren gegen das       die Kriminalpolizei                  Ein Nachbar von uns arbeitet bei der
+                                          Kraftwerk.                                                                     Kriminalpolizei.
 
         krank                           1. Ich war zwei Wochen krank.                der Krimi, -s                       Heute Abend kommt ein spannender
                                         2. Ich muss mich um meine kranke                                                 Krimi im Fernsehen.
@@ -3138,7 +3139,8 @@ VS_03
                                                                                      die Lage                        Wir suchen eine Wohnung an/in
         künstlich                        Ich mag kein künstliches Licht.                                             zentraler Lage.
 
-                 der Kunststoff, -e      Der Stuhl ist aus Kunststoff.               das Lager, -                  1. Ich weiß nicht, ob wir diesen Schuh in
+                 der Kunststoff, -e      Der Stuhl ist aus Kunststoff.
+                                                                                     das Lager, -                  1. Ich weiß nicht, ob wir diesen Schuh in
         der Kurs, -e                     Ich besuche regelmäßig einen                                                 Ihrer Größe haben. Ich sehe mal im
                                          Deutschkurs.                                                                 Lager nach.
                                                                                                                    2. Unsere Kinder fahren im Sommer ins
@@ -3501,7 +3503,7 @@ VS_03
                                          Versicherung melden.                      der Migrant, -en                 Viele Migranten kommen aus
                                       3. Warum hast du dich so lange nicht         die Migrantin, -nen              Osteuropa.
                                          gemeldet? Warst du krank?
-                                                                                   die Migration                    Gestern gab es im Fernsehen eine
+                                                                                   die Migration, -en               Gestern gab es im Fernsehen eine
                   die Meldung, -en      Hast du die Meldung im Radio gehört?                                        Diskussion zum Thema Migration.
                                         Es wird starken Sturm geben.
                                                                                    die Milch                        Stellst du bitte die Milch in den
@@ -3564,7 +3566,7 @@ VS_03
         das Mitglied, -er                  Für Mitglieder ist der Eintritt zum                                     3. Ich möchte gern Herrn Schmidt
                                            Konzert gratis.                                                            sprechen.
                                                                                                                    4. Herr Müller, Sie möchten bitte sofort
-        die Mitte                        1. Wo möchten Sie sitzen? – In der Mitte.                                    zum Chef kommen.
+        die Mitte, -n                    1. Wo möchten Sie sitzen? – In der Mitte.                                    zum Chef kommen.
                                          2. Bis Mitte der Woche bin ich fertig.
                                          3. Ich habe Urlaub bis Mitte August.        möglich                         Kann ich bitte sofort einen Termin
                                          4. Den Schrank stellen wir ans Fenster,                                     haben? – Das ist leider nicht möglich.
@@ -3858,7 +3860,7 @@ VS_03
                              Kellner;
              CH: Serviceangestellter                                               ohne                          1. Bitte eine Pizza ohne Zwiebeln.
                                                                                                                  2. Ohne Auto ist es schwer, zur Arbeit zu
-        das/der (Schlag-)Obers (A)        Ich hätte gern ein Stück Torte mit                                        kommen.
+        das Schlagobers (A)               Ich hätte gern ein Stück Torte mit                                        kommen.
         → D: (Schlag-)Sahne; CH:          (Schlag-)Obers.                                                        3. Mein Sohn ist einfach mit dem Auto
         (Schlag-)Rahm                                                                                               weggefahren, ohne mich zu fragen.
                                                                                                                  4. In diesem Haus kann man nichts
@@ -3874,7 +3876,7 @@ VS_03
                                         2. Entweder wir fahren mit dem Bus oder                                    Anbau
                                            wir gehen zu Fuß.
                                                                                    das Öl, -e                    1. Es fehlt Öl am Salat.
-        der (Back-)Ofen, ¨- (D, CH)       Ich habe gerade eine Pizza gemacht.                                    2. Wir heizen mit Öl.
+        der Ofen, ¨- (D, CH)              Ich habe gerade eine Pizza gemacht.                                    2. Wir heizen mit Öl.
         → A: (Back-)Rohr                  Sie ist ganz frisch aus dem Ofen.                                      3. Können Sie bei meinem Auto bitte das
                                                                                                                     Öl kontrollieren?
         offen                           1. Komm rein. Die Haustür ist offen. (A)
@@ -4016,15 +4018,15 @@ VS_03
                                                                                   die Pflicht, -en                  Als Autofahrer müssen Sie eine
         in Pension gehen/sein (D,     1. Ich gehe Ende des Jahres in Pension.                                       Versicherung haben. Das ist Pflicht.
                    A) → D: in Rente   2. Mein Nachbar ist seit zehn Jahren in
-           gehen/sein; D, CH: pen-       Pension.                                 die Phantasie/Fantasie, -n        Mein Sohn malt sehr gut. Er hat viel
-              sioniert werden/sein                                                                                  Phantasie.
+           gehen/sein; D, CH: pen-       Pension.                                 die Fantasie, -n                  Mein Sohn malt sehr gut. Er hat viel
+              sioniert werden/sein                                                                                  Fantasie.
 
         pensioniert werden/sein     1. Ich werde Ende des Jahres pensioniert.     das Picknick, -s                  Am Sonntag machen wir ein Picknick.
         (D, CH) → D, A: in Pension  2. Mein Nachbar ist seit zehn Jahren pen-     die Pille, -n                     Der Arzt hat mir neue Pillen
-           gehen/sein; D: in Rente     sioniert.                                                                     verschrieben.
-                       gehen/sein
+        gehen/sein; D: in Rente        sioniert.                                                                     verschrieben.
+        gehen/sein
                                                                                   der Pilz, -e →                    Haben Sie frische Pilze?
-          der Pensionist, -en / die      Meine Großmutter arbeitet nicht mehr.    A: Schwammerl
+        der Pensionist, -en / die        Meine Großmutter arbeitet nicht mehr.    A: Schwammerl
         Pensionistin, -nen (A) → D,      Sie ist Pensionistin.
                        CH: Rentner                                                die Pizza, -s/Pizzen              Lass uns eine Pizza bestellen!
 
@@ -4119,7 +4121,7 @@ VS_03
                                                                                                                    2. Der Arzt sagt, ich soll keine fertigen
                 der Praktikant, -en        Bei dieser Firma habe ich zwei Jahre                                       Produkte essen.
              die Praktikantin, -nen        als Praktikantin gearbeitet.
-                                                                                                   die Produktion     Die Produktion von Käse dauert oft
+                                                                                              die Produktion, -en     Die Produktion von Käse dauert oft
         praktisch                        1. Ich finde diese Küchenmaschine sehr                                       viele Wochen.
                                             praktisch.
                                          2. Ich habe letzte Woche den                 der Professor, -en              Unsere Nachbarin ist Professorin an
@@ -4174,7 +4176,7 @@ VS_03
                                            bestanden.                                                                    kaufen.
                                                                                                                       2. Ich höre gern Radio.
         das Publikum                       Es war ein tolles Konzert. Das
-                                           Publikum war begeistert.                  der (Schlag-)Rahm (CH) →           Ich hätte gern ein Stück Torte mit
+                                           Publikum war begeistert.                  der Schlagrahm (CH) →           Ich hätte gern ein Stück Torte mit
                                                                                      D: (Schlag-)Sahne,                 (Schlag-)Rahm.
         der Pullover, -                    Ich habe mir einen Pullover gekauft.      A: (Schlag-)Obers
 
@@ -4249,11 +4251,11 @@ VS_03
                                                                                        regeln, regelt, regelte,           Die Ampel ist kaputt. Ein Polizist regelt
         rechnen, rechnet,                1. Meine Tochter kann gut rechnen.            hat geregelt                       den Verkehr.
         rechnete, hat gerechnet          2. Im/In Rechnen hat sie eine Eins.
-                                         3. Mit solchen Schwierigkeiten hatten wir     regnen, es regnet,                 Es hat gestern den ganzen Tag
-                                            nicht gerechnet.                           es regnete,                        geregnet.
-                                                                                       es hat geregnet
+                                         3. Mit solchen Schwierigkeiten hatten wir     regnen, regnet,                    Es hat gestern den ganzen Tag
+                                            nicht gerechnet.                           regnete,                           geregnet.
+                                                                                       hat geregnet
                       der Rechner, -        Mein Rechner ist kaputt.
-                                                                                                          der Regen       Bei Regen fällt das Konzert aus.
+                                                                                                       der Regen, -       Bei Regen fällt das Konzert aus.
               die Rechnung, -en     1. Bitte, die Rechnung!
                                     2. Brauchen Sie für diese Reparatur eine           die Region, -en                  1. In der Rhein-Main-Region sind die
                                        Rechnung?                                                                           Mieten sehr hoch.
@@ -4306,7 +4308,7 @@ VS_03
                                       2. Kannst du bitte die Bluse in die          der Respekt                      1. Ich habe großen Respekt vor meinem
                                          Reinigung bringen?                                                            Lehrer.
                                                                                                                     2. Du solltest ihr mehr Respekt entgegen-
-        der Reis                         Eine Portion Huhn mit Reis, bitte.                                            bringen.
+        der Reis, -e                     Eine Portion Huhn mit Reis, bitte.                                            bringen.
                                                                                                                     3. Ich habe bei der Prüfung alle Punkte
         reisen, reist, reiste,           Ich reise gern nach Spanien.                                                  erreicht! – Respekt!
         ist gereist
@@ -4372,7 +4374,7 @@ VS_03
         roh                                Du kannst das nicht essen. Das Fleisch     die Rundfahrt, -en               Am zweiten Tag haben wir eine
                                            ist noch roh.                                                               Rundfahrt durch den Hafen gemacht.
 
-        das (Back-)Rohr, -e (A) →          Ich habe gerade eine Pizza gemacht.
+        das Backrohr, -e (A) →             Ich habe gerade eine Pizza gemacht.
         D, CH: (Back-)Ofen                 Sie ist ganz frisch aus dem Rohr.
 
         die Rolle, -n                    1. Die Schauspielerin hat ihre Rolle sehr
@@ -4400,7 +4402,7 @@ VS_03
         die Rücksicht, -en                 Nehmen Sie bitte Rücksicht auf die                                        3. Wie sagt man „sorry“ auf Deutsch?
                                            anderen Gäste.                                                            4. Sag mal, wie geht’s dir denn?
 
-        das Rüebli, - (CH) →               Hasen fressen gern Rüebli.                 die (Schlag-)Sahne (D) →         Ich hätte gern ein Stück Torte mit
+        das Rüebli, - (CH) →               Hasen fressen gern Rüebli.                 die Schlagsahne (D) →            Ich hätte gern ein Stück Torte mit
         Karotte; D: Möhre                                                             A: (Schlag-)Obers; CH:           Sahne.
                                                                                       (Schlag-)Rahm
         rufen, ruft, rief,               1. Ich habe die Kinder gerufen, aber sie
@@ -4425,7 +4427,7 @@ VS_03
                                             40 Kilometer.                             sämtliche                        Sämtliche Fenster müssen geschlossen
                                                                                                                        bleiben.
 
-                                                                                      der Sand                         Die Kinder spielen gern im Sand.
+                                                                                      der Sand, -e                     Die Kinder spielen gern im Sand.
 VS_03
 
 
@@ -4529,7 +4531,7 @@ VS_03
                                                                                                                   2. Wir haben am Wochenende ein Schloss
                        der Schlaf     1. Das Kind macht jeden Tag nach dem                                           besichtigt.
                                          Mittagessen einen kurzen Schlaf.
-                                      2. Genügend Schlaf ist wichtig für die        der Schluss                   1. Ich muss jetzt Schluss machen. Es
+                                      2. Genügend Schlaf ist wichtig für die        der Schluss, ¨-e              1. Ich muss jetzt Schluss machen. Es
                                          Gesundheit.                                                                 klingelt an der Tür.
                                                                                                                   2. Zum Schluss nochmals herzlichen
         schlagen, schlägt, schlug,    1. Wer hat den Weltmeister geschlagen?                                         Dank.
@@ -4537,7 +4539,7 @@ VS_03
                                          schlagen. Wo ist der Hammer?               der Schlüssel, -                 Ich kann meine Schlüssel nicht finden.
                                       3. Das Herz schlug mir bis zum Hals.
                                                                                     schmal                           Hier kannst du nicht parken. Die
-        der/das (Schlag-)Obers (A)      Ich hätte gern ein Stück Torte mit                                           Straße ist zu schmal.
+        das Schlagobers (A)             Ich hätte gern ein Stück Torte mit                                           Straße ist zu schmal.
         → D: (Schlag-)Sahne; CH:        Schlagobers.
         (Schlag-)Rahm                                                               schmecken, schmeckt,          1. Hat es Ihnen geschmeckt?
                                                                                     schmeckte,                    2. Die Suppe schmeckt nach Knoblauch.
@@ -4552,7 +4554,7 @@ VS_03
                                          krank?                                     schminken, schminkt,             Du bist heute sehr schön geschminkt.
                                       3. Es geht mir schlecht. Ich habe Fieber.     schminkte, hat geschminkt
                                       4. Ich habe zu viel gegessen. Jetzt ist mir
-                                         schlecht.                                  der Schmuck                      Dieser Schmuck ist von meiner
+                                         schlecht.                                  der Schmuck, -e                  Dieser Schmuck ist von meiner
                                       5. Hier ist schlechte Luft. Mach bitte das                                     Großmutter.
                                          Fenster auf.
                                       6. Stell die Milch in den Kühlschrank.        der Schmutz                      Du hast Schmutz an deinen Schuhen.
@@ -4568,8 +4570,8 @@ VS_03
         schloss, hat geschlossen      2. Die Tür schließt automatisch.
                                       3. Die Banken sind am Samstag                 der Schnee                       Im Februar gibt es oft viel Schnee.
                                          geschlossen.
-                                      4. Wir schließen um 20.00 Uhr.                schneien, es schneit, es         Heute Nacht hat es geschneit.
-                                      5. Wann können wir den Mietvertrag            schneite, es hat geschneit
+                                      4. Wir schließen um 20.00 Uhr.                schneien, schneit,               Heute Nacht hat es geschneit.
+                                      5. Wann können wir den Mietvertrag            schneite, hat geschneit
                                          abschließen?
                                       6. Ich hatte die Papiere in den               (sich) schneiden,             1. Das Messer schneidet nicht.
                                          Schreibtisch eingeschlossen.               schneidet, schnitt,           2. Hast du ein Pflaster? Ich habe mich
@@ -4631,7 +4633,7 @@ VS_03
         der Schrank, ¨-e (D, CH) →       Die Handtücher liegen im Schrank.                                          3. Die Schule ist gleich hier um die Ecke.
         A, CH: Kasten
                                                                                     die Schularbeit, -en (A) →        Mein Sohn schreibt bei Schularbeiten
-        der Schreck(en)                  Ich habe einen großen Schreck              D: Klassenarbeit                  immer gute Noten.
+        der Schreck, -e                  Ich habe einen großen Schreck              D: Klassenarbeit                  immer gute Noten.
                                          bekommen.
                                                                                                   der Schüler, -      In der Klasse sind 25 Schülerinnen.
                        schrecklich     1. Heute ist eine schreckliche Hitze.                die Schülerin, -nen
@@ -4756,7 +4758,7 @@ VS_03
                                       2. Ich höre im Radio am liebsten Sender       sinken, sinkt, sank,               1. Das Schiff ist vor der Küste gesunken.
                                          mit moderner Musik.                        ist gesunken                       2. Der Preis ist um 3 % gesunken.
 
-                die Sendung, -en     1. Wir wiederholen die Sendung am              der Sinn                             Es hat keinen Sinn, noch ein Spiel zu
+                die Sendung, -en     1. Wir wiederholen die Sendung am              der Sinn, -e                         Es hat keinen Sinn, noch ein Spiel zu
                                         11. Mai.                                                                         beginnen. Es ist schon spät.
                                      2. Ich warte auf eine Postsendung.
                                                                                                             sinnlos      So ein sinnloses Buch habe ich schon
@@ -4767,7 +4769,7 @@ VS_03
         die Serie, -n                     Meine Tochter liebt es, im Fernsehen
                                           Serien zu schauen.                        die Situation, -en                   Ich bin in einer schwierigen Situation.
 
-        der Service                     1. Rufst du beim Pizza-Service an?          sitzen, sitzt, saß, hat/ist        1. Wo möchten Sie sitzen? – Bitte ganz
+        der Service, -                  1. Rufst du beim Pizza-Service an?          sitzen, sitzt, saß, hat/ist        1. Wo möchten Sie sitzen? – Bitte ganz
                                         2. Ich war mit dem Service in der Werk-     gesessen                              hinten.
                                            statt nicht zufrieden.                                                      2. Die Jacke sitzt sehr gut.
 
@@ -4842,13 +4844,13 @@ VS_03
                                            einverstanden sein, rufen Sie mich an.                                  2. Mein Auto ist sehr sparsam. Es
                                                                                                                       verbraucht nur 5 Liter auf 100 km.
 
-           das Sonderangebot, -e          Das ist ein Sonderangebot: 25 % re-         der Spaß                        1. Meine Arbeit macht mir viel Spaß.
+           das Sonderangebot, -e          Das ist ein Sonderangebot: 25 % re-         der Spaß, ¨-e                   1. Meine Arbeit macht mir viel Spaß.
                                           duziert.                                                                    2. Viel Spaß bei der Party!
 
         sondern                           Unser Besuch kommt nicht heute,             spät                            1. Wie spät ist es?
                                           sondern morgen.                                                             2. Es ist schon spät, ich muss gehen.
                                                                                                                       3. Ich muss mich beeilen. Sonst komme
-        die Sonne                       1. Das Wetter ist schön. Die Sonne                                               ich zu spät.
+        die Sonne, -n                   1. Das Wetter ist schön. Die Sonne                                               ich zu spät.
                                            scheint.                                                                   4. Sonntags stehen wir immer spät auf.
                                         2. Ich habe zu lange in der Sonne                                             5. Am späten Nachmittag ist der Verkehr
                                            gelegen.                                                                      besonders stark.
@@ -4922,7 +4924,7 @@ VS_03
                                                                                               der Stadtplan, ¨-e     Haben Sie einen Stadtplan?
         spitz                              Der Bleistift ist nicht spitz.
                                                                                     stammen, stammt,                 Ich stamme aus einer kleinen Stadt an
-        der Sport                        1. Für Sport interessiere ich mich sehr.   stammte, hat gestammt            der Donau.
+        der Sport, -e                    1. Für Sport interessiere ich mich sehr.   stammte, hat gestammt            der Donau.
                                          2. Ich mache viel Sport.
                                                                                     ständig                          Ich habe schon ein paar Mal bei
                      die Sportart, -en     Welche Sportart findest du am besten?                                     meiner Freundin angerufen. Es ist
@@ -4980,7 +4982,7 @@ VS_03
                                               5 km Stau.                                                                   6. Ich habe den Wecker auf 5 Uhr
                                            2. Wir standen eine Stunde im Stau.                                                gestellt.
 
-        der Staub                            Ich habe überall Staub gewischt.           der Stempel, -                       Der Poststempel trägt das Datum von
+        der Staub, -e                       Ich habe überall Staub gewischt.            der Stempel, -                       Der Poststempel trägt das Datum von
                                                                                                                              letzter Woche. Das Paket war lange un-
         staubsaugen, staubsaugt,            Ich muss heute in meiner Wohnung                                                 terwegs.
         staubsaugte,                        noch staubsaugen.
@@ -5043,7 +5045,7 @@ VS_03
                                           war sehr gut.                              (sich) streiten, streitet,          Die Kinder streiten sich oft.
                                                                                      stritt, hat gestritten
         stinken, stinkt, stank,           Was stinkt denn hier so? – Das ist der
-        hat gestunken                     Fisch. Er ist nicht mehr frisch.                               der Streit      Ich möchte keinen Streit mit den
+        hat gestunken                     Fisch. Er ist nicht mehr frisch.                           der Streit, -e      Ich möchte keinen Streit mit den
                                                                                                                          Nachbarn.
         der Stock → D, CH: Etage          Das Büro ist im 3. Stock, Zimmer 305.
                                                                                      streng                              Unsere Tochter hat einen sehr
@@ -5051,7 +5053,7 @@ VS_03
 
         der Stoff, -e                   1. Was für ein Stoff ist das? – Wolle.       der Stress                          Ich habe bei der Arbeit viel Stress.
                                         2. In manchen Farben sind giftige Stoffe.
-                                                                                     der Strom                           Wie kann ich im Haushalt Strom
+                                                                                     der Strom, ¨-e                      Wie kann ich im Haushalt Strom
         stolz                             Ich bin stolz auf dich. Das hast du sehr                                       sparen?
                                           gut gemacht.
                                                                                      der Strumpf, ¨-e                    Wo sind meine roten Strümpfe?
@@ -5187,7 +5189,7 @@ VS_03
         taub                              1. Sie hört schlecht, sie ist schon fast    die Temperatur, -en                 Die Temperaturen steigen heute um 10
                                              taub.                                                                        Grad.
                                           2. Bist du taub? Ich spreche mit dir!
-                                                                                      das Tempo                         1. Hier darfst du nur Tempo 30 fahren.
+                                                                                      das Tempo, -s                     1. Hier darfst du nur Tempo 30 fahren.
         tauchen, taucht, tauchte,            Ich möchte im Urlaub wieder tauchen                                        2. Achtung, hier ist eine Tempo-30-Zone!
         ist/hat getaucht                     gehen.
                                                                                       das Tennis                          Ich spiele gern Tennis.
@@ -5205,7 +5207,7 @@ VS_03
                   die Technologie, -n        Große Fortschritte gab es in der         die Terrasse, -n                    Setzen wir uns auf die Terrasse!
                                              Technologie.
                                                                                       testen, testet, testete,            Testen Sie unsere Angebote kostenlos.
-        der Tee                           1. Bitte einen Tee mit Zitrone.             hat getestet
+        der Tee, -s                       1. Bitte einen Tee mit Zitrone.             hat getestet
                                           2. Was kostet dieser Tee hier?
                                                                                                          der Test, -s     Ich bin ganz sicher: Du wirst den Test
                    Tee ziehen lassen         Diesen Tee sollte man 10 Minuten                                             schaffen.
@@ -5276,6 +5278,7 @@ VS_03
         der Tod                             Ich habe ihn vor seinem Tod noch                       A: Straßenbahn         Bus?
                                             einmal gesehen.
                                                                                       die Träne, -n                       Sie trocknet dem Kind die Tränen.
+
                                tödlich      Dieses Gift kann für den Menschen         transportieren, trans-              Wie willst du die Möbel denn
                                             tödlich sein.                             portiert, transportierte,           transportieren?
                                                                                       hat transportiert
@@ -5527,7 +5530,7 @@ VS_03
                                                                                    unterrichtete,
         ungewöhnlich                     Ich finde diese Speise ungewöhnlich,      hat unterrichtet
                                          aber sie schmeckt gut.
-                                                                                                der Unterricht      Der Unterricht dauert von 17
+                                                                                            der Unterricht, -e      Der Unterricht dauert von 17
         unglaublich                      Es ist unglaublich. Schon wieder so ein                                    bis 19 Uhr.
                                          Unglück.
                                                                                    untersagt                        Es ist untersagt, hier zu rauchen.
@@ -5596,7 +5599,7 @@ VS_03
 
         die Ursache, -n               1. Kennt man schon die Unfallursache?         verantwortlich                     Sie sind für Ihre Kinder verantwortlich.
                                       2. Vielen Dank! – Keine Ursache!
-                                                                                            die Verantwortung          Sie tragen die Verantwortung für Ihre
+                                                                                       die Verantwortung, -en          Sie tragen die Verantwortung für Ihre
         verursachen, verursacht,        Dieser Busfahrer verursachte den                                               Kinder.
         verursachte,        Unfall.
         hat verursacht                                                              (sich) verbessern,               1. Ich habe mein Deutsch verbessert.
@@ -5660,8 +5663,8 @@ VS_03
                                     2. Haben Sie etwas Verdächtiges              verhinderte,                    verhindern.
                                        gesehen?                                  hat verhindert
 
-        verdienen, verdient,        1. In diesem Beruf verdient man gut.               verkaufen, verkauft,      Ich habe unser altes Auto verkauft.
-        verdiente, hat verdient     2. Er hat den Urlaub wirklich verdient.         verkaufte, hat verkauft
+        verdienen, verdient,        1. In diesem Beruf verdient man gut.         verkaufen, verkauft,            Ich habe unser altes Auto verkauft.
+        verdiente, hat verdient     2. Er hat den Urlaub wirklich verdient.      verkaufte, hat verkauft
 
         der Verein, -e                Ich bin schon seit 15 Jahren Mitglied in   der Verkäufer, -                Die Verkäuferin wird Ihnen gleich
                                       diesem Verein.                             die Verkäuferin, -nen           helfen.
@@ -5829,7 +5832,7 @@ VS_03
                                           Die können Ihnen helfen.
                                                                                                      die Vollzeit     Ich möchte gerne Vollzeit arbeiten.
         verwandt                          Sind Sie mit Frau Meyer verwandt?
-                                                                                   Volleyball                         Im Sommer spiele ich gern Volleyball.
+                                                                                   der Volleyball                      Im Sommer spiele ich gern Volleyball.
                  der Verwandte, -n        Zu meinem Geburtstag kommen alle
                  die Verwandte, -n        Verwandten.                              völlig                             Das halte ich für völlig ausgeschlossen.
 
@@ -5895,7 +5898,7 @@ VS_03
         vorder-                         In den vorderen Reihen sind noch                                            dass sie direkt im Zentrum liegt.
                                         Plätze frei.
                                                                                   der Vortrag, ¨-e                  Ihr Vortrag war sehr interessant.
-        die Vorfahrt                    Achtung! Das Auto rechts hat Vorfahrt!
+        die Vorfahrt, -en               Achtung! Das Auto rechts hat Vorfahrt!
                                                                                   die Vorwahl, -en                  Wie ist die Vorwahl von Hamburg?
         vorgestern                      Er hat mich vorgestern angerufen.
                                                                                   vorwärts                          Ich kann nicht vorbei. Bitte fahr noch
@@ -5940,7 +5943,7 @@ VS_03
                                                                                                                   5. Für den Winter brauche ich einen
         der Wagen, -                  1. Ich habe meinen Wagen in die Werk-                                          warmen Pullover.
                                          statt gebracht.
-                                      2. Im zweiten Wagen befindet sich das                         die Wärme       Wärme ist gut gegen meine Schmerzen.
+                                      2. Im zweiten Wagen befindet sich das                     die Wärme, -n       Wärme ist gut gegen meine Schmerzen.
                                          Zugrestaurant.
                                                                                    warnen, warnt, warnte,           Ich warne Sie. Der Hund ist gefährlich.
         wählen, wählt, wählte,        1. Sie können wählen: Als Vorspeise gibt     hat gewarnt
@@ -5965,14 +5968,14 @@ VS_03
                                                                                    wusch, hat gewaschen              gewaschen.
         während                       1. Während ich arbeite, höre ich oft                                        2. Wo kann ich mir die Hände waschen?
                                          Musik.
-                                      2. Während der Prüfung dürfen wir                        die Wäsche     1. Ich muss heute noch Wäsche waschen.
+                                      2. Während der Prüfung dürfen wir                    die Wäsche, -n     1. Ich muss heute noch Wäsche waschen.
                                          unsere Handys nicht benutzen.                                        2. Kannst du bitte die Wäsche
                                                                                                                  aufhängen?
         wahrscheinlich                  Wahrscheinlich mache ich im Herbst
                                         noch einen Deutschkurs.                            das Waschmittel, -       Diese Bluse darfst du nicht mit jedem
                                                                                                                     Waschmittel waschen.
         der Wald, ¨-er                1. Hinter unserem Haus fängt der Wald
-                                         an.                                       das Wasser                     1. Kann ich bitte ein Glas Wasser haben?
+                                         an.                                       das Wasser, -                  1. Kann ich bitte ein Glas Wasser haben?
                                       2. Ich gehe gern im Wald spazieren.                                         2. Eine Cola und zwei Wasser, bitte!
                                                                                                                   3. Gibt es hier kein warmes Wasser?
         die Wand, ¨-e                 1. Ich stelle das Regal rechts an die
@@ -6055,7 +6058,7 @@ VS_03
         welcher, welche, welches        1. Welcher Tag ist heute?                                                     völlig wertlos.
                                         2. Welchen Kurs hast du gemacht?
                                                                                                          wertvoll     Ich habe einen sehr wertvollen Ring
-        die Welt                        1. Überall auf der Welt gibt es Probleme.                                     von meiner Großmutter.
+        die Welt, -en                   1. Überall auf der Welt gibt es Probleme.                                     von meiner Großmutter.
                                         2. Ich habe die besten Eltern der Welt.
                                                                                       weshalb                       1. Weshalb rufst du an?
                                                                                                                     2. Ich bekomme Besuch, weshalb ich
@@ -6103,7 +6106,7 @@ VS_03
                                                                                     der Wirt, -e                      Ich kenne die Wirtin von diesem Lokal.
         wie                             1. Wie heißt du?                            die Wirtin, -nen                  Sie ist sehr nett.
                                         2. Wie lange bist du schon hier?
-                                        3. Meine Frau ist so alt wie ich.           die Wirtschaft                    In der Schule lernen die Kinder viel
+                                        3. Meine Frau ist so alt wie ich.           die Wirtschaft, -en               In der Schule lernen die Kinder viel
                                         4. Wie schreibt man das?                                                      über Wirtschaft und Politik.
                                         5. Wie bitte?
                                         6. Wie gefällt dir unsere Wohnung?          wissen, weiß, wusste,           1. Weißt du, wie der Hausmeister heißt?
@@ -6234,7 +6237,7 @@ VS_03
         die Zeile, -n                      Das Wort steht in der fünften Zeile von                                  2. Ich musste beim Arzt ziemlich lange
                                            oben.                                                                       warten.
 
-        die Zeit                         1. Ich habe heute keine Zeit.                 die Zigarette, -n              Wie viele Zigaretten rauchst du am
+        die Zeit, -en                    1. Ich habe heute keine Zeit.                 die Zigarette, -n              Wie viele Zigaretten rauchst du am
                                          2. Es ist noch früh. Wir haben noch viel                                     Tag?
                                             Zeit.
                                          3. Um welche Zeit sind Sie normaler-          das Zimmer, -                1. Die Wohnung hat drei Zimmer.
@@ -6280,7 +6283,7 @@ VS_03
                                                                                        bereitete zu,                  zu.
         der Zeuge, -n                      Die Polizei sucht noch Zeugen für den       hat zubereitet
         die Zeugin, -nen                   Unfall.
-                                                                                       der Zucker                     Nehmen Sie Zucker in den Tee?
+                                                                                       der Zucker, -                  Nehmen Sie Zucker in den Tee?
 VS_03
 
 
@@ -6325,7 +6328,7 @@ VS_03
         zugehen, geht zu, ging zu,         Die Tür geht nicht zu. Kannst du mir                                      4. Fuß und Ball musst du zusammen-
         ist zugegangen                     helfen?                                                                      schreiben – Fußball!
 
-        das Zuhause                        Ich fühle mich hier wohl. Das ist mein            die Zusammenarbeit        Sie sind der neue Kollege? Auf gute
+        das Zuhause                        Ich fühle mich hier wohl. Das ist mein      die Zusammenarbeit, -en         Sie sind der neue Kollege? Auf gute
                                            Zuhause.                                                                    Zusammenarbeit!
 
         zuhören, hört zu,                  Hör mir doch mal zu!                        zusammenfassen,                 Können Sie das bitte noch einmal kurz
@@ -6389,7 +6392,7 @@ VS_03
         zuverlässig                      Der Kollege kommt bestimmt gleich. Er                                  2. Heidelberg liegt zwischen Frankfurt
                                          ist immer sehr zuverlässig.                                               und Stuttgart.
                                                                                                                 3. Zwischen 8 und 10 Uhr bin ich zu
-        das/der Zvieri/Znüni, -s         Es ist Zeit für ein kleines Zvieri.                                       Hause.
+        der Znüni, -s                    Es ist Zeit für ein kleiner Znüni.                                        Hause.
         (CH) → D: Imbiss; A: Jause
 
         zwar                           1. Diese Schuhe sind zwar teuer, aber gut.
