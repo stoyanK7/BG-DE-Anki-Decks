@@ -578,7 +578,7 @@ VS_03
 
         die Bank, -en                     Bei welcher Bank haben Sie Ihr Konto?   der Bedarf                          An diesem Produkt besteht großer
                                                                                                                       Bedarf.
-        der Bancomat/Bankomat,            Ich hole noch schnell Geld vom
+        der Bankomat,                     Ich hole noch schnell Geld vom
         -en (A, CH) → D:                  Bankomaten.                             bedeuten, bedeutet,               1. Was bedeutet dieses Wort?
         Geldautomat                                                               bedeutete, hat bedeutet           2. Ich bin krank. Das bedeutet, dass ich
                                                                                                                        heute nicht arbeiten kann.
@@ -1024,7 +1024,7 @@ VS_03
         der Chef, -s                   Das kann ich nicht allein entscheiden,    daher                        Ich bin erkältet, daher kann ich heute
         die Chefin, -nen               da muss ich erst die Chefin fragen.                                    nicht kommen.
 
-        chic/schick                    Ich finde dein Kleid sehr chick.          dahin                        Der Zug kommt in 30 Minuten. Bis
+        schick/chic                    Ich finde dein Kleid sehr chick.          dahin                        Der Zug kommt in 30 Minuten. Bis
                                                                                                               dahin können wir einen Kaffee trinken.
         der Coiffeur, -e             1. Du siehst toll aus! Wer ist dein
         die Coiffeuse, -n (CH)          Coiffeur?
@@ -1198,8 +1198,9 @@ VS_03
         dringend                      1. Ich muss dich dringend sprechen.                                          2. Bitte redet nicht alle durcheinander.
                                       2. Ich erwarte einen dringenden Anruf.                                          Sonst verstehe ich nichts.
                                       3. Bitte kommen Sie schnell. Es ist
-                                         dringend.                                  die Durchsage, -n              1. Achtung, Achtung, eine wichtige
-        drin, drinnen                 1. Wo wollt ihr sitzen? Draußen oder                                            Durchsage!
+                                         dringend.
+                                                                                    die Durchsage, -n              1. Achtung, Achtung, eine wichtige
+        drinnen/drin                  1. Wo wollt ihr sitzen? Draußen oder                                            Durchsage!
                                          drinnen?                                                                  2. Ich habe die Durchsage nicht
                                       2. Bei der Hitze ist es drinnen viel                                            verstanden.
                                          angenehmer.
