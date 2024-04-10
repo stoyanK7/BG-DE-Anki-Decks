@@ -2737,6 +2737,7 @@ VS_03
 
 
                           jederzeit     Sie können mich jederzeit anrufen.          K
+
                          jedes Mal      Inge erzählt die Geschichte jedes Mal       das Kabel, -                    1. Wo ist das Kabel für das Aufnahme-
                                         anders.                                                                        gerät?
                                                                                                                     2. Mit Kabel bekommen Sie über
@@ -3059,7 +3060,7 @@ VS_03
         das Kraftfahrzeug, -e             Auf dieser Straße sind Kraftfahrzeuge      hat gekriegt                      2. Was kriegen Sie? – Ein Schwarzbrot,
                                           nicht erlaubt.                                                                  bitte.
 
-        das Kraftwerk, -e                 Die Menschen protestieren gegen das       die Kriminalpolizei                  Ein Nachbar von uns arbeitet bei der
+        das Kraftwerk, -e                 Die Menschen protestieren gegen das        die Kriminalpolizei                 Ein Nachbar von uns arbeitet bei der
                                           Kraftwerk.                                                                     Kriminalpolizei.
 
         krank                           1. Ich war zwei Wochen krank.                der Krimi, -s                       Heute Abend kommt ein spannender
@@ -3446,7 +3447,7 @@ VS_03
         das Märchen, -                   Meine Großmutter hat uns viele             das Mehl                       Ich möchte einen Kuchen backen. Ist
                                          Märchen erzählt.                                                          noch genug Mehl da?
 
-        die Margarine                    Meine Frau isst nur Margarine und          mehr (siehe auch viel)      1. Ich habe diesmal mehr gelernt als bei
+        die Margarine                    Meine Frau isst nur Margarine und          mehr                        1. Ich habe diesmal mehr gelernt als bei
                                          keine Butter.                                                             der letzten Prüfung.
                                                                                                                 2. Mehr kann ich nicht essen!
         die Marille, -n (A) → D, CH:     Schmecken dir die Marillen?
@@ -3950,8 +3951,8 @@ VS_03
         hat organisiert                                                              parken, parkt, parkte, hat    1. Hier dürfen Sie nicht parken.
                                                                                      geparkt (D, A) → CH:          2. Hier ist das Parken verboten.
 
-        die Organisation, -en      1. Die Organisation des Festes war sehr           parkieren                     1. Hier dürfen Sie nicht parkieren.
-                                      gut.                                           parkieren, parkiert,          2. Hier ist das Parkieren verboten.
+        die Organisation, -en      1. Die Organisation des Festes war sehr           parkieren,                     1. Hier dürfen Sie nicht parkieren.
+                                      gut.                                           parkiert,                      2. Hier ist das Parkieren verboten.
                                    2. Sind Sie Mitglied in einer Organisation?       parkierte, hat parkiert
                                                                                      (CH) → D, A: parken
         das Original, -e                   Das Original ist für Sie. Wir bekommen
