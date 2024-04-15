@@ -8,11 +8,13 @@ ROOT_DIR_PATH: str = os.path.abspath(
 DATA_DIR_PATH: str = os.path.join(ROOT_DIR_PATH, 'data')
 INPUT_DATA_DIR_PATH: str = os.path.join(DATA_DIR_PATH, 'input')
 OUTPUT_DATA_DIR_PATH: str = os.path.join(DATA_DIR_PATH, 'output')
+RAW_DATA_DIR_PATH: str = os.path.join(OUTPUT_DATA_DIR_PATH, 'raw')
 CLEANED_DATA_DIR_PATH: str = os.path.join(OUTPUT_DATA_DIR_PATH, 'cleaned')
 PREPROCESSED_DATA_DIR_PATH: str = os.path.join(
     OUTPUT_DATA_DIR_PATH, 'preprocessed'
 )
 AUDIO_RECORDINGS_DIR_PATH: str = os.path.join(OUTPUT_DATA_DIR_PATH, 'audio')
+TRANSLATIONS_DIR_PATH: str = os.path.join(OUTPUT_DATA_DIR_PATH, 'translations')
 
 WORDLIST_PDF_FILENAME = 'Goethe-Zertifikat_B1_Wortliste.pdf'
 WORDLIST_PDF_PATH: str = os.path.join(
@@ -21,7 +23,7 @@ WORDLIST_PDF_PATH: str = os.path.join(
 
 WORDLIST_TXT_FILENAME = 'Goethe-Zertifikat_B1_Wortliste.txt'
 WORDLIST_TXT_PATH: str = os.path.join(
-    OUTPUT_DATA_DIR_PATH, WORDLIST_TXT_FILENAME
+    RAW_DATA_DIR_PATH, WORDLIST_TXT_FILENAME
 )
 
 CLEANED_WORDLIST_TXT_PATH: str = os.path.join(
@@ -34,7 +36,7 @@ PREPROCESSED_WORDLIST_TXT_PATH: str = os.path.join(
 
 WORDLIST_CSV_FILENAME = 'Goethe-Zertifikat_B1_Wortliste.csv'
 WORDLIST_CSV_PATH: str = os.path.join(
-    OUTPUT_DATA_DIR_PATH, WORDLIST_CSV_FILENAME
+    RAW_DATA_DIR_PATH, WORDLIST_CSV_FILENAME
 )
 
 CLEANED_WORDLIST_CSV_PATH: str = os.path.join(
