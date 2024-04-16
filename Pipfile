@@ -7,7 +7,7 @@ name = "pypi"
 pandas = "*"
 tts = "*"
 jupyter = "*"
-tqdm = "*"
+rich = "*"
 
 [dev-packages]
 ruff = "*"
