@@ -8,6 +8,7 @@ pandas = "*"
 tts = "*"
 jupyter = "*"
 rich = "*"
+selenium = "*"
 
 [dev-packages]
 ruff = "*"
