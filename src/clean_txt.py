@@ -1,12 +1,19 @@
 """Clean the TXT file - remove useless strings and strip margins."""
 
+import os.path
 import re
+import sys
 
 from utils.constants import (
     CLEANED_WORDLIST_TXT_PATH,
     PAGE_BREAK,
     WORDLIST_TXT_PATH,
 )
+from utils.logger import logger
+
+if not os.path.exists(WORDLIST_TXT_PATH):
+    logger.error(f'{WORDLIST_TXT_PATH} not found')
+    sys.exit()
 
 with open(WORDLIST_TXT_PATH, 'r') as file:
     txt_lines: list[str] = file.readlines()
@@ -56,3 +63,4 @@ cleaned_contents: str = re.sub(
 
 with open(CLEANED_WORDLIST_TXT_PATH, 'w') as file:
     file.write(cleaned_contents)
+    logger.info(f'Saved cleaned TXT at {CLEANED_WORDLIST_TXT_PATH}')
