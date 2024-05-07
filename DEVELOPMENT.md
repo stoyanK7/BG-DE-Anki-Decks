@@ -15,6 +15,20 @@ cd BG-DE-anki-decks
 pipenv sync --dev
 ```
 
+## Run the whole pipeline
+
+```shell
+python3 src/clean_txt.py
+    && python3 src/preprocess_txt.py
+    && python3 src/parse_txt.py
+    && python3 src/clean_csv.py
+    && python3 src/preprocess_csv.py
+    && python3 src/translate.py
+    && python3 src/create_audio.py
+    && python3 src/postprocess_csv.py
+    && python3 src/generate_deck.py
+```
+
 ## Process
 
 ```mermaid
