@@ -755,8 +755,8 @@ VS_03
         besitzen, besitzt, besaß,       Besitzt Ihre Frau ein eigenes Auto?       betreuen, betreut,               Wer betreut bei Ihnen die Kinder?
         hat besessen                                                              betreute, hat betreut
 
-        besonder-                       Meine Eltern wollten uns mit dieser                    der Betreuer, -     Die Betreuerin der Kinder ist sehr nett.
-                                        Reise eine ganz besondere Freude                  die Betreuerin, -nen
+        besonder-                       Meine Eltern wollten uns mit dieser       der Betreuer, - die Betreuerin, -nen     Die Betreuerin der Kinder ist sehr nett.
+                                        Reise eine ganz besondere Freude
                                         machen.
                                                                                                 die Betreuung      Haben Sie eine Betreuung für Ihre
                          besonders   1. Ich habe heute ein besonders                                               Kinder?
@@ -1568,7 +1568,7 @@ VS_03
                                           brauche ich etwas Erholung.                ernähren, ernährt,              1. Wie ernähre ich mich richtig?
                                                                                      ernährte, hat ernährt           2. Meine Eltern müssen beide arbeiten,
         erinnern, erinnert,             1. Bitte, erinnern Sie mich noch einmal an                                      um die Familie zu ernähren.
-        erinnerte, hat erinnert            den Termin
+        erinnerte, hat erinnert            den Termin.
                                         2. Ich erinnere mich noch genau an                           die Ernährung     Ich finde eine gesunde Ernährung
                                            Francescos Vater.                                                           wichtig.
 
@@ -2188,8 +2188,8 @@ VS_03
                                                                                          das Geschirr                  Für die Geburtstagsfeier brauche ich
         genießen, genießt, genoss,  1. Er kann das Essen leider nicht                                                  Geschirr für zwölf Personen.
         hat genossen                   genießen, weil es zu scharf ist.
-                                    2. Sie hat eine gute Ausbildung genossen.            das Geschlecht, -er           Bitte kreuzen Sie an: „Geschlecht:
-                                                                                                                       weiblich/männlich“.
+                                    2. Sie hat eine gute Ausbildung genossen.            das Geschlecht, -er           Bitte kreuzen Sie an: 'Geschlecht:
+                                                                                                                       weiblich/männlich'.
         genug                             1. Es ist noch genug Suppe da.
                                           2. Ich habe jetzt lange genug gewartet.        der Geschmack                 Ich möchte bitte Kaugummi mit
                                           3. Ich verdiene nicht genug.                                                 Erdbeergeschmack.
@@ -3847,7 +3847,7 @@ VS_03
 
         O                                                                          öffnen, öffnet, öffnete,      1. Wann öffnen die Geschäfte?
                                                                                    hat geöffnet                  2. Kannst du bitte das Fenster öffnen?
-        ob                                Ich weiß noch nicht, ob ich kommen                                     3. Kannst Du mir helfen? Ich kann die
+        ob                                Ich weiß noch nicht, ob ich kommen                                     3. Kannst du mir helfen? Ich kann die
                                           kann.                                                                     Dose nicht öffnen.
                                                                                                                  4. Du öffnest die Datei mit einem
         oben                            1. Wir wohnen oben im 4. Stock.                                             Doppelklick.
@@ -4298,8 +4298,8 @@ VS_03
                                                                                    die Reportage, -n                  Hast du die Reportage über Afrika
         rein                           1. Der Pullover ist aus reiner Wolle.                                          gesehen?
                                        2. Es war reiner Zufall, dass ich die Uhr
-                                          wiedergefunden habe.                                    der Reporter, -     Die Reporterin macht gerade ein
-                                       3. Das Wasser ist so rein, dass man es                die Reporterin, -nen     Interview.
+                                          wiedergefunden habe.                     der Reporter, - die Reporterin, -nen     Die Reporterin macht gerade ein
+                                       3. Das Wasser ist so rein, dass man es                                               Interview.
                                           trinken kann.
                                                                                    reservieren, reserviert,      1. Dieser Tisch ist reserviert.
         reinigen, reinigt, reinigte,     Ich möchte diesen Anzug reinigen          reservierte, hat reserviert   2. Bitte reservieren Sie mir ein
@@ -4444,8 +4444,8 @@ VS_03
         der Sänger, -                     Wie findest du diesen Sänger? − Ich        schauen, schaut, schaute,        Schau mal! Da vorne ist noch ein Platz
         die Sängerin, -nen                finde seine Stimme toll.                   hat geschaut                     frei.
 
-        satt                              Möchten Sie noch etwas? – Nein                               zuschauen      Möchtest du beim Fußballspiel
-                                          danke, ich bin satt.                                                        zuschauen?
+        satt                              Möchten Sie noch etwas? – Nein
+                                          danke, ich bin satt.
 
         der Satz, ¨-e                     Den letzten Satz verstehe ich nicht.                das Schaufenster, -     Ich habe im Schaufenster eine schicke
                                                                                                                       Bluse gesehen.
@@ -5419,7 +5419,7 @@ VS_03
                                                                                  übrig                        Ist noch etwas zu essen übrig?
         übernehmen, übernimmt,         Ich habe das Geschäft von meinem
         übernahm,                      Vater übernommen.                         übrigens                     Übrigens, kennst du schon die neuen
-        hat übernommen.                                                                                       Nachbarn?
+        hat übernommen                                                                                        Nachbarn?
 
         überprüfen, überprüft,         Bitte überprüfen Sie, ob Ihr Name         das Ufer, -                1. Er schwimmt ans Ufer zurück.
         überprüfte, hat überprüft      richtig geschrieben ist.                                             2. Am Seeufer ist es schön spazieren zu
@@ -6249,7 +6249,7 @@ VS_03
                      der Zeitpunkt, -      Er ist krank. Das ist kein guter Zeit-      die Zinsen (nur Pl.)           Wie viele Zinsen bekomme ich für
                                     e      punkt für einen Besuch.                                                    mein Sparkonto?
 
-                               zurzeit     Zurzeit habe ich sehr viel zu tun.          der Zirkus, -se                Heute gehen wir mit den Kindern in
+                                                                                       der Zirkus, -se                Heute gehen wir mit den Kindern in
                                                                                                                       den Zirkus.
         die Zeitschrift, -en               Diese Zeitschrift kaufe ich jede Woche.
                                                                                        die Zitrone, -n                Ich hätte gern einen Tee mit Zitrone.
@@ -6317,16 +6317,17 @@ VS_03
                                            ist nicht so groß, aber sie hat einen                                     2. Wann wirst du zurückkommen?
                                            Balkon.                                                                   3. Wann muss ich das Buch zurückgeben?
 
-        der Zugang, ¨-e                 1. Der Zugang zu diesem Haus ist               zurzeit                         Zurzeit ist kein Zimmer frei.
-                                           schwierig.
-                                        2. Hast du Zugang zum Internet?                zusagen, sagt zu, sagte zu,     Meine Eltern haben uns zum Essen
+        der Zugang, ¨-e                 1. Der Zugang zu diesem Haus ist               zurzeit                         1. Zurzeit ist kein Zimmer frei.
+                                           schwierig.                                                                  2. Zurzeit habe ich sehr viel zu tun.
+                                        2. Hast du Zugang zum Internet?
+                                                                                       zusagen, sagt zu, sagte zu,     Meine Eltern haben uns zum Essen
                                                                                        hat zugesagt                    eingeladen. Ich habe zugesagt.
                           zugänglich       Der Park ist für alle zugänglich.
                                                                                        zusammen/zusammen-            1. Wir haben als Kinder oft zusammen
         der Zug, ¨-e                    1. Unser Zug hatte 40 Minuten                                                   gespielt.
                                            Verspätung.                                                               2. Zahlen bitte. - Zusammen oder
                                         2. Ich fahre gern mit dem Zug.                                                  getrennt?
-                                                                                                                     3. Das macht zusammen 10 Euro 80.
+                                                                                                                     3. Das macht zusammen 10 Euro.
         zugehen, geht zu, ging zu,         Die Tür geht nicht zu. Kannst du mir                                      4. Fuß und Ball musst du zusammen-
         ist zugegangen                     helfen?                                                                      schreiben – Fußball!
 
@@ -6347,9 +6348,9 @@ VS_03
         zukünftig                          Ich bitte dich, zukünftig früher zu         zusätzlich                      Sie müssen in Zukunft eine Stunde
                                            kommen.                                                                     zusätzlich arbeiten.
 
-        zuletzt                         1. Die Kleider packen wir zuletzt ein.         zuschauen, schaut zu,           Willst du mitspielen? – Nein, ich
-                                        2. Wir haben uns vor drei Jahren zuletzt       schaute zu,                     schaue lieber nur zu.
-                                           gesehen.                                    hat zugeschaut
+        zuletzt                         1. Die Kleider packen wir zuletzt ein.         zuschauen, schaut zu,           1. Willst du mitspielen? – Nein, ich
+                                        2. Wir haben uns vor drei Jahren zuletzt       schaute zu,                        schaue lieber nur zu.
+                                           gesehen.                                    hat zugeschaut                  2. Möchtest du beim Fußballspiel zuschauen?
 
         zumachen, macht zu,                Mach bitte die Tür zu!                                der Zuschauer, -      Liebe Zuschauer, wir wünschen Ihnen
         machte zu, hat zugemacht                                                            die Zuschauerin, -nen      gute Unterhaltung.
