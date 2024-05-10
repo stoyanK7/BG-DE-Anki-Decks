@@ -649,8 +649,8 @@ besichtigte, hat besichtigt     brunn besichtigt.
 besitzen, besitzt, besaß,       Besitzt Ihre Frau ein eigenes Auto?       betreuen, betreut,               Wer betreut bei Ihnen die Kinder?
 hat besessen                                                              betreute, hat betreut
 
-besonder-                       Meine Eltern wollten uns mit dieser                    der Betreuer, -     Die Betreuerin der Kinder ist sehr nett.
-                                Reise eine ganz besondere Freude                  die Betreuerin, -nen
+besonder-                       Meine Eltern wollten uns mit dieser       der Betreuer, - die Betreuerin, -nen     Die Betreuerin der Kinder ist sehr nett.
+                                Reise eine ganz besondere Freude
                                 machen.
                                                                                         die Betreuung      Haben Sie eine Betreuung für Ihre
                  besonders   1. Ich habe heute ein besonders                                               Kinder?
@@ -1352,7 +1352,7 @@ hat sich erholt                    schnell wieder erholt.                    die
                                   brauche ich etwas Erholung.                ernähren, ernährt,              1. Wie ernähre ich mich richtig?
                                                                              ernährte, hat ernährt           2. Meine Eltern müssen beide arbeiten,
 erinnern, erinnert,             1. Bitte, erinnern Sie mich noch einmal an                                      um die Familie zu ernähren.
-erinnerte, hat erinnert            den Termin
+erinnerte, hat erinnert            den Termin.
                                 2. Ich erinnere mich noch genau an                           die Ernährung     Ich finde eine gesunde Ernährung
                                    Francescos Vater.                                                           wichtig.
 
@@ -3712,8 +3712,8 @@ die Reihenfolge, -n              Achten Sie auf die Reihenfolge der             
                                                                            die Reportage, -n                  Hast du die Reportage über Afrika
 rein                           1. Der Pullover ist aus reiner Wolle.                                          gesehen?
                                2. Es war reiner Zufall, dass ich die Uhr
-                                  wiedergefunden habe.                                    der Reporter, -     Die Reporterin macht gerade ein
-                               3. Das Wasser ist so rein, dass man es                die Reporterin, -nen     Interview.
+                                  wiedergefunden habe.                     der Reporter, - die Reporterin, -nen     Die Reporterin macht gerade ein
+                               3. Das Wasser ist so rein, dass man es                                               Interview.
                                   trinken kann.
                                                                            reservieren, reserviert,      1. Dieser Tisch ist reserviert.
 reinigen, reinigt, reinigte,     Ich möchte diesen Anzug reinigen          reservierte, hat reserviert   2. Bitte reservieren Sie mir ein
