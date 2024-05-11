@@ -356,7 +356,7 @@ bestimmt,"['Das hat Nancy bestimmt nicht so gemeint.', 'Möchtest du ein bestimm
 "sich beteiligen, beteiligt sich, beteiligte sich, hat sich beteiligt",['Wir wollen unserer Lehrerin ein Geschenk kaufen. Wer möchte sich beteiligen?'],sich beteiligen,beteiligen,bd241b6d3364b38e0a5131d3712a889b76b11d26d30d74aeab520c80bf428dbc
 "der Betrag, ¨-e",['Bitte überweisen Sie den Betrag auf unser Konto.'],der Betrag,Betrag,30d3b7cf0e1664655863480e8ae9c4cb3977c2d46acffd33fe2f055fe1ec30a5
 "betreuen, betreut, betreute, hat betreut",['Wer betreut bei Ihnen die Kinder?'],betreuen,betreuen,7896485554bc6b3d092cca421bc28e4db95792e3d6017110eca41fbeafd6ad3e
-"der Betreuer, -","['Die Betreuerin der Kinder ist sehr nett. die Betreuerin, -nen']",der Betreuer,Betreuer,e71cfc75c1389fba9e54eaaadcaf26c0d995cfb703624c0c8736494d78ed2841
+"der Betreuer, - die Betreuerin, -nen",['Die Betreuerin der Kinder ist sehr nett.'],"der Betreuer, die Betreuerin",Betreuer,d97b4a5bd58a7520366219e146b016915060476345ecbe071218603c42e634cd
 die Betreuung,['Haben Sie eine Betreuung für Ihre Kinder?'],die Betreuung,Betreuung,dba4e023a34f225757b0ba759fcdfaa322d719892b6abef0380e847288aba6eb
 "der Betrieb, -e","['In diesem Betrieb arbeiten zehn Leute.', 'Kurz vor Weihnachten ist in den Kaufhäusern immer viel Betrieb.', 'Der Aufzug ist in Betrieb/außer Betrieb.']",der Betrieb,Betrieb,bddbca0216d8349140078d7f5f7af420af56bf33dc46484b2054ae5bf2ef2430
 "der Betriebsrat, ¨-e die Betriebsrätin, -nen",['Der Betriebsrat wird Sie über die neuen Arbeitszeiten informieren.'],"der Betriebsrat, die Betriebsrätin",Betriebsrat,55635d13267a3358501e8c97f5c003b7661b4671f7ae4cb40ecc843f65a1b90a
@@ -695,7 +695,7 @@ erforderlich,"['Hier ist die Liste der erforderlichen Zutaten für den Kuchen.',
 "die Erhöhung, -en",['Wir streiken für eine Lohnerhöhung.'],die Erhöhung,Erhöhung,d19b229b15f2aef5afbbe512458fafb577e5db8792581b5e84b23e2d1ea195fb
 "sich erholen, erholt sich, erholte sich, hat sich erholt","['Im Urlaub habe ich mich sehr gut erholt.', 'Er hat sich nach dem Unfall sehr schnell wieder erholt.']",sich erholen,erholen,f11e7a8ffad70c4cf6ba9781e0823d6b5a33d301f0ba2755b88f00782229ad7a
 "die Erholung, -en",['Ich habe zu viel gearbeitet. Jetzt brauche ich etwas Erholung.'],die Erholung,Erholung,efac44aa55c861c76da6ad2769326c258761eb83eaa76e81e6028ef0c447e72a
-"erinnern, erinnert, erinnerte, hat erinnert","['Bitte, erinnern Sie mich noch einmal an den Termin', 'Ich erinnere mich noch genau an Francescos Vater.']",erinnern,erinnern,d92a97623f686d8442cb7fb947c6bc3c8597206b941c5df5a1f414a5694fea51
+"erinnern, erinnert, erinnerte, hat erinnert","['Bitte, erinnern Sie mich noch einmal an den Termin.', 'Ich erinnere mich noch genau an Francescos Vater.']",erinnern,erinnern,d92a97623f686d8442cb7fb947c6bc3c8597206b941c5df5a1f414a5694fea51
 "die Erinnerung, -en",['An diese Zeit habe ich viele schöne Erinnerungen.'],die Erinnerung,Erinnerung,031a5d07f61b5f63a8f5f8219806a2c54e957cf3b3153b664f5970a0cf5ddab6
 "sich erkälten, erkältet sich, erkältete sich, hat sich erkältet",['Der Junge hat sich beim Baden erkältet.'],sich erkälten,erkälten,95d85a7d289445ac5fd32b6886e3426df679bc8833623ab5078b324406dd0cac
 erkältet,['Ich bin stark erkältet.'],erkältet,erkältet,0a57a77ecfcc08a5eef8cd2811af0b97860734346658bb2175b42c41f177076b
@@ -1932,7 +1932,7 @@ relativ,"['Die Wohnung ist relativ groß, aber sehr teuer.']",relativ,relativ,69
 "reparieren, repariert, reparierte, hat repariert",['Das Fahrrad kann man leider nicht mehr reparieren.'],reparieren,reparieren,fdf7bc5f8daa7913296fb3024f493c5f4b041206a632cc943dd25e0341073f34
 "die Reparatur, -en",['Eine Reparatur wäre zu teuer.'],die Reparatur,Reparatur,bb3320b6d56d8e4806863c5d19aadfa095a08b794888f9631170abbb80a56ef5
 "die Reportage, -n",['Hast du die Reportage über Afrika gesehen?'],die Reportage,Reportage,e5c5ddbfdb42689d96e8f6a68c10171348dd3afcfcea65ea32038b4adc52d05d
-"der Reporter, die Reporterin, -nen",['Die Reporterin macht gerade ein Interview.'],"der Reporter, die Reporterin",Reporter,2c6183324746b3501d0c362ba66290edafb3795a07acfa15ac9be703d98c7749
+"der Reporter, - die Reporterin, -nen",['Die Reporterin macht gerade ein Interview.'],"der Reporter, die Reporterin",Reporter,d46b519c7cfc1ae3db61ca6c5ed178bed0cbba2cc5c405e4b179b3be577215b4
 "reservieren, reserviert, reservierte, hat reserviert","['Dieser Tisch ist reserviert.', 'Bitte reservieren Sie mir ein Doppelzimmer.']",reservieren,reservieren,e5411bc9bb3740a66565334537f426aabb547a8c09a0e642ea38333147f5bdca
 "die Reservierung, -en",['Was kostet eine Reservierung?'],die Reservierung,Reservierung,105fbb8acc9207bccfb7147bda334cd72990a4b724b8802f4fe95041a7e120c8
 der Respekt,"['Ich habe großen Respekt vor meinem Lehrer.', 'Du solltest ihr mehr Respekt entgegenbringen.', 'Ich habe bei der Prüfung alle Punkte erreicht! – Respekt!']",der Respekt,Respekt,10b81e5c941667cef071399653a6e7403315432630618e3265dd1c0b420d0a1a

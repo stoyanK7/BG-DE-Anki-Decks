@@ -1267,7 +1267,7 @@ besitzen, besitzt, besaß,       Besitzt Ihre Frau ein eigenes Auto?
 hat besessen                                                             
 
 besonder-                       Meine Eltern wollten uns mit dieser      
-                                Reise eine ganz besondere Freude         
+                                Reise eine ganz besondere Freude
                                 machen.
                                                                          
                  besonders   1. Ich habe heute ein besonders             
@@ -1330,8 +1330,7 @@ der Betrag, ¨-e                  Bitte überweisen Sie den Betrag auf
 betreuen, betreut,               Wer betreut bei Ihnen die Kinder?
 betreute, hat betreut
 
-             der Betreuer, -     Die Betreuerin der Kinder ist sehr nett.
-        die Betreuerin, -nen
+der Betreuer, - die Betreuerin, -nen     Die Betreuerin der Kinder ist sehr nett.
 
               die Betreuung      Haben Sie eine Betreuung für Ihre
                                  Kinder?
@@ -2641,7 +2640,7 @@ hat sich erholt                    schnell wieder erholt.
                                   brauche ich etwas Erholung.               
                                                                             
 erinnern, erinnert,             1. Bitte, erinnern Sie mich noch einmal an  
-erinnerte, hat erinnert            den Termin
+erinnerte, hat erinnert            den Termin.
                                 2. Ich erinnere mich noch genau an          
                                    Francescos Vater.                        
 
@@ -7362,8 +7361,8 @@ reparierte, hat repariert        mehr reparieren.
 die Reportage, -n                  Hast du die Reportage über Afrika
                                    gesehen?
 
-               der Reporter, -     Die Reporterin macht gerade ein
-          die Reporterin, -nen     Interview.
+der Reporter, - die Reporterin, -nen     Die Reporterin macht gerade ein
+                                         Interview.
 
 reservieren, reserviert,      1. Dieser Tisch ist reserviert.
 reservierte, hat reserviert   2. Bitte reservieren Sie mir ein
