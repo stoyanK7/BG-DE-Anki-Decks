@@ -29,7 +29,7 @@ df = pd.read_csv(PREPROCESSED_WORDLIST_CSV_PATH)
 for _, row in track(
     df.iterrows(),
     total=df.shape[0],
-    description='Scraping...',
+    description='Creating...',
     update_period=10,
     auto_refresh=False,
 ):
