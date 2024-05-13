@@ -24,6 +24,14 @@ WORDLIST_PDF_PATH: str = os.path.join(
     INPUT_DATA_DIR_PATH, WORDLIST_PDF_FILENAME
 )
 
+WORD_TRANSLATIONS_FIX_JSON_PATH: str = os.path.join(
+    INPUT_DATA_DIR_PATH, 'word_translations_fix.json'
+)
+
+EXAMPLE_TRANSLATIONS_FIX_PATH: str = os.path.join(
+    INPUT_DATA_DIR_PATH, 'example_translations_fix.json'
+)
+
 WORDLIST_TXT_FILENAME = 'Goethe-Zertifikat_B1_Wortliste.txt'
 WORDLIST_TXT_PATH: str = os.path.join(RAW_DATA_DIR_PATH, WORDLIST_TXT_FILENAME)
 
