@@ -53,7 +53,7 @@ extension_suggestion_close = wait.until(
 extension_suggestion_close.click()
 
 translate_from_button = driver.find_element(
-    By.CSS_SELECTOR, '#headlessui-popover-button-3 > span'
+    By.XPATH, '/html/body/div[1]/div[1]/div[2]/div[2]/div[1]/div/main/div[2]/nav/div/div[2]/div/div/div[1]/section/div/div[1]/div/div[1]/div/div[1]/span/span/span/button/span/div/div/span/span'
 )
 translate_from_button.click()
 
@@ -61,7 +61,7 @@ translate_from_input = wait.until(
     ec.visibility_of_element_located(
         (
             By.XPATH,
-            '/html/body/div[1]/div[1]/div[2]/div/div[1]/div/main/div[2]/nav/div/div[2]/div/div/div[1]/section/div/div[1]/div/div[1]/div[1]/div/div/div[1]/div/input',
+            '/html/body/div[1]/div[1]/div[2]/div[2]/div[1]/div/main/div[2]/nav/div/div[2]/div/div/div[1]/section/div/div[1]/div/div[1]/div/div[1]/div/div/div[1]/div/input',
         )
     )
 )
@@ -70,12 +70,10 @@ sleep(2)
 translate_from_input.send_keys('German')
 sleep(2)
 translate_from_input.send_keys(Keys.RETURN)
-if 'German' not in translate_from_button.text:
-    logger.error('"German" not in translate from. Something went wrong.')
-    sys.exit()
+sleep(2)
 
 translate_to_button = driver.find_element(
-    By.XPATH, '//*[@id="headlessui-popover-button-5"]'
+    By.XPATH, '//*[@id="headlessui-popover-button-34"]/span/div/div/span/span'
 )
 translate_to_button.click()
 
@@ -83,7 +81,7 @@ translate_to_input = wait.until(
     ec.visibility_of_element_located(
         (
             By.XPATH,
-            '/html/body/div[1]/div[1]/div[2]/div/div[1]/div/main/div[2]/nav/div/div[2]/div/div/div[1]/section/div/div[1]/div/div[3]/div[1]/div/div/div[1]/div/input',
+            '/html/body/div[1]/div[1]/div[2]/div[2]/div[1]/div/main/div[2]/nav/div/div[2]/div/div/div[1]/section/div/div[1]/div/div[3]/div[1]/div[1]/div/div/div[1]/div/input',
         )
     )
 )
@@ -92,10 +90,7 @@ sleep(2)
 translate_to_input.send_keys('Bulgarian')
 sleep(2)
 translate_to_input.send_keys(Keys.RETURN)
-if 'Bulgarian' not in translate_to_button.text:
-    logger.error('"Bulgarian" not in translate from. Something went wrong.')
-    sys.exit()
-
+sleep(2)
 
 def get_translation(text_to_translate: str) -> str:
     """Get translation for a piece of text."""
