@@ -53,7 +53,8 @@ extension_suggestion_close = wait.until(
 extension_suggestion_close.click()
 
 translate_from_button = driver.find_element(
-    By.XPATH, '/html/body/div[1]/div[1]/div[2]/div[2]/div[1]/div/main/div[2]/nav/div/div[2]/div/div/div[1]/section/div/div[1]/div/div[1]/div/div[1]/span/span/span/button/span/div/div/span/span'
+    By.XPATH,
+    '/html/body/div[1]/div[1]/div[2]/div[2]/div[1]/div/main/div[2]/nav/div/div[2]/div/div/div[1]/section/div/div[1]/div/div[1]/div/div[1]/span/span/span/button/span/div/div/span/span',
 )
 translate_from_button.click()
 
@@ -91,6 +92,7 @@ translate_to_input.send_keys('Bulgarian')
 sleep(2)
 translate_to_input.send_keys(Keys.RETURN)
 sleep(2)
+
 
 def get_translation(text_to_translate: str) -> str:
     """Get translation for a piece of text."""
