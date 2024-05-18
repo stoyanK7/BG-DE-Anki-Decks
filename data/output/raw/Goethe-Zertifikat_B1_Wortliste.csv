@@ -5523,8 +5523,8 @@ immer eine Geschichte.
 Geschirr für zwölf Personen.
 "
 "das Geschlecht, -er
-","Bitte kreuzen Sie an: „Geschlecht:
-weiblich/männlich“.
+","Bitte kreuzen Sie an: 'Geschlecht:
+weiblich/männlich'.
 "
 "der Geschmack
 ","Ich möchte bitte Kaugummi mit
@@ -9645,9 +9645,9 @@ nicht rauchen.
 streiten.
 "
 "veröffentlichen, veröf-
-","Das Buch wurde gestern veröffentlicht.
 fentlicht, veröffentlichte,
 hat veröffentlicht
+","Das Buch wurde gestern veröffentlicht.
 "
 "offenbar
 ","Das Restaurant ist heute offenbar
@@ -9664,7 +9664,7 @@ hat geöffnet
 
 ","1. Wann öffnen die Geschäfte?
 2. Kannst du bitte das Fenster öffnen?
-3. Kannst Du mir helfen? Ich kann die
+3. Kannst du mir helfen? Ich kann die
 Dose nicht öffnen.
 4. Du öffnest die Datei mit einem
 Doppelklick.
@@ -11113,10 +11113,6 @@ ich schätze, um die Fünfzig.
 hat geschaut
 ","Schau mal! Da vorne ist noch ein Platz
 frei.
-"
-"zuschauen
-","Möchtest du beim Fußballspiel
-zuschauen?
 "
 "das Schaufenster, -
 ","Ich habe im Schaufenster eine schicke
@@ -13455,7 +13451,7 @@ tung mit Frühstück 90 Euro.
 "
 "übernehmen, übernimmt,
 übernahm,
-hat übernommen.
+hat übernommen
 ","Ich habe das Geschäft von meinem
 Vater übernommen.
 "
@@ -15488,9 +15484,6 @@ e
 ","Er ist krank. Das ist kein guter Zeit-
 punkt für einen Besuch.
 "
-"zurzeit
-","Zurzeit habe ich sehr viel zu tun.
-"
 "die Zeitschrift, -en
 ","Diese Zeitschrift kaufe ich jede Woche.
 "
@@ -15756,7 +15749,9 @@ und zurück!
 3. Wann muss ich das Buch zurückgeben?
 "
 "zurzeit
-","Zurzeit ist kein Zimmer frei.
+
+","1. Zurzeit ist kein Zimmer frei.
+2. Zurzeit habe ich sehr viel zu tun.
 "
 "zusagen, sagt zu, sagte zu,
 hat zugesagt
@@ -15771,7 +15766,7 @@ eingeladen. Ich habe zugesagt.
 gespielt.
 2. Zahlen bitte. - Zusammen oder
 getrennt?
-3. Das macht zusammen 10 Euro 80.
+3. Das macht zusammen 10 Euro.
 4. Fuß und Ball musst du zusammen-
 schreiben – Fußball!
 "
@@ -15801,8 +15796,9 @@ zusätzlich arbeiten.
 "zuschauen, schaut zu,
 schaute zu,
 hat zugeschaut
-","Willst du mitspielen? – Nein, ich
+","1. Willst du mitspielen? – Nein, ich
 schaue lieber nur zu.
+2. Möchtest du beim Fußballspiel zuschauen?
 "
 "der Zuschauer, -
 die Zuschauerin, -nen
