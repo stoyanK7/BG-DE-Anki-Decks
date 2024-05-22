@@ -985,7 +985,7 @@ gesamt-/Gesamt-,"1. Ich habe meine gesamten Bücher verschenkt. 2. z. B. Gesamtg
 "die Geschichte, -n",1. Ich interessiere mich nicht für Geschichte. 2. Abends erzähle ich meinen Kindern immer eine Geschichte.
 geschieden,Ich bin seit drei Jahren geschieden.
 das Geschirr,Für die Geburtstagsfeier brauche ich Geschirr für zwölf Personen.
-"das Geschlecht, -er",Bitte kreuzen Sie an: „Geschlecht: weiblich/männlich“.
+"das Geschlecht, -er",Bitte kreuzen Sie an: 'Geschlecht: weiblich/männlich'.
 der Geschmack,Ich möchte bitte Kaugummi mit Erdbeergeschmack.
 "die Geschwindigkeit, -en",Das Auto fuhr mit zu hoher Geschwindigkeit.
 "die Geschwindigkeitsbeschränkung, -en",Bitte beachten Sie die Geschwindigkeitsbeschränkungen.
@@ -1713,10 +1713,10 @@ oder,1. Möchten Sie Kaffee oder Tee? 2. Entweder wir fahren mit dem Bus oder wi
 offen,"1. Komm rein. Die Haustür ist offen. (A) (D: auf) 2. Ich glaube, der Supermarkt ist jetzt noch offen. 3. Im Sommer schlafe ich immer bei offenem Fenster. 4. Ich habe mit meinem Kollegen ganz offen über mein Problem gesprochen. 5. Einzelne Fragen sind noch offen."
 öffentlich,1. In der Stadt fahre ich immer mit öffentlichen Verkehrsmitteln. 2. In öffentlichen Gebäuden darf man nicht rauchen.
 die Öffentlichkeit,1. Von solchen Dingen erfährt die Öffentlichkeit nur selten. 2. Ich möchte in der Öffentlichkeit nicht streiten.
-"veröffentlichen, veröf-","Das Buch wurde gestern veröffentlicht. fentlicht, veröffentlichte, hat veröffentlicht"
+"veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht",Das Buch wurde gestern veröffentlicht.
 offenbar,Das Restaurant ist heute offenbar geschlossen.
 offiziell,Sie bekommen von uns eine offizielle Einladung.
-"öffnen, öffnet, öffnete, hat geöffnet",1. Wann öffnen die Geschäfte? 2. Kannst du bitte das Fenster öffnen? 3. Kannst Du mir helfen? Ich kann die Dose nicht öffnen. 4. Du öffnest die Datei mit einem Doppelklick. 5. Der Laden ist samstags bis 16 Uhr geöffnet.
+"öffnen, öffnet, öffnete, hat geöffnet",1. Wann öffnen die Geschäfte? 2. Kannst du bitte das Fenster öffnen? 3. Kannst du mir helfen? Ich kann die Dose nicht öffnen. 4. Du öffnest die Datei mit einem Doppelklick. 5. Der Laden ist samstags bis 16 Uhr geöffnet.
 oft/öfter,1. Ich treffe mich oft mit meiner Freundin. 2. In letzter Zeit muss ich öfter Überstunden machen.
 ohne,"1. Bitte eine Pizza ohne Zwiebeln. 2. Ohne Auto ist es schwer, zur Arbeit zu kommen. 3. Mein Sohn ist einfach mit dem Auto weggefahren, ohne mich zu fragen. 4. In diesem Haus kann man nichts machen, ohne dass die Nachbarn darüber reden."
 "das Ohr, -en",1. Ich habe Ohrenschmerzen. 2. Das Baby hat aber kleine Ohren!
@@ -2000,7 +2000,6 @@ scharf,1. Bei uns zu Hause essen wir immer sehr scharf. 2. Hast du kein schärfe
 "der Schatten, -",Gestern hatten wir 25 Grad im Schatten.
 "schätzen, schätzt, schätzte, hat geschätzt","1. Wie alt ist der Chef? – Ich weiß nicht, ich schätze, um die Fünfzig. 2. Ich schätze deine gute Arbeit."
 "schauen, schaut, schaute, hat geschaut",Schau mal! Da vorne ist noch ein Platz frei.
-zuschauen,Möchtest du beim Fußballspiel zuschauen?
 "das Schaufenster, -",Ich habe im Schaufenster eine schicke Bluse gesehen.
 "der Schauspieler, die Schauspielerin, -nen",Der Film war toll. Die Schauspieler waren sehr gut.
 "die Scheibe, -n","1. Fünf Scheiben Käse, bitte. 2. Die Scheiben sind ganz schmutzig. Ich muss die Fenster putzen."
@@ -2041,7 +2040,7 @@ schmal,Hier kannst du nicht parken. Die Straße ist zu schmal.
 "der Schmuck, -e",Dieser Schmuck ist von meiner Großmutter.
 der Schmutz,Du hast Schmutz an deinen Schuhen.
 schmutzig,1. Leg bitte die schmutzige Wäsche in die Waschmaschine. 2. Das Handtuch ist schmutzig.
-"verschmutzen,","Die Fabrik verschmutzt den Fluss. verschmutzt, verschmutzte, hat verschmutzt"
+"verschmutzen, verschmutzt, verschmutzte, hat verschmutzt",Die Fabrik verschmutzt den Fluss.
 der Schnee,Im Februar gibt es oft viel Schnee.
 "schneien, schneit, schneite, hat geschneit",Heute Nacht hat es geschneit.
 "(sich) schneiden, schneidet, schnitt, hat geschnitten",1. Das Messer schneidet nicht. 2. Hast du ein Pflaster? Ich habe mich geschnitten. 3. Wann lässt du deine Haare schneiden?
@@ -2429,7 +2428,7 @@ typisch,"1. Im Hotel gab es typisch deutsches Essen. 2. Er kommt wieder zu spät
 übermorgen,Morgen kann ich nicht. Wir sehen uns übermorgen.
 "übernachten, übernachtet, übernachtete, hat übernachtet",Wir haben auf dem Campingplatz übernachtet.
 "die Übernachtung, -en",In diesem Hotel kostet die Übernachtung mit Frühstück 90 Euro.
-"übernehmen, übernimmt, übernahm, hat übernommen.",Ich habe das Geschäft von meinem Vater übernommen.
+"übernehmen, übernimmt, übernahm, hat übernommen",Ich habe das Geschäft von meinem Vater übernommen.
 "überprüfen, überprüft, überprüfte, hat überprüft","Bitte überprüfen Sie, ob Ihr Name richtig geschrieben ist."
 "überqueren, überquert, überquerte, hat überquert",Bitte die Straße nur an der Ampel überqueren.
 "überraschen, überrascht, überraschte, hat überrascht","Ich bin ganz überrascht, dass die Wohnung so billig ist."
@@ -2481,7 +2480,7 @@ unglaublich,Es ist unglaublich. Schon wieder so ein Unglück.
 unheimlich,1. Ich mag dieses Haus nicht. Es sieht unheimlich aus. 2. Diese Person ist mir unheimlich. 3. Lass uns umkehren. Mir wird im Dunkeln unheimlich. 4. Die Prüfung war unheimlich schwer.
 "die Uniform, -en","In der Schule, die sie besucht, trägt man Uniformen."
 "die Universität, -en",Mein Sohn studiert an der Universität.
-unten,"1. Wir wohnen im 3. Stock, meine Eltern unten im 1. Stock. 2. Sie ist mal kurz nach unten gegangen."
+unten,"1. Wir wohnen im dritten Stock, meine Eltern unten im ersten Stock. 2. Sie ist mal kurz nach unten gegangen."
 unter,1. Unter uns wohnt eine Familie mit drei Kindern. 2. Die CDs sind im Regal unter dem Fernseher.
 unter-,Mein Pass ist im unteren Regal.
 "unterbrechen, unterbricht, unterbrach, hat unterbrochen","1. Wir unterbrechen die Sendung für eine wichtige Nachricht. 2. Bitte unterbrich mich nicht, wenn ich spreche."
@@ -2529,7 +2528,7 @@ verantwortlich,Sie sind für Ihre Kinder verantwortlich.
 "verbieten, verbietet, verbot, hat verboten",Ich werde meinen Kindern das Rauchen verbieten.
 "das Verbot, -e",Ich bin für das Verbot dieses neuen Videospiels.
 verboten,In den meisten Restaurants ist Rauchen verboten.
-"verbinden, verbindet, verband, hat verbunden",1. Wir müssen die Wunde sofort verbinden. 2. Sie sind falsch verbunden! Hier ist
+"verbinden, verbindet, verband, hat verbunden","1. Wir müssen die Wunde sofort verbinden. 2. Sie sind falsch verbunden! Hier ist Müller, nicht Meyer."
 "die Verbindung, -en",1. Die Verbindung ist sehr gut. Ich kann direkt mit diesem Zug fahren und muss nicht umsteigen. 2. Kannst du bitte lauter sprechen? Die Verbindung ist sehr schlecht.
 "verbrauchen, verbraucht, verbrauchte, hat verbraucht",Wie viel Benzin verbraucht dein Auto?
 "der Verbrecher, die Verbrecherin, -nen",Die Polizei hat den Verbrecher verhaftet.
@@ -2807,7 +2806,6 @@ die Zahncreme/-pasta,Die neue Zahncreme riecht sehr gut.
 "die Zeile, -n",Das Wort steht in der fünften Zeile von oben.
 "die Zeit, -en",1. Ich habe heute keine Zeit. 2. Es ist noch früh. Wir haben noch viel Zeit. 3. Um welche Zeit sind Sie normalerweise zu Hause? 4. Um diese Zeit ist hier wenig los.
 "der Zeitpunkt, e",Er ist krank. Das ist kein guter Zeitpunkt für einen Besuch.
-zurzeit,Zurzeit habe ich sehr viel zu tun.
 "die Zeitschrift, -en",Diese Zeitschrift kaufe ich jede Woche.
 "die Zeitung, -en",Ich lese manchmal Zeitung.
 "das Zelt, -e",Wir machen Camping-Urlaub und nehmen ein Zelt mit.
@@ -2857,14 +2855,14 @@ die Zünder (A) (Pl.) → Streichholz; Zündholz,Ich hätte gern eine Schachtel 
 "zunehmen, nimmt zu, nahm zu, hat zugenommen",Ich habe im Urlaub 1 Kilo zugenommen.
 "zurechtkommen, kommt zurecht, kam zurecht, ist zurechtgekommen",Soll ich Ihnen helfen? - Danke. Ich komme allein zurecht.
 zurück/zurück-,1. Bitte eine Fahrkarte nach Frankfurt und zurück! 2. Wann wirst du zurückkommen? 3. Wann muss ich das Buch zurückgeben?
-zurzeit,Zurzeit ist kein Zimmer frei.
+zurzeit,1. Zurzeit ist kein Zimmer frei. 2. Zurzeit habe ich sehr viel zu tun.
 "zusagen, sagt zu, sagte zu, hat zugesagt",Meine Eltern haben uns zum Essen eingeladen. Ich habe zugesagt.
-zusammen/zusammen-,1. Wir haben als Kinder oft zusammen gespielt. 2. Zahlen bitte. - Zusammen oder getrennt? 3. Das macht zusammen 10 Euro 80. 4. Fuß und Ball musst du zusammenschreiben – Fußball!
+zusammen/zusammen-,1. Wir haben als Kinder oft zusammen gespielt. 2. Zahlen bitte. - Zusammen oder getrennt? 3. Das macht zusammen 10 Euro. 4. Fuß und Ball musst du zusammenschreiben – Fußball!
 "die Zusammenarbeit, -en",Sie sind der neue Kollege? Auf gute Zusammenarbeit!
 "zusammenfassen, fasst zusammen, fasste zusammen, hat zusammengefasst",Können Sie das bitte noch einmal kurz zusammenfassen?
 "der Zusammenhang, ¨-e",1. In diesem Zusammenhang möchte ich Sie auf zwei Bücher aufmerksam machen. 2. Was ist der Zusammenhang zwischen diesen beiden Themen?
 zusätzlich,Sie müssen in Zukunft eine Stunde zusätzlich arbeiten.
-"zuschauen, schaut zu, schaute zu, hat zugeschaut","Willst du mitspielen? – Nein, ich schaue lieber nur zu."
+"zuschauen, schaut zu, schaute zu, hat zugeschaut","1. Willst du mitspielen? – Nein, ich schaue lieber nur zu. 2. Möchtest du beim Fußballspiel zuschauen?"
 "der Zuschauer, die Zuschauerin, -nen","Liebe Zuschauer, wir wünschen Ihnen gute Unterhaltung."
 "der Zuschlag, ¨-e",Für diesen Zug müssen Sie einen Zuschlag zahlen.
 "zu sein, ist zu, war zu, ist zu gewesen",1. Am Sonntag sind die die meisten Läden zu. 2. Das Fenster war nicht zu.

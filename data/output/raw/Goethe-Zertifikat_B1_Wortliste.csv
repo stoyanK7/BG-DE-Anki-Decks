@@ -11366,11 +11366,9 @@ Großmutter.
 Waschmaschine.
 2. Das Handtuch ist schmutzig.
 "
-"verschmutzen,
+"verschmutzen, verschmutzt,
+verschmutzte, hat verschmutzt
 ","Die Fabrik verschmutzt den Fluss.
-verschmutzt,
-verschmutzte,
-hat verschmutzt
 "
 "der Schnee
 ","Im Februar gibt es oft viel Schnee.
@@ -13716,8 +13714,8 @@ man Uniformen.
 "
 "unten
 
-","1. Wir wohnen im 3. Stock, meine Eltern
-unten im 1. Stock.
+","1. Wir wohnen im dritten Stock, meine Eltern
+unten im ersten Stock.
 2. Sie ist mal kurz nach unten gegangen.
 "
 "unter
@@ -13971,10 +13969,8 @@ verboten.
 "
 "verbinden, verbindet,
 verband, hat verbunden
-
-","1. Wir müssen die Wunde sofort
-verbinden.
-2. Sie sind falsch verbunden! Hier ist
+","1. Wir müssen die Wunde sofort verbinden.
+2. Sie sind falsch verbunden! Hier ist Müller, nicht Meyer.
 "
 "die Verbindung, -en
 

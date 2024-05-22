@@ -4565,10 +4565,10 @@ VS_03
                                          schlecht.                                                                   Waschmaschine.
                                       8. Die Verbindung ist schlecht. Ich höre                                    2. Das Handtuch ist schmutzig.
                                          dich nicht gut.
-                                      9. Der Film war nicht schlecht. Er hat mir               verschmutzen,         Die Fabrik verschmutzt den Fluss.
-                                         ganz gut gefallen.                                      verschmutzt,
-                                                                                                verschmutzte,
-        schließen, schließt,          1. Bitte, schließen Sie die Tür.                        hat verschmutzt
+                                      9. Der Film war nicht schlecht. Er hat mir    verschmutzen, verschmutzt,        Die Fabrik verschmutzt den Fluss.
+                                         ganz gut gefallen.                         verschmutzte, hat verschmutzt
+
+        schließen, schließt,          1. Bitte, schließen Sie die Tür.
         schloss, hat geschlossen      2. Die Tür schließt automatisch.
                                       3. Die Banken sind am Samstag                 der Schnee                       Im Februar gibt es oft viel Schnee.
                                          geschlossen.
@@ -5469,6 +5469,7 @@ VS_03
                                        weisung fürs Krankenhaus gegeben.
                                                                                  umsonst                    1. Ich musste nichts bezahlen. Die
                                                                                                                Reparatur war umsonst.
+                                                                                                            2. Nichts hat geholfen, es war alles umsonst.
 VS_03
 
 
@@ -5480,13 +5481,13 @@ VS_03
 
 
 
-                                       2. Nichts hat geholfen, es war alles        die Uniform, -en                 In der Schule, die sie besucht, trägt
-                                          umsonst.                                                                  man Uniformen.
+                                                                                   die Uniform, -en                 In der Schule, die sie besucht, trägt
+                                                                                                                    man Uniformen.
 
                                                                                    die Universität, -en              Mein Sohn studiert an der Universität.
 
-        umsteigen, steigt um,            In Ulm müssen Sie umsteigen.              unten                          1. Wir wohnen im 3. Stock, meine Eltern
-        stieg um, ist umgestiegen                                                                                    unten im 1. Stock.
+        umsteigen, steigt um,            In Ulm müssen Sie umsteigen.              unten                          1. Wir wohnen im dritten Stock, meine Eltern
+        stieg um, ist umgestiegen                                                                                    unten im ersten Stock.
                                                                                                                   2. Sie ist mal kurz nach unten gegangen.
         umtauschen, tauscht um,        1. Ich möchte diese Bluse umtauschen.
         tauschte um,                      Sie passt mir nicht.                     unter                          1. Unter uns wohnt eine Familie mit drei
@@ -5619,8 +5620,8 @@ VS_03
                                                                                                                        verboten.
 
 
-                                                                                    verbinden, verbindet,            1. Wir müssen die Wunde sofort
-                                                                                    verband, hat verbunden              verbinden.
+                                                                                    verbinden, verbindet,            1. Wir müssen die Wunde sofort verbinden.
+                                                                                    verband, hat verbunden           2. Sie sind falsch verbunden! Hier ist Müller, nicht Meyer.
 VS_03
 
 
@@ -5632,8 +5633,8 @@ VS_03
 
 
 
-                                    2. Sie sind falsch verbunden! Hier ist             das Vergnügen, -     1. Es ist ein Vergnügen, den Kindern
-                                       Müller, nicht Meyer.                                                    beim Spielen zuzusehen.
+                                                                                       das Vergnügen, -     1. Es ist ein Vergnügen, den Kindern
+                                                                                                               beim Spielen zuzusehen.
                                                                                                             2. Ich wünsche dir viel Vergnügen bei der
           die Verbindung, -en     1. Die Verbindung ist sehr gut. Ich kann                                     Party!
                                      direkt mit diesem Zug fahren und muss

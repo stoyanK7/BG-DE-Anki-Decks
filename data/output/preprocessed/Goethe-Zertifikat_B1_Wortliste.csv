@@ -985,7 +985,7 @@ gesamt-/Gesamt-,"['Ich habe meine gesamten Bücher verschenkt.', 'z. B. Gesamtge
 "die Geschichte, -n","['Ich interessiere mich nicht für Geschichte.', 'Abends erzähle ich meinen Kindern immer eine Geschichte.']",die Geschichte,Geschichte,01e38dec14a6c72ac7ff9a71f5e47f5efbeaadbc3ece93530517214369bae6a9
 geschieden,['Ich bin seit drei Jahren geschieden.'],geschieden,geschieden,24e6b1580a7ec0aa46416a25e9d9d5e0a898bfd90031cf29c0cbf3d002a984e9
 das Geschirr,['Für die Geburtstagsfeier brauche ich Geschirr für zwölf Personen.'],das Geschirr,Geschirr,8fd090aeed722d5a857e49a96883f6c88f5d533352fc998c92367baadf3ebb36
-"das Geschlecht, -er",['Bitte kreuzen Sie an: „Geschlecht: weiblich/männlich“.'],das Geschlecht,Geschlecht,f8526a7997277e0760492b8c5ea44b49f44ee942cde600d5a33503daed70ca6b
+"das Geschlecht, -er","[""Bitte kreuzen Sie an: 'Geschlecht: weiblich/männlich'.""]",das Geschlecht,Geschlecht,f8526a7997277e0760492b8c5ea44b49f44ee942cde600d5a33503daed70ca6b
 der Geschmack,['Ich möchte bitte Kaugummi mit Erdbeergeschmack.'],der Geschmack,Geschmack,467ce51dc725231718e6aa2eabe189c7bdb56c699c44e7bd2d88c2e1a50ad26e
 "die Geschwindigkeit, -en",['Das Auto fuhr mit zu hoher Geschwindigkeit.'],die Geschwindigkeit,Geschwindigkeit,83db9c746ed8a71a55c70c59531660471d400ea17d96d240c2ad0775082662a7
 "die Geschwindigkeitsbeschränkung, -en",['Bitte beachten Sie die Geschwindigkeitsbeschränkungen.'],die Geschwindigkeitsbeschränkung,Geschwindigkeitsbeschränkung,153da6b795a4bd10ab54b93b333dbd0b7b3fe5430aa7cc79e79ea3f4d6862d85
@@ -1713,10 +1713,10 @@ oder,"['Möchten Sie Kaffee oder Tee?', 'Entweder wir fahren mit dem Bus oder wi
 offen,"['Komm rein. Die Haustür ist offen. (A) (D: auf)', 'Ich glaube, der Supermarkt ist jetzt noch offen.', 'Im Sommer schlafe ich immer bei offenem Fenster.', 'Ich habe mit meinem Kollegen ganz offen über mein Problem gesprochen.', 'Einzelne Fragen sind noch offen.']",offen,offen,9a80891df52590c29e14333b82e3356d58a2dd786ed6d1debe6f3589e4254d33
 öffentlich,"['In der Stadt fahre ich immer mit öffentlichen Verkehrsmitteln.', 'In öffentlichen Gebäuden darf man nicht rauchen.']",öffentlich,öffentlich,37f5af416fd24a23b7ed0a734b0c3a709208cd94e789865ff1ad612248c09de1
 die Öffentlichkeit,"['Von solchen Dingen erfährt die Öffentlichkeit nur selten.', 'Ich möchte in der Öffentlichkeit nicht streiten.']",die Öffentlichkeit,Öffentlichkeit,c84dbbfcec81e25a1978fe133882a258fb5b1626a8b09f16924ff8fa5a2503ca
-"veröffentlichen, veröf-","['Das Buch wurde gestern veröffentlicht. fentlicht, veröffentlichte, hat veröffentlicht']","veröffentlichen, veröf-",veröffentlichen,f54a1af02aebde7d62ca4dc4e37d8893b50cc68c6317aa28548ddd633231fad9
+"veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht",['Das Buch wurde gestern veröffentlicht.'],veröffentlichen,veröffentlichen,096838505798280bd16f06a3f1b707bc3af3905dc956d3e44fb8a10399bc5446
 offenbar,['Das Restaurant ist heute offenbar geschlossen.'],offenbar,offenbar,4cf1919e1b003f5206a81e23ab243f0b90db03668eb5f63f1d3a81dd49c5cc7b
 offiziell,['Sie bekommen von uns eine offizielle Einladung.'],offiziell,offiziell,c0615f5d25bcf7be4cfef81b7498bca23edac2665e2ba9a878da8a932ce83159
-"öffnen, öffnet, öffnete, hat geöffnet","['Wann öffnen die Geschäfte?', 'Kannst du bitte das Fenster öffnen?', 'Kannst Du mir helfen? Ich kann die Dose nicht öffnen.', 'Du öffnest die Datei mit einem Doppelklick.', 'Der Laden ist samstags bis 16 Uhr geöffnet.']",öffnen,öffnen,330d115b5d6ac2ab4d57467aaf8beae61f0730904cef8dac65cda79654f0cd1f
+"öffnen, öffnet, öffnete, hat geöffnet","['Wann öffnen die Geschäfte?', 'Kannst du bitte das Fenster öffnen?', 'Kannst du mir helfen? Ich kann die Dose nicht öffnen.', 'Du öffnest die Datei mit einem Doppelklick.', 'Der Laden ist samstags bis 16 Uhr geöffnet.']",öffnen,öffnen,330d115b5d6ac2ab4d57467aaf8beae61f0730904cef8dac65cda79654f0cd1f
 oft/öfter,"['Ich treffe mich oft mit meiner Freundin.', 'In letzter Zeit muss ich öfter Überstunden machen.']",oft,oft,e76174a69ca3ad415d259a9779626cbf4736b528d4194d56aa999a4a7a9e74ba
 ohne,"['Bitte eine Pizza ohne Zwiebeln.', 'Ohne Auto ist es schwer, zur Arbeit zu kommen.', 'Mein Sohn ist einfach mit dem Auto weggefahren, ohne mich zu fragen.', 'In diesem Haus kann man nichts machen, ohne dass die Nachbarn darüber reden.']",ohne,ohne,c53a0674de4ba7848f0f66c91bd30f70bfbde5cbf5b81f2136e8634d6b51f7d4
 "das Ohr, -en","['Ich habe Ohrenschmerzen.', 'Das Baby hat aber kleine Ohren!']",das Ohr,Ohr,2301a9466b88b2a40a50b35c65a6a73984c1769f8b07ff34de44918829e032de
@@ -2000,7 +2000,6 @@ scharf,"['Bei uns zu Hause essen wir immer sehr scharf.', 'Hast du kein schärfe
 "der Schatten, -",['Gestern hatten wir 25 Grad im Schatten.'],der Schatten,Schatten,72d187c6eaf4a3165ef4f6c4b1435fb25a672822915c0b617af7353953941b69
 "schätzen, schätzt, schätzte, hat geschätzt","['Wie alt ist der Chef? – Ich weiß nicht, ich schätze, um die Fünfzig.', 'Ich schätze deine gute Arbeit.']",schätzen,schätzen,4a65cc66b87c7556ecfcc249a14a93d657c3d140163fde40b2c28e2fe5cc8a66
 "schauen, schaut, schaute, hat geschaut",['Schau mal! Da vorne ist noch ein Platz frei.'],schauen,schauen,2b615b028b91afdc674968b796d5f99af8ea5aaf034db7c20c96bdf562f905b4
-zuschauen,['Möchtest du beim Fußballspiel zuschauen?'],zuschauen,zuschauen,9433d8c0468f006d850927eadc6367f7392e39ac5c9a599e629db01b6bf782d9
 "das Schaufenster, -",['Ich habe im Schaufenster eine schicke Bluse gesehen.'],das Schaufenster,Schaufenster,536e433e7a733624164e279e30f7514b2717a0479378692d42b0ffa93a2b028a
 "der Schauspieler, die Schauspielerin, -nen",['Der Film war toll. Die Schauspieler waren sehr gut.'],"der Schauspieler, die Schauspielerin",Schauspieler,836419b3ed6dd480d23698755b6b6ed666c9a57f5a94dd41d2ff4967fa2e4fc5
 "die Scheibe, -n","['Fünf Scheiben Käse, bitte.', 'Die Scheiben sind ganz schmutzig. Ich muss die Fenster putzen.']",die Scheibe,Scheibe,f78e2133b1006dceab525cf6da010a6685e46b71285ddd1d9f018d8854d2fae7
@@ -2041,7 +2040,7 @@ schmal,['Hier kannst du nicht parken. Die Straße ist zu schmal.'],schmal,schmal
 "der Schmuck, -e",['Dieser Schmuck ist von meiner Großmutter.'],der Schmuck,Schmuck,41521170e69670035aa1c9765e1b4c277e0a4b723328ef803dfcb1e16c6616f5
 der Schmutz,['Du hast Schmutz an deinen Schuhen.'],der Schmutz,Schmutz,b997e4a76f13472792a83828007759f052e3e3fede7835cc2f49a906efa44d64
 schmutzig,"['Leg bitte die schmutzige Wäsche in die Waschmaschine.', 'Das Handtuch ist schmutzig.']",schmutzig,schmutzig,89408372c8d9e79ad78029bb1fd472690bd5f2a4079b0765577063972668f9ae
-"verschmutzen,","['Die Fabrik verschmutzt den Fluss. verschmutzt, verschmutzte, hat verschmutzt']","verschmutzen,",verschmutzen,54ee9848d7821b5677c5969b9076644f7a35b0e2e21bfe0c09bb2904b9ca11dc
+"verschmutzen, verschmutzt, verschmutzte, hat verschmutzt",['Die Fabrik verschmutzt den Fluss.'],verschmutzen,verschmutzen,fdc527acad69591203ab4a0b2c1d5d8e5d6cc48203c43362bc5874b35e48272d
 der Schnee,['Im Februar gibt es oft viel Schnee.'],der Schnee,Schnee,5d15a2ff3b931669f8f4563e951f337acb9afee17db0680b192ba2f3fa3d755c
 "schneien, schneit, schneite, hat geschneit",['Heute Nacht hat es geschneit.'],schneien,schneien,1253b1de67e5a9280c4df5bc499bc20cd861a95af2a6b9dfe1a28a6e44e20e41
 "(sich) schneiden, schneidet, schnitt, hat geschnitten","['Das Messer schneidet nicht.', 'Hast du ein Pflaster? Ich habe mich geschnitten.', 'Wann lässt du deine Haare schneiden?']",sich schneiden,schneiden,85d51da8ae3617f9e3530862715a9d1cd547b87c48c966cc439271a7f6da7148
@@ -2429,7 +2428,7 @@ typisch,"['Im Hotel gab es typisch deutsches Essen.', 'Er kommt wieder zu spät,
 übermorgen,['Morgen kann ich nicht. Wir sehen uns übermorgen.'],übermorgen,übermorgen,25de22b1016a59d16d75376008cc3c1937461316ba04281b7326e2c622c0d123
 "übernachten, übernachtet, übernachtete, hat übernachtet",['Wir haben auf dem Campingplatz übernachtet.'],übernachten,übernachten,9a451535ed5ae365744a5af0048b01cf8f5cf7e2c859cb142fd25aad373dad89
 "die Übernachtung, -en",['In diesem Hotel kostet die Übernachtung mit Frühstück 90 Euro.'],die Übernachtung,Übernachtung,e069aeaf41388b14891a495fdbed834b05443ca40d6926ae76432a4d92d78cc6
-"übernehmen, übernimmt, übernahm, hat übernommen.",['Ich habe das Geschäft von meinem Vater übernommen.'],übernehmen,übernehmen,98be8cfa109a5ebec6a120c2ad8d6af5c2c8dd709a6048a7d3c4ff84fd53545c
+"übernehmen, übernimmt, übernahm, hat übernommen",['Ich habe das Geschäft von meinem Vater übernommen.'],übernehmen,übernehmen,ebda62178fbf5d536a4a340788c3b4922f39574a463a6b46f7c7ced9e34f689c
 "überprüfen, überprüft, überprüfte, hat überprüft","['Bitte überprüfen Sie, ob Ihr Name richtig geschrieben ist.']",überprüfen,überprüfen,d610e8c8fd909a93086ab5eccff9ec24785eeb97f586e8e29ace2bedbd7769d2
 "überqueren, überquert, überquerte, hat überquert",['Bitte die Straße nur an der Ampel überqueren.'],überqueren,überqueren,fbe418c1337117925460ff051d9f32c9eecb34b76111f413a138cad9d78632f1
 "überraschen, überrascht, überraschte, hat überrascht","['Ich bin ganz überrascht, dass die Wohnung so billig ist.']",überraschen,überraschen,4b70c9cefd10a4a1cc5524650ea26a12695c9442129a9b530d6fcbddf5e723cd
@@ -2481,7 +2480,7 @@ unglaublich,['Es ist unglaublich. Schon wieder so ein Unglück.'],unglaublich,un
 unheimlich,"['Ich mag dieses Haus nicht. Es sieht unheimlich aus.', 'Diese Person ist mir unheimlich.', 'Lass uns umkehren. Mir wird im Dunkeln unheimlich.', 'Die Prüfung war unheimlich schwer.']",unheimlich,unheimlich,ae00473c9c12100be6355fa4ee5f70ff987f0fe4b82f81d0964eb2c555716efd
 "die Uniform, -en","['In der Schule, die sie besucht, trägt man Uniformen.']",die Uniform,Uniform,4041341df1abd94b8e385141f825e5b076e837865fa00df86b39d5d75a1f5c24
 "die Universität, -en",['Mein Sohn studiert an der Universität.'],die Universität,Universität,13b46cf208abe2dd84b999331f29ab81fb1b246c69d9ef322c2bf5eb1334f72a
-unten,"['Wir wohnen im 3. Stock, meine Eltern unten im', 'Stock.', 'Sie ist mal kurz nach unten gegangen.']",unten,unten,bf65c1637f933b736080a53521bb980fb2942b53628fe6bdde9fc059e15238cf
+unten,"['Wir wohnen im dritten Stock, meine Eltern unten im ersten Stock.', 'Sie ist mal kurz nach unten gegangen.']",unten,unten,bf65c1637f933b736080a53521bb980fb2942b53628fe6bdde9fc059e15238cf
 unter,"['Unter uns wohnt eine Familie mit drei Kindern.', 'Die CDs sind im Regal unter dem Fernseher.']",unter,unter,266a2d74b84a28f0499540b5b1f138982d146a346d39e0a04f8ebecafdd0967c
 unter-,['Mein Pass ist im unteren Regal.'],unter-,unter-,ffdbd6c3556aee199f92d7e9870ebdff56839c5ca23d90fd5933fe912e032954
 "unterbrechen, unterbricht, unterbrach, hat unterbrochen","['Wir unterbrechen die Sendung für eine wichtige Nachricht.', 'Bitte unterbrich mich nicht, wenn ich spreche.']",unterbrechen,unterbrechen,c6d840f4dd05de232df42c687e9df7cbfb19a382ac5720b6b7d74773cc9714ef
@@ -2529,7 +2528,7 @@ verantwortlich,['Sie sind für Ihre Kinder verantwortlich.'],verantwortlich,vera
 "verbieten, verbietet, verbot, hat verboten",['Ich werde meinen Kindern das Rauchen verbieten.'],verbieten,verbieten,b4693fa5891c37ae921c9768acc4e9cc5c8de2bcc863402087fa20d6fb0e03bd
 "das Verbot, -e",['Ich bin für das Verbot dieses neuen Videospiels.'],das Verbot,Verbot,685209adc528d8762bfc1e68946d516a9735f0a474f6c535e3e92a00a3b32bb3
 verboten,['In den meisten Restaurants ist Rauchen verboten.'],verboten,verboten,2a87becac449ced6947ec825dbc7c60a1f3bb473ffda092e68979a050aa733eb
-"verbinden, verbindet, verband, hat verbunden","['Wir müssen die Wunde sofort verbinden.', 'Sie sind falsch verbunden! Hier ist']",verbinden,verbinden,a37889fc6a76c256076e78d0966e3f355be944c5e19a99b071554fee4714323c
+"verbinden, verbindet, verband, hat verbunden","['Wir müssen die Wunde sofort verbinden.', 'Sie sind falsch verbunden! Hier ist Müller, nicht Meyer.']",verbinden,verbinden,a37889fc6a76c256076e78d0966e3f355be944c5e19a99b071554fee4714323c
 "die Verbindung, -en","['Die Verbindung ist sehr gut. Ich kann direkt mit diesem Zug fahren und muss nicht umsteigen.', 'Kannst du bitte lauter sprechen? Die Verbindung ist sehr schlecht.']",die Verbindung,Verbindung,689a265ed03f1c1c82e2b20adabbf79abf21cb43cc11718a2505d51fe4abd119
 "verbrauchen, verbraucht, verbrauchte, hat verbraucht",['Wie viel Benzin verbraucht dein Auto?'],verbrauchen,verbrauchen,6b5964cc940f1862c2d2bc3d7d9c1961f2bcefa7dd70bdee5fa5b3a547521e63
 "der Verbrecher, die Verbrecherin, -nen",['Die Polizei hat den Verbrecher verhaftet.'],"der Verbrecher, die Verbrecherin",Verbrecher,a87ca772166d41352b631e5d3e02ac4157ea021fde0214a685abe25dc3cfaf5c
@@ -2807,7 +2806,6 @@ die Zahncreme/-pasta,['Die neue Zahncreme riecht sehr gut.'],die Zahncreme,Zahnc
 "die Zeile, -n",['Das Wort steht in der fünften Zeile von oben.'],die Zeile,Zeile,4174fe6e36ac2d9ec5e312f67eeae312896cd2b26555bec8e1f3cd3afc52f9e0
 "die Zeit, -en","['Ich habe heute keine Zeit.', 'Es ist noch früh. Wir haben noch viel Zeit.', 'Um welche Zeit sind Sie normalerweise zu Hause?', 'Um diese Zeit ist hier wenig los.']",die Zeit,Zeit,e0165ec66031cd78ca4bfaab64c20b66595b9888fdac2b8676806126605477ba
 "der Zeitpunkt, e",['Er ist krank. Das ist kein guter Zeitpunkt für einen Besuch.'],der Zeitpunkt,Zeitpunkt,bcd46a1051c1b65e1092b7aca4e163389bd22d490619926d46a5c859ee3b4e9e
-zurzeit,['Zurzeit habe ich sehr viel zu tun.'],zurzeit,zurzeit,b02b7fa8f8cbe7c468f6882381ca69357961fa5bf076f3e1bde0396cb0191124
 "die Zeitschrift, -en",['Diese Zeitschrift kaufe ich jede Woche.'],die Zeitschrift,Zeitschrift,582da4cf12aa239586e1aab14247632a80cb92cbfbf86e8c4bf63b57955381c1
 "die Zeitung, -en",['Ich lese manchmal Zeitung.'],die Zeitung,Zeitung,b9acb5b12881e267dade524512c9d067cd18dfe9b30bac6be3d570d31ae92086
 "das Zelt, -e",['Wir machen Camping-Urlaub und nehmen ein Zelt mit.'],das Zelt,Zelt,68ddc464e03ef8fba3011dd2365412d8a1261fe505a731878c2fa6fb7792bc05
@@ -2857,14 +2855,14 @@ die Zünder (A) (Pl.) → Streichholz; Zündholz,['Ich hätte gern eine Schachte
 "zunehmen, nimmt zu, nahm zu, hat zugenommen",['Ich habe im Urlaub 1 Kilo zugenommen.'],zunehmen,zunehmen,42f836bee3b6e001f6adeb2a7da1deb07a001cc534fc2fb2d3795168a01d8bd5
 "zurechtkommen, kommt zurecht, kam zurecht, ist zurechtgekommen",['Soll ich Ihnen helfen? - Danke. Ich komme allein zurecht.'],zurechtkommen,zurechtkommen,443b1a7eba74ea90ec18aab7d1dd1e32f39ed7e5c8d158a4f61fa395f450ec8d
 zurück/zurück-,"['Bitte eine Fahrkarte nach Frankfurt und zurück!', 'Wann wirst du zurückkommen?', 'Wann muss ich das Buch zurückgeben?']",zurück,zurück,af0993dcee413646451b1a0f5475cc267af7ff147df616f0dd271c3ed67ccaee
-zurzeit,['Zurzeit ist kein Zimmer frei.'],zurzeit,zurzeit,b02b7fa8f8cbe7c468f6882381ca69357961fa5bf076f3e1bde0396cb0191124
+zurzeit,"['Zurzeit ist kein Zimmer frei.', 'Zurzeit habe ich sehr viel zu tun.']",zurzeit,zurzeit,b02b7fa8f8cbe7c468f6882381ca69357961fa5bf076f3e1bde0396cb0191124
 "zusagen, sagt zu, sagte zu, hat zugesagt",['Meine Eltern haben uns zum Essen eingeladen. Ich habe zugesagt.'],zusagen,zusagen,8448e70644fde8810813975cf64bb6e4a62204ca91978c6d1b3770abab769448
-zusammen/zusammen-,"['Wir haben als Kinder oft zusammen gespielt.', 'Zahlen bitte. - Zusammen oder getrennt?', 'Das macht zusammen 10 Euro 80. 4. Fuß und Ball musst du zusammenschreiben – Fußball!']",zusammen,zusammen,50f6f74afd135e78b48c85b117e93c54887169725d7c35e7928d7962083023e0
+zusammen/zusammen-,"['Wir haben als Kinder oft zusammen gespielt.', 'Zahlen bitte. - Zusammen oder getrennt?', 'Das macht zusammen 10 Euro.', 'Fuß und Ball musst du zusammenschreiben – Fußball!']",zusammen,zusammen,50f6f74afd135e78b48c85b117e93c54887169725d7c35e7928d7962083023e0
 "die Zusammenarbeit, -en",['Sie sind der neue Kollege? Auf gute Zusammenarbeit!'],die Zusammenarbeit,Zusammenarbeit,46ccdd0cfd1b5999ccdfa04c83e3e9acdd1e62231700d9c49af99e3fa871e095
 "zusammenfassen, fasst zusammen, fasste zusammen, hat zusammengefasst",['Können Sie das bitte noch einmal kurz zusammenfassen?'],zusammenfassen,zusammenfassen,381dfeaf6ba0780461b9db2f7b892d206b0ef75611e14063e55c0fac1e2d002e
 "der Zusammenhang, ¨-e","['In diesem Zusammenhang möchte ich Sie auf zwei Bücher aufmerksam machen.', 'Was ist der Zusammenhang zwischen diesen beiden Themen?']",der Zusammenhang,Zusammenhang,a57bd9cde86d8ff76d27f53f5531cf6b9ffb2feb7b583780c0caf220786fec38
 zusätzlich,['Sie müssen in Zukunft eine Stunde zusätzlich arbeiten.'],zusätzlich,zusätzlich,6164290802b222a7a3ffc61df70ef5bb8aaaee2de75a689fbaa7c448aab42987
-"zuschauen, schaut zu, schaute zu, hat zugeschaut","['Willst du mitspielen? – Nein, ich schaue lieber nur zu.']",zuschauen,zuschauen,9d31937dcf2ca5c49be41b9cf61e69a582fc33d69a47218cb74986a31263fb7b
+"zuschauen, schaut zu, schaute zu, hat zugeschaut","['Willst du mitspielen? – Nein, ich schaue lieber nur zu.', 'Möchtest du beim Fußballspiel zuschauen?']",zuschauen,zuschauen,9d31937dcf2ca5c49be41b9cf61e69a582fc33d69a47218cb74986a31263fb7b
 "der Zuschauer, die Zuschauerin, -nen","['Liebe Zuschauer, wir wünschen Ihnen gute Unterhaltung.']","der Zuschauer, die Zuschauerin",Zuschauer,0840731ebce90f7d6401daeff13c0b12cc0b3a878df2a7cae050f751c0bf7ae3
 "der Zuschlag, ¨-e",['Für diesen Zug müssen Sie einen Zuschlag zahlen.'],der Zuschlag,Zuschlag,295bee8f4d3fa29386b6352b64a408c6a674444adc67e7ce00ce534502dd28ac
 "zu sein, ist zu, war zu, ist zu gewesen","['Am Sonntag sind die die meisten Läden zu.', 'Das Fenster war nicht zu.']",zu sein,zu sein,84b5b20625f1362931d65c076896e276f8501f88846b3ef9f8a5eeeec18b7771

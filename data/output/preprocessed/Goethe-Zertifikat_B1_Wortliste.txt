@@ -3744,8 +3744,8 @@ geschieden                    Ich bin seit drei Jahren geschieden.
 das Geschirr                  Für die Geburtstagsfeier brauche ich
                               Geschirr für zwölf Personen.
 
-das Geschlecht, -er           Bitte kreuzen Sie an: „Geschlecht:
-                              weiblich/männlich“.
+das Geschlecht, -er           Bitte kreuzen Sie an: 'Geschlecht:
+                              weiblich/männlich'.
 
 der Geschmack                 Ich möchte bitte Kaugummi mit
                               Erdbeergeschmack.
@@ -6585,9 +6585,9 @@ offen                           1. Komm rein. Die Haustür ist offen. (A)
                                2. Ich möchte in der Öffentlichkeit nicht
                                   streiten.                               
                                                                           
-    veröffentlichen, veröf-       Das Buch wurde gestern veröffentlicht.
-  fentlicht, veröffentlichte,                                             
-          hat veröffentlicht                                              
+veröffentlichen, veröf-           Das Buch wurde gestern veröffentlicht.
+fentlicht, veröffentlichte,                                               
+hat veröffentlicht                                                        
                                                                           
 offenbar                          Das Restaurant ist heute offenbar
                                   geschlossen.                            
@@ -6597,7 +6597,7 @@ offiziell                         Sie bekommen von uns eine offizielle
 
 öffnen, öffnet, öffnete,      1. Wann öffnen die Geschäfte?
 hat geöffnet                  2. Kannst du bitte das Fenster öffnen?
-                              3. Kannst Du mir helfen? Ich kann die
+                              3. Kannst du mir helfen? Ich kann die
                                  Dose nicht öffnen.
                               4. Du öffnest die Datei mit einem
                                  Doppelklick.
@@ -7547,8 +7547,8 @@ der Sand, -e                     Die Kinder spielen gern im Sand.
 der Sänger, -                     Wie findest du diesen Sänger? − Ich       
 die Sängerin, -nen                finde seine Stimme toll.                  
 
-satt                              Möchten Sie noch etwas? – Nein            
-                                  danke, ich bin satt.                      
+satt                              Möchten Sie noch etwas? – Nein
+                                  danke, ich bin satt.
 
 der Satz, ¨-e                     Den letzten Satz verstehe ich nicht.      
                                                                             
@@ -7610,9 +7610,6 @@ schätzte, hat geschätzt            ich schätze, um die Fünfzig.
 
 schauen, schaut, schaute,        Schau mal! Da vorne ist noch ein Platz
 hat geschaut                     frei.
-
-                  zuschauen      Möchtest du beim Fußballspiel
-                                 zuschauen?
 
          das Schaufenster, -     Ich habe im Schaufenster eine schicke
                                  Bluse gesehen.
@@ -7723,8 +7720,8 @@ schlecht                      1. Das Wetter ist schlecht.
                                  dich nicht gut.
                               9. Der Film war nicht schlecht. Er hat mir   
                                  ganz gut gefallen.                        
-                                                                           
-schließen, schließt,          1. Bitte, schließen Sie die Tür.             
+
+schließen, schließt,          1. Bitte, schließen Sie die Tür.
 schloss, hat geschlossen      2. Die Tür schließt automatisch.
                               3. Die Banken sind am Samstag                
                                  geschlossen.
@@ -7785,10 +7782,8 @@ der Schmutz                      Du hast Schmutz an deinen Schuhen.
                                  Waschmaschine.
                               2. Das Handtuch ist schmutzig.
 
-           verschmutzen,         Die Fabrik verschmutzt den Fluss.
-             verschmutzt,
-            verschmutzte,
-          hat verschmutzt
+verschmutzen, verschmutzt,        Die Fabrik verschmutzt den Fluss.
+verschmutzte, hat verschmutzt
 
 der Schnee                       Im Februar gibt es oft viel Schnee.
 
@@ -9211,7 +9206,7 @@ hat übernachtet
                                                                         
 übernehmen, übernimmt,         Ich habe das Geschäft von meinem
 übernahm,                      Vater übernommen.                        
-hat übernommen.                                                         
+hat übernommen                                                          
 
 überprüfen, überprüft,         Bitte überprüfen Sie, ob Ihr Name        
 überprüfte, hat überprüft      richtig geschrieben ist.                 
@@ -9397,8 +9392,8 @@ die Uniform, -en                 In der Schule, die sie besucht, trägt
 
 die Universität, -en              Mein Sohn studiert an der Universität.
 
-unten                          1. Wir wohnen im 3. Stock, meine Eltern
-                                  unten im 1. Stock.
+unten                          1. Wir wohnen im dritten Stock, meine Eltern
+                                  unten im ersten Stock.
                                2. Sie ist mal kurz nach unten gegangen.
 
 unter                          1. Unter uns wohnt eine Familie mit drei
@@ -9579,11 +9574,11 @@ verbot, hat verboten               Rauchen verbieten.
                     verboten       In den meisten Restaurants ist Rauchen
                                    verboten.
 
-verbinden, verbindet,            1. Wir müssen die Wunde sofort
-verband, hat verbunden              verbinden.
+verbinden, verbindet,            1. Wir müssen die Wunde sofort verbinden.
+verband, hat verbunden           2. Sie sind falsch verbunden! Hier ist Müller, nicht Meyer.
 
-                            2. Sie sind falsch verbunden! Hier ist      
-                               Müller, nicht Meyer.                     
+                                                                        
+                                                                        
                                                                         
   die Verbindung, -en     1. Die Verbindung ist sehr gut. Ich kann      
                              direkt mit diesem Zug fahren und muss
@@ -10610,7 +10605,7 @@ die Zeit, -en                    1. Ich habe heute keine Zeit.
              der Zeitpunkt, -      Er ist krank. Das ist kein guter Zeit-     
                             e      punkt für einen Besuch.                    
 
-                       zurzeit     Zurzeit habe ich sehr viel zu tun.         
+                                                                              
                                                                               
 die Zeitschrift, -en               Diese Zeitschrift kaufe ich jede Woche.
                                                                               
@@ -10733,8 +10728,9 @@ zufrieden                       1. Meine Kinder haben heute Zeugnisse
                                    Balkon.                                    
 
 der Zugang, ¨-e                 1. Der Zugang zu diesem Haus ist              
-                                   schwierig.
-                                2. Hast du Zugang zum Internet?               
+                                   schwierig.                                 
+                                2. Hast du Zugang zum Internet?
+                                                                              
                                                                               
                   zugänglich       Der Park ist für alle zugänglich.
                                                                               
@@ -10795,7 +10791,8 @@ zurück/zurück-                1. Bitte eine Fahrkarte nach Frankfurt
                               2. Wann wirst du zurückkommen?
                               3. Wann muss ich das Buch zurückgeben?
 
-zurzeit                         Zurzeit ist kein Zimmer frei.
+zurzeit                         1. Zurzeit ist kein Zimmer frei.
+                                2. Zurzeit habe ich sehr viel zu tun.
 
 zusagen, sagt zu, sagte zu,     Meine Eltern haben uns zum Essen
 hat zugesagt                    eingeladen. Ich habe zugesagt.
@@ -10804,7 +10801,7 @@ zusammen/zusammen-            1. Wir haben als Kinder oft zusammen
                                  gespielt.
                               2. Zahlen bitte. - Zusammen oder
                                  getrennt?
-                              3. Das macht zusammen 10 Euro 80.
+                              3. Das macht zusammen 10 Euro.
                               4. Fuß und Ball musst du zusammen-
                                  schreiben – Fußball!
 
@@ -10825,9 +10822,9 @@ der Zusammenhang, ¨-e         1. In diesem Zusammenhang möchte ich
 zusätzlich                      Sie müssen in Zukunft eine Stunde
                                 zusätzlich arbeiten.
 
-zuschauen, schaut zu,           Willst du mitspielen? – Nein, ich
-schaute zu,                     schaue lieber nur zu.
-hat zugeschaut
+zuschauen, schaut zu,           1. Willst du mitspielen? – Nein, ich
+schaute zu,                        schaue lieber nur zu.
+hat zugeschaut                  2. Möchtest du beim Fußballspiel zuschauen?
 
           der Zuschauer, -      Liebe Zuschauer, wir wünschen Ihnen
      die Zuschauerin, -nen      gute Unterhaltung.
