@@ -211,5 +211,54 @@
   },
   "vertreten, vertritt, vertrat, hat vertreten": {
     "Wer vertritt Sie, wenn Sie Urlaub machen?": "Кой ви замества, когато сте на почивка?"
+  },
+  "verschwinden, verschwindet, verschwand, ist verschwunden": {
+    "Mein Ausweis ist verschwunden. Hast du ihn vielleicht gesehen?": "Личната ми карта е изчезнала. Виждал ли си я?"
+  },
+  "verraten, verrät, verriet, hat verraten": {
+    "Wer hat dir das Geheimnis verraten?": "Кой ти издаде тайната?"
+  },
+  "verbinden, verbindet, verband, hat verbunden": {
+    "Sie sind falsch verbunden! Hier ist Müller, nicht Meyer.": "Свързани сте неправилно! Това е Мюлер, а не Майер."
+  },
+  "verabredet": {
+    "Tut mir leid, ich habe keine Zeit. Ich bin mit meiner Freundin verabredet.": "Съжалявам, нямам време. Уговорил съм се с приятелката си."
+  },
+  "unten": {
+    "Sie ist mal kurz nach unten gegangen.": "Тя слезе долу за момент."
+  },
+  "umsteigen, steigt um, stieg um, ist umgestiegen": {
+    "In Ulm müssen Sie umsteigen.": "В Улм трябва да се прекачите."
+  },
+  "umso": {
+    "Ich kann dir nicht nur heute, sondern auch morgen helfen. – Umso besser!": "Мога да ви помогна не само днес, но и утре. - Още по-добре!"
+  },
+  "um ... zu": {
+    "Um gesund zu bleiben, musst du Sport machen und Gemüse essen.": "За да си здрав, трябва да правиш упражнения и да ядеш зеленчуци."
+  },
+  "trocken": {
+    "Die Wäsche ist noch nicht trocken.": "Прането още не е изсъхнало.",
+    "Hoffentlich regnet es bald. Alles ist ganz trocken.": "Дано скоро завали. Всичко е напълно сухо."
+  },
+  "trinken, trinkt, trank, hat getrunken": {
+    "Trinken Sie einen Tee mit uns?": "Искате ли да пиете чай с нас?"
+  },
+  "Traum-": {
+    "Mein Traumberuf ist Feuerwehrmann.": "Мечтаната от мен работа е да бъда пожарникар."
+  },
+  "theoretisch": {
+    "Ich habe die theoretische Prüfung bestanden. Nach der praktischen habe ich den Führerschein.": "Издържах теоретичния изпит. След практическия изпит получавам шофьорската книжка."
+  },
+  "technisch": {
+    "Sind Sie technisch interessiert?": "Интересувате ли се от технологии?"
+  },
+  "taub": {
+    "Bist du taub? Ich spreche mit dir!": "Ти глух ли си? Аз ти говоря!"
+  },
+  "tanken, tankt, tankte, hat getankt": {
+    "Bitte einmal volltanken!": "Моля, напълнете резервоара догоре!"
+  },
+  "sympatisch": {
+    "Ich finde unsere neue Kollegin sehr sympathisch.": "Нашата нова колежка ми е много симпатична."
   }
 }

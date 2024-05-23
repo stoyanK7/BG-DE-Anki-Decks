@@ -619,5 +619,313 @@
   ],
   "versprechen, verspricht, versprach, hat versprochen": [
     "обещавам"
+  ],
+  "verschwinden, verschwindet, verschwand, ist verschwunden": [
+    "изчезвам"
+  ],
+  "verschmutzen, verschmutzt, verschmutzte, hat verschmutzt": [
+    "замърсявам"
+  ],
+  "verschieden": [
+    "различен"
+  ],
+  "verschieben, verschiebt, verschob, hat verschoben": [
+    "отсрочвам, отлагам",
+    "премествам"
+  ],
+  "verreisen, verreist, verreiste, ist verreist": [
+    "заминавам",
+    "отпътувам"
+  ],
+  "verraten, verrät, verriet, hat verraten": [
+    "издавам"
+  ],
+  "verpflegen, verpflegt, verpflegte, hat verpflegt": [
+    "грижа се за прехраната"
+  ],
+  "verpacken, verpackt, verpackte, hat verpackt": [
+    "опаковам"
+  ],
+  "vernünftig": [
+    "разумен"
+  ],
+  "vermuten, vermutet, vermutete, hat vermutet": [
+    "подозирам",
+    "допускам"
+  ],
+  "vermissen, vermisst, vermisste, hat vermisst": [
+    "липсва ми (нкг.)"
+  ],
+  "vermieten, vermietet, vermietete, hat vermietet": [
+    "давам под наем"
+  ],
+  "vermeiden, vermeidet, vermied, hat vermieden": [
+    "избягвам"
+  ],
+  "verlängern, verlängert, verlängerte, hat verlängert": [
+    "удължавам"
+  ],
+  "verliebt": [
+    "влюбен"
+  ],
+  "verlassen, verlässt, verließ, hat verlassen": [
+    "напускам"
+  ],
+  "verlangen, verlangt, verlangte, hat verlangt": [
+    "изисквам",
+    "поисквам"
+  ],
+  "verkaufen, verkauft, verkaufte, hat verkauft": [
+    "продавам"
+  ],
+  "verhindern, verhindert, verhinderte, hat verhindert": [
+    "предотвратявам"
+  ],
+  "verheiratet": [
+    "омъжена",
+    "женен"
+  ],
+  "verhaften, verhaftet, verhaftete, hat verhaftet": [
+    "задържам",
+    "арестувам"
+  ],
+  "vergrößern, vergrößert, vergrößerte, hat vergrößert": [
+    "уголемявам",
+    "разширявам",
+    "увеличавам"
+  ],
+  "vergnügt": [
+    "развеселен",
+    "доволен",
+    "радостен"
+  ],
+  "vergleichen, vergleicht, verglich, hat verglichen": [
+    "сравнявам"
+  ],
+  "vergessen, vergisst, vergaß, hat vergessen": [
+    "забравям"
+  ],
+  "vereinbaren, vereinbart, vereinbarte, hat vereinbart": [
+    "уговарям",
+    "споразумявам се"
+  ],
+  "verdienen, verdient, verdiente, hat verdient": [
+    "печеля"
+  ],
+  "verbringen, verbringt, verbrachte, hat verbracht": [
+    "прекарвам (време)"
+  ],
+  "verbrauchen, verbraucht, verbrauchte, hat verbraucht": [
+    "консумирам",
+    "изразходвам"
+  ],
+  "verbinden, verbindet, verband, hat verbunden": [
+    "свързвам",
+    "превързвам"
+  ],
+  "verbieten, verbietet, verbot, hat verboten": [
+    "забранявам"
+  ],
+  "verabredet": [
+    "уговорен"
+  ],
+  "untersuchen, untersucht, untersuchte, hat untersucht": [
+    "преглеждам"
+  ],
+  "unterstützen, unterstützt, unterstützte, hat unterstützt": [
+    "подкрепям"
+  ],
+  "unterstreichen, unterstreicht, unterstrich, hat unterstrichen": [
+    "подчертавам"
+  ],
+  "unterschreiben, unterschreibt, unterschrieb, hat unterschrieben": [
+    "подписвам"
+  ],
+  "unterschiedlich": [
+    "различен"
+  ],
+  "unterscheiden, unterscheidet, unterschied, hat unterschieden": [
+    "различавам"
+  ],
+  "untersagt": [
+    "забранен"
+  ],
+  "unterrichten, unterrichtet, unterrichtete, hat unterrichtet": [
+    "преподавам"
+  ],
+  "unternehmen, unternimmt, unternahm, hat unternommen": [
+    "предприемам"
+  ],
+  "unterlassen, unterlässt, unterließ, hat unterlassen": [
+    "не извършвам",
+    "не правя"
+  ],
+  "unterbrechen, unterbricht, unterbrach, hat unterbrochen": [
+    "прекъсвам"
+  ],
+  "unter-": [
+    "долен"
+  ],
+  "unten": [
+    "долу"
+  ],
+  "unheimlich": [
+    "страшен",
+    "ужасен"
+  ],
+  "ungewöhnlich": [
+    "необичаен"
+  ],
+  "ungefähr": [
+    "приблизително",
+    "около"
+  ],
+  "unentschieden": [
+    "нерешителен",
+    "равен резултат (спорт)"
+  ],
+  "unbedingt": [
+    "абсолютно",
+    "непременно"
+  ],
+  "umziehen, zieht um, zog um, ist umgezogen": [
+    "премествам се",
+    "пренасям се"
+  ],
+  "umtauschen, tauscht um, tauschte um, hat umgetauscht": [
+    "сменям/заменям (нещо)",
+    "обменям (пари)"
+  ],
+  "umsteigen, steigt um, stieg um, ist umgestiegen": [
+    "прекачвам се"
+  ],
+  "umsonst": [
+    "безплатно",
+    "даром"
+  ],
+  "umso": [
+    "толкова по-",
+    "още по-"
+  ],
+  "umgekehrt": [
+    "обратно",
+    "наопаки"
+  ],
+  "umgehen, geht um, ging um, ist umgegangen": [
+    "общувам"
+  ],
+  "umarmen, umarmt, umarmte, hat umarmt": [
+    "прегръщам"
+  ],
+  "um … zu": [
+    "за да ..."
+  ],
+  "um": [
+    "в",
+    "около",
+    "край",
+    "с"
+  ],
+  "tödlich": [
+    "смъртоносен"
+  ],
+  "tun, tut, tat, hat getan": [
+    "върша",
+    "правя",
+    "слагам"
+  ],
+  "träumen, träumt, träumte, hat geträumt": [
+    "сънувам"
+  ],
+  "trocknen, trocknet, trocknete, hat/ist getrocknet": [
+    "суша",
+    "изсушавам"
+  ],
+  "trocken": [
+    "сух",
+    "изсъхнал"
+  ],
+  "trinken, trinkt, trank, hat getrunken": [
+    "пия"
+  ],
+  "treu": [
+    "верен",
+    "предан"
+  ],
+  "treten, tritt, trat, hat/ist getreten": [
+    "стъпвам",
+    "ритам"
+  ],
+  "treiben, treibt, trieb, hat getrieben": [
+    "занимавам се"
+  ],
+  "treffen, trifft, traf, hat getroffen": [
+    "срещам"
+  ],
+  "transportieren, transportiert, transportierte, hat transportiert": [
+    "транспортирам",
+    "превозвам"
+  ],
+  "trainieren, trainiert, trainierte, hat trainiert": [
+    "тренирам"
+  ],
+  "tragen, trägt, trug, hat getragen": [
+    "нося",
+    "поемам"
+  ],
+  "total": [
+    "напълно"
+  ],
+  "tippen, tippt, tippte, hat getippt": [
+    "пиша (на клавиатура)"
+  ],
+  "testen, testet, testete, hat getestet": [
+    "тествам"
+  ],
+  "telefonieren, telefoniert, telefonierte, hat telefoniert": [
+    "телефонирам",
+    "говоря по телефона"
+  ],
+  "teilnehmen, nimmt teil, nahm teil, hat teilgenommen": [
+    "участвам"
+  ],
+  "teilen, teilt, teilte, hat geteilt": [
+    "разделям",
+    "споделям"
+  ],
+  "Tee ziehen lassen": [
+    "оставям чая да се запари"
+  ],
+  "tauschen, tauscht, tauschte, hat getauscht": [
+    "разменям"
+  ],
+  "tauchen, taucht, tauchte, ist/hat getaucht": [
+    "гмуркам се"
+  ],
+  "taub": [
+    "глух"
+  ],
+  "tanzen, tanzt, tanzte, hat getanzt": [
+    "танцувам"
+  ],
+  "tanken, tankt, tankte, hat getankt": [
+    "зареждам (с гориво)"
+  ],
+  "süchtig": [
+    "пристрастен"
+  ],
+  "sämtliche": [
+    "всички"
+  ],
+  "suchen, sucht, suchte, hat gesucht": [
+    "търся"
+  ],
+  "stürzen, stürzt, stürzte, ist gestürzt": [
+    "падам",
+    "обръщам се"
+  ],
+  "stören, stört, störte, hat gestört": [
+    "смущавам",
+    "безпокоя"
   ]
 }
