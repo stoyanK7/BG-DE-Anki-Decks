@@ -132,3 +132,26 @@ for _, row in df.iterrows():
 
 df.to_csv(POSTPROCESSED_WORDLIST_CSV_PATH, index=False)
 logger.info(f'Saved postprocessed CSV at {POSTPROCESSED_WORDLIST_CSV_PATH}')
+
+
+dicts = []
+for _, row in df.iterrows():
+    ex_de = ast.literal_eval(row['example'])
+    ex_bg = ast.literal_eval(row['example_translation'])
+
+    examples_list = []
+    for de, bg in zip(ex_de, ex_bg):
+        examples_list.append({'example_de': de, 'example_bg': bg})
+
+    item = {
+        'manually_verified': False,
+        'word_de': row['word'],
+        'word_bg': ', '.join(ast.literal_eval(row['word_translation'])),
+        'examples': examples_list,
+    }
+    dicts.append(item)
+
+import json
+
+with open('data.json', 'w', encoding='utf-8') as f:
+    json.dump(dicts, f, ensure_ascii=False, indent=4)
