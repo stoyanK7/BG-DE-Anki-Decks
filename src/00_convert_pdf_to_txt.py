@@ -41,5 +41,5 @@ if completed_process.returncode != 0:
     logger.error(completed_process.stderr)
     raise SystemExit('Aborting')
 
-logger.info('Converted PDF to TXT')
-logger.info(f'Saved TXT at {WORDLIST_TXT_PATH}')
+logger.info('Successfully converted PDF to TXT')
+logger.info(f'Saved raw TXT wordlist at {WORDLIST_TXT_PATH}')

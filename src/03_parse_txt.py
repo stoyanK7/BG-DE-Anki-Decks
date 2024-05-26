@@ -1,34 +1,31 @@
-"""Parse the TXT file - extract words ane examples in a CSV file."""
+"""Parse the preprocessed TXT file.
+
+Extract words and examples to a CSV file.
+"""
 
 import os.path
 import re
-import sys
 
 import pandas as pd
 from utils.constants import PREPROCESSED_WORDLIST_TXT_PATH, WORDLIST_CSV_PATH
 from utils.logger import logger
 
 if not os.path.exists(PREPROCESSED_WORDLIST_TXT_PATH):
-    logger.error(f'{PREPROCESSED_WORDLIST_TXT_PATH} not found')
-    sys.exit()
+    logger.error(
+        'Preprocessed wordlist TXT file not found. Did you run "02_preprocess_txt.py"?'
+    )
+    logger.error(f'{PREPROCESSED_WORDLIST_TXT_PATH} does not exist')
+    raise SystemExit('Aborting')
 
-with open(PREPROCESSED_WORDLIST_TXT_PATH, 'r') as file:
-    lines: list[str] = file.readlines()
+with open(PREPROCESSED_WORDLIST_TXT_PATH, 'r', encoding='utf-8') as file:
+    lines = file.readlines()
 
 # Remove lines with single letters A B C D E F G ...
-# as those mess with the parsing.F
+# as those mess with the parsing.
 letter_regex = r'^[A-Z]$'
 for line in lines:
     if re.match(letter_regex, line.strip()):
         lines.remove(line)
-
-current_word: str | None = None
-current_example: str | None = None
-# Hold the final result which will be exported to CSV.
-words = []
-examples = []
-# Pattern matching ' 1. ' or ' 2. ' etc...
-example_start_pattern = r'\s*(\s\s\d+\.\s).+'
 
 
 def is_word_letter(char: str) -> bool:
@@ -50,6 +47,14 @@ def is_word_letter(char: str) -> bool:
         '&',
     ]
 
+
+current_word: str | None = None
+current_example: str | None = None
+# Hold the final result which will be exported to CSV.
+words = []
+examples = []
+# Pattern matching ' 1. ' or ' 2. ' etc...
+example_start_pattern = r'\s*(\s\s\d+\.\s).+'
 
 for line in lines:
     # If line is a newline and there is a current_word, save.
@@ -73,7 +78,7 @@ for line in lines:
             words.append(current_word)
             examples.append(current_example)
 
-        line_sections: list[str] = line.split('  1. ')
+        line_sections = line.split('  1. ')
         # First section is word.
         current_word = line_sections[0].strip() + '\n'
         # Second section is example.
@@ -83,14 +88,14 @@ for line in lines:
     # a second/third/... example.
     elif re.search(example_start_pattern, line):
         search = re.search(example_start_pattern, line)
-        example_start: str = search.group(1)
+        example_start = search.group(1)
         # Get index of '  2. '
         idx_example_start: int = line.find(example_start)
         # Before the index is a word. There could be nothing, but we
         # append it anyway.
-        word: str = line[:idx_example_start].strip() + '\n'
+        word = line[:idx_example_start].strip() + '\n'
         # After the index is the example.
-        example: str = line[idx_example_start - 1 :].strip() + '\n'
+        example = line[idx_example_start - 1 :].strip() + '\n'
 
         # If there is a word, append to it, else append to last inserted word.
         # The latter are common cases where a word spans over multiple columns.
@@ -107,8 +112,8 @@ for line in lines:
     #    3. Just continuation of example.
     elif is_word_letter(line.lstrip()[0]) and current_word:
         # Reduce all 2 or more whitespaces to just 2, so we can split the line.
-        line: str = re.sub(r'\s{2,}', '  ', line)
-        line_sections: list[str] = line.split('  ')
+        line = re.sub(r'\s{2,}', '  ', line)
+        line_sections = line.split('  ')
         # Remove empty strings.
         line_sections = [x for x in line_sections if x]
         if len(line_sections) == 2:
@@ -125,13 +130,13 @@ for line in lines:
         else:
             # Anything other than 1 or 2 shouldn't happen.
             logger.error(f'Weird edge case at line "{line}"')
-            sys.exit()
+            raise SystemExit('Aborting')
 
     # Same as above, however, this time it would be a new word/example or both.
     elif is_word_letter(line.lstrip()[0]) and not current_word:
         # Reduce all 2 or more whitespaces to just 2, so we can split the line.
-        line: str = re.sub(r'\s{2,}', '  ', line)
-        line_sections: list[str] = line.split('  ')
+        line = re.sub(r'\s{2,}', '  ', line)
+        line_sections = line.split('  ')
         # Remove empty strings.
         line_sections = [x for x in line_sections if x]
         if len(line_sections) == 2:
@@ -148,7 +153,7 @@ for line in lines:
         else:
             # Anything other than 1 or 2 shouldn't happen.
             logger.error(f'Weird edge case at line "{line}"')
-            sys.exit()
+            raise SystemExit('Aborting')
 
     # Else we have something that isn't a word letter - most likely a digit.
     # Add it to example.
@@ -165,4 +170,5 @@ df = pd.DataFrame({'word': words, 'example': examples})
 logger.info(f'Parsed {df.shape[0]} words')
 
 df.to_csv(WORDLIST_CSV_PATH, index=False)
-logger.info(f'Saved raw CSV wordlist {WORDLIST_CSV_PATH}')
+logger.info('Successfully parsed TXT')
+logger.info(f'Saved raw CSV wordlist at {WORDLIST_CSV_PATH}')

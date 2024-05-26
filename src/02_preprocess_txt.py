@@ -1,8 +1,12 @@
-"""Preprocess the TXT file - combine all pages in one long one-column file."""
+"""Preprocess the cleaned TXT file.
+
+Expand all the pages into a single-column super-long page.
+
+Reason for preprocessing is to allow parsing of the file.
+"""
 
 import os.path
 import re
-import sys
 from collections import Counter
 
 from utils.constants import (
@@ -13,19 +17,23 @@ from utils.constants import (
 from utils.logger import logger
 
 if not os.path.exists(CLEANED_WORDLIST_TXT_PATH):
-    logger.error(f'{CLEANED_WORDLIST_TXT_PATH} not found')
-    sys.exit()
+    logger.error(
+        'Cleaned wordlist TXT file not found. Did you run "01_clean_txt.py"?'
+    )
+    logger.error(f'{CLEANED_WORDLIST_TXT_PATH} does not exist')
+    raise SystemExit('Aborting')
 
-with open(CLEANED_WORDLIST_TXT_PATH, 'r') as file:
-    contents: str = file.read()
+with open(CLEANED_WORDLIST_TXT_PATH, 'r', encoding='utf-8') as file:
+    contents = file.read()
 
-pages: list[str] = contents.split(f'\n{PAGE_BREAK}\n')
+pages = contents.split(f'\n{PAGE_BREAK}\n')
 
-# Holds final result which will be saved to a file for parsing later.
+# Holds final result. Will be saved to a file.
 preprocessed_lines = []
 
+# Do the actual preprocessing.
 for page in pages:
-    lines: list[str] = page.split('\n')
+    lines = page.split('\n')
 
     # Count occurrences of '  [A-Za-z]' in the middle of the page.
     # The most common index will correspond to the middle of the page.
@@ -42,6 +50,7 @@ for page in pages:
     # Find the most common index.
     counter = Counter(indices_occurrences)
     most_common_idx: tuple[int, int] = counter.most_common(1)[0]
+
     # First int is index, second is frequency.
     most_common_idx: int = most_common_idx[0]
 
@@ -64,10 +73,16 @@ for page in pages:
     preprocessed_lines.append(left_page_column_content)
     preprocessed_lines.append(right_page_column_content)
 
-preprocessed_content: str = '\n'.join(preprocessed_lines).strip()
+# Convert to string, so we can use Regex to reduce amount of newlines.
+preprocessed_content = '\n'.join(preprocessed_lines).strip()
+
 # Convert 3 or more newlines into 2 newlines.
 preprocessed_content = re.sub(r'\n{3,}', '\n\n', preprocessed_content)
 
-with open(PREPROCESSED_WORDLIST_TXT_PATH, 'w') as file:
+with open(PREPROCESSED_WORDLIST_TXT_PATH, 'w', encoding='utf-8') as file:
     file.write(preprocessed_content)
-    logger.info(f'Saved preprocessed TXT at {PREPROCESSED_WORDLIST_TXT_PATH}')
+
+logger.info('Successfully preprocessed TXT')
+logger.info(
+    f'Saved preprocessed TXT wordlist at {PREPROCESSED_WORDLIST_TXT_PATH}'
+)

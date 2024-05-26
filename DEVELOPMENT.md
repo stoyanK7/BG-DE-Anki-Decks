@@ -7,7 +7,7 @@ This document describes the process for running this application on your local c
 > [!NOTE]  
 > The software ran smoothly on Ubuntu 22.04. However, there's no guarantee it will work on Windows, despite using adaptable modules.
 
-You need [`pdftotext`](https://www.xpdfreader.com/pdftotext-man.html) to run the conversion script([convert_pdf_to_txt.py](src/convert_pdf_to_txt.py)). `pdftotext` is included with [the `poppler` library](https://poppler.freedesktop.org/).
+You need [`pdftotext`](https://www.xpdfreader.com/pdftotext-man.html) to run the conversion script([convert_pdf_to_txt.py](src/00_convert_pdf_to_txt.py)). `pdftotext` is included with [the `poppler` library](https://poppler.freedesktop.org/).
 
 ```shell
 git clone https://github.com/stoyanK7/BG-DE-anki-decks.git
@@ -18,9 +18,9 @@ pipenv sync --dev
 ## Run the whole pipeline
 
 ```shell
-python3 src/clean_txt.py \
-    && python3 src/preprocess_txt.py \
-    && python3 src/parse_txt.py \
+python3 src/01_clean_txt.py \
+    && python3 src/02_preprocess_txt.py \
+    && python3 src/03_parse_txt.py \
     && python3 src/clean_csv.py \
     && python3 src/preprocess_csv.py \
     && python3 src/translate.py \
