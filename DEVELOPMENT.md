@@ -21,10 +21,10 @@ pipenv sync --dev
 python3 src/01_clean_txt.py \
     && python3 src/02_preprocess_txt.py \
     && python3 src/03_parse_txt.py \
-    && python3 src/clean_csv.py \
-    && python3 src/preprocess_csv.py \
-    && python3 src/translate.py \
-    && python3 src/create_audio.py \
+    && python3 src/04_clean_csv.py \
+    && python3 src/05_preprocess_csv.py \
+    && python3 src/07_translate.py \
+    && python3 src/06_create_audio.py \
     && python3 src/postprocess_csv.py \
     && python3 src/generate_deck.py
 ```

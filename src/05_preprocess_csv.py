@@ -1,9 +1,10 @@
-"""Preprocess the CSV file - prepare for translation and creation of audio and images."""
+"""Preprocess the CSV file.
 
-import hashlib
+Prepare for translation and creation of audio files.
+"""
+
 import os
 import re
-import sys
 
 import pandas as pd
 from utils.constants import (
@@ -13,8 +14,11 @@ from utils.constants import (
 from utils.logger import logger
 
 if not os.path.exists(CLEANED_WORDLIST_CSV_PATH):
-    logger.error(f'{CLEANED_WORDLIST_CSV_PATH} not found')
-    sys.exit()
+    logger.error(
+        'Cleaned wordlist CSV file not found. Did you run "04_clean_csv.py"?'
+    )
+    logger.error(f'{CLEANED_WORDLIST_CSV_PATH} does not exist')
+    raise SystemExit('Aborting')
 
 df = pd.read_csv(CLEANED_WORDLIST_CSV_PATH)
 
@@ -45,13 +49,13 @@ def split_example(example: str) -> list[str]:
     # To split with multiple delimiters, we have to create a regex pattern.
     pattern = '|'.join(map(re.escape, actual_numeric_delimiters))
     pattern = re.compile(pattern)
-    examples: list[str] = pattern.split(example)
+    examples = pattern.split(example)
     examples = [example.strip() for example in examples if example.strip()]
 
     return examples
 
 
-df['example'] = df['example'].apply(split_example)
+df['examples'] = df['examples'].apply(split_example)
 
 verb_pattern = re.compile(r'^([^,]+),([^,]+),([^,]+), (hat|ist).+')
 der_die_pattern = re.compile(r'^(der\s[\wÄÖÜäöü]+),.*\s(die\s[\wÄÖÜäöü]+), .+')
@@ -97,12 +101,11 @@ def determine_audio_text(word: str) -> str:
 
 df['word_audio'] = df['word'].apply(determine_audio_text)
 
-
 just_word_pattern = re.compile(r'(der|die|das)\s([\wÄÖÜäöü\-]+)')
 
 
 def determine_word_search(word: str) -> str:
-    """Determine which word to put into PONS dictionary for translation."""
+    """Extract the word that needs to be translated."""
     if match := just_word_pattern.match(word):
         return match.group(2).strip()
 
@@ -123,14 +126,8 @@ def determine_word_search(word: str) -> str:
 
 df['word_search'] = df['word_audio'].apply(determine_word_search)
 
-
-def hash_word(word: str) -> str:
-    """Generate unique word hash to use as identifier for folder names."""
-    return hashlib.sha256(word.encode('utf-8')).hexdigest()
-
-
-df['word_hash'] = df['word'].apply(hash_word)
-
-
 df.to_csv(PREPROCESSED_WORDLIST_CSV_PATH, index=False)
-logger.info(f'Saved preprocessed CSV at {PREPROCESSED_WORDLIST_CSV_PATH}')
+logger.info('Successfully preprocessed CSV')
+logger.info(
+    f'Saved preprocessed CSV wordlist at {PREPROCESSED_WORDLIST_CSV_PATH}'
+)

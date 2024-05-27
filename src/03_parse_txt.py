@@ -166,7 +166,7 @@ for line in lines:
             examples[-1] += line + '\n'
 
 
-df = pd.DataFrame({'word': words, 'example': examples})
+df = pd.DataFrame({'word': words, 'examples': examples})
 logger.info(f'Parsed {df.shape[0]} words')
 
 df.to_csv(WORDLIST_CSV_PATH, index=False)
