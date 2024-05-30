@@ -4733,9 +4733,10 @@ die Überstunde, -n             Ich muss heute Überstunden machen.        ging 
                                weisung fürs Krankenhaus gegeben.
                                                                          umsonst                    1. Ich musste nichts bezahlen. Die
                                                                                                        Reparatur war umsonst.
+                                                                                                    2. Nichts hat geholfen, es war alles umsonst.
 
-                               2. Nichts hat geholfen, es war alles        die Uniform, -en                 In der Schule, die sie besucht, trägt
-                                  umsonst.                                                                  man Uniformen.
+                                                                           die Uniform, -en                 In der Schule, die sie besucht, trägt
+                                                                                                            man Uniformen.
 
                                                                            die Universität, -en              Mein Sohn studiert an der Universität.
 

@@ -9256,6 +9256,7 @@ die Überstunde, -n             Ich muss heute Überstunden machen.
                                weisung fürs Krankenhaus gegeben.
                                                                         
                                                                         
+                                                                        
 
 (sich) überzeugen,         1. Ihr Vorschlag überzeugt mich gar nicht.
 überzeugt, überzeugte,     2. Ich bin fest davon überzeugt, dass
@@ -9320,9 +9321,10 @@ umso                       1. Je früher wir dort sind, umso besser
 
 umsonst                    1. Ich musste nichts bezahlen. Die
                               Reparatur war umsonst.
+                           2. Nichts hat geholfen, es war alles umsonst.
 
-                               2. Nichts hat geholfen, es war alles       
-                                  umsonst.                                
+                                                                          
+                                                                          
 
                                                                           
 
