@@ -9,9 +9,11 @@ import os
 
 import pandas as pd
 from utils.constants import (
+    EXAMPLE_TRANSLATIONS_FIX_PATH,
     POSTPROCESSED_WORDLIST_JSON_PATH,
     PREPROCESSED_WORDLIST_CSV_PATH,
-    TRANSLATIONS_DIR_PATH, WORD_TRANSLATIONS_FIX_JSON_PATH, EXAMPLE_TRANSLATIONS_FIX_PATH,
+    TRANSLATIONS_DIR_PATH,
+    WORD_TRANSLATIONS_FIX_JSON_PATH,
 )
 from utils.logger import logger
 
@@ -81,29 +83,39 @@ with open(WORD_TRANSLATIONS_FIX_JSON_PATH, 'r') as file:
 with open(EXAMPLE_TRANSLATIONS_FIX_PATH, 'r') as file:
     example_translations_fix = json.load(file)
 
+manually_verified_words = set()
+if os.path.exists(POSTPROCESSED_WORDLIST_JSON_PATH):
+    with open(POSTPROCESSED_WORDLIST_JSON_PATH, 'r', encoding='utf-8') as file:
+        objects = json.load(file)
 
-objects = []
-for _, row in df.iterrows():
-    ex_de = ast.literal_eval(row['examples'])
-    ex_bg = ast.literal_eval(row['examples_translations'])
-    if row['word'] in example_translations_fix:
-        ex_bg = example_translations_fix[row['word']].values()
+    for obj in objects:
+        if obj['manually_verified']:
+            manually_verified_words.add(obj['word_de'])
+
+
+data = []
+for row in df.itertuples():
+    ex_de = ast.literal_eval(row.examples)
+    ex_bg = ast.literal_eval(row.examples_translations)
+    if row.word in example_translations_fix:
+        ex_bg = example_translations_fix[row.word].values()
     examples_list = []
     for de, bg in zip(ex_de, ex_bg):
         examples_list.append({'example_de': de, 'example_bg': bg})
 
-    xword = row['word']
+    xword = row.word
     if row.word in word_translations_fix:
-        xword = ', '.join(word_translations_fix[row['word']])
+        xword = word_translations_fix[row.word]
 
-    item = {
-        'manually_verified': row.word in word_translations_fix,
-        'word_de': row['word'],
-        'word_bg': xword,
-        'examples': examples_list,
-    }
-    objects.append(item)
+    data.append(
+        {
+            'manually_verified': row.word in word_translations_fix,
+            'word_de': row.word,
+            'word_bg': xword,
+            'examples': examples_list,
+        }
+    )
 
 
 with open(POSTPROCESSED_WORDLIST_JSON_PATH, 'w', encoding='utf-8') as file:
-    json.dump(objects, file, ensure_ascii=False, indent=4)
+    json.dump(data, file, ensure_ascii=False, indent=4)

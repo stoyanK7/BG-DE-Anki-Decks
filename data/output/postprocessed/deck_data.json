@@ -457,7 +457,9 @@
     {
         "manually_verified": true,
         "word_de": "ähnlich",
-        "word_bg": "подобен",
+        "word_bg": [
+            "подобен"
+        ],
         "examples": [
             {
                 "example_de": "Emilia ist in einer ganz ähnlichen Situation wie ich.",
@@ -953,7 +955,10 @@
     {
         "manually_verified": true,
         "word_de": "ändern, ändert, änderte, hat geändert",
-        "word_bg": "променям, сменям",
+        "word_bg": [
+            "променям",
+            "сменям"
+        ],
         "examples": [
             {
                 "example_de": "Das Wetter hat sich geändert.",
@@ -1125,7 +1130,9 @@
     {
         "manually_verified": true,
         "word_de": "ängstlich",
-        "word_bg": "страхлив",
+        "word_bg": [
+            "страхлив"
+        ],
         "examples": [
             {
                 "example_de": "Meine Mutter ist etwas ängstlich. Sie geht nicht gern allein auf die Straße.",
@@ -1395,7 +1402,9 @@
     {
         "manually_verified": true,
         "word_de": "ansprechen, spricht an, sprach an, hat angesprochen",
-        "word_bg": "заприказвам",
+        "word_bg": [
+            "заприказвам"
+        ],
         "examples": [
             {
                 "example_de": "Gestern hat mich unsere neue Nachbarin im Treppenhaus angesprochen.",
@@ -1776,7 +1785,10 @@
     {
         "manually_verified": true,
         "word_de": "(sich) ärgern, ärgert, ärgerte, hat geärgert",
-        "word_bg": "ядосвам (се), дразня (се)",
+        "word_bg": [
+            "ядосвам (се)",
+            "дразня (се)"
+        ],
         "examples": [
             {
                 "example_de": "Ärgern Sie sich nicht.",
@@ -1798,7 +1810,9 @@
     {
         "manually_verified": true,
         "word_de": "ärgerlich",
-        "word_bg": "неприятен",
+        "word_bg": [
+            "неприятен"
+        ],
         "examples": [
             {
                 "example_de": "Der Zug hat schon wieder Verspätung. Das ist wirklich ärgerlich.",
@@ -1917,7 +1931,10 @@
     {
         "manually_verified": true,
         "word_de": "auch",
-        "word_bg": "също, дори",
+        "word_bg": [
+            "също",
+            "дори"
+        ],
         "examples": [
             {
                 "example_de": "Ich muss leider gehen. – Ich auch.",
@@ -3505,7 +3522,9 @@
     {
         "manually_verified": true,
         "word_de": "bedienen, bedient, bediente, hat bedient",
-        "word_bg": "обслужвам",
+        "word_bg": [
+            "обслужвам"
+        ],
         "examples": [
             {
                 "example_de": "Werden Sie schon bedient?",
@@ -3663,7 +3682,10 @@
     {
         "manually_verified": true,
         "word_de": "begründen, begründet, begründete, hat begründet",
-        "word_bg": "обосновавам, мотивирам",
+        "word_bg": [
+            "обосновавам",
+            "мотивирам"
+        ],
         "examples": [
             {
                 "example_de": "Bitte begründen Sie Ihre Meinung.",
@@ -4099,7 +4121,9 @@
     {
         "manually_verified": true,
         "word_de": "der Bereich, -e",
-        "word_bg": "област",
+        "word_bg": [
+            "област"
+        ],
         "examples": [
             {
                 "example_de": "In welchem Bereich möchten Sie arbeiten?",
@@ -4317,7 +4341,9 @@
     {
         "manually_verified": true,
         "word_de": "beschränken",
-        "word_bg": "ограничавам",
+        "word_bg": [
+            "ограничавам"
+        ],
         "examples": [
             {
                 "example_de": "Die Teilnehmerzahl für den Kurs ist beschränkt.",
@@ -4629,7 +4655,9 @@
     {
         "manually_verified": true,
         "word_de": "der Betreuer, - die Betreuerin, -nen",
-        "word_bg": "ръководител, ръководителка",
+        "word_bg": [
+            "ръководител, ръководителка"
+        ],
         "examples": [
             {
                 "example_de": "Die Betreuerin der Kinder ist sehr nett.",
@@ -6871,7 +6899,9 @@
     {
         "manually_verified": true,
         "word_de": "der Doktor, -en die Doktorin, -nen",
-        "word_bg": "доктор, докторка",
+        "word_bg": [
+            "доктор, докторка"
+        ],
         "examples": [
             {
                 "example_de": "Ist Frau Dr. Müller da?",
@@ -7261,7 +7291,10 @@
     {
         "manually_verified": true,
         "word_de": "durcheinander",
-        "word_bg": "разбъркано, объркано",
+        "word_bg": [
+            "разбъркано",
+            "объркано"
+        ],
         "examples": [
             {
                 "example_de": "Alle meine Sachen sind durcheinander. Ich finde nichts mehr.",
@@ -8462,7 +8495,10 @@
     {
         "manually_verified": true,
         "word_de": "empfangen, empfängt, empfing, hat empfangen",
-        "word_bg": "приемам, получавам",
+        "word_bg": [
+            "приемам",
+            "получавам"
+        ],
         "examples": [
             {
                 "example_de": "Wir können mit unserem Fernseher über 30 Programme empfangen.",
@@ -8694,7 +8730,9 @@
     {
         "manually_verified": true,
         "word_de": "enthalten, enthält, enthielt, hat enthalten",
-        "word_bg": "съдържам",
+        "word_bg": [
+            "съдържам"
+        ],
         "examples": [
             {
                 "example_de": "Diese Schokolade enthält nur sehr wenig Zucker.",
@@ -8772,7 +8810,10 @@
     {
         "manually_verified": true,
         "word_de": "unentschieden",
-        "word_bg": "нерешителен, равен резултат (спорт)",
+        "word_bg": [
+            "нерешителен",
+            "равен резултат (спорт)"
+        ],
         "examples": [
             {
                 "example_de": "Es steht unentschieden zwischen den beiden Mannschaften.",
@@ -9206,7 +9247,10 @@
     {
         "manually_verified": true,
         "word_de": "erinnern, erinnert, erinnerte, hat erinnert",
-        "word_bg": "напомням, подсещам",
+        "word_bg": [
+            "напомням",
+            "подсещам"
+        ],
         "examples": [
             {
                 "example_de": "Bitte, erinnern Sie mich noch einmal an den Termin.",
@@ -9295,7 +9339,10 @@
     {
         "manually_verified": true,
         "word_de": "die Erklärung, -en",
-        "word_bg": "обяснение, разяснение",
+        "word_bg": [
+            "обяснение",
+            "разяснение"
+        ],
         "examples": [
             {
                 "example_de": "Hast du schon die Steuererklärung gemacht?",
@@ -9406,7 +9453,10 @@
     {
         "manually_verified": true,
         "word_de": "ernähren, ernährt, ernährte, hat ernährt",
-        "word_bg": "храня, изхранвам",
+        "word_bg": [
+            "храня",
+            "изхранвам"
+        ],
         "examples": [
             {
                 "example_de": "Wie ernähre ich mich richtig?",
@@ -9807,7 +9857,9 @@
     {
         "manually_verified": true,
         "word_de": "die Etage, -n (D, CH) → Stock",
-        "word_bg": "етаж",
+        "word_bg": [
+            "етаж"
+        ],
         "examples": [
             {
                 "example_de": "Das Büro ist in der 3. Etage, Zimmer 305.",
@@ -14493,7 +14545,9 @@
     {
         "manually_verified": true,
         "word_de": "der Händler, die Händlerin, -nen",
-        "word_bg": "търговец, търговка",
+        "word_bg": [
+            "търговец, търговка"
+        ],
         "examples": [
             {
                 "example_de": "Ich gehe zum Gemüsehändler, soll ich dir etwas mitbringen?",
@@ -15538,7 +15592,10 @@
     {
         "manually_verified": true,
         "word_de": "hübsch",
-        "word_bg": "хубав, прелестен",
+        "word_bg": [
+            "хубав",
+            "прелестен"
+        ],
         "examples": [
             {
                 "example_de": "Wir haben eine hübsche Wohnung gefunden.",
@@ -16090,7 +16147,10 @@
     {
         "manually_verified": true,
         "word_de": "interessiert",
-        "word_bg": "заинтересован, интересуващ се",
+        "word_bg": [
+            "заинтересован",
+            "интересуващ се"
+        ],
         "examples": [
             {
                 "example_de": "Mein Nachbar zieht nächsten Monat aus. Sind Sie noch an der Wohnung interessiert?",
@@ -16952,7 +17012,9 @@
     {
         "manually_verified": true,
         "word_de": "der Käufer, die Käuferin, -nen",
-        "word_bg": "купувач, купувачка",
+        "word_bg": [
+            "купувач, купувачка"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe schon einen Käufer für den alten Tisch.",
@@ -18248,7 +18310,9 @@
     {
         "manually_verified": true,
         "word_de": "die Krankenkasse, -n",
-        "word_bg": "Здравноосигурителна каса",
+        "word_bg": [
+            "Здравноосигурителна каса"
+        ],
         "examples": [
             {
                 "example_de": "Die Krankenkasse bezahlt die Medikamente.",
@@ -19075,7 +19139,10 @@
     {
         "manually_verified": true,
         "word_de": "sich langweilen, langweilt, langweilte, hat gelangweilt",
-        "word_bg": "отегчавам (се), скучая",
+        "word_bg": [
+            "отегчавам (се)",
+            "скучая"
+        ],
         "examples": [
             {
                 "example_de": "Langweilst du dich?",
@@ -19349,7 +19416,9 @@
     {
         "manually_verified": true,
         "word_de": "legen, legt, legte, hat gelegt",
-        "word_bg": "слагам/поставям в легнало положение",
+        "word_bg": [
+            "слагам/поставям в легнало положение"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe Ihnen die Briefe auf den Schreibtisch gelegt.",
@@ -19640,7 +19709,9 @@
     {
         "manually_verified": true,
         "word_de": "letzt-",
-        "word_bg": "последно-",
+        "word_bg": [
+            "последно-"
+        ],
         "examples": [
             {
                 "example_de": "Was hast du letzte Woche gemacht?",
@@ -19887,7 +19958,9 @@
     {
         "manually_verified": true,
         "word_de": "die Lippe, -n",
-        "word_bg": "устна",
+        "word_bg": [
+            "устна"
+        ],
         "examples": [
             {
                 "example_de": "Es ist sehr kalt. Meine Lippen sind ganz trocken.",
@@ -20155,7 +20228,9 @@
     {
         "manually_verified": true,
         "word_de": "machen, macht, machte, hat gemacht",
-        "word_bg": "правя",
+        "word_bg": [
+            "правя"
+        ],
         "examples": [
             {
                 "example_de": "Was machst du am Wochenende?",
@@ -20388,7 +20463,9 @@
     {
         "manually_verified": true,
         "word_de": "der Mann, ¨-er",
-        "word_bg": "мъж",
+        "word_bg": [
+            "мъж"
+        ],
         "examples": [
             {
                 "example_de": "In unserer Firma arbeiten fast nur Männer.",
@@ -20946,7 +21023,10 @@
     {
         "manually_verified": true,
         "word_de": "die Messe, -n",
-        "word_bg": "панаир, изложение",
+        "word_bg": [
+            "панаир",
+            "изложение"
+        ],
         "examples": [
             {
                 "example_de": "Kommst du mit zur Automobilmesse?",
@@ -21009,7 +21089,9 @@
     {
         "manually_verified": true,
         "word_de": "die Metropole, -n",
-        "word_bg": "метрополия",
+        "word_bg": [
+            "метрополия"
+        ],
         "examples": [
             {
                 "example_de": "Berlin und Wien sind Metropolen.",
@@ -21131,7 +21213,10 @@
     {
         "manually_verified": true,
         "word_de": "mindestens",
-        "word_bg": "най-малко, поне",
+        "word_bg": [
+            "най-малко",
+            "поне"
+        ],
         "examples": [
             {
                 "example_de": "Ein guter Fernsehapparat kostet mindestens 500 Euro.",
@@ -21356,7 +21441,9 @@
     {
         "manually_verified": true,
         "word_de": "das Möbel, -",
-        "word_bg": "мебел",
+        "word_bg": [
+            "мебел"
+        ],
         "examples": [
             {
                 "example_de": "Wir haben uns neue Möbel gekauft.",
@@ -21880,7 +21967,9 @@
     {
         "manually_verified": true,
         "word_de": "nachdem",
-        "word_bg": "след като",
+        "word_bg": [
+            "след като"
+        ],
         "examples": [
             {
                 "example_de": "Nachdem wir gegessen hatten, sind wir spazieren gegangen.",
@@ -22875,7 +22964,10 @@
     {
         "manually_verified": true,
         "word_de": "die Nudel, -n",
-        "word_bg": "нудъл, макарони",
+        "word_bg": [
+            "нудъл",
+            "макарони"
+        ],
         "examples": [
             {
                 "example_de": "Möchten Sie Nudeln oder Reis? – Lieber Nudeln.",
@@ -23152,7 +23244,9 @@
     {
         "manually_verified": true,
         "word_de": "veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht",
-        "word_bg": "публикувам",
+        "word_bg": [
+            "публикувам"
+        ],
         "examples": [
             {
                 "example_de": "Das Buch wurde gestern veröffentlicht.",
@@ -23185,7 +23279,9 @@
     {
         "manually_verified": true,
         "word_de": "öffnen, öffnet, öffnete, hat geöffnet",
-        "word_bg": "отварям",
+        "word_bg": [
+            "отварям"
+        ],
         "examples": [
             {
                 "example_de": "Wann öffnen die Geschäfte?",
@@ -23257,7 +23353,9 @@
     {
         "manually_verified": true,
         "word_de": "Öko- (ökologisch)",
-        "word_bg": "Еко- (екологичен)",
+        "word_bg": [
+            "Еко- (екологичен)"
+        ],
         "examples": [
             {
                 "example_de": "z.B. Ökoladen, Ökostrom, ökologischer Anbau",
@@ -23772,7 +23870,10 @@
     {
         "manually_verified": true,
         "word_de": "der Passagier, -e die Passagierin, -nen",
-        "word_bg": "пасажер, пасажерка, пътник, пътничка",
+        "word_bg": [
+            "пасажер, пасажерка",
+            "пътник, пътничка"
+        ],
         "examples": [
             {
                 "example_de": "Die Passagiere Schulz und Kaufmann sollen bitte zur Information kommen.",
@@ -23832,7 +23933,9 @@
     {
         "manually_verified": true,
         "word_de": "der Patient, -en die Patientin, -nen",
-        "word_bg": "пациент, пациентка",
+        "word_bg": [
+            "пациент, пациентка"
+        ],
         "examples": [
             {
                 "example_de": "Ich bin Patientin bei Dr. Hausner. Ich möchte bitte einen Termin.",
@@ -24105,7 +24208,9 @@
     {
         "manually_verified": true,
         "word_de": "die Pflaume, -n",
-        "word_bg": "слива",
+        "word_bg": [
+            "слива"
+        ],
         "examples": [
             {
                 "example_de": "Ich esse gern Pflaumen und noch lieber Pflaumenkuchen.",
@@ -25893,7 +25998,9 @@
     {
         "manually_verified": true,
         "word_de": "der Reporter, - die Reporterin, -nen",
-        "word_bg": "репортер, репортерка",
+        "word_bg": [
+            "репортер, репортерка"
+        ],
         "examples": [
             {
                 "example_de": "Die Reporterin macht gerade ein Interview.",
@@ -26536,7 +26643,9 @@
     {
         "manually_verified": true,
         "word_de": "sämtliche",
-        "word_bg": "всички",
+        "word_bg": [
+            "всички"
+        ],
         "examples": [
             {
                 "example_de": "Sämtliche Fenster müssen geschlossen bleiben.",
@@ -27361,7 +27470,9 @@
     {
         "manually_verified": true,
         "word_de": "verschmutzen, verschmutzt, verschmutzte, hat verschmutzt",
-        "word_bg": "замърсявам",
+        "word_bg": [
+            "замърсявам"
+        ],
         "examples": [
             {
                 "example_de": "Die Fabrik verschmutzt den Fluss.",
@@ -27584,7 +27695,9 @@
     {
         "manually_verified": true,
         "word_de": "schreiben, schreibt, schrieb, hat geschrieben",
-        "word_bg": "пиша",
+        "word_bg": [
+            "пиша"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe dir einen Brief geschrieben.",
@@ -27978,7 +28091,9 @@
     {
         "manually_verified": true,
         "word_de": "schwimmen, schwimmt, schwamm, ist geschwommen",
-        "word_bg": "плувам",
+        "word_bg": [
+            "плувам"
+        ],
         "examples": [
             {
                 "example_de": "Ich gehe regelmäßig schwimmen.",
@@ -30273,7 +30388,10 @@
     {
         "manually_verified": true,
         "word_de": "stören, stört, störte, hat gestört",
-        "word_bg": "смущавам, безпокоя",
+        "word_bg": [
+            "смущавам",
+            "безпокоя"
+        ],
         "examples": [
             {
                 "example_de": "Darf ich Sie einen Augenblick stören?",
@@ -30555,7 +30673,9 @@
     {
         "manually_verified": true,
         "word_de": "der Student, -en die Studentin, -nen",
-        "word_bg": "студент, студентка",
+        "word_bg": [
+            "студент, студентка"
+        ],
         "examples": [
             {
                 "example_de": "Schüler und Studenten zahlen die Hälfte.",
@@ -30666,7 +30786,10 @@
     {
         "manually_verified": true,
         "word_de": "stürzen, stürzt, stürzte, ist gestürzt",
-        "word_bg": "падам, обръщам се",
+        "word_bg": [
+            "падам",
+            "обръщам се"
+        ],
         "examples": [
             {
                 "example_de": "Ich bin auf der Straße gestürzt und habe mir den Fuß gebrochen.",
@@ -30681,7 +30804,9 @@
     {
         "manually_verified": true,
         "word_de": "suchen, sucht, suchte, hat gesucht",
-        "word_bg": "търся",
+        "word_bg": [
+            "търся"
+        ],
         "examples": [
             {
                 "example_de": "Ich suche meine Brille.",
@@ -30719,7 +30844,9 @@
     {
         "manually_verified": true,
         "word_de": "süchtig",
-        "word_bg": "пристрастен",
+        "word_bg": [
+            "пристрастен"
+        ],
         "examples": [
             {
                 "example_de": "Ich bin süchtig nach Schokolade.",
@@ -30946,7 +31073,9 @@
     {
         "manually_verified": true,
         "word_de": "tanken, tankt, tankte, hat getankt",
-        "word_bg": "зареждам (с гориво)",
+        "word_bg": [
+            "зареждам (с гориво)"
+        ],
         "examples": [
             {
                 "example_de": "Wir müssen unbedingt tanken. Wir haben fast kein Benzin mehr.",
@@ -30979,7 +31108,9 @@
     {
         "manually_verified": true,
         "word_de": "tanzen, tanzt, tanzte, hat getanzt",
-        "word_bg": "танцувам",
+        "word_bg": [
+            "танцувам"
+        ],
         "examples": [
             {
                 "example_de": "Auf der Hochzeit haben wir viel getanzt.",
@@ -31134,7 +31265,9 @@
     {
         "manually_verified": true,
         "word_de": "taub",
-        "word_bg": "глух",
+        "word_bg": [
+            "глух"
+        ],
         "examples": [
             {
                 "example_de": "Sie hört schlecht, sie ist schon fast taub.",
@@ -31145,7 +31278,9 @@
     {
         "manually_verified": true,
         "word_de": "tauchen, taucht, tauchte, ist/hat getaucht",
-        "word_bg": "гмуркам се",
+        "word_bg": [
+            "гмуркам се"
+        ],
         "examples": [
             {
                 "example_de": "Ich möchte im Urlaub wieder tauchen gehen.",
@@ -31156,7 +31291,9 @@
     {
         "manually_verified": true,
         "word_de": "tauschen, tauscht, tauschte, hat getauscht",
-        "word_bg": "разменям",
+        "word_bg": [
+            "разменям"
+        ],
         "examples": [
             {
                 "example_de": "Ich würde meinen Kuchen gegen dein Brot tauschen.",
@@ -31223,7 +31360,9 @@
     {
         "manually_verified": true,
         "word_de": "Tee ziehen lassen",
-        "word_bg": "оставям чая да се запари",
+        "word_bg": [
+            "оставям чая да се запари"
+        ],
         "examples": [
             {
                 "example_de": "Diesen Tee sollte man 10 Minuten ziehen lassen.",
@@ -31234,7 +31373,10 @@
     {
         "manually_verified": true,
         "word_de": "teilen, teilt, teilte, hat geteilt",
-        "word_bg": "разделям, споделям",
+        "word_bg": [
+            "разделям",
+            "споделям"
+        ],
         "examples": [
             {
                 "example_de": "Mein Mann und ich teilen uns die Arbeit.",
@@ -31294,7 +31436,9 @@
     {
         "manually_verified": true,
         "word_de": "teilnehmen, nimmt teil, nahm teil, hat teilgenommen",
-        "word_bg": "участвам",
+        "word_bg": [
+            "участвам"
+        ],
         "examples": [
             {
                 "example_de": "Leider konnte ich an dem Kurs nicht regelmäßig teilnehmen.",
@@ -31327,7 +31471,10 @@
     {
         "manually_verified": true,
         "word_de": "telefonieren, telefoniert, telefonierte, hat telefoniert",
-        "word_bg": "телефонирам, говоря по телефона",
+        "word_bg": [
+            "телефонирам",
+            "говоря по телефона"
+        ],
         "examples": [
             {
                 "example_de": "Ich muss kurz telefonieren.",
@@ -31453,7 +31600,9 @@
     {
         "manually_verified": true,
         "word_de": "testen, testet, testete, hat getestet",
-        "word_bg": "тествам",
+        "word_bg": [
+            "тествам"
+        ],
         "examples": [
             {
                 "example_de": "Testen Sie unsere Angebote kostenlos.",
@@ -31464,7 +31613,9 @@
     {
         "manually_verified": true,
         "word_de": "der Test, -s",
-        "word_bg": "тест",
+        "word_bg": [
+            "тест"
+        ],
         "examples": [
             {
                 "example_de": "Ich bin ganz sicher: Du wirst den Test schaffen.",
@@ -31567,7 +31718,10 @@
     {
         "manually_verified": true,
         "word_de": "tief",
-        "word_bg": "дълбок, дълбоко",
+        "word_bg": [
+            "дълбок",
+            "дълбоко"
+        ],
         "examples": [
             {
                 "example_de": "Vorsicht, Kinder! Das Wasser ist hier sehr tief.",
@@ -31630,7 +31784,9 @@
     {
         "manually_verified": true,
         "word_de": "tippen, tippt, tippte, hat getippt",
-        "word_bg": "пиша (на клавиатура)",
+        "word_bg": [
+            "пиша (на клавиатура)"
+        ],
         "examples": [
             {
                 "example_de": "Wie schnell kannst du tippen?",
@@ -31689,7 +31845,9 @@
     {
         "manually_verified": true,
         "word_de": "tödlich",
-        "word_bg": "смъртоносен",
+        "word_bg": [
+            "смъртоносен"
+        ],
         "examples": [
             {
                 "example_de": "Dieses Gift kann für den Menschen tödlich sein.",
@@ -31811,7 +31969,9 @@
     {
         "manually_verified": true,
         "word_de": "total",
-        "word_bg": "напълно",
+        "word_bg": [
+            "напълно"
+        ],
         "examples": [
             {
                 "example_de": "Der Film war total langweilig.",
@@ -31866,7 +32026,10 @@
     {
         "manually_verified": true,
         "word_de": "tragen, trägt, trug, hat getragen",
-        "word_bg": "нося, поемам",
+        "word_bg": [
+            "нося",
+            "поемам"
+        ],
         "examples": [
             {
                 "example_de": "Lass mich den Koffer tragen. Der ist zu schwer für dich.",
@@ -31885,7 +32048,9 @@
     {
         "manually_verified": true,
         "word_de": "trainieren, trainiert, trainierte, hat trainiert",
-        "word_bg": "тренирам",
+        "word_bg": [
+            "тренирам"
+        ],
         "examples": [
             {
                 "example_de": "Wir trainieren einmal pro Woche im Sportverein.",
@@ -31944,7 +32109,10 @@
     {
         "manually_verified": true,
         "word_de": "transportieren, transportiert, transportierte, hat transportiert",
-        "word_bg": "транспортирам, превозвам",
+        "word_bg": [
+            "транспортирам",
+            "превозвам"
+        ],
         "examples": [
             {
                 "example_de": "Wie willst du die Möbel denn transportieren?",
@@ -31966,7 +32134,9 @@
     {
         "manually_verified": true,
         "word_de": "träumen, träumt, träumte, hat geträumt",
-        "word_bg": "сънувам",
+        "word_bg": [
+            "сънувам"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe schlecht geträumt.",
@@ -32018,7 +32188,9 @@
     {
         "manually_verified": true,
         "word_de": "treffen, trifft, traf, hat getroffen",
-        "word_bg": "срещам",
+        "word_bg": [
+            "срещам"
+        ],
         "examples": [
             {
                 "example_de": "Wir treffen uns immer freitags.",
@@ -32044,7 +32216,9 @@
     {
         "manually_verified": true,
         "word_de": "treiben, treibt, trieb, hat getrieben",
-        "word_bg": "занимавам се",
+        "word_bg": [
+            "занимавам се"
+        ],
         "examples": [
             {
                 "example_de": "Welchen Sport treibst du?",
@@ -32126,7 +32300,10 @@
     {
         "manually_verified": true,
         "word_de": "treten, tritt, trat, hat/ist getreten",
-        "word_bg": "стъпвам, ритам",
+        "word_bg": [
+            "стъпвам",
+            "ритам"
+        ],
         "examples": [
             {
                 "example_de": "Ich bin in ein Stück Glas getreten.",
@@ -32141,7 +32318,10 @@
     {
         "manually_verified": true,
         "word_de": "treu",
-        "word_bg": "верен, предан",
+        "word_bg": [
+            "верен",
+            "предан"
+        ],
         "examples": [
             {
                 "example_de": "Herr Maier ist ein treuer Kunde von uns.",
@@ -32152,7 +32332,9 @@
     {
         "manually_verified": true,
         "word_de": "trinken, trinkt, trank, hat getrunken",
-        "word_bg": "пия",
+        "word_bg": [
+            "пия"
+        ],
         "examples": [
             {
                 "example_de": "Trinken Sie einen Tee mit uns?",
@@ -32174,7 +32356,10 @@
     {
         "manually_verified": true,
         "word_de": "trocken",
-        "word_bg": "сух, изсъхнал",
+        "word_bg": [
+            "сух",
+            "изсъхнал"
+        ],
         "examples": [
             {
                 "example_de": "Die Wäsche ist noch nicht trocken.",
@@ -32189,7 +32374,10 @@
     {
         "manually_verified": true,
         "word_de": "trocknen, trocknet, trocknete, hat/ist getrocknet",
-        "word_bg": "суша, изсушавам",
+        "word_bg": [
+            "суша",
+            "изсушавам"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe mir die Haare getrocknet.",
@@ -32252,7 +32440,10 @@
     {
         "manually_verified": true,
         "word_de": "das Tuch, ¨-er",
-        "word_bg": "кърпа, шал",
+        "word_bg": [
+            "кърпа",
+            "шал"
+        ],
         "examples": [
             {
                 "example_de": "Wo hast du dieses schöne Tuch gekauft?",
@@ -32263,7 +32454,11 @@
     {
         "manually_verified": true,
         "word_de": "tun, tut, tat, hat getan",
-        "word_bg": "върша, правя, слагам",
+        "word_bg": [
+            "върша",
+            "правя",
+            "слагам"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe heute viel zu tun.",
@@ -32372,7 +32567,10 @@
     {
         "manually_verified": true,
         "word_de": "üben",
-        "word_bg": "упражнявам, тренирам",
+        "word_bg": [
+            "упражнявам",
+            "тренирам"
+        ],
         "examples": [
             {
                 "example_de": "Ich lerne gerade Gitarre spielen. Ich übe jeden Tag zwei Stunden.",
@@ -32398,7 +32596,11 @@
     {
         "manually_verified": true,
         "word_de": "über",
-        "word_bg": "върху, над, през",
+        "word_bg": [
+            "върху",
+            "над",
+            "през"
+        ],
         "examples": [
             {
                 "example_de": "Die Müllers wohnen direkt über uns.",
@@ -32420,7 +32622,9 @@
     {
         "manually_verified": true,
         "word_de": "überfahren, überfährt, überfuhr, hat überfahren",
-        "word_bg": "прегазвам",
+        "word_bg": [
+            "прегазвам"
+        ],
         "examples": [
             {
                 "example_de": "Gestern hat ein Autofahrer einen Hund überfahren.",
@@ -32446,7 +32650,10 @@
     {
         "manually_verified": true,
         "word_de": "überholen, überholt, überholte, hat überholt",
-        "word_bg": "задминавам, изпреварвам",
+        "word_bg": [
+            "задминавам",
+            "изпреварвам"
+        ],
         "examples": [
             {
                 "example_de": "Hier dürfen Lkws nicht überholen.",
@@ -32457,7 +32664,10 @@
     {
         "manually_verified": true,
         "word_de": "überlegen, überlegt, überlegte, hat überlegt",
-        "word_bg": "мисля, обмислям",
+        "word_bg": [
+            "мисля",
+            "обмислям"
+        ],
         "examples": [
             {
                 "example_de": "Ich kann mich nicht entscheiden. Ich muss mir das noch überlegen.",
@@ -32479,7 +32689,9 @@
     {
         "manually_verified": true,
         "word_de": "übernachten, übernachtet, übernachtete, hat übernachtet",
-        "word_bg": "пренощувам",
+        "word_bg": [
+            "пренощувам"
+        ],
         "examples": [
             {
                 "example_de": "Wir haben auf dem Campingplatz übernachtet.",
@@ -32501,7 +32713,10 @@
     {
         "manually_verified": true,
         "word_de": "übernehmen, übernimmt, übernahm, hat übernommen",
-        "word_bg": "поемам, нагърбвам се с",
+        "word_bg": [
+            "поемам",
+            "нагърбвам се с"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe das Geschäft von meinem Vater übernommen.",
@@ -32512,7 +32727,9 @@
     {
         "manually_verified": true,
         "word_de": "überprüfen, überprüft, überprüfte, hat überprüft",
-        "word_bg": "проверявам повторно",
+        "word_bg": [
+            "проверявам повторно"
+        ],
         "examples": [
             {
                 "example_de": "Bitte überprüfen Sie, ob Ihr Name richtig geschrieben ist.",
@@ -32523,7 +32740,10 @@
     {
         "manually_verified": true,
         "word_de": "überqueren, überquert, überquerte, hat überquert",
-        "word_bg": "пресичам, прекосявам",
+        "word_bg": [
+            "пресичам",
+            "прекосявам"
+        ],
         "examples": [
             {
                 "example_de": "Bitte die Straße nur an der Ampel überqueren.",
@@ -32534,7 +32754,9 @@
     {
         "manually_verified": true,
         "word_de": "überraschen, überrascht, überraschte, hat überrascht",
-        "word_bg": "изненадвам",
+        "word_bg": [
+            "изненадвам"
+        ],
         "examples": [
             {
                 "example_de": "Ich bin ganz überrascht, dass die Wohnung so billig ist.",
@@ -32560,7 +32782,9 @@
     {
         "manually_verified": true,
         "word_de": "überreden, überredet, überredete, hat überredet",
-        "word_bg": "убеждавам",
+        "word_bg": [
+            "убеждавам"
+        ],
         "examples": [
             {
                 "example_de": "Zuerst wollte ich nicht, aber mein Bruder hat mich überredet, einen Englischkurs zu machen.",
@@ -32586,7 +32810,9 @@
     {
         "manually_verified": true,
         "word_de": "übersetzen, übersetzt, übersetzte, hat übersetzt",
-        "word_bg": "превеждам (текст)",
+        "word_bg": [
+            "превеждам (текст)"
+        ],
         "examples": [
             {
                 "example_de": "Können Sie mir bitte diesen Brief übersetzen?",
@@ -32619,7 +32845,10 @@
     {
         "manually_verified": true,
         "word_de": "die Überstunde, -n",
-        "word_bg": "извънреден работен час, извънреден труд",
+        "word_bg": [
+            "извънреден работен час",
+            "извънреден труд"
+        ],
         "examples": [
             {
                 "example_de": "Ich muss heute Überstunden machen.",
@@ -32630,7 +32859,9 @@
     {
         "manually_verified": true,
         "word_de": "übertreiben, übertreibt, übertrieb, hat übertrieben",
-        "word_bg": "прекалявам",
+        "word_bg": [
+            "прекалявам"
+        ],
         "examples": [
             {
                 "example_de": "Ein bisschen Sport ist gesund. Aber man sollte es nicht übertreiben.",
@@ -32641,7 +32872,10 @@
     {
         "manually_verified": true,
         "word_de": "überweisen, überweist, überwies, hat überwiesen",
-        "word_bg": "превеждам (пари), насочвам",
+        "word_bg": [
+            "превеждам (пари)",
+            "насочвам"
+        ],
         "examples": [
             {
                 "example_de": "Ich überweise dir das Geld.",
@@ -32697,7 +32931,10 @@
     {
         "manually_verified": true,
         "word_de": "üblich",
-        "word_bg": "общоприет, обичаен",
+        "word_bg": [
+            "общоприет",
+            "обичаен"
+        ],
         "examples": [
             {
                 "example_de": "In Deutschland ist es üblich, früh zu Abend zu essen.",
@@ -32708,7 +32945,9 @@
     {
         "manually_verified": true,
         "word_de": "übrig",
-        "word_bg": "останал",
+        "word_bg": [
+            "останал"
+        ],
         "examples": [
             {
                 "example_de": "Ist noch etwas zu essen übrig?",
@@ -32719,7 +32958,10 @@
     {
         "manually_verified": true,
         "word_de": "übrigens",
-        "word_bg": "освен това, впрочем",
+        "word_bg": [
+            "освен това",
+            "впрочем"
+        ],
         "examples": [
             {
                 "example_de": "Übrigens, kennst du schon die neuen Nachbarn?",
@@ -32768,7 +33010,12 @@
     {
         "manually_verified": true,
         "word_de": "um",
-        "word_bg": "в, около, край, с",
+        "word_bg": [
+            "в",
+            "около",
+            "край",
+            "с"
+        ],
         "examples": [
             {
                 "example_de": "Wir treffen uns um 8 Uhr.",
@@ -32787,7 +33034,9 @@
     {
         "manually_verified": true,
         "word_de": "umarmen, umarmt, umarmte, hat umarmt",
-        "word_bg": "прегръщам",
+        "word_bg": [
+            "прегръщам"
+        ],
         "examples": [
             {
                 "example_de": "Lass dich zum Abschied umarmen.",
@@ -32798,7 +33047,9 @@
     {
         "manually_verified": true,
         "word_de": "um … zu",
-        "word_bg": "за да ...",
+        "word_bg": [
+            "за да ..."
+        ],
         "examples": [
             {
                 "example_de": "Um gesund zu bleiben, musst du Sport machen und Gemüse essen.",
@@ -32846,7 +33097,9 @@
     {
         "manually_verified": true,
         "word_de": "umgehen, geht um, ging um, ist umgegangen",
-        "word_bg": "общувам",
+        "word_bg": [
+            "общувам"
+        ],
         "examples": [
             {
                 "example_de": "Er kann sehr gut mit Kindern umgehen.",
@@ -32857,7 +33110,10 @@
     {
         "manually_verified": true,
         "word_de": "umgekehrt",
-        "word_bg": "обратно, наопаки",
+        "word_bg": [
+            "обратно",
+            "наопаки"
+        ],
         "examples": [
             {
                 "example_de": "Nein, umgekehrt: erst der Vorname, dann der Nachname.",
@@ -32879,7 +33135,10 @@
     {
         "manually_verified": true,
         "word_de": "umso",
-        "word_bg": "толкова по-, още по-",
+        "word_bg": [
+            "толкова по-",
+            "още по-"
+        ],
         "examples": [
             {
                 "example_de": "Je früher wir dort sind, umso besser sind unsere Chancen auf einen guten Sitzplatz.",
@@ -32890,7 +33149,10 @@
     {
         "manually_verified": true,
         "word_de": "umsonst",
-        "word_bg": "безплатно, даром",
+        "word_bg": [
+            "безплатно",
+            "даром"
+        ],
         "examples": [
             {
                 "example_de": "Ich musste nichts bezahlen. Die Reparatur war umsonst.",
@@ -32905,7 +33167,9 @@
     {
         "manually_verified": true,
         "word_de": "umsteigen, steigt um, stieg um, ist umgestiegen",
-        "word_bg": "прекачвам се",
+        "word_bg": [
+            "прекачвам се"
+        ],
         "examples": [
             {
                 "example_de": "In Ulm müssen Sie umsteigen.",
@@ -32916,7 +33180,10 @@
     {
         "manually_verified": true,
         "word_de": "umtauschen, tauscht um, tauschte um, hat umgetauscht",
-        "word_bg": "сменям/заменям (нещо), обменям (пари)",
+        "word_bg": [
+            "сменям/заменям (нещо)",
+            "обменям (пари)"
+        ],
         "examples": [
             {
                 "example_de": "Ich möchte diese Bluse umtauschen. Sie passt mir nicht.",
@@ -32975,7 +33242,10 @@
     {
         "manually_verified": true,
         "word_de": "umziehen, zieht um, zog um, ist umgezogen",
-        "word_bg": "премествам се, пренасям се",
+        "word_bg": [
+            "премествам се",
+            "пренасям се"
+        ],
         "examples": [
             {
                 "example_de": "Familie Meier ist letzten Monat umgezogen. Sie wohnen nicht mehr hier.",
@@ -33027,7 +33297,10 @@
     {
         "manually_verified": true,
         "word_de": "unbedingt",
-        "word_bg": "абсолютно, непременно",
+        "word_bg": [
+            "абсолютно",
+            "непременно"
+        ],
         "examples": [
             {
                 "example_de": "Ich muss unbedingt mit dir sprechen.",
@@ -33064,7 +33337,10 @@
     {
         "manually_verified": true,
         "word_de": "ungefähr",
-        "word_bg": "приблизително, около",
+        "word_bg": [
+            "приблизително",
+            "около"
+        ],
         "examples": [
             {
                 "example_de": "Wie weit ist es bis zum Bahnhof? – Nicht weit, ungefähr zehn Minuten zu Fuß.",
@@ -33075,7 +33351,9 @@
     {
         "manually_verified": true,
         "word_de": "ungewöhnlich",
-        "word_bg": "необичаен",
+        "word_bg": [
+            "необичаен"
+        ],
         "examples": [
             {
                 "example_de": "Ich finde diese Speise ungewöhnlich, aber sie schmeckt gut.",
@@ -33108,7 +33386,10 @@
     {
         "manually_verified": true,
         "word_de": "unheimlich",
-        "word_bg": "страшен, ужасен",
+        "word_bg": [
+            "страшен",
+            "ужасен"
+        ],
         "examples": [
             {
                 "example_de": "Ich mag dieses Haus nicht. Es sieht unheimlich aus.",
@@ -33153,7 +33434,9 @@
     {
         "manually_verified": true,
         "word_de": "unten",
-        "word_bg": "долу",
+        "word_bg": [
+            "долу"
+        ],
         "examples": [
             {
                 "example_de": "Wir wohnen im dritten Stock, meine Eltern unten im ersten Stock.",
@@ -33179,7 +33462,9 @@
     {
         "manually_verified": true,
         "word_de": "unter-",
-        "word_bg": "долен",
+        "word_bg": [
+            "долен"
+        ],
         "examples": [
             {
                 "example_de": "Mein Pass ist im unteren Regal.",
@@ -33190,7 +33475,9 @@
     {
         "manually_verified": true,
         "word_de": "unterbrechen, unterbricht, unterbrach, hat unterbrochen",
-        "word_bg": "прекъсвам",
+        "word_bg": [
+            "прекъсвам"
+        ],
         "examples": [
             {
                 "example_de": "Wir unterbrechen die Sendung für eine wichtige Nachricht.",
@@ -33257,7 +33544,10 @@
     {
         "manually_verified": true,
         "word_de": "unterlassen, unterlässt, unterließ, hat unterlassen",
-        "word_bg": "не извършвам, не правя",
+        "word_bg": [
+            "не извършвам",
+            "не правя"
+        ],
         "examples": [
             {
                 "example_de": "Das Rauchen auf den Gängen ist zu unterlassen.",
@@ -33268,7 +33558,9 @@
     {
         "manually_verified": true,
         "word_de": "unternehmen, unternimmt, unternahm, hat unternommen",
-        "word_bg": "предприемам",
+        "word_bg": [
+            "предприемам"
+        ],
         "examples": [
             {
                 "example_de": "Wollen wir heute Abend noch etwas unternehmen?",
@@ -33290,7 +33582,9 @@
     {
         "manually_verified": true,
         "word_de": "unterrichten, unterrichtet, unterrichtete, hat unterrichtet",
-        "word_bg": "преподавам",
+        "word_bg": [
+            "преподавам"
+        ],
         "examples": [
             {
                 "example_de": "Meine Frau unterrichtet Spanisch.",
@@ -33312,7 +33606,9 @@
     {
         "manually_verified": true,
         "word_de": "untersagt",
-        "word_bg": "забранен",
+        "word_bg": [
+            "забранен"
+        ],
         "examples": [
             {
                 "example_de": "Es ist untersagt, hier zu rauchen.",
@@ -33323,7 +33619,9 @@
     {
         "manually_verified": true,
         "word_de": "unterscheiden, unterscheidet, unterschied, hat unterschieden",
-        "word_bg": "различавам",
+        "word_bg": [
+            "различавам"
+        ],
         "examples": [
             {
                 "example_de": "Ihr seid euch sehr ähnlich. Auf dem Foto kann man euch beide nicht unterscheiden.",
@@ -33345,7 +33643,9 @@
     {
         "manually_verified": true,
         "word_de": "unterschiedlich",
-        "word_bg": "различен",
+        "word_bg": [
+            "различен"
+        ],
         "examples": [
             {
                 "example_de": "Mein Bruder und ich sind sehr unterschiedlich. Er interessiert sich für Mathematik, ich mich für Sprachen.",
@@ -33356,7 +33656,9 @@
     {
         "manually_verified": true,
         "word_de": "unterschreiben, unterschreibt, unterschrieb, hat unterschrieben",
-        "word_bg": "подписвам",
+        "word_bg": [
+            "подписвам"
+        ],
         "examples": [
             {
                 "example_de": "Unterschreiben Sie bitte hier unten rechts.",
@@ -33378,7 +33680,9 @@
     {
         "manually_verified": true,
         "word_de": "unterstreichen, unterstreicht, unterstrich, hat unterstrichen",
-        "word_bg": "подчертавам",
+        "word_bg": [
+            "подчертавам"
+        ],
         "examples": [
             {
                 "example_de": "Wir sollen alle wichtigen Wörter unterstreichen.",
@@ -33389,7 +33693,9 @@
     {
         "manually_verified": true,
         "word_de": "unterstützen, unterstützt, unterstützte, hat unterstützt",
-        "word_bg": "подкрепям",
+        "word_bg": [
+            "подкрепям"
+        ],
         "examples": [
             {
                 "example_de": "Sie unterstützen mich, wo sie nur können.",
@@ -33411,7 +33717,9 @@
     {
         "manually_verified": true,
         "word_de": "untersuchen, untersucht, untersuchte, hat untersucht",
-        "word_bg": "преглеждам",
+        "word_bg": [
+            "преглеждам"
+        ],
         "examples": [
             {
                 "example_de": "Sie sollten sich vom Arzt untersuchen lassen.",
@@ -33489,7 +33797,10 @@
     {
         "manually_verified": true,
         "word_de": "verursachen, verursacht, verursachte, hat verursacht",
-        "word_bg": "причинявам, предизвиквам",
+        "word_bg": [
+            "причинявам",
+            "предизвиквам"
+        ],
         "examples": [
             {
                 "example_de": "Dieser Busfahrer verursachte den Unfall.",
@@ -33593,7 +33904,9 @@
     {
         "manually_verified": true,
         "word_de": "verabredet",
-        "word_bg": "уговорен",
+        "word_bg": [
+            "уговорен"
+        ],
         "examples": [
             {
                 "example_de": "Tut mir leid, ich habe keine Zeit. Ich bin mit meiner Freundin verabredet.",
@@ -33704,7 +34017,9 @@
     {
         "manually_verified": true,
         "word_de": "verbieten, verbietet, verbot, hat verboten",
-        "word_bg": "забранявам",
+        "word_bg": [
+            "забранявам"
+        ],
         "examples": [
             {
                 "example_de": "Ich werde meinen Kindern das Rauchen verbieten.",
@@ -33737,7 +34052,10 @@
     {
         "manually_verified": true,
         "word_de": "verbinden, verbindet, verband, hat verbunden",
-        "word_bg": "свързвам, превързвам",
+        "word_bg": [
+            "свързвам",
+            "превързвам"
+        ],
         "examples": [
             {
                 "example_de": "Wir müssen die Wunde sofort verbinden.",
@@ -33763,7 +34081,10 @@
     {
         "manually_verified": true,
         "word_de": "verbrauchen, verbraucht, verbrauchte, hat verbraucht",
-        "word_bg": "консумирам, изразходвам",
+        "word_bg": [
+            "консумирам",
+            "изразходвам"
+        ],
         "examples": [
             {
                 "example_de": "Wie viel Benzin verbraucht dein Auto?",
@@ -33800,7 +34121,9 @@
     {
         "manually_verified": true,
         "word_de": "verbringen, verbringt, verbrachte, hat verbracht",
-        "word_bg": "прекарвам (време)",
+        "word_bg": [
+            "прекарвам (време)"
+        ],
         "examples": [
             {
                 "example_de": "Wie haben Sie Ihren Urlaub verbracht?",
@@ -33841,7 +34164,9 @@
     {
         "manually_verified": true,
         "word_de": "verdienen, verdient, verdiente, hat verdient",
-        "word_bg": "печеля",
+        "word_bg": [
+            "печеля"
+        ],
         "examples": [
             {
                 "example_de": "In diesem Beruf verdient man gut.",
@@ -33867,7 +34192,10 @@
     {
         "manually_verified": true,
         "word_de": "vereinbaren, vereinbart, vereinbarte, hat vereinbart",
-        "word_bg": "уговарям, споразумявам се",
+        "word_bg": [
+            "уговарям",
+            "споразумявам се"
+        ],
         "examples": [
             {
                 "example_de": "Können wir einen Termin vereinbaren?",
@@ -33900,7 +34228,9 @@
     {
         "manually_verified": true,
         "word_de": "vergessen, vergisst, vergaß, hat vergessen",
-        "word_bg": "забравям",
+        "word_bg": [
+            "забравям"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe den Termin ganz vergessen.",
@@ -33915,7 +34245,9 @@
     {
         "manually_verified": true,
         "word_de": "vergleichen, vergleicht, verglich, hat verglichen",
-        "word_bg": "сравнявам",
+        "word_bg": [
+            "сравнявам"
+        ],
         "examples": [
             {
                 "example_de": "Vergleichen Sie die Angebote.",
@@ -33967,7 +34299,11 @@
     {
         "manually_verified": true,
         "word_de": "vergnügt",
-        "word_bg": "развеселен, доволен, радостен",
+        "word_bg": [
+            "развеселен",
+            "доволен",
+            "радостен"
+        ],
         "examples": [
             {
                 "example_de": "Er kam mit einem vergnügten Grinsen herein.",
@@ -33978,7 +34314,11 @@
     {
         "manually_verified": true,
         "word_de": "vergrößern, vergrößert, vergrößerte, hat vergrößert",
-        "word_bg": "уголемявам, разширявам, увеличавам",
+        "word_bg": [
+            "уголемявам",
+            "разширявам",
+            "увеличавам"
+        ],
         "examples": [
             {
                 "example_de": "Können Sie das Foto vergrößern?",
@@ -33993,7 +34333,10 @@
     {
         "manually_verified": true,
         "word_de": "verhaften, verhaftet, verhaftete, hat verhaftet",
-        "word_bg": "задържам, арестувам",
+        "word_bg": [
+            "задържам",
+            "арестувам"
+        ],
         "examples": [
             {
                 "example_de": "Die Polizei hat 23 Menschen verhaftet.",
@@ -34037,7 +34380,10 @@
     {
         "manually_verified": true,
         "word_de": "verheiratet",
-        "word_bg": "омъжена, женен",
+        "word_bg": [
+            "омъжена",
+            "женен"
+        ],
         "examples": [
             {
                 "example_de": "Mit wem sind Sie verheiratet?",
@@ -34052,7 +34398,9 @@
     {
         "manually_verified": true,
         "word_de": "verhindern, verhindert, verhinderte, hat verhindert",
-        "word_bg": "предотвратявам",
+        "word_bg": [
+            "предотвратявам"
+        ],
         "examples": [
             {
                 "example_de": "Wir konnten den Unfall nicht verhindern.",
@@ -34063,7 +34411,9 @@
     {
         "manually_verified": true,
         "word_de": "verkaufen, verkauft, verkaufte, hat verkauft",
-        "word_bg": "продавам",
+        "word_bg": [
+            "продавам"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe unser altes Auto verkauft.",
@@ -34107,7 +34457,9 @@
     {
         "manually_verified": true,
         "word_de": "der Verlag, -e (A: ¨-e)",
-        "word_bg": "издателство",
+        "word_bg": [
+            "издателство"
+        ],
         "examples": [
             {
                 "example_de": "Von welchem Verlag ist dieses Buch?",
@@ -34118,7 +34470,10 @@
     {
         "manually_verified": true,
         "word_de": "verlangen, verlangt, verlangte, hat verlangt",
-        "word_bg": "изисквам, поисквам",
+        "word_bg": [
+            "изисквам",
+            "поисквам"
+        ],
         "examples": [
             {
                 "example_de": "Jeden Tag Überstunden? Das können Sie nicht verlangen.",
@@ -34137,7 +34492,9 @@
     {
         "manually_verified": true,
         "word_de": "verlängern, verlängert, verlängerte, hat verlängert",
-        "word_bg": "удължавам",
+        "word_bg": [
+            "удължавам"
+        ],
         "examples": [
             {
                 "example_de": "Ich muss meinen Pass verlängern lassen.",
@@ -34152,7 +34509,9 @@
     {
         "manually_verified": true,
         "word_de": "verlassen, verlässt, verließ, hat verlassen",
-        "word_bg": "напускам",
+        "word_bg": [
+            "напускам"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe die Party um 3 Uhr verlassen.",
@@ -34215,7 +34574,9 @@
     {
         "manually_verified": true,
         "word_de": "verliebt",
-        "word_bg": "влюбен",
+        "word_bg": [
+            "влюбен"
+        ],
         "examples": [
             {
                 "example_de": "Ich bin in Francesco verliebt.",
@@ -34226,7 +34587,10 @@
     {
         "manually_verified": true,
         "word_de": "verlieren, verliert, verlor, hat verloren",
-        "word_bg": "губя, загубвам",
+        "word_bg": [
+            "губя",
+            "загубвам"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe meine Brieftasche verloren.",
@@ -34259,7 +34623,9 @@
     {
         "manually_verified": true,
         "word_de": "vermeiden, vermeidet, vermied, hat vermieden",
-        "word_bg": "избягвам",
+        "word_bg": [
+            "избягвам"
+        ],
         "examples": [
             {
                 "example_de": "Der Arzt sagt, ich soll Stress vermeiden.",
@@ -34270,7 +34636,9 @@
     {
         "manually_verified": true,
         "word_de": "vermieten, vermietet, vermietete, hat vermietet",
-        "word_bg": "давам под наем",
+        "word_bg": [
+            "давам под наем"
+        ],
         "examples": [
             {
                 "example_de": "Bei uns im Haus ist ein Zimmer zu vermieten.",
@@ -34307,7 +34675,9 @@
     {
         "manually_verified": true,
         "word_de": "vermissen, vermisst, vermisste, hat vermisst",
-        "word_bg": "липсва ми (нкг.)",
+        "word_bg": [
+            "липсва ми (нкг.)"
+        ],
         "examples": [
             {
                 "example_de": "Ich vermisse meine Familie.",
@@ -34333,7 +34703,10 @@
     {
         "manually_verified": true,
         "word_de": "vermuten, vermutet, vermutete, hat vermutet",
-        "word_bg": "подозирам, допускам",
+        "word_bg": [
+            "подозирам",
+            "допускам"
+        ],
         "examples": [
             {
                 "example_de": "Ich vermute, sie wird heute nicht kommen.",
@@ -34355,7 +34728,9 @@
     {
         "manually_verified": true,
         "word_de": "vernünftig",
-        "word_bg": "разумен",
+        "word_bg": [
+            "разумен"
+        ],
         "examples": [
             {
                 "example_de": "Seien Sie doch vernünftig!",
@@ -34370,7 +34745,9 @@
     {
         "manually_verified": true,
         "word_de": "verpacken, verpackt, verpackte, hat verpackt",
-        "word_bg": "опаковам",
+        "word_bg": [
+            "опаковам"
+        ],
         "examples": [
             {
                 "example_de": "Hast Du die Pakete gut verpackt?",
@@ -34381,7 +34758,10 @@
     {
         "manually_verified": true,
         "word_de": "verpassen, verpasst, verpasste, hat verpasst",
-        "word_bg": "изпускам, пропускам",
+        "word_bg": [
+            "изпускам",
+            "пропускам"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe den Zug verpasst.",
@@ -34396,7 +34776,9 @@
     {
         "manually_verified": true,
         "word_de": "verpflegen, verpflegt, verpflegte, hat verpflegt",
-        "word_bg": "грижа се за прехраната",
+        "word_bg": [
+            "грижа се за прехраната"
+        ],
         "examples": [
             {
                 "example_de": "Wir werden hier sehr gut mit Essen verpflegt.",
@@ -34418,7 +34800,9 @@
     {
         "manually_verified": true,
         "word_de": "verraten, verrät, verriet, hat verraten",
-        "word_bg": "издавам",
+        "word_bg": [
+            "издавам"
+        ],
         "examples": [
             {
                 "example_de": "Wer hat dir das Geheimnis verraten?",
@@ -34429,7 +34813,10 @@
     {
         "manually_verified": true,
         "word_de": "verreisen, verreist, verreiste, ist verreist",
-        "word_bg": "заминавам, отпътувам",
+        "word_bg": [
+            "заминавам",
+            "отпътувам"
+        ],
         "examples": [
             {
                 "example_de": "Frau Dr. Müller ist zurzeit verreist.",
@@ -34466,7 +34853,10 @@
     {
         "manually_verified": true,
         "word_de": "versäumen, versäumt, versäumte, hat versäumt",
-        "word_bg": "пропускам, изпускам",
+        "word_bg": [
+            "пропускам",
+            "изпускам"
+        ],
         "examples": [
             {
                 "example_de": "Tut mir leid, ich habe die Anmeldefrist versäumt.",
@@ -34477,7 +34867,10 @@
     {
         "manually_verified": true,
         "word_de": "verschieben, verschiebt, verschob, hat verschoben",
-        "word_bg": "отсрочвам, отлагам, премествам",
+        "word_bg": [
+            "отсрочвам, отлагам",
+            "премествам"
+        ],
         "examples": [
             {
                 "example_de": "Leider muss ich den Termin verschieben.",
@@ -34488,7 +34881,9 @@
     {
         "manually_verified": true,
         "word_de": "verschieden",
-        "word_bg": "различен",
+        "word_bg": [
+            "различен"
+        ],
         "examples": [
             {
                 "example_de": "Unsere beiden Kinder sind sehr verschieden.",
@@ -34503,7 +34898,9 @@
     {
         "manually_verified": true,
         "word_de": "verschreiben, verschreibt, verschrieb, hat verschrieben",
-        "word_bg": "предписвам",
+        "word_bg": [
+            "предписвам"
+        ],
         "examples": [
             {
                 "example_de": "Die Ärztin hat mir Tabletten verschrieben.",
@@ -34514,7 +34911,9 @@
     {
         "manually_verified": true,
         "word_de": "verschwinden, verschwindet, verschwand, ist verschwunden",
-        "word_bg": "изчезвам",
+        "word_bg": [
+            "изчезвам"
+        ],
         "examples": [
             {
                 "example_de": "Mein Ausweis ist verschwunden. Hast du ihn vielleicht gesehen?",
@@ -34525,7 +34924,9 @@
     {
         "manually_verified": true,
         "word_de": "versichern, versichert, versicherte, hat versichert",
-        "word_bg": "застраховам",
+        "word_bg": [
+            "застраховам"
+        ],
         "examples": [
             {
                 "example_de": "Wollen Sie Ihr Gepäck versichern?",
@@ -34577,7 +34978,9 @@
     {
         "manually_verified": true,
         "word_de": "versprechen, verspricht, versprach, hat versprochen",
-        "word_bg": "обещавам",
+        "word_bg": [
+            "обещавам"
+        ],
         "examples": [
             {
                 "example_de": "Meine Mutter hat mir versprochen, mich abzuholen.",
@@ -34648,7 +35051,9 @@
     {
         "manually_verified": true,
         "word_de": "versuchen, versucht, versuchte, hat versucht",
-        "word_bg": "опитвам",
+        "word_bg": [
+            "опитвам"
+        ],
         "examples": [
             {
                 "example_de": "Haben Sie es schon mal mit diesem Mittel versucht?",
@@ -34682,7 +35087,9 @@
     {
         "manually_verified": true,
         "word_de": "verteilen, verteilt, verteilte, hat verteilt",
-        "word_bg": "разпределям",
+        "word_bg": [
+            "разпределям"
+        ],
         "examples": [
             {
                 "example_de": "Kannst du bitte schon mal die Gläser verteilen?",
@@ -34704,7 +35111,9 @@
     {
         "manually_verified": true,
         "word_de": "vertrauen, vertraut, vertraute, hat vertraut",
-        "word_bg": "доверявам се (на нкг)",
+        "word_bg": [
+            "доверявам се (на нкг)"
+        ],
         "examples": [
             {
                 "example_de": "Ich kenne dich gut. Ich vertraue dir.",
@@ -34726,7 +35135,9 @@
     {
         "manually_verified": true,
         "word_de": "vertreten, vertritt, vertrat, hat vertreten",
-        "word_bg": "замествам",
+        "word_bg": [
+            "замествам"
+        ],
         "examples": [
             {
                 "example_de": "Wer vertritt Sie, wenn Sie Urlaub machen?",
@@ -34763,7 +35174,9 @@
     {
         "manually_verified": true,
         "word_de": "verurteilen, verurteilt, verurteilte, hat verurteilt",
-        "word_bg": "осъждам",
+        "word_bg": [
+            "осъждам"
+        ],
         "examples": [
             {
                 "example_de": "Das Gericht hat den Täter zu einer Geldstrafe verurteilt.",
@@ -34785,7 +35198,9 @@
     {
         "manually_verified": true,
         "word_de": "verwandt",
-        "word_bg": "роднина съм (на нкг)",
+        "word_bg": [
+            "роднина съм (на нкг)"
+        ],
         "examples": [
             {
                 "example_de": "Sind Sie mit Frau Meyer verwandt?",
@@ -34807,7 +35222,9 @@
     {
         "manually_verified": true,
         "word_de": "verwechseln, verwechselt, verwechselte, hat verwechselt",
-        "word_bg": "сбърквам",
+        "word_bg": [
+            "сбърквам"
+        ],
         "examples": [
             {
                 "example_de": "Entschuldigen Sie, ich habe Sie mit jemandem verwechselt.",
@@ -34818,7 +35235,10 @@
     {
         "manually_verified": true,
         "word_de": "verwenden, verwendet, verwendete, hat verwendet",
-        "word_bg": "употребявам, използвам",
+        "word_bg": [
+            "употребявам",
+            "използвам"
+        ],
         "examples": [
             {
                 "example_de": "Dieses Wort wird oft verwendet.",
@@ -34829,7 +35249,9 @@
     {
         "manually_verified": true,
         "word_de": "verzeihen, verzeiht, verzieh, hat verziehen",
-        "word_bg": "прощавам",
+        "word_bg": [
+            "прощавам"
+        ],
         "examples": [
             {
                 "example_de": "Das werde ich ihm nie verzeihen können.",
@@ -34840,7 +35262,9 @@
     {
         "manually_verified": true,
         "word_de": "Verzeihung",
-        "word_bg": "извинете!",
+        "word_bg": [
+            "извинете!"
+        ],
         "examples": [
             {
                 "example_de": "Verzeihung! Ich habe die falsche Nummer gewählt.",
@@ -34851,7 +35275,9 @@
     {
         "manually_verified": true,
         "word_de": "verzichten, verzichtet, verzichtete, hat verzichtet",
-        "word_bg": "отказвам се",
+        "word_bg": [
+            "отказвам се"
+        ],
         "examples": [
             {
                 "example_de": "Ich verzichte heute auf den Kaffee.",
@@ -35071,7 +35497,11 @@
     {
         "manually_verified": true,
         "word_de": "vor",
-        "word_bg": "преди, пред, поради",
+        "word_bg": [
+            "преди",
+            "пред",
+            "поради"
+        ],
         "examples": [
             {
                 "example_de": "Ich bin vor einer Woche zurückgekommen.",
@@ -35090,7 +35520,10 @@
     {
         "manually_verified": true,
         "word_de": "vor allem",
-        "word_bg": "преди всичко, особено (главно)",
+        "word_bg": [
+            "преди всичко",
+            "особено (главно)"
+        ],
         "examples": [
             {
                 "example_de": "Grüßen Sie alle von mir, vor allem Frau Meier.",
@@ -35101,7 +35534,10 @@
     {
         "manually_verified": true,
         "word_de": "voraus",
-        "word_bg": "напред, предварително",
+        "word_bg": [
+            "напред",
+            "предварително"
+        ],
         "examples": [
             {
                 "example_de": "Gehen Sie schon voraus.",
@@ -35142,7 +35578,9 @@
     {
         "manually_verified": true,
         "word_de": "vorbei/vorbei-",
-        "word_bg": "покрай",
+        "word_bg": [
+            "покрай"
+        ],
         "examples": [
             {
                 "example_de": "Die Linie 8 fährt am Krankenhaus vorbei.",
@@ -35209,7 +35647,9 @@
     {
         "manually_verified": true,
         "word_de": "vorgestern",
-        "word_bg": "онзи ден",
+        "word_bg": [
+            "онзи ден"
+        ],
         "examples": [
             {
                 "example_de": "Er hat mich vorgestern angerufen.",
@@ -35220,7 +35660,10 @@
     {
         "manually_verified": true,
         "word_de": "vorhaben, hat vor, hatte vor, hat vorgehabt",
-        "word_bg": "възнамерявам, планирам",
+        "word_bg": [
+            "възнамерявам",
+            "планирам"
+        ],
         "examples": [
             {
                 "example_de": "Haben Sie morgen Abend schon etwas vor?",
@@ -35231,7 +35674,9 @@
     {
         "manually_verified": true,
         "word_de": "vorher",
-        "word_bg": "преди това",
+        "word_bg": [
+            "преди това"
+        ],
         "examples": [
             {
                 "example_de": "Ich komme mit ins Café. Vorher muss ich aber noch zur Bank.",
@@ -35242,7 +35687,10 @@
     {
         "manually_verified": true,
         "word_de": "vorhin",
-        "word_bg": "преди малко, одеве",
+        "word_bg": [
+            "преди малко",
+            "одеве"
+        ],
         "examples": [
             {
                 "example_de": "Vorhin hat Heidrun angerufen. Du sollst sie zurückrufen.",
@@ -35253,7 +35701,10 @@
     {
         "manually_verified": true,
         "word_de": "vorkommen, kommt vor, kam vor, ist vorgekommen",
-        "word_bg": "ставам, случвам се",
+        "word_bg": [
+            "ставам",
+            "случвам се"
+        ],
         "examples": [
             {
                 "example_de": "Kein Problem. Das kann vorkommen.",
@@ -35264,7 +35715,9 @@
     {
         "manually_verified": true,
         "word_de": "vorläufig",
-        "word_bg": "временен",
+        "word_bg": [
+            "временен"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe noch keine Wohnung. Ich wohne vorläufig bei einem Freund.",
@@ -35275,7 +35728,9 @@
     {
         "manually_verified": true,
         "word_de": "vorlesen, liest vor, las vor, hat vorgelesen",
-        "word_bg": "прочитам на глас",
+        "word_bg": [
+            "прочитам на глас"
+        ],
         "examples": [
             {
                 "example_de": "Ich lese meinen Kindern oft etwas vor.",
@@ -35286,7 +35741,9 @@
     {
         "manually_verified": true,
         "word_de": "vorn, vorne",
-        "word_bg": "отпред",
+        "word_bg": [
+            "отпред"
+        ],
         "examples": [
             {
                 "example_de": "Bitte vorn beim Fahrer einsteigen!",
@@ -35308,7 +35765,9 @@
     {
         "manually_verified": true,
         "word_de": "vorschlagen, schlägt vor, schlug vor, hat vorgeschlagen",
-        "word_bg": "предлагам",
+        "word_bg": [
+            "предлагам"
+        ],
         "examples": [
             {
                 "example_de": "Ich schlage vor, dass wir eine Pause machen.",
@@ -35352,7 +35811,10 @@
     {
         "manually_verified": true,
         "word_de": "vorsichtig",
-        "word_bg": "предпазлив, внимателен",
+        "word_bg": [
+            "предпазлив",
+            "внимателен"
+        ],
         "examples": [
             {
                 "example_de": "Bitte fahr vorsichtig, die Straße ist glatt.",
@@ -35470,7 +35932,9 @@
     {
         "manually_verified": true,
         "word_de": "wach",
-        "word_bg": "буден",
+        "word_bg": [
+            "буден"
+        ],
         "examples": [
             {
                 "example_de": "Bist du schon lange wach?",
@@ -35485,7 +35949,10 @@
     {
         "manually_verified": true,
         "word_de": "wachsen, wächst, wuchs, ist gewachsen",
-        "word_bg": "раста, пораствам",
+        "word_bg": [
+            "раста",
+            "пораствам"
+        ],
         "examples": [
             {
                 "example_de": "Mein Sohn ist sehr gewachsen. Er ist jetzt schon größer als ich.",
@@ -35519,7 +35986,10 @@
     {
         "manually_verified": true,
         "word_de": "wählen, wählt, wählte, hat gewählt",
-        "word_bg": "избирам, гласувам (за партия)",
+        "word_bg": [
+            "избирам",
+            "гласувам (за партия)"
+        ],
         "examples": [
             {
                 "example_de": "Sie können wählen: Als Vorspeise gibt es Suppe oder Salat.",
@@ -35553,7 +36023,12 @@
     {
         "manually_verified": true,
         "word_de": "wahnsinnig",
-        "word_bg": "откачен, побъркан, луд, страшно (много)",
+        "word_bg": [
+            "откачен",
+            "побъркан",
+            "луд",
+            "страшно (много)"
+        ],
         "examples": [
             {
                 "example_de": "Du fährst viel zu schnell. Bist du wahnsinnig?!",
@@ -35568,7 +36043,10 @@
     {
         "manually_verified": true,
         "word_de": "wahr",
-        "word_bg": "истински, реален",
+        "word_bg": [
+            "истински",
+            "реален"
+        ],
         "examples": [
             {
                 "example_de": "Was ich sage, ist wahr.",
@@ -35598,7 +36076,10 @@
     {
         "manually_verified": true,
         "word_de": "während",
-        "word_bg": "по време на, докато",
+        "word_bg": [
+            "по време на",
+            "докато"
+        ],
         "examples": [
             {
                 "example_de": "Während ich arbeite, höre ich oft Musik.",
@@ -35654,7 +36135,9 @@
     {
         "manually_verified": true,
         "word_de": "wandern, wandert, wanderte, ist gewandert",
-        "word_bg": "отивам на излет",
+        "word_bg": [
+            "отивам на излет"
+        ],
         "examples": [
             {
                 "example_de": "Wir gehen oft wandern.",
@@ -35676,7 +36159,9 @@
     {
         "manually_verified": true,
         "word_de": "wann",
-        "word_bg": "кога",
+        "word_bg": [
+            "кога"
+        ],
         "examples": [
             {
                 "example_de": "Wann kommst du?",
@@ -35748,7 +36233,9 @@
     {
         "manually_verified": true,
         "word_de": "warnen, warnt, warnte, hat gewarnt",
-        "word_bg": "предупреждавам",
+        "word_bg": [
+            "предупреждавам"
+        ],
         "examples": [
             {
                 "example_de": "Ich warne Sie. Der Hund ist gefährlich.",
@@ -35759,7 +36246,9 @@
     {
         "manually_verified": true,
         "word_de": "warten, wartet, wartete, hat gewartet",
-        "word_bg": "чакам",
+        "word_bg": [
+            "чакам"
+        ],
         "examples": [
             {
                 "example_de": "Können Sie ein paar Minuten warten?",
@@ -35812,7 +36301,9 @@
     {
         "manually_verified": true,
         "word_de": "was für ein-",
-        "word_bg": "какъв...",
+        "word_bg": [
+            "какъв..."
+        ],
         "examples": [
             {
                 "example_de": "Ich will mir ein Auto kaufen. – Was denn für eins?",
@@ -35883,7 +36374,10 @@
     {
         "manually_verified": true,
         "word_de": "wechseln, wechselt, wechselte, hat gewechselt",
-        "word_bg": "сменям, обменям (пари)",
+        "word_bg": [
+            "сменям",
+            "обменям (пари)"
+        ],
         "examples": [
             {
                 "example_de": "Können Sie 50 Euro in Kleingeld/in Dollar wechseln?",
@@ -35902,7 +36396,10 @@
     {
         "manually_verified": true,
         "word_de": "wecken, weckt, weckte, hat geweckt",
-        "word_bg": "будя, събуждам",
+        "word_bg": [
+            "будя",
+            "събуждам"
+        ],
         "examples": [
             {
                 "example_de": "Können Sie mich morgen früh um sechs wecken?",
@@ -35980,7 +36477,10 @@
     {
         "manually_verified": true,
         "word_de": "wehtun, tut weh, tat weh, hat wehgetan",
-        "word_bg": "наранявам, боля",
+        "word_bg": [
+            "наранявам",
+            "боля"
+        ],
         "examples": [
             {
                 "example_de": "Wo tut es weh?",
@@ -36058,7 +36558,9 @@
     {
         "manually_verified": true,
         "word_de": "weinen, weint, weinte, hat geweint",
-        "word_bg": "плача",
+        "word_bg": [
+            "плача"
+        ],
         "examples": [
             {
                 "example_de": "Bitte nicht weinen. Du bekommst eine neue Puppe.",
@@ -36069,7 +36571,9 @@
     {
         "manually_verified": true,
         "word_de": "-weise",
-        "word_bg": "-част",
+        "word_bg": [
+            "-част"
+        ],
         "examples": [
             {
                 "example_de": "War der Test schwierig? – Teilweise.",
@@ -36125,7 +36629,9 @@
     {
         "manually_verified": true,
         "word_de": "welcher, welche, welches",
-        "word_bg": "кой, коя, кое",
+        "word_bg": [
+            "кой, коя, кое"
+        ],
         "examples": [
             {
                 "example_de": "Welcher Tag ist heute?",
@@ -36155,7 +36661,9 @@
     {
         "manually_verified": true,
         "word_de": "weltweit",
-        "word_bg": "световен",
+        "word_bg": [
+            "световен"
+        ],
         "examples": [
             {
                 "example_de": "Unsere Firma produziert für den weltweiten Markt.",
@@ -36170,7 +36678,9 @@
     {
         "manually_verified": true,
         "word_de": "wenden, wendet, wendete, hat gewendet",
-        "word_bg": "обръщам (в обратна посока)",
+        "word_bg": [
+            "обръщам (в обратна посока)"
+        ],
         "examples": [
             {
                 "example_de": "Sie müssen zurückfahren, aber hier dürfen Sie nicht wenden.",
@@ -36200,7 +36710,10 @@
     {
         "manually_verified": true,
         "word_de": "wenigstens",
-        "word_bg": "поне, най-малко",
+        "word_bg": [
+            "поне",
+            "най-малко"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe keinen Hunger. – Ach, essen Sie wenigstens ein Stück Kuchen.",
@@ -36211,7 +36724,10 @@
     {
         "manually_verified": true,
         "word_de": "wenn",
-        "word_bg": "ако, когато",
+        "word_bg": [
+            "ако",
+            "когато"
+        ],
         "examples": [
             {
                 "example_de": "Kommst du zu der Party? - Vielleicht, wenn ich nicht arbeiten muss.",
@@ -36222,7 +36738,9 @@
     {
         "manually_verified": true,
         "word_de": "wer",
-        "word_bg": "кой",
+        "word_bg": [
+            "кой"
+        ],
         "examples": [
             {
                 "example_de": "Wer ist das? Kennst du die Frau?",
@@ -36252,7 +36770,9 @@
     {
         "manually_verified": true,
         "word_de": "werden, wird, wurde, ist geworden",
-        "word_bg": "ставам (нещо)",
+        "word_bg": [
+            "ставам (нещо)"
+        ],
         "examples": [
             {
                 "example_de": "Es wird kalt.",
@@ -36279,7 +36799,9 @@
     {
         "manually_verified": true,
         "word_de": "werfen, wirft, warf, hat geworfen",
-        "word_bg": "хвърлям",
+        "word_bg": [
+            "хвърлям"
+        ],
         "examples": [
             {
                 "example_de": "Die Kinder haben Steine ins Wasser geworfen.",
@@ -36323,7 +36845,10 @@
     {
         "manually_verified": true,
         "word_de": "wert",
-        "word_bg": "струвам, ценен съм",
+        "word_bg": [
+            "струвам",
+            "ценен съм"
+        ],
         "examples": [
             {
                 "example_de": "Das Auto ist vielleicht noch 1000 Euro wert.",
@@ -36364,7 +36889,10 @@
     {
         "manually_verified": true,
         "word_de": "wertvoll",
-        "word_bg": "скъп, ценен",
+        "word_bg": [
+            "скъп",
+            "ценен"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe einen sehr wertvollen Ring von meiner Großmutter.",
@@ -36375,7 +36903,11 @@
     {
         "manually_verified": true,
         "word_de": "weshalb",
-        "word_bg": "защо, по каква причина, поради което",
+        "word_bg": [
+            "защо",
+            "по каква причина",
+            "поради което"
+        ],
         "examples": [
             {
                 "example_de": "Weshalb rufst du an?",
@@ -36401,7 +36933,10 @@
     {
         "manually_verified": true,
         "word_de": "wetten, wettet, wettete, hat gewettet",
-        "word_bg": "обзалагам се, хващам се на бас",
+        "word_bg": [
+            "обзалагам се",
+            "хващам се на бас"
+        ],
         "examples": [
             {
                 "example_de": "Wir haben gewettet, dass sie wieder zu spät kommt.",
@@ -36457,7 +36992,9 @@
     {
         "manually_verified": true,
         "word_de": "wichtig",
-        "word_bg": "важен",
+        "word_bg": [
+            "важен"
+        ],
         "examples": [
             {
                 "example_de": "Die Prüfung ist sehr wichtig für mich.",
@@ -36472,7 +37009,10 @@
     {
         "manually_verified": true,
         "word_de": "widersprechen, widerspricht, widersprach, hat widersprochen",
-        "word_bg": "възразявам, противореча (си)",
+        "word_bg": [
+            "възразявам",
+            "противореча (си)"
+        ],
         "examples": [
             {
                 "example_de": "Da muss ich Ihnen widersprechen.",
@@ -36487,7 +37027,11 @@
     {
         "manually_verified": true,
         "word_de": "wie",
-        "word_bg": "как, колко, като",
+        "word_bg": [
+            "как",
+            "колко",
+            "като"
+        ],
         "examples": [
             {
                 "example_de": "Wie heißt du?",
@@ -36541,7 +37085,9 @@
     {
         "manually_verified": true,
         "word_de": "wiederholen, wiederholt, wiederholte, hat wiederholt",
-        "word_bg": "повтарям",
+        "word_bg": [
+            "повтарям"
+        ],
         "examples": [
             {
                 "example_de": "Ich wiederhole: Die Nummer ist 3487.",
@@ -36563,7 +37109,9 @@
     {
         "manually_verified": true,
         "word_de": "wiegen, wiegt, wog, hat gewogen",
-        "word_bg": "тежа",
+        "word_bg": [
+            "тежа"
+        ],
         "examples": [
             {
                 "example_de": "Wie viel wiegst du?",
@@ -36604,7 +37152,10 @@
     {
         "manually_verified": true,
         "word_de": "wieso",
-        "word_bg": "как така, защо",
+        "word_bg": [
+            "как така",
+            "защо"
+        ],
         "examples": [
             {
                 "example_de": "Wie lange sind Sie hier? – Wieso fragen Sie?",
@@ -36615,7 +37166,9 @@
     {
         "manually_verified": true,
         "word_de": "wie viel(e)",
-        "word_bg": "колко",
+        "word_bg": [
+            "колко"
+        ],
         "examples": [
             {
                 "example_de": "Wie viel Geld hast du dabei?",
@@ -36656,7 +37209,9 @@
     {
         "manually_verified": true,
         "word_de": "windig",
-        "word_bg": "ветровит",
+        "word_bg": [
+            "ветровит"
+        ],
         "examples": [
             {
                 "example_de": "Es ist heute sehr windig.",
@@ -36667,7 +37222,10 @@
     {
         "manually_verified": true,
         "word_de": "winken, winkt, winkte, hat gewinkt",
-        "word_bg": "давам знак, махам (с ръка)",
+        "word_bg": [
+            "давам знак",
+            "махам (с ръка)"
+        ],
         "examples": [
             {
                 "example_de": "Alle standen auf dem Bahnsteig und winkten zum Abschied.",
@@ -36678,7 +37236,10 @@
     {
         "manually_verified": true,
         "word_de": "wirken, wirkt, wirkte, hat gewirkt",
-        "word_bg": "действам, работя",
+        "word_bg": [
+            "действам",
+            "работя"
+        ],
         "examples": [
             {
                 "example_de": "Die Tabletten haben nicht gewirkt.",
@@ -36752,7 +37313,10 @@
     {
         "manually_verified": true,
         "word_de": "wissen, weiß, wusste, hat gewusst",
-        "word_bg": "знам, зная",
+        "word_bg": [
+            "знам",
+            "зная"
+        ],
         "examples": [
             {
                 "example_de": "Weißt du, wie der Hausmeister heißt?",
@@ -36819,7 +37383,9 @@
     {
         "manually_verified": true,
         "word_de": "wo",
-        "word_bg": "къде",
+        "word_bg": [
+            "къде"
+        ],
         "examples": [
             {
                 "example_de": "Wo waren Sie im Urlaub?",
@@ -36853,7 +37419,9 @@
     {
         "manually_verified": true,
         "word_de": "wohin",
-        "word_bg": "накъде",
+        "word_bg": [
+            "накъде"
+        ],
         "examples": [
             {
                 "example_de": "Wohin kommt der Schrank?",
@@ -36868,7 +37436,10 @@
     {
         "manually_verified": true,
         "word_de": "wohl",
-        "word_bg": "добре, вероятно",
+        "word_bg": [
+            "добре",
+            "вероятно"
+        ],
         "examples": [
             {
                 "example_de": "Kann ich nach Hause gehen? Ich fühle mich nicht wohl.",
@@ -36883,7 +37454,9 @@
     {
         "manually_verified": true,
         "word_de": "wohnen, wohnt, wohnte, hat gewohnt",
-        "word_bg": "живея",
+        "word_bg": [
+            "живея"
+        ],
         "examples": [
             {
                 "example_de": "Wir wohnen in einem alten Haus.",
@@ -37006,7 +37579,10 @@
     {
         "manually_verified": true,
         "word_de": "worüber",
-        "word_bg": "на какво, за какво",
+        "word_bg": [
+            "на какво",
+            "за какво"
+        ],
         "examples": [
             {
                 "example_de": "Worüber lachen Sie?",
@@ -37017,7 +37593,9 @@
     {
         "manually_verified": true,
         "word_de": "worum",
-        "word_bg": "за какво",
+        "word_bg": [
+            "за какво"
+        ],
         "examples": [
             {
                 "example_de": "Kann ich Herrn Meier sprechen? – Worum geht es denn?",
@@ -37087,7 +37665,10 @@
     {
         "manually_verified": true,
         "word_de": "wunderbar",
-        "word_bg": "чудесен, великолепен",
+        "word_bg": [
+            "чудесен",
+            "великолепен"
+        ],
         "examples": [
             {
                 "example_de": "Im ganzen Urlaub hatten wir wunderbares Wetter.",
@@ -37102,7 +37683,10 @@
     {
         "manually_verified": true,
         "word_de": "wunderschön",
-        "word_bg": "прекрасен, чудно красив",
+        "word_bg": [
+            "прекрасен",
+            "чудно красив"
+        ],
         "examples": [
             {
                 "example_de": "Wir haben einen Ausflug gemacht. Es war wunderschön.",
@@ -37177,7 +37761,11 @@
     {
         "manually_verified": true,
         "word_de": "wütend",
-        "word_bg": "побеснял, яростен, бесен",
+        "word_bg": [
+            "побеснял",
+            "яростен",
+            "бесен"
+        ],
         "examples": [
             {
                 "example_de": "Warum bist du so wütend?",
@@ -37214,7 +37802,10 @@
     {
         "manually_verified": true,
         "word_de": "zahlreich",
-        "word_bg": "многоброен, многочислен",
+        "word_bg": [
+            "многоброен",
+            "многочислен"
+        ],
         "examples": [
             {
                 "example_de": "Die Gäste sind zahlreich gekommen. Es gibt zahlreiche Beispiele für gute Zusammenarbeit.",
@@ -37225,7 +37816,9 @@
     {
         "manually_verified": true,
         "word_de": "zahlen, zahlt, zahlte, hat gezahlt",
-        "word_bg": "плащам",
+        "word_bg": [
+            "плащам"
+        ],
         "examples": [
             {
                 "example_de": "Herr Ober, zahlen bitte!",
@@ -37251,7 +37844,11 @@
     {
         "manually_verified": true,
         "word_de": "zählen, zählt, zählte, hat gezählt",
-        "word_bg": "броя, преброявам, разчитам (на някого)",
+        "word_bg": [
+            "броя",
+            "преброявам",
+            "разчитам (на някого)"
+        ],
         "examples": [
             {
                 "example_de": "Bitte zählen Sie das Wechselgeld sofort nach.",
@@ -37325,7 +37922,9 @@
     {
         "manually_verified": true,
         "word_de": "zeichnen, zeichnet, zeichnete, hat gezeichnet",
-        "word_bg": "рисувам",
+        "word_bg": [
+            "рисувам"
+        ],
         "examples": [
             {
                 "example_de": "Meine Tochter kann sehr gut zeichnen.",
@@ -37347,7 +37946,9 @@
     {
         "manually_verified": true,
         "word_de": "zeigen, zeigt, zeigte, hat gezeigt",
-        "word_bg": "показвам",
+        "word_bg": [
+            "показвам"
+        ],
         "examples": [
             {
                 "example_de": "Zeig mir bitte deine Hausaufgaben.",
@@ -37440,7 +38041,9 @@
     {
         "manually_verified": true,
         "word_de": "zelten, zeltet, zeltete, hat gezeltet",
-        "word_bg": "живея в палатка",
+        "word_bg": [
+            "живея в палатка"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe noch nie gezeltet.",
@@ -37477,7 +38080,10 @@
     {
         "manually_verified": true,
         "word_de": "zerstören, zerstört, zerstörte, hat zerstört",
-        "word_bg": "унищожавам, разрушавам",
+        "word_bg": [
+            "унищожавам",
+            "разрушавам"
+        ],
         "examples": [
             {
                 "example_de": "Der Sturm hat viele Häuser zerstört.",
@@ -37543,7 +38149,11 @@
     {
         "manually_verified": true,
         "word_de": "ziehen, zieht, zog, hat/ist gezogen",
-        "word_bg": "дърпам, тегля, премествам се",
+        "word_bg": [
+            "дърпам",
+            "тегля",
+            "премествам се"
+        ],
         "examples": [
             {
                 "example_de": "Sie müssen ziehen, nicht drücken.",
@@ -37691,7 +38301,11 @@
     {
         "manually_verified": true,
         "word_de": "zu",
-        "word_bg": "към, при, у",
+        "word_bg": [
+            "към",
+            "при",
+            "у"
+        ],
         "examples": [
             {
                 "example_de": "Ich bringe Sie zum Bahnhof.",
@@ -37706,7 +38320,10 @@
     {
         "manually_verified": true,
         "word_de": "zubereiten, bereitet zu, bereitete zu, hat zubereitet",
-        "word_bg": "приготвям, подготвям",
+        "word_bg": [
+            "приготвям",
+            "подготвям"
+        ],
         "examples": [
             {
                 "example_de": "Sie bereitet das Fleisch mit Kartoffeln zu.",
@@ -37728,7 +38345,11 @@
     {
         "manually_verified": true,
         "word_de": "zuerst",
-        "word_bg": "първо, най-напред, отначало",
+        "word_bg": [
+            "първо",
+            "най-напред",
+            "отначало"
+        ],
         "examples": [
             {
                 "example_de": "Wer war zuerst? – Der Herr hier.",
@@ -37762,7 +38383,10 @@
     {
         "manually_verified": true,
         "word_de": "zufällig",
-        "word_bg": "случаен, случайно",
+        "word_bg": [
+            "случаен",
+            "случайно"
+        ],
         "examples": [
             {
                 "example_de": "Wir haben uns zufällig am Bahnhof getroffen.",
@@ -37777,7 +38401,9 @@
     {
         "manually_verified": true,
         "word_de": "zufrieden",
-        "word_bg": "доволен",
+        "word_bg": [
+            "доволен"
+        ],
         "examples": [
             {
                 "example_de": "Meine Kinder haben heute Zeugnisse bekommen. Ich bin zufrieden.",
@@ -37833,7 +38459,9 @@
     {
         "manually_verified": true,
         "word_de": "zugehen, geht zu, ging zu, ist zugegangen",
-        "word_bg": "затварям",
+        "word_bg": [
+            "затварям"
+        ],
         "examples": [
             {
                 "example_de": "Die Tür geht nicht zu. Kannst du mir helfen?",
@@ -37855,7 +38483,9 @@
     {
         "manually_verified": true,
         "word_de": "zuhören, hört zu, hörte zu, hat zugehört",
-        "word_bg": "слушам внимателно",
+        "word_bg": [
+            "слушам внимателно"
+        ],
         "examples": [
             {
                 "example_de": "Hör mir doch mal zu!",
@@ -37918,7 +38548,9 @@
     {
         "manually_verified": true,
         "word_de": "zumachen, macht zu, machte zu, hat zugemacht",
-        "word_bg": "затварям",
+        "word_bg": [
+            "затварям"
+        ],
         "examples": [
             {
                 "example_de": "Mach bitte die Tür zu!",
@@ -37940,7 +38572,10 @@
     {
         "manually_verified": true,
         "word_de": "zunächst",
-        "word_bg": "най-напред, на първо време",
+        "word_bg": [
+            "най-напред",
+            "на първо време"
+        ],
         "examples": [
             {
                 "example_de": "Zunächst möchte ich alle begrüßen!",
@@ -37973,7 +38608,10 @@
     {
         "manually_verified": true,
         "word_de": "zunehmen, nimmt zu, nahm zu, hat zugenommen",
-        "word_bg": "напълнявам, надебелявам",
+        "word_bg": [
+            "напълнявам",
+            "надебелявам"
+        ],
         "examples": [
             {
                 "example_de": "Ich habe im Urlaub 1 Kilo zugenommen.",
@@ -37984,7 +38622,10 @@
     {
         "manually_verified": true,
         "word_de": "zurechtkommen, kommt zurecht, kam zurecht, ist zurechtgekommen",
-        "word_bg": "справям се, оправям се",
+        "word_bg": [
+            "справям се",
+            "оправям се"
+        ],
         "examples": [
             {
                 "example_de": "Soll ich Ihnen helfen? - Danke. Ich komme allein zurecht.",
@@ -37995,7 +38636,10 @@
     {
         "manually_verified": true,
         "word_de": "zurück/zurück-",
-        "word_bg": "назад, обратно",
+        "word_bg": [
+            "назад",
+            "обратно"
+        ],
         "examples": [
             {
                 "example_de": "Bitte eine Fahrkarte nach Frankfurt und zurück!",
@@ -38014,7 +38658,10 @@
     {
         "manually_verified": true,
         "word_de": "zurzeit",
-        "word_bg": "понастоящем, в момента",
+        "word_bg": [
+            "понастоящем",
+            "в момента"
+        ],
         "examples": [
             {
                 "example_de": "Zurzeit ist kein Zimmer frei.",
@@ -38029,7 +38676,10 @@
     {
         "manually_verified": true,
         "word_de": "zusagen, sagt zu, sagte zu, hat zugesagt",
-        "word_bg": "съгласявам се, приемам (покана)",
+        "word_bg": [
+            "съгласявам се",
+            "приемам (покана)"
+        ],
         "examples": [
             {
                 "example_de": "Meine Eltern haben uns zum Essen eingeladen. Ich habe zugesagt.",
@@ -38070,7 +38720,9 @@
     {
         "manually_verified": true,
         "word_de": "zusammenfassen, fasst zusammen, fasste zusammen, hat zusammengefasst",
-        "word_bg": "обобщавам",
+        "word_bg": [
+            "обобщавам"
+        ],
         "examples": [
             {
                 "example_de": "Können Sie das bitte noch einmal kurz zusammenfassen?",
@@ -38107,7 +38759,10 @@
     {
         "manually_verified": true,
         "word_de": "zuschauen, schaut zu, schaute zu, hat zugeschaut",
-        "word_bg": "гледам, наблюдавам",
+        "word_bg": [
+            "гледам",
+            "наблюдавам"
+        ],
         "examples": [
             {
                 "example_de": "Willst du mitspielen? – Nein, ich schaue lieber nur zu.",
@@ -38144,7 +38799,9 @@
     {
         "manually_verified": true,
         "word_de": "zu sein, ist zu, war zu, ist zu gewesen",
-        "word_bg": "да бъде затворен",
+        "word_bg": [
+            "да бъде затворен"
+        ],
         "examples": [
             {
                 "example_de": "Am Sonntag sind die die meisten Läden zu.",
@@ -38181,7 +38838,9 @@
     {
         "manually_verified": true,
         "word_de": "zustimmen, stimmt zu, stimmte zu, hat zugestimmt",
-        "word_bg": "съгласявам се",
+        "word_bg": [
+            "съгласявам се"
+        ],
         "examples": [
             {
                 "example_de": "Ich stimme dir in dieser Sache völlig zu.",
@@ -38240,7 +38899,10 @@
     {
         "manually_verified": true,
         "word_de": "zwar",
-        "word_bg": "наистина, и то",
+        "word_bg": [
+            "наистина",
+            "и то"
+        ],
         "examples": [
             {
                 "example_de": "Diese Schuhe sind zwar teuer, aber gut.",
@@ -38262,7 +38924,9 @@
     {
         "manually_verified": true,
         "word_de": "zweifeln, zweifelt, zweifelte, hat gezweifelt",
-        "word_bg": "съмнявам се",
+        "word_bg": [
+            "съмнявам се"
+        ],
         "examples": [
             {
                 "example_de": "Ich zweifle nicht daran, dass Sie recht haben.",
