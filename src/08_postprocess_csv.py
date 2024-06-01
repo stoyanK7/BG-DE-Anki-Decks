@@ -9,11 +9,9 @@ import os
 
 import pandas as pd
 from utils.constants import (
-    EXAMPLE_TRANSLATIONS_FIX_PATH,
     POSTPROCESSED_WORDLIST_JSON_PATH,
     PREPROCESSED_WORDLIST_CSV_PATH,
     TRANSLATIONS_DIR_PATH,
-    WORD_TRANSLATIONS_FIX_JSON_PATH,
 )
 from utils.logger import logger
 
@@ -78,40 +76,37 @@ def extract_examples_translations(word: str) -> str:
 
 df['examples_translations'] = df['word'].apply(extract_examples_translations)
 
-with open(WORD_TRANSLATIONS_FIX_JSON_PATH, 'r') as file:
-    word_translations_fix = json.load(file)
-with open(EXAMPLE_TRANSLATIONS_FIX_PATH, 'r') as file:
-    example_translations_fix = json.load(file)
-
+# Get list of objects that have been manually verified.
 manually_verified_words = set()
+word_to_object = dict()
 if os.path.exists(POSTPROCESSED_WORDLIST_JSON_PATH):
     with open(POSTPROCESSED_WORDLIST_JSON_PATH, 'r', encoding='utf-8') as file:
         objects = json.load(file)
 
     for obj in objects:
+        word_to_object[obj['word_de']] = obj
         if obj['manually_verified']:
             manually_verified_words.add(obj['word_de'])
 
-
+# Prepare JSON file.
 data = []
 for row in df.itertuples():
-    ex_de = ast.literal_eval(row.examples)
-    ex_bg = ast.literal_eval(row.examples_translations)
-    if row.word in example_translations_fix:
-        ex_bg = example_translations_fix[row.word].values()
-    examples_list = []
-    for de, bg in zip(ex_de, ex_bg):
-        examples_list.append({'example_de': de, 'example_bg': bg})
+    # If word has already been manually verified, don't touch it.
+    if row.word in manually_verified_words:
+        data.append(word_to_object[row.word])
+        continue
 
-    xword = row.word
-    if row.word in word_translations_fix:
-        xword = word_translations_fix[row.word]
+    examples_de = ast.literal_eval(row.examples)
+    examples_bg = ast.literal_eval(row.examples_translations)
+    examples_list = []
+    for de, bg in zip(examples_de, examples_bg):
+        examples_list.append({'example_de': de, 'example_bg': bg})
 
     data.append(
         {
-            'manually_verified': row.word in word_translations_fix,
+            'manually_verified': False,
             'word_de': row.word,
-            'word_bg': xword,
+            'word_bg': ast.literal_eval(row.word_translation),
             'examples': examples_list,
         }
     )
