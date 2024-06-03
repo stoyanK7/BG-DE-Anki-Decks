@@ -7,17 +7,17 @@ import os.path
 import re
 
 import pandas as pd
-from utils.constants import PREPROCESSED_WORDLIST_TXT_PATH, WORDLIST_CSV_PATH
+from utils.constants import WORDLIST_CSV_PATH, WORDLIST_PREPROCESSED_TXT_PATH
 from utils.logger import logger
 
-if not os.path.exists(PREPROCESSED_WORDLIST_TXT_PATH):
+if not os.path.exists(WORDLIST_PREPROCESSED_TXT_PATH):
     logger.error(
         'Preprocessed wordlist TXT file not found. Did you run "02_preprocess_txt.py"?'
     )
-    logger.error(f'{PREPROCESSED_WORDLIST_TXT_PATH} does not exist')
+    logger.error(f'{WORDLIST_PREPROCESSED_TXT_PATH} does not exist')
     raise SystemExit('Aborting')
 
-with open(PREPROCESSED_WORDLIST_TXT_PATH, 'r', encoding='utf-8') as file:
+with open(WORDLIST_PREPROCESSED_TXT_PATH, 'r', encoding='utf-8') as file:
     lines = file.readlines()
 
 # Remove lines with single letters A B C D E F G ...

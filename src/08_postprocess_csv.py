@@ -9,20 +9,20 @@ import os
 
 import pandas as pd
 from utils.constants import (
-    POSTPROCESSED_WORDLIST_JSON_PATH,
-    PREPROCESSED_WORDLIST_CSV_PATH,
+    DECK_DATA_JSON_PATH,
     TRANSLATIONS_DIR_PATH,
+    WORDLIST_PREPROCESSED_CSV_PATH,
 )
 from utils.logger import logger
 
-if not os.path.exists(PREPROCESSED_WORDLIST_CSV_PATH):
+if not os.path.exists(WORDLIST_PREPROCESSED_CSV_PATH):
     logger.error(
         'Preprocessed wordlist CSV file not found. Did you run "05_preprocess_csv.py"?'
     )
-    logger.error(f'{PREPROCESSED_WORDLIST_CSV_PATH} does not exist')
+    logger.error(f'{WORDLIST_PREPROCESSED_CSV_PATH} does not exist')
     raise SystemExit('Aborting')
 
-df = pd.read_csv(PREPROCESSED_WORDLIST_CSV_PATH)
+df = pd.read_csv(WORDLIST_PREPROCESSED_CSV_PATH)
 
 # Assert that all translations are in place.
 for row in df.itertuples():
@@ -112,5 +112,5 @@ for row in df.itertuples():
     )
 
 
-with open(POSTPROCESSED_WORDLIST_JSON_PATH, 'w', encoding='utf-8') as file:
+with open(DECK_DATA_JSON_PATH, 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)

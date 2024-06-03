@@ -8,8 +8,8 @@ import os.path
 import re
 
 from utils.constants import (
-    CLEANED_WORDLIST_TXT_PATH,
     PAGE_BREAK,
+    WORDLIST_CLEANED_TXT_PATH,
     WORDLIST_TXT_PATH,
 )
 from utils.logger import logger
@@ -73,8 +73,8 @@ cleaned_contents = re.sub(
     rf'\n+{PAGE_BREAK}', rf'\n{PAGE_BREAK}', cleaned_contents
 )
 
-with open(CLEANED_WORDLIST_TXT_PATH, 'w', encoding='utf-8') as file:
+with open(WORDLIST_CLEANED_TXT_PATH, 'w', encoding='utf-8') as file:
     file.write(cleaned_contents)
 
 logger.info('Successfully cleaned TXT')
-logger.info(f'Saved cleaned TXT wordlist at {CLEANED_WORDLIST_TXT_PATH}')
+logger.info(f'Saved cleaned TXT wordlist at {WORDLIST_CLEANED_TXT_PATH}')

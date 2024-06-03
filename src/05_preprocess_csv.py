@@ -8,19 +8,19 @@ import re
 
 import pandas as pd
 from utils.constants import (
-    CLEANED_WORDLIST_CSV_PATH,
-    PREPROCESSED_WORDLIST_CSV_PATH,
+    WORDLIST_CLEANED_CSV_PATH,
+    WORDLIST_PREPROCESSED_CSV_PATH,
 )
 from utils.logger import logger
 
-if not os.path.exists(CLEANED_WORDLIST_CSV_PATH):
+if not os.path.exists(WORDLIST_CLEANED_CSV_PATH):
     logger.error(
         'Cleaned wordlist CSV file not found. Did you run "04_clean_csv.py"?'
     )
-    logger.error(f'{CLEANED_WORDLIST_CSV_PATH} does not exist')
+    logger.error(f'{WORDLIST_CLEANED_CSV_PATH} does not exist')
     raise SystemExit('Aborting')
 
-df = pd.read_csv(CLEANED_WORDLIST_CSV_PATH)
+df = pd.read_csv(WORDLIST_CLEANED_CSV_PATH)
 
 # Catch strings such as '1. ' or '2. ' or '13. '.
 example_number_pattern = re.compile(r'(\d+)\.\s\w+')
@@ -126,8 +126,8 @@ def determine_word_search(word: str) -> str:
 
 df['word_search'] = df['word_audio'].apply(determine_word_search)
 
-df.to_csv(PREPROCESSED_WORDLIST_CSV_PATH, index=False)
+df.to_csv(WORDLIST_PREPROCESSED_CSV_PATH, index=False)
 logger.info('Successfully preprocessed CSV')
 logger.info(
-    f'Saved preprocessed CSV wordlist at {PREPROCESSED_WORDLIST_CSV_PATH}'
+    f'Saved preprocessed CSV wordlist at {WORDLIST_PREPROCESSED_CSV_PATH}'
 )

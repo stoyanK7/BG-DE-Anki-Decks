@@ -10,20 +10,20 @@ import re
 from collections import Counter
 
 from utils.constants import (
-    CLEANED_WORDLIST_TXT_PATH,
     PAGE_BREAK,
-    PREPROCESSED_WORDLIST_TXT_PATH,
+    WORDLIST_CLEANED_TXT_PATH,
+    WORDLIST_PREPROCESSED_TXT_PATH,
 )
 from utils.logger import logger
 
-if not os.path.exists(CLEANED_WORDLIST_TXT_PATH):
+if not os.path.exists(WORDLIST_CLEANED_TXT_PATH):
     logger.error(
         'Cleaned wordlist TXT file not found. Did you run "01_clean_txt.py"?'
     )
-    logger.error(f'{CLEANED_WORDLIST_TXT_PATH} does not exist')
+    logger.error(f'{WORDLIST_CLEANED_TXT_PATH} does not exist')
     raise SystemExit('Aborting')
 
-with open(CLEANED_WORDLIST_TXT_PATH, 'r', encoding='utf-8') as file:
+with open(WORDLIST_CLEANED_TXT_PATH, 'r', encoding='utf-8') as file:
     contents = file.read()
 
 pages = contents.split(f'\n{PAGE_BREAK}\n')
@@ -79,10 +79,10 @@ preprocessed_content = '\n'.join(preprocessed_lines).strip()
 # Convert 3 or more newlines into 2 newlines.
 preprocessed_content = re.sub(r'\n{3,}', '\n\n', preprocessed_content)
 
-with open(PREPROCESSED_WORDLIST_TXT_PATH, 'w', encoding='utf-8') as file:
+with open(WORDLIST_PREPROCESSED_TXT_PATH, 'w', encoding='utf-8') as file:
     file.write(preprocessed_content)
 
 logger.info('Successfully preprocessed TXT')
 logger.info(
-    f'Saved preprocessed TXT wordlist at {PREPROCESSED_WORDLIST_TXT_PATH}'
+    f'Saved preprocessed TXT wordlist at {WORDLIST_PREPROCESSED_TXT_PATH}'
 )

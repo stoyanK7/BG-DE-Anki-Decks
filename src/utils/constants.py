@@ -2,59 +2,50 @@
 
 import os
 
+# Common constants
+PAGE_BREAK = '\x0c'
+
+# Common paths
 ROOT_DIR_PATH = os.path.abspath(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..')
 )
 DATA_DIR_PATH = os.path.join(ROOT_DIR_PATH, 'data')
-INPUT_DATA_DIR_PATH = os.path.join(DATA_DIR_PATH, 'input')
-OUTPUT_DATA_DIR_PATH = os.path.join(DATA_DIR_PATH, 'output')
-RAW_DATA_DIR_PATH = os.path.join(OUTPUT_DATA_DIR_PATH, 'raw')
-CLEANED_DATA_DIR_PATH = os.path.join(OUTPUT_DATA_DIR_PATH, 'cleaned')
-PREPROCESSED_DATA_DIR_PATH = os.path.join(OUTPUT_DATA_DIR_PATH, 'preprocessed')
-POSTPROCESSED_DATA_DIR_PATH = os.path.join(
-    OUTPUT_DATA_DIR_PATH, 'postprocessed'
-)
-AUDIO_RECORDINGS_DIR_PATH = os.path.join(OUTPUT_DATA_DIR_PATH, 'audio')
-TRANSLATIONS_DIR_PATH = os.path.join(OUTPUT_DATA_DIR_PATH, 'translations')
 
-WORDLIST_PDF_FILENAME = 'Goethe-Zertifikat_B1_Wortliste.pdf'
-WORDLIST_PDF_PATH = os.path.join(INPUT_DATA_DIR_PATH, WORDLIST_PDF_FILENAME)
+# 00_convert_pdf_to_text.py
+WORDLIST_PDF_PATH = os.path.join(DATA_DIR_PATH, '00_Wordlist.pdf')
+WORDLIST_TXT_PATH = os.path.join(DATA_DIR_PATH, '00_Wordlist_Raw.txt')
 
-WORD_TRANSLATIONS_FIX_JSON_PATH = os.path.join(
-    INPUT_DATA_DIR_PATH, 'word_translations_fix.json'
+# 01_clean_txt.py
+WORDLIST_CLEANED_TXT_PATH = os.path.join(
+    DATA_DIR_PATH, '01_Wordlist_Cleaned.txt'
 )
 
-EXAMPLE_TRANSLATIONS_FIX_PATH = os.path.join(
-    INPUT_DATA_DIR_PATH, 'example_translations_fix.json'
+# 02_preprocess_txt.py
+WORDLIST_PREPROCESSED_TXT_PATH = os.path.join(
+    DATA_DIR_PATH, '02_Wordlist_Preprocessed.txt'
 )
 
-WORDLIST_TXT_FILENAME = 'Goethe-Zertifikat_B1_Wortliste.txt'
-WORDLIST_TXT_PATH = os.path.join(RAW_DATA_DIR_PATH, WORDLIST_TXT_FILENAME)
+# 03_parse_txt.py
+WORDLIST_CSV_PATH = os.path.join(DATA_DIR_PATH, '03_Wordlist_Raw.csv')
 
-CLEANED_WORDLIST_TXT_PATH = os.path.join(
-    CLEANED_DATA_DIR_PATH, WORDLIST_TXT_FILENAME
+# 04_clean_csv.py
+WORDLIST_CLEANED_CSV_PATH = os.path.join(
+    DATA_DIR_PATH, '04_Wordlist_Cleaned.csv'
 )
 
-PREPROCESSED_WORDLIST_TXT_PATH = os.path.join(
-    PREPROCESSED_DATA_DIR_PATH, WORDLIST_TXT_FILENAME
+# 05_preprocess_csv.py
+WORDLIST_PREPROCESSED_CSV_PATH = os.path.join(
+    DATA_DIR_PATH, '05_Wordlist_Preprocessed.csv'
 )
 
-WORDLIST_CSV_FILENAME = 'Goethe-Zertifikat_B1_Wortliste.csv'
-WORDLIST_CSV_PATH = os.path.join(RAW_DATA_DIR_PATH, WORDLIST_CSV_FILENAME)
+# 06_create_audio.py
+AUDIO_RECORDINGS_DIR_PATH = os.path.join(DATA_DIR_PATH, 'audio')
 
-CLEANED_WORDLIST_CSV_PATH = os.path.join(
-    CLEANED_DATA_DIR_PATH, WORDLIST_CSV_FILENAME
-)
+# 07_translate.py
+TRANSLATIONS_DIR_PATH = os.path.join(DATA_DIR_PATH, 'translations')
 
-PREPROCESSED_WORDLIST_CSV_PATH = os.path.join(
-    PREPROCESSED_DATA_DIR_PATH, WORDLIST_CSV_FILENAME
-)
+# 08_postprocess_csv.py
+DECK_DATA_JSON_PATH = os.path.join(DATA_DIR_PATH, '08_Deck_Data.json')
 
-POSTPROCESSED_WORDLIST_JSON_PATH = os.path.join(
-    POSTPROCESSED_DATA_DIR_PATH, 'deck_data.json'
-)
-
-ANKI_DECK_TXT_PATH = os.path.join(OUTPUT_DATA_DIR_PATH, 'deck.txt')
-
-
-PAGE_BREAK = '\x0c'
+# 09_generate_deck.py
+ANKI_DECK_TXT_PATH = os.path.join(DATA_DIR_PATH, 'Anki_Deck.txt')

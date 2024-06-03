@@ -9,15 +9,15 @@ from rich.progress import track
 from TTS.api import TTS
 from utils.constants import (
     AUDIO_RECORDINGS_DIR_PATH,
-    PREPROCESSED_WORDLIST_CSV_PATH,
+    WORDLIST_PREPROCESSED_CSV_PATH,
 )
 from utils.logger import logger
 
-if not os.path.exists(PREPROCESSED_WORDLIST_CSV_PATH):
+if not os.path.exists(WORDLIST_PREPROCESSED_CSV_PATH):
     logger.error(
         'Cleaned wordlist CSV file not found. Did you run "05_preprocess_csv.py"?'
     )
-    logger.error(f'{PREPROCESSED_WORDLIST_CSV_PATH} does not exist')
+    logger.error(f'{WORDLIST_PREPROCESSED_CSV_PATH} does not exist')
     raise SystemExit('Aborting')
 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -25,7 +25,7 @@ tts = TTS(
     model_name='tts_models/de/thorsten/tacotron2-DDC', progress_bar=False
 ).to(device)
 
-df = pd.read_csv(PREPROCESSED_WORDLIST_CSV_PATH)
+df = pd.read_csv(WORDLIST_PREPROCESSED_CSV_PATH)
 
 for row in track(
     df.itertuples(),

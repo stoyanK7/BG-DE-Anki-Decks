@@ -13,19 +13,19 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.support.wait import WebDriverWait
 from utils.constants import (
-    PREPROCESSED_WORDLIST_CSV_PATH,
     TRANSLATIONS_DIR_PATH,
+    WORDLIST_PREPROCESSED_CSV_PATH,
 )
 from utils.logger import logger
 
-if not os.path.exists(PREPROCESSED_WORDLIST_CSV_PATH):
+if not os.path.exists(WORDLIST_PREPROCESSED_CSV_PATH):
     logger.error(
         'Cleaned wordlist CSV file not found. Did you run "05_preprocess_csv.py"?'
     )
-    logger.error(f'{PREPROCESSED_WORDLIST_CSV_PATH} does not exist')
+    logger.error(f'{WORDLIST_PREPROCESSED_CSV_PATH} does not exist')
     raise SystemExit('Aborting')
 
-df = pd.read_csv(PREPROCESSED_WORDLIST_CSV_PATH)
+df = pd.read_csv(WORDLIST_PREPROCESSED_CSV_PATH)
 
 driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 10)

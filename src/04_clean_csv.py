@@ -6,7 +6,7 @@ Strip whitespaces and newlines.
 import os
 
 import pandas as pd
-from utils.constants import CLEANED_WORDLIST_CSV_PATH, WORDLIST_CSV_PATH
+from utils.constants import WORDLIST_CLEANED_CSV_PATH, WORDLIST_CSV_PATH
 from utils.logger import logger
 
 if not os.path.exists(WORDLIST_CSV_PATH):
@@ -43,6 +43,6 @@ df['examples'] = df['examples'].str.replace('-\n', '')
 df['word'] = df['word'].str.replace('\n', ' ')
 df['examples'] = df['examples'].str.replace('\n', ' ')
 
-df.to_csv(CLEANED_WORDLIST_CSV_PATH, index=False)
+df.to_csv(WORDLIST_CLEANED_CSV_PATH, index=False)
 logger.info('Successfully cleaned CSV')
-logger.info(f'Saved cleaned CSV wordlist at {CLEANED_WORDLIST_CSV_PATH}')
+logger.info(f'Saved cleaned CSV wordlist at {WORDLIST_CLEANED_CSV_PATH}')
