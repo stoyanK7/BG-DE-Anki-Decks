@@ -161,6 +161,7 @@ cython_debug/
 
 *.wav
 *.html
-*.txt
+translation.txt
 
 **/translations
+**/audio
