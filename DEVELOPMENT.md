@@ -26,7 +26,7 @@ python3 src/01_clean_txt.py \
     && python3 src/07_translate.py \
     && python3 src/06_create_audio.py \
     && python3 src/08_postprocess_csv.py \
-    && python3 src/generate_deck.py
+    && python3 src/09_generate_deck.py
 ```
 
 ## Process

@@ -79,8 +79,8 @@ df['examples_translations'] = df['word'].apply(extract_examples_translations)
 # Get list of objects that have been manually verified.
 manually_verified_words = set()
 word_to_object = dict()
-if os.path.exists(POSTPROCESSED_WORDLIST_JSON_PATH):
-    with open(POSTPROCESSED_WORDLIST_JSON_PATH, 'r', encoding='utf-8') as file:
+if os.path.exists(DECK_DATA_JSON_PATH):
+    with open(DECK_DATA_JSON_PATH, 'r', encoding='utf-8') as file:
         objects = json.load(file)
 
     for obj in objects:
