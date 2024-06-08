@@ -5,9 +5,7 @@ import logging.config
 config = {
     'version': 1,
     'formatters': {
-        'simple': {
-            'format': '[%(levelname)s | %(module)s | %(lineno)s]: %(message)s'
-        }
+        'simple': {'format': '[ %(levelname)s | %(module)20s ]: %(message)s'}
     },
     'handlers': {
         'stdout': {
