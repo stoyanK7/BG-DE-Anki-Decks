@@ -1,13 +1,21 @@
 # Development
 
-This document describes the process for running this application on your local computer.
+This document describes the process for running this application on your local machine.
+
+> [!IMPORTANT]
+> This software was developed and tested only on Ubuntu 22.04.
+
+<!-- TOC -->
+* [Development](#development)
+  * [Getting started](#getting-started)
+  * [Activating the environment](#activating-the-environment)
+  * [Running the whole pipeline](#running-the-whole-pipeline)
+  * [Running an individual step](#running-an-individual-step)
+  * [Running the linter](#running-the-linter)
+  * [Pipeline explanations](#pipeline-explanations)
+<!-- TOC -->
 
 ## Getting started
-
-> [!NOTE]  
-> The software ran smoothly on Ubuntu 22.04. However, there's no guarantee it will work on Windows, despite using adaptable modules.
-
-You need [`pdftotext`](https://www.xpdfreader.com/pdftotext-man.html) to run the conversion script([convert_pdf_to_txt.py](src/00_convert_pdf_to_txt.py)). `pdftotext` is included with [the `poppler` library](https://poppler.freedesktop.org/).
 
 ```shell
 git clone https://github.com/stoyanK7/BG-DE-anki-decks.git
@@ -15,21 +23,31 @@ cd BG-DE-anki-decks
 pipenv sync --dev
 ```
 
-## Run the whole pipeline
+## Activating the environment
 
 ```shell
-python3 src/01_clean_txt.py \
-    && python3 src/02_preprocess_txt.py \
-    && python3 src/03_parse_txt.py \
-    && python3 src/04_clean_csv.py \
-    && python3 src/05_preprocess_csv.py \
-    && python3 src/07_translate.py \
-    && python3 src/06_create_audio.py \
-    && python3 src/08_postprocess_csv.py \
-    && python3 src/09_generate_deck.py
+pipenv shell
 ```
 
-## Process
+## Running the whole pipeline
+
+```shell
+./run.sh
+```
+
+## Running an individual step
+
+```shell
+python3 src/XX_step_you_want_to_run.py
+```
+
+## Running the linter
+
+```shell
+ruff format . && ruff check . --fix .
+```
+
+## Pipeline explanations
 
 ```mermaid
 flowchart LR
