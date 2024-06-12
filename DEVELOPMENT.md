@@ -18,8 +18,8 @@ This document describes the process for running this application on your local m
 ## Getting started
 
 ```shell
-git clone https://github.com/stoyanK7/BG-DE-anki-decks.git
-cd BG-DE-anki-decks
+git clone https://github.com/stoyanK7/BG-DE-Anki-Decks.git
+cd BG-DE-Anki-Decks
 pipenv sync --dev
 ```
 
