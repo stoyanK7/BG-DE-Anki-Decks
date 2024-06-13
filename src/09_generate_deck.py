@@ -14,12 +14,12 @@ if not os.path.exists(POSTPROCESSED_WORDLIST_CSV_PATH):
     logger.error(f'{POSTPROCESSED_WORDLIST_CSV_PATH} not found')
     sys.exit()
 
+logger.info('Generating deck')
+
 df = pd.read_csv(POSTPROCESSED_WORDLIST_CSV_PATH)
 
 escaped_double_quote = '\\"'
-
 separator = '|'
-
 headers = f"""\
 #separator:{separator}
 #html:true\n\n"""

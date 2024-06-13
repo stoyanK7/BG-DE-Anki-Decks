@@ -22,6 +22,8 @@ if not os.path.exists(WORDLIST_PREPROCESSED_CSV_PATH):
     logger.error(f'{WORDLIST_PREPROCESSED_CSV_PATH} does not exist')
     raise SystemExit('Aborting')
 
+logger.info('Postprocessing CSV')
+
 df = pd.read_csv(WORDLIST_PREPROCESSED_CSV_PATH)
 
 # Assert that all translations are in place.

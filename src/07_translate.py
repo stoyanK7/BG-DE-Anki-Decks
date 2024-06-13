@@ -25,6 +25,8 @@ if not os.path.exists(WORDLIST_PREPROCESSED_CSV_PATH):
     logger.error(f'{WORDLIST_PREPROCESSED_CSV_PATH} does not exist')
     raise SystemExit('Aborting')
 
+logger.info('Translating words and examples')
+
 df = pd.read_csv(WORDLIST_PREPROCESSED_CSV_PATH)
 
 driver = webdriver.Chrome()

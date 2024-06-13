@@ -20,6 +20,8 @@ if not os.path.exists(WORDLIST_CLEANED_CSV_PATH):
     logger.error(f'{WORDLIST_CLEANED_CSV_PATH} does not exist')
     raise SystemExit('Aborting')
 
+logger.info('Preprocessing CSV')
+
 df = pd.read_csv(WORDLIST_CLEANED_CSV_PATH)
 
 # Catch strings such as '1. ' or '2. ' or '13. '.

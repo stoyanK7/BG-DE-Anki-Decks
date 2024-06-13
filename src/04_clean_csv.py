@@ -14,6 +14,8 @@ if not os.path.exists(WORDLIST_CSV_PATH):
     logger.error(f'{WORDLIST_CSV_PATH} does not exist')
     raise SystemExit('Aborting')
 
+logger.info('Cleaning CSV')
+
 df = pd.read_csv(WORDLIST_CSV_PATH)
 
 # Ensure that there are no cells with null values.

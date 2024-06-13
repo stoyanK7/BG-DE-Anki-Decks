@@ -17,6 +17,8 @@ if not os.path.exists(WORDLIST_PREPROCESSED_TXT_PATH):
     logger.error(f'{WORDLIST_PREPROCESSED_TXT_PATH} does not exist')
     raise SystemExit('Aborting')
 
+logger.info('Parsing TXT')
+
 with open(WORDLIST_PREPROCESSED_TXT_PATH, 'r', encoding='utf-8') as file:
     lines = file.readlines()
 

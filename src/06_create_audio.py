@@ -22,6 +22,8 @@ if not os.path.exists(WORDLIST_PREPROCESSED_CSV_PATH):
     logger.error(f'{WORDLIST_PREPROCESSED_CSV_PATH} does not exist')
     raise SystemExit('Aborting')
 
+logger.info('Creating audio')
+
 stdout_capture = io.StringIO()
 with redirect_stdout(stdout_capture):
     device = 'cuda' if torch.cuda.is_available() else 'cpu'

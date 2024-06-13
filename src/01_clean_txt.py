@@ -21,6 +21,8 @@ if not os.path.exists(WORDLIST_TXT_PATH):
     logger.error(f'{WORDLIST_TXT_PATH} does not exist')
     raise SystemExit('Aborting')
 
+logger.info('Cleaning TXT')
+
 with open(WORDLIST_TXT_PATH, 'r', encoding='utf-8') as file:
     txt_lines = file.readlines()
 
@@ -36,7 +38,6 @@ zertifikat_b1 = 'ZERTIFIKAT B1'
 
 # Holds final result. Will be saved to a file.
 cleaned_lines = []
-
 # Do the actual cleaning.
 for line in txt_lines:
     # All page break lines have text on them, strip it.

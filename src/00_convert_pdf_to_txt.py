@@ -19,6 +19,8 @@ if not os.path.exists(WORDLIST_PDF_PATH):
     logger.error(f'{WORDLIST_PDF_PATH} does not exist')
     raise SystemExit('Aborting')
 
+logger.info('Converting PDF to TXT')
+
 completed_process = subprocess.run(
     [
         'pdftotext',

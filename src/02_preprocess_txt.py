@@ -23,6 +23,8 @@ if not os.path.exists(WORDLIST_CLEANED_TXT_PATH):
     logger.error(f'{WORDLIST_CLEANED_TXT_PATH} does not exist')
     raise SystemExit('Aborting')
 
+logger.info('Preprocessing TXT')
+
 with open(WORDLIST_CLEANED_TXT_PATH, 'r', encoding='utf-8') as file:
     contents = file.read()
 
@@ -30,7 +32,6 @@ pages = contents.split(f'\n{PAGE_BREAK}\n')
 
 # Holds final result. Will be saved to a file.
 preprocessed_lines = []
-
 # Do the actual preprocessing.
 for page in pages:
     lines = page.split('\n')
