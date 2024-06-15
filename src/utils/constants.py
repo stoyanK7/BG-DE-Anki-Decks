@@ -39,7 +39,7 @@ WORDLIST_PREPROCESSED_CSV_PATH = os.path.join(
 )
 
 # 06_create_audio.py
-AUDIO_RECORDINGS_DIR_PATH = os.path.join(DATA_DIR_PATH, 'audio')
+AUDIO_RECORDINGS_DIR_PATH = os.path.join(DATA_DIR_PATH, '06_audio')
 
 # 07_translate.py
 TRANSLATIONS_DIR_PATH = os.path.join(DATA_DIR_PATH, '07_translations')

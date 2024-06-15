@@ -163,5 +163,5 @@ cython_debug/
 *.html
 translation.txt
 
+data/06_audio
 data/07_translations
-**/audio
