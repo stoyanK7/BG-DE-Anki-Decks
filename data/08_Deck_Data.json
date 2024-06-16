@@ -1,6 +1,6 @@
 [
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ab",
         "word_bg": [
             "от"
@@ -21,23 +21,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abbiegen, biegt ab, bog ab, ist abgebogen",
         "word_bg": [
-            "изключване"
+            "завивам"
         ],
         "examples": [
             {
                 "example_de": "An der nächsten Kreuzung müssen Sie links abbiegen.",
-                "example_bg": "На следващото кръстовище завийте наляво."
+                "example_bg": "На следващото кръстовище трябва да завиете наляво."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Abbildung, -en",
         "word_bg": [
-            "Илюстрация"
+            "илюстрация"
         ],
         "examples": [
             {
@@ -47,10 +47,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Abenteuer, -",
         "word_bg": [
-            "Приключение"
+            "приключение"
         ],
         "examples": [
             {
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aber",
         "word_bg": [
             "но"
@@ -84,7 +84,7 @@
             },
             {
                 "example_de": "Es war sehr schön. Jetzt muss ich aber gehen.",
-                "example_bg": "Беше много приятно. Но сега трябва да си тръгна."
+                "example_bg": "Беше много приятно. Но сега трябва да си ходя."
             },
             {
                 "example_de": "Ich würde gerne kommen, aber es geht leider nicht.",
@@ -92,32 +92,32 @@
             },
             {
                 "example_de": "Darf ich dich zu einem Kaffee einladen? – Aber ja, sehr gern.",
-                "example_bg": "Мога ли да ви купя кафе? - Но да, с удоволствие бих го направила."
+                "example_bg": "Мога ли да те поканя на кафе? - Но да, с удоволствие бих го направила."
             },
             {
                 "example_de": "Du spielst aber gut Klavier.",
-                "example_bg": "Но вие свирите добре на пиано."
+                "example_bg": "Но ти свириш добре на пиано."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abfahren, fährt ab, fuhr ab, ist abgefahren",
         "word_bg": [
-            "отпътуване"
+            "отпътувам"
         ],
         "examples": [
             {
                 "example_de": "Unser Zug ist pünktlich abgefahren.",
-                "example_bg": "Влакът ни тръгна навреме."
+                "example_bg": "Влакът ни отпътува навреме."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Abfahrt, -en",
         "word_bg": [
-            "Отпътуване"
+            "отпътуване"
         ],
         "examples": [
             {
@@ -127,10 +127,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Abfall, ¨-e",
         "word_bg": [
-            "Отпадъци"
+            "отпадъци"
         ],
         "examples": [
             {
@@ -140,36 +140,36 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Abfalleimer, -",
         "word_bg": [
-            "Кошница за отпадъци"
+            "кофа за боклук"
         ],
         "examples": [
             {
                 "example_de": "Wirf das bitte in den Abfalleimer!",
-                "example_bg": "Моля, изхвърлете това в кошчето за боклук!"
+                "example_bg": "Моля, изхвърли това в кошчето за боклук!"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "Abgase (Pl.)",
         "word_bg": [
-            "Отпадъчни газове"
+            "изгорели газове"
         ],
         "examples": [
             {
                 "example_de": "Abgase aus Industrie und Haushalten verschmutzen die Luft.",
-                "example_bg": "Отпадъчните газове от промишлеността и домакинствата замърсяват въздуха."
+                "example_bg": "Изгорелите газове от промишлеността и домакинствата замърсяват въздуха."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abgeben, gibt ab, gab ab, hat abgegeben",
         "word_bg": [
-            "да достави"
+            "предавам"
         ],
         "examples": [
             {
@@ -179,10 +179,10 @@
         ]
     },
     {
-        "manually_verified": false,
-        "word_de": "abhängen, hängt ab, hing ab, hat abgehangen (von)",
+        "manually_verified": true,
+        "word_de": "(von jdm/etw) abhängen, hängt ab, hing ab, hat abgehangen",
         "word_bg": [
-            "да се обадите"
+            "завися (от)"
         ],
         "examples": [
             {
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abhängig",
         "word_bg": [
             "зависим"
@@ -205,10 +205,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abheben, hebt ab, hob ab, hat abgehoben",
         "word_bg": [
-            "излитане"
+            "изтеглям"
         ],
         "examples": [
             {
@@ -218,10 +218,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abholen, holt ab, holte ab, hat abgeholt",
         "word_bg": [
-            "вдигане"
+            "вземам"
         ],
         "examples": [
             {
@@ -231,10 +231,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abschreiben, schreibt ab, schrieb ab, hat abgeschrieben",
         "word_bg": [
-            "отписване"
+            "преписвам"
         ],
         "examples": [
             {
@@ -244,23 +244,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Abitur (D)→A, CH: Matura",
         "word_bg": [
-            "Нива A"
+            "матура"
         ],
         "examples": [
             {
                 "example_de": "Meine Tochter hat gerade Abitur gemacht.",
-                "example_bg": "Дъщеря ми току-що завърши училище."
+                "example_bg": "Дъщеря ми току-що завърши гимназия."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ablehnen, lehnt ab, lehnte ab, hat abgelehnt",
         "word_bg": [
-            "отхвърляне на"
+            "отхвърлям"
         ],
         "examples": [
             {
@@ -270,10 +270,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abmachen, macht ab, machte ab, hat abgemacht",
         "word_bg": [
-            "ясно"
+            "договарям"
         ],
         "examples": [
             {
@@ -283,15 +283,16 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abnehmen, nimmt ab, nahm ab, hat abgenommen",
         "word_bg": [
-            "намаляване на теглото"
+            "свалям",
+            "отслабвам"
         ],
         "examples": [
             {
                 "example_de": "Morgen können wir den Verband abnehmen.",
-                "example_bg": "Утре можем да махнем превръзката."
+                "example_bg": "Утре можем да свалим превръзката."
             },
             {
                 "example_de": "Ich habe zehn Kilo abgenommen.",
@@ -300,23 +301,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abonnieren, abonniert, abonnierte, hat abonniert",
         "word_bg": [
-            "абонирайте се за"
+            "абонирам (сe)"
         ],
         "examples": [
             {
                 "example_de": "Diese Zeitschrift würde ich gerne abonnieren.",
-                "example_bg": "Искам да се абонирам за това списание."
+                "example_bg": "Бих искал да се абонирам за това списание."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Abonnement, -s/-e",
         "word_bg": [
-            "Абонамент"
+            "абонамент"
         ],
         "examples": [
             {
@@ -326,23 +327,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "absagen, sagt ab, sagte ab, hat abgesagt",
         "word_bg": [
-            "отмяна на"
+            "отказвам"
         ],
         "examples": [
             {
                 "example_de": "Ich muss unser Treffen leider absagen, weil ich krank geworden bin.",
-                "example_bg": "За съжаление трябва да отменя срещата ни, защото се разболях."
+                "example_bg": "За съжаление трябва да откажа срещата ни, защото се разболях."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Abschluss, ¨-e",
         "word_bg": [
-            "Заключение"
+            "завършек",
+            "край"
         ],
         "examples": [
             {
@@ -352,10 +354,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Abschnitt, -e",
         "word_bg": [
-            "Раздел"
+            "раздел"
         ],
         "examples": [
             {
@@ -365,10 +367,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Absender, die Absenderin, -nen",
         "word_bg": [
-            "Подател"
+            "подател, подателка"
         ],
         "examples": [
             {
@@ -378,10 +380,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Absicht, -en",
         "word_bg": [
-            "Намерение"
+            "намерение"
         ],
         "examples": [
             {
@@ -390,12 +392,12 @@
             },
             {
                 "example_de": "Hast du die Absicht zu studieren?",
-                "example_bg": "Възнамерявате ли да учите?"
+                "example_bg": "Имате ли намерение да учите?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "absolut",
         "word_bg": [
             "абсолютен"
@@ -407,15 +409,15 @@
             },
             {
                 "example_de": "Ich habe absolutes Vertrauen zu dir.",
-                "example_bg": "Имам пълно доверие във вас."
+                "example_bg": "Имам абсолютно доверие в теб."
             }
         ]
     },
     {
-        "manually_verified": false,
-        "word_de": "abstimmen, stimmt ab, stimmte ab, hat abgestimmt",
+        "manually_verified": true,
+        "word_de": "(über etw) abstimmen, stimmt ab, stimmte ab, hat abgestimmt",
         "word_bg": [
-            "гласувайте на"
+            "гласувам (за нщ)"
         ],
         "examples": [
             {
@@ -425,10 +427,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Abteilung, -en",
         "word_bg": [
-            "Отдел"
+            "отдел"
         ],
         "examples": [
             {
@@ -438,20 +440,20 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Abwart, -e die Abwartin, -nen (CH) → D, A: Hausmeister",
         "word_bg": [
-            "Пазач"
+            "домоуправител, домоуправителка"
         ],
         "examples": [
             {
                 "example_de": "Der Abwart hat mir geholfen, den Schrank in die Wohnung zu tragen.",
-                "example_bg": "Пазачът ми помогна да пренеса шкафа в апартамента."
+                "example_bg": "Домоуправителят ми помогна да пренеса шкафа в апартамента."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abwärts",
         "word_bg": [
             "надолу"
@@ -464,23 +466,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abwaschen, wäscht ab, wusch ab, hat abgewaschen",
         "word_bg": [
-            "отмиване"
+            "измивам"
         ],
         "examples": [
             {
                 "example_de": "Ich muss noch das Geschirr abwaschen.",
-                "example_bg": "Все още трябва да мия чиниите."
+                "example_bg": "Все още трябва да измия чиниите."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "abwesend",
         "word_bg": [
-            "отсъства"
+            "отсъстващ"
         ],
         "examples": [
             {
@@ -490,10 +492,11 @@
         ]
     },
     {
-        "manually_verified": false,
-        "word_de": "achten, achtet, achtete, hat geachtet (auf)",
+        "manually_verified": true,
+        "word_de": "(auf jdn/etw) achten, achtet, achtete, hat geachtet",
         "word_bg": [
-            "обръщайте внимание"
+            "обръщам внимание (на нкг/нщ)",
+            "внимавам (за нкг/нещо)"
         ],
         "examples": [
             {
@@ -503,7 +506,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "Achtung!",
         "word_bg": [
             "Внимание!"
@@ -516,15 +519,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Adresse, -n",
         "word_bg": [
-            "Адрес"
+            "адрес"
         ],
         "examples": [
             {
                 "example_de": "Hast du schon meine neue Adresse?",
-                "example_bg": "Получихте ли вече новия ми адрес?"
+                "example_bg": "Получи ли вече новия ми адрес?"
             }
         ]
     },
@@ -537,7 +540,7 @@
         "examples": [
             {
                 "example_de": "Emilia ist in einer ganz ähnlichen Situation wie ich.",
-                "example_bg": "Емилия е в много сходна ситуация с мен."
+                "example_bg": "Емилия е в много подобна ситуация като мен."
             },
             {
                 "example_de": "Oleg sieht seinem Bruder sehr ähnlich.",
@@ -546,10 +549,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ahnung, -en",
         "word_bg": [
-            "Предчувствие"
+            "представа"
         ],
         "examples": [
             {
@@ -559,20 +562,20 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Aktion, -en",
         "word_bg": [
-            "Действие"
+            "рекламна кампания"
         ],
         "examples": [
             {
                 "example_de": "Die Stadt sollte eine Aktion für Familien planen.",
-                "example_bg": "Градът трябва да планира кампания за семействата."
+                "example_bg": "Градът трябваше да планира кампания за семействата."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aktiv",
         "word_bg": [
             "активен"
@@ -585,10 +588,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Aktivität, -en",
         "word_bg": [
-            "Дейност"
+            "дейност"
         ],
         "examples": [
             {
@@ -598,10 +601,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aktuell",
         "word_bg": [
-            "текущо"
+            "актуален"
         ],
         "examples": [
             {
@@ -611,10 +614,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "akzeptieren, akzeptiert, akzeptierte, hat akzeptiert",
         "word_bg": [
-            "приемете"
+            "приемам"
         ],
         "examples": [
             {
@@ -624,40 +627,40 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Alarm, -e",
         "word_bg": [
-            "Аларма"
+            "аларма"
         ],
         "examples": [
             {
                 "example_de": "Bei Feueralarm dürfen Sie die Aufzüge nicht benutzen.",
-                "example_bg": "Ако се включи противопожарната аларма, не трябва да използвате асансьорите."
+                "example_bg": "Ако има пожарна аларма, нямате право да използвате асансьорите."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Alkohol, -e",
         "word_bg": [
-            "Алкохол"
+            "алкохол"
         ],
         "examples": [
             {
                 "example_de": "Du musst die Wunde mit Alkohol reinigen.",
-                "example_bg": "Трябва да почистите раната със спирт."
+                "example_bg": "Трябва да почистиш раната със спирт."
             },
             {
                 "example_de": "Nein, danke! Ich trinke keinen Alkohol.",
-                "example_bg": "Не, благодаря ви! Не пия алкохол."
+                "example_bg": "Не, благодаря! Не пия алкохол."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "all-",
         "word_bg": [
-            "всички -"
+            "всички-"
         ],
         "examples": [
             {
@@ -666,7 +669,7 @@
             },
             {
                 "example_de": "Sonst noch (et)was? – Nein, danke. Das ist alles.",
-                "example_bg": "Още нещо? - Не, благодаря ви. Това е всичко."
+                "example_bg": "Още нещо? - Не, благодаря. Това е всичко."
             },
             {
                 "example_de": "Alles Gute!",
@@ -675,19 +678,19 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "allein",
         "word_bg": [
-            "самостоятелно"
+            "сам"
         ],
         "examples": [
             {
                 "example_de": "Ich gehe nicht gern allein spazieren.",
-                "example_bg": "Не обичам да ходя сам."
+                "example_bg": "Не обичам да се разхождам сам."
             },
             {
                 "example_de": "Soll ich Ihnen helfen? – Danke, ich schaffe es schon allein.",
-                "example_bg": "Да ви помогна ли? - Благодаря ви, мога да се справя сам."
+                "example_bg": "Да ви помогна ли? - Благодаря, мога да се справя сам."
             },
             {
                 "example_de": "Es war sehr teuer. Allein das Essen hat schon über 50 Euro gekostet.",
@@ -696,24 +699,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aller-",
         "word_bg": [
-            "всички -"
+            "най-"
         ],
         "examples": [
             {
                 "example_de": "Am allerbesten ist es, wenn du dich ins Bett legst und lange schläfst. Dann wirst du schnell wieder gesund.",
-                "example_bg": "Най-доброто нещо, което можете да направите, е да легнете в леглото и да спите дълго време. Тогава ще се възстановите бързо."
+                "example_bg": "Най-добре е да легнеш в леглото и да спиш дълго време. Тогава ще се възстановиш бързо."
             },
             {
                 "example_de": "Das ist das Allerschönste, was ich je gesehen habe.",
-                "example_bg": "Това е най-красивото нещо, което някога съм виждала."
+                "example_bg": "Това е най-красивото нещо, което някога съм виждал."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "allerdings",
         "word_bg": [
             "обаче"
@@ -721,15 +724,16 @@
         "examples": [
             {
                 "example_de": "Wir können uns morgen treffen, allerdings habe ich erst ab Mittag Zeit.",
-                "example_bg": "Можем да се срещнем утре, но не съм свободен до обяд."
+                "example_bg": "Можем да се срещнем утре, обаче не съм свободен до обяд."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "allgemein",
         "word_bg": [
-            "обща информация"
+            "общ",
+            "всеобщ"
         ],
         "examples": [
             {
@@ -738,7 +742,7 @@
             },
             {
                 "example_de": "Es ist allgemein bekannt, dass man hier gut essen kann.",
-                "example_bg": "Всеизвестно е, че тук можете да се храните добре."
+                "example_bg": "Всеизвестно е, че тук можете да се нахраните добре."
             },
             {
                 "example_de": "Im Allgemeinen bin ich mit meiner Arbeit sehr zufrieden.",
@@ -747,10 +751,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Alltag",
         "word_bg": [
-            "Ежедневието"
+            "ежедневие"
         ],
         "examples": [
             {
@@ -760,10 +764,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "alltäglich",
         "word_bg": [
-            "всеки ден"
+            "ежедневен"
         ],
         "examples": [
             {
@@ -777,10 +781,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Alphabet, -e",
         "word_bg": [
-            "Азбука"
+            "азбука"
         ],
         "examples": [
             {
@@ -790,7 +794,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "als",
         "word_bg": [
             "като"
@@ -810,28 +814,30 @@
             },
             {
                 "example_de": "Es ist später, als ich dachte.",
-                "example_bg": "По-късно, отколкото си мислех."
+                "example_bg": "По-късно е, отколкото си мислех."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "als ob",
         "word_bg": [
+            "като че ли",
             "сякаш"
         ],
         "examples": [
             {
                 "example_de": "Er tut so, als ob wir nie darüber gesprochen hätten.",
-                "example_bg": "Той се държи така, сякаш никога не сме говорили за това."
+                "example_bg": "Той се държи така, като че ли никога не сме говорили за това."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "also",
         "word_bg": [
-            "така че"
+            "и така",
+            "следователно"
         ],
         "examples": [
             {
@@ -849,7 +855,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "alt",
         "word_bg": [
             "стар"
@@ -866,10 +872,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Alter, -",
         "word_bg": [
-            "Възраст"
+            "възраст"
         ],
         "examples": [
             {
@@ -883,10 +889,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Altenheim, -e → Altersheim",
         "word_bg": [
-            "Дом за възрастни хора"
+            "старчески дом"
         ],
         "examples": [
             {
@@ -896,10 +902,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Altersheim, -e → Altenheim",
         "word_bg": [
-            "Дом за пенсионери"
+            "старчески дом"
         ],
         "examples": [
             {
@@ -909,15 +915,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "alternativ",
         "word_bg": [
-            "алтернативно"
+            "алтернативен"
         ],
         "examples": [
             {
                 "example_de": "Wir brauchen alternative Energien.",
-                "example_bg": "Нуждаем се от алтернативни енергии."
+                "example_bg": "Нуждаем се от алтернативни (източници на) енергии."
             }
         ]
     },
