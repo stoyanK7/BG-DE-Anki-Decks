@@ -928,36 +928,37 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Alternative, -n",
         "word_bg": [
-            "Алтернативен"
+            "алтернатива"
         ],
         "examples": [
             {
                 "example_de": "Auf dieser Strecke ist der Zug eine gute Alternative zum Flugzeug.",
-                "example_bg": "Влакът е добра алтернатива на самолета по този маршрут."
+                "example_bg": "По този маршрут влакът е добра алтернатива на самолета."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ampel, -n",
         "word_bg": [
-            "Светофар"
+            "светофар"
         ],
         "examples": [
             {
                 "example_de": "Dort an der Ampel kannst du über die Straße gehen.",
-                "example_bg": "Там можете да пресечете пътя на светофара."
+                "example_bg": "Там на светофара можете да пресечете улицата."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Amt, ¨-er",
         "word_bg": [
-            "Офис"
+            "служба",
+            "учреждение"
         ],
         "examples": [
             {
@@ -967,23 +968,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich amüsieren, amüsiert sich, amüsierte sich, hat sich amüsiert",
         "word_bg": [
-            "забавление"
+            "забавлявам се"
         ],
         "examples": [
             {
                 "example_de": "Bei dem Fest haben wir uns sehr gut amüsiert.",
-                "example_bg": "Изкарахме си страхотно на партито."
+                "example_bg": "Много се забавлявахме на партито."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "an",
         "word_bg": [
-            "на"
+            "в/на (време)",
+            "до/на (място)"
         ],
         "examples": [
             {
@@ -996,11 +998,11 @@
             },
             {
                 "example_de": "Ich warte am Bahnhof auf dich.",
-                "example_bg": "Ще ви чакам на гарата."
+                "example_bg": "Ще те чакам на гарата."
             },
             {
                 "example_de": "Am besten, du gehst zur Information und fragst da.",
-                "example_bg": "Най-добре е да отидете в информационния център и да попитате там."
+                "example_bg": "Най-добре е да отидеш в информационния център и да попиташ там."
             },
             {
                 "example_de": "Das Licht war die ganze Nacht an.",
@@ -1009,10 +1011,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "analysieren, analysiert, analysierte, hat analysiert",
         "word_bg": [
-            "анализирайте"
+            "анализирам"
         ],
         "examples": [
             {
@@ -1022,10 +1024,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anbieten, bietet an, bot an, hat angeboten",
         "word_bg": [
-            "оферта"
+            "предлагам"
         ],
         "examples": [
             {
@@ -1035,10 +1037,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Anbieter, -",
         "word_bg": [
-            "Доставчик"
+            "доставчик (на услуги)",
+            "предложител",
+            "оферент"
         ],
         "examples": [
             {
@@ -1048,10 +1052,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Angebot, -e",
         "word_bg": [
-            "Оферта"
+            "оферта"
         ],
         "examples": [
             {
@@ -1060,20 +1064,20 @@
             },
             {
                 "example_de": "Der Käse ist heute im Angebot.",
-                "example_bg": "Сиренето се предлага днес."
+                "example_bg": "Сиренето е в продажба днес."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ander-",
         "word_bg": [
-            "други -"
+            "други-"
         ],
         "examples": [
             {
                 "example_de": "Die anderen sind schon nach Hause gegangen.",
-                "example_bg": "Останалите вече са се прибрали у дома."
+                "example_bg": "Другите вече са се прибрали у дома."
             },
             {
                 "example_de": "Bitte nicht alle auf einmal! Einer nach dem anderen.",
@@ -1085,12 +1089,12 @@
             },
             {
                 "example_de": "Natascha hat unter anderem Chinesisch und Spanisch gelernt.",
-                "example_bg": "Наташа е научила китайски и испански, както и други езици."
+                "example_bg": "Освен всичко друго, Наташа е научила китайски и испански."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "andererseits",
         "word_bg": [
             "от друга страна"
@@ -1098,7 +1102,7 @@
         "examples": [
             {
                 "example_de": "Tarek möchte zwar studieren, aber andererseits möchte er auch gleich Geld verdienen.",
-                "example_bg": "Тарек иска да учи, но също така иска да печели пари веднага."
+                "example_bg": "Тарек иска да учи, но от друга страна иска и да печели пари веднага."
             }
         ]
     },
@@ -1106,8 +1110,7 @@
         "manually_verified": true,
         "word_de": "ändern, ändert, änderte, hat geändert",
         "word_bg": [
-            "променям",
-            "сменям"
+            "променям"
         ],
         "examples": [
             {
@@ -1121,23 +1124,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Änderung, -en",
         "word_bg": [
-            "Изменение"
+            "промяна"
         ],
         "examples": [
             {
                 "example_de": "Es gibt eine Programmänderung.",
-                "example_bg": "В програмата е направена промяна."
+                "example_bg": "Има промяна в програмата."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anders",
         "word_bg": [
-            "различни"
+            "по друг начин",
+            "различно"
         ],
         "examples": [
             {
@@ -1155,28 +1159,28 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anerkennen, erkennt an, erkannte an, hat anerkannt",
         "word_bg": [
-            "разпознаване на"
+            "признавам"
         ],
         "examples": [
             {
                 "example_de": "Meine Ausbildung wird hier nicht anerkannt.",
-                "example_bg": "Обучението ми не се признава тук."
+                "example_bg": "Образованието ми не се признава тук."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anfangen, fängt an, fing an, hat angefangen",
         "word_bg": [
-            "начало"
+            "започвам"
         ],
         "examples": [
             {
                 "example_de": "Wann fängst du mit der Arbeit an?",
-                "example_bg": "Кога ще започнете работа?"
+                "example_bg": "Кога ще започнеш работа?"
             },
             {
                 "example_de": "Hier fängt die Bahnhofstraße an.",
@@ -1185,15 +1189,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Anfang, ¨-e",
         "word_bg": [
-            "Начало"
+            "начало"
         ],
         "examples": [
             {
                 "example_de": "Wie war der Film? – Ich habe nur den Anfang gesehen.",
-                "example_bg": "Какъв беше филмът? - Виждал съм само началото."
+                "example_bg": "Какъв беше филмът? - Видях само началото."
             },
             {
                 "example_de": "Am Anfang habe ich bei der Arbeit viele Fragen gestellt.",
@@ -1218,10 +1222,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anfangs",
         "word_bg": [
-            "първоначално"
+            "отначало"
         ],
         "examples": [
             {
@@ -1231,23 +1235,25 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "angeben, gibt an, gab an, hat angegeben",
         "word_bg": [
-            "посочете"
+            "посочвам",
+            "съобщавам",
+            "декларирам"
         ],
         "examples": [
             {
                 "example_de": "Bitte geben Sie Ihre genaue Adresse an.",
-                "example_bg": "Моля, въведете точния си адрес."
+                "example_bg": "Моля, посочете точния си адрес."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Angabe,-n",
         "word_bg": [
-            "Спецификация"
+            "посочване (на данни)"
         ],
         "examples": [
             {
@@ -1257,10 +1263,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Angehörige, -n die Angehörige, -n",
         "word_bg": [
-            "Роднини"
+            "роднина",
+            "член"
         ],
         "examples": [
             {
@@ -1270,7 +1277,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "angenehm",
         "word_bg": [
             "приятен"
@@ -1283,15 +1290,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Angst, “-e",
         "word_bg": [
-            "Страх"
+            "страх"
         ],
         "examples": [
             {
                 "example_de": "Du brauchst keine Angst zu haben. Der Hund tut dir nichts.",
-                "example_bg": "Не е нужно да се страхувате. Кучето няма да ви нарани."
+                "example_bg": "Не е нужно да се страхуваш. Кучето няма да те нарани."
             },
             {
                 "example_de": "Ich habe Angst, vielleicht ist etwas passiert.",
@@ -1313,10 +1320,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anhaben, hat an, hatte an, hat angehabt",
         "word_bg": [
-            "износване"
+            "облечен съм"
         ],
         "examples": [
             {
@@ -1326,23 +1333,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anklicken, klickt an, klickte an, hat angeklickt",
         "word_bg": [
-            "кликнете върху"
+            "кликвам"
         ],
         "examples": [
             {
                 "example_de": "Du musst das Bild anklicken. Dann wird es größer.",
-                "example_bg": "Трябва да кликнете върху снимката. След това става по-голяма."
+                "example_bg": "Трябва да кликнеш върху снимката. След това става по-голяма."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ankommen, kommt an, kam an, ist angekommen",
         "word_bg": [
-            "пристигнете на адрес"
+            "пристигам"
         ],
         "examples": [
             {
@@ -1356,10 +1363,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ankunft",
         "word_bg": [
-            "Пристигане"
+            "пристигане"
         ],
         "examples": [
             {
@@ -1373,28 +1380,30 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ankündigen, kündigt an, kündigte an, hat angekündigt",
         "word_bg": [
-            "обяви"
+            "съобщавам",
+            "оповестявам"
         ],
         "examples": [
             {
                 "example_de": "Wir sollten unseren Besuch ankündigen.",
-                "example_bg": "Трябва да обявим посещението си."
+                "example_bg": "Трябва да съобщим посещението си."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Anlage, -n",
         "word_bg": [
-            "Приложение"
+            "уредба",
+            "приложение (към имейл)"
         ],
         "examples": [
             {
                 "example_de": "Meine Musikanlage ist kaputt.",
-                "example_bg": "Музикалната ми система е повредена."
+                "example_bg": "Музикалната ми уредба е повредена."
             },
             {
                 "example_de": "In der Anlage der E-Mail finden Sie meinen Lebenslauf.",
@@ -1403,10 +1412,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Anleitung, -en",
         "word_bg": [
-            "Инструкции"
+            "инструкция"
         ],
         "examples": [
             {
@@ -1416,10 +1425,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anmelden, meldet an, meldete an, hat angemeldet",
         "word_bg": [
-            "регистър"
+            "регистрирам"
         ],
         "examples": [
             {
@@ -1429,10 +1438,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Anmeldung, -en",
         "word_bg": [
-            "Регистрация"
+            "регистрация"
         ],
         "examples": [
             {
@@ -1446,10 +1455,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "annehmen, nimmt an, nahm an, hat angenommen",
         "word_bg": [
-            "приемане на"
+            "приемам",
+            "предполагам"
         ],
         "examples": [
             {
@@ -1463,10 +1473,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Annonce, -n",
         "word_bg": [
-            "Реклама"
+            "обява"
         ],
         "examples": [
             {
@@ -1476,23 +1486,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Anrede, -n",
         "word_bg": [
-            "Поздрав"
+            "обръщение"
         ],
         "examples": [
             {
                 "example_de": "Du darfst im Brief die Anrede nicht vergessen.",
-                "example_bg": "Не трябва да забравяте поздрава в писмото."
+                "example_bg": "Не трябва да забравяш обръщението в писмото."
             }
         ]
     },
     {
-        "manually_verified": false,
-        "word_de": "anrufen, ruft an, rief an, hat angerufen",
+        "manually_verified": true,
+        "word_de": "(jdn) anrufen, ruft an, rief an, hat angerufen",
         "word_bg": [
-            "обадете се на"
+            "звъня (на нкг) по телефона"
         ],
         "examples": [
             {
@@ -1502,10 +1512,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Anruf, -e",
         "word_bg": [
-            "Обадете се на"
+            "обаждане",
+            "повикване"
         ],
         "examples": [
             {
@@ -1515,23 +1526,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Anrufbeantworter, -",
         "word_bg": [
-            "Телефонна секретарка"
+            "телефонен секретар"
         ],
         "examples": [
             {
                 "example_de": "Ich habe dir eine Nachricht auf den Anrufbeantworter gesprochen.",
-                "example_bg": "Оставих ви съобщение на телефонния секретар."
+                "example_bg": "Оставих ти съобщение на телефонния секретар."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ansage, -n",
         "word_bg": [
-            "Обявление"
+            "съобщение"
         ],
         "examples": [
             {
@@ -1541,10 +1552,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anschaffen, schafft an, schaffte an, hat angeschafft",
         "word_bg": [
-            "придобиване на"
+            "купувам",
+            "набавям"
         ],
         "examples": [
             {
@@ -1554,10 +1566,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anschließen, schließt an, schloss an, hat angeschlossen",
         "word_bg": [
-            "свържете"
+            "свързвам"
         ],
         "examples": [
             {
@@ -1567,10 +1579,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Anschluss, ¨-e",
         "word_bg": [
-            "Връзка"
+            "връзка"
         ],
         "examples": [
             {
@@ -1584,23 +1596,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anschnallen, schnallt an, schnallte an, hat angeschnallt",
         "word_bg": [
-            "закопчаване на коланите"
+            "слагам предпазен колан"
         ],
         "examples": [
             {
                 "example_de": "Vergiss nicht, dich anzuschnallen.",
-                "example_bg": "Не забравяйте да поставите предпазния си колан."
+                "example_bg": "Не забравяй да поставиш предпазния си колан."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ansehen, sieht an, sah an, hat angesehen",
         "word_bg": [
-            "вижте"
+            "поглеждам",
+            "разглеждам"
         ],
         "examples": [
             {
@@ -1627,10 +1640,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Anspruch, ¨-e",
         "word_bg": [
-            "Иск"
+            "право"
         ],
         "examples": [
             {
@@ -1640,10 +1653,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anstellen, stellt an, stellte an, hat angestellt",
         "word_bg": [
-            "наемане на"
+            "пускам",
+            "включвам",
+            "назначавам"
         ],
         "examples": [
             {
@@ -1652,7 +1667,7 @@
             },
             {
                 "example_de": "Mein Schwager ist bei einer Möbelfirma angestellt.",
-                "example_bg": "Зет ми работи в мебелна компания."
+                "example_bg": "Зет ми е назначен в мебелна компания."
             },
             {
                 "example_de": "Da vorne ist die Kasse. Du musst dich anstellen.",
@@ -1661,40 +1676,41 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Angestellte, -n die Angestellte, -n",
         "word_bg": [
-            "Служители"
+            "служител, служителка"
         ],
         "examples": [
             {
                 "example_de": "Björn ist Angestellter in einem Reisebüro.",
-                "example_bg": "Бьорн работи в туристическа агенция."
+                "example_bg": "Бьорн е служител в туристическа агенция."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich anstrengen, strengt sich an, strengte sich an, hat sich angestrengt",
         "word_bg": [
-            "полагайте усилия"
+            "изморявам",
+            "напрягам"
         ],
         "examples": [
             {
                 "example_de": "Diese Arbeit strengt mich sehr an.",
-                "example_bg": "Тази работа е много натоварваща за мен."
+                "example_bg": "Тази работа е много изморяваща за мен."
             },
             {
                 "example_de": "Wenn du die Prüfung schaffen willst, musst du dich mehr anstrengen.",
-                "example_bg": "Ако искате да издържите изпита, трябва да се потрудите повече."
+                "example_bg": "Ако искаш да издържиш изпита, трябва да се напрегнеш повече."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anstrengend",
         "word_bg": [
-            "изтощителен"
+            "напрегнат"
         ],
         "examples": [
             {
