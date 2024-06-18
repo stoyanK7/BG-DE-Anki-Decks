@@ -1720,36 +1720,37 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Antrag, ¨-e",
         "word_bg": [
-            "Приложение"
+            "заявление",
+            "молба"
         ],
         "examples": [
             {
                 "example_de": "Haben Sie schon einen Antrag für das Wohngeld ausgefüllt?",
-                "example_bg": "Попълнили ли сте вече молба за жилищни помощи?"
+                "example_bg": "Попълнили ли сте вече заявление за жилищни помощи?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anwenden, wendet an, wandte an, hat angewandt/angewendet",
         "word_bg": [
-            "прилагайте"
+            "използвам"
         ],
         "examples": [
             {
                 "example_de": "Diese Salbe muss man dreimal am Tag anwenden.",
-                "example_bg": "Този мехлем трябва да се прилага три пъти дневно."
+                "example_bg": "Този мехлем трябва да се използва три пъти дневно."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anwesend",
         "word_bg": [
-            "настояще"
+            "присъстващ"
         ],
         "examples": [
             {
@@ -1759,10 +1760,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "antworten, antwortet, antwortete, hat geantwortet",
         "word_bg": [
-            "отговор"
+            "отговарям"
         ],
         "examples": [
             {
@@ -1772,10 +1773,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Antwort, -en",
         "word_bg": [
-            "Отговор"
+            "отговор"
         ],
         "examples": [
             {
@@ -1785,10 +1786,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Anwalt, ¨-e die Anwältin, -nen",
         "word_bg": [
-            "Адвокат"
+            "адвокат"
         ],
         "examples": [
             {
@@ -1798,10 +1799,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "anzeigen, zeigt an, zeigte an, hat angezeigt",
         "word_bg": [
-            "покажи"
+            "уведомявам/докладвам за нкг (най-често полицията)"
         ],
         "examples": [
             {
@@ -1811,10 +1812,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Anzeige, -n",
         "word_bg": [
-            "Дисплей"
+            "обява",
+            "уведомяване"
         ],
         "examples": [
             {
@@ -1828,15 +1830,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "(sich) anziehen, zieht an, zog an, hat angezogen",
         "word_bg": [
-            "рокля"
+            "обличам (се)"
         ],
         "examples": [
             {
                 "example_de": "Du musst dich wärmer anziehen, sonst erkältest du dich.",
-                "example_bg": "Трябва да се обличате по-топло, иначе ще се простудите."
+                "example_bg": "Трябва да се обличаш по-топло, иначе ще се простудиш."
             },
             {
                 "example_de": "Heute ziehe ich mein neues T-Shirt an.",
@@ -1845,10 +1847,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Anzug, ¨-e",
         "word_bg": [
-            "Костюм"
+            "костюм"
         ],
         "examples": [
             {
@@ -1858,10 +1860,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Apartment, -s",
         "word_bg": [
-            "Плосък"
+            "апартамент"
         ],
         "examples": [
             {
@@ -1871,10 +1873,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Apfel, ¨-",
         "word_bg": [
-            "Apple"
+            "ябълка"
         ],
         "examples": [
             {
@@ -1884,10 +1886,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Apotheke, -n",
         "word_bg": [
-            "Аптека"
+            "аптека"
         ],
         "examples": [
             {
@@ -1897,10 +1899,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Apparat, -e",
         "word_bg": [
-            "Апаратура"
+            "апарат"
         ],
         "examples": [
             {
@@ -1914,10 +1916,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Appetit",
         "word_bg": [
-            "Апетит"
+            "апетит"
         ],
         "examples": [
             {
@@ -1926,32 +1928,32 @@
             },
             {
                 "example_de": "Auf was hast du Appetit? Vielleicht auf einen Salat?",
-                "example_bg": "За какво имате апетит? Може би за салата?"
+                "example_bg": "За какво имаш апетит? Може би за салата?"
             },
             {
                 "example_de": "Guten Appetit!",
-                "example_bg": "Наслаждавайте се на храната си!"
+                "example_bg": "Добър апетит!"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Aprikose, -n (D, CH) → A: Marille",
         "word_bg": [
-            "Кайсия"
+            "кайсия"
         ],
         "examples": [
             {
                 "example_de": "Schmecken dir die Aprikosen?",
-                "example_bg": "Харесват ли ви кайсиите?"
+                "example_bg": "Харесват ли ти кайсиите?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "arbeiten, arbeitet, arbeitete, hat gearbeitet",
         "word_bg": [
-            "работа"
+            "работя"
         ],
         "examples": [
             {
@@ -1965,40 +1967,40 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Arbeit, -en",
         "word_bg": [
-            "Труд"
+            "работа"
         ],
         "examples": [
             {
                 "example_de": "Wie gefällt dir deine Arbeit?",
-                "example_bg": "Как харесвате работата си?"
+                "example_bg": "Как харесваш работата ти?"
             },
             {
                 "example_de": "Nach der Ausbildung hat Mohamed eine Arbeit gefunden.",
-                "example_bg": "След като завършва обучението си, Мохамед си намира работа."
+                "example_bg": "След като завърши обучението си, Мохамед си намери работа."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Arbeiter, die Arbeiterin, -nen",
         "word_bg": [
-            "Работници"
+            "работник, работничка"
         ],
         "examples": [
             {
                 "example_de": "Maria ist seit zwei Jahren Arbeiterin bei Siemens.",
-                "example_bg": "Мария работи в Siemens от две години."
+                "example_bg": "Мария е работничка в Siemens от две години."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Arbeitserlaubnis, -se",
         "word_bg": [
-            "Разрешение за работа"
+            "разрешение за работа (за чужденец)"
         ],
         "examples": [
             {
@@ -2008,10 +2010,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "arbeitslos",
         "word_bg": [
-            "безработни"
+            "безработен"
         ],
         "examples": [
             {
@@ -2021,10 +2023,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Arbeitslosigkeit",
         "word_bg": [
-            "Безработица"
+            "безработица"
         ],
         "examples": [
             {
@@ -2034,36 +2036,36 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Arbeitsplatz, ¨-e",
         "word_bg": [
-            "Работно място"
+            "работно място"
         ],
         "examples": [
             {
                 "example_de": "In der Industrie gibt es immer weniger Arbeitsplätze.",
-                "example_bg": "Работните места в промишлеността стават все по-малко и по-малко."
+                "example_bg": "В промишлеността има все по-малко работни места."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Arbeitsstelle, -n",
         "word_bg": [
-            "Работно място"
+            "работно място"
         ],
         "examples": [
             {
                 "example_de": "Meine Frau hat eine neue Arbeitsstelle gefunden.",
-                "example_bg": "Жена ми си намери нова работа."
+                "example_bg": "Жена ми си намери ново работно място."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Architekt, -en die Architektin, -nen",
         "word_bg": [
-            "Архитект"
+            "архитект, архитектка"
         ],
         "examples": [
             {
@@ -2077,7 +2079,6 @@
         "word_de": "(sich) ärgern, ärgert, ärgerte, hat geärgert",
         "word_bg": [
             "ядосвам (се)",
-            "дразня (се)"
         ],
         "examples": [
             {
@@ -2087,15 +2088,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Ärger",
         "word_bg": [
-            "Проблеми"
+            "яд (неприятности)"
         ],
         "examples": [
             {
                 "example_de": "Ich hatte heute Ärger im Büro. Ich habe mich mit einem Kollegen gestritten.",
-                "example_bg": "Днес имах проблеми в офиса. Имах спор с колега."
+                "example_bg": "Днес имах неприятности в офиса. Имах спор с колега."
             }
         ]
     },
@@ -2113,7 +2114,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "arm",
         "word_bg": [
             "беден"
@@ -2125,15 +2126,15 @@
             },
             {
                 "example_de": "Ich hätte gerne 200 g fettarmen Käse.",
-                "example_bg": "Искам 200 г нискомаслено сирене."
+                "example_bg": "Бих искал 200 г нискомаслено сирене."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Arm, -e",
         "word_bg": [
-            "Ръка"
+            "ръка"
         ],
         "examples": [
             {
@@ -2143,10 +2144,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Art, -en",
         "word_bg": [
-            "Любезен"
+            "вид/сорт",
+            "същност",
+            "начин"
         ],
         "examples": [
             {
@@ -2164,10 +2167,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Artikel, -",
         "word_bg": [
-            "Статия"
+            "статия",
+            "член"
         ],
         "examples": [
             {
@@ -2181,10 +2185,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Arzt, ¨-e die Ärztin, -nen",
         "word_bg": [
-            "Доктор"
+            "лекар, лекарка"
         ],
         "examples": [
             {
@@ -2198,10 +2202,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Asyl, -e",
         "word_bg": [
-            "Убежище"
+            "убежище"
         ],
         "examples": [
             {
@@ -2211,10 +2215,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "atmen, atmet, atmete, hat geatmet",
         "word_bg": [
-            "дишане"
+            "дишам"
         ],
         "examples": [
             {
@@ -2224,10 +2228,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Atem",
         "word_bg": [
-            "Дишане"
+            "дъх",
+            "дишане"
         ],
         "examples": [
             {
@@ -2255,7 +2260,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "auf",
         "word_bg": [
             "на"
@@ -2304,15 +2309,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Aufenthalt, -e",
         "word_bg": [
-            "Останете на"
+            "престой"
         ],
         "examples": [
             {
                 "example_de": "Der Zug hat in München nur 20 Minuten Aufenthalt.",
-                "example_bg": "Влакът има само 20-минутна спирка в Мюнхен."
+                "example_bg": "Влакът има само 20-минутен престой в Мюнхен."
             },
             {
                 "example_de": "Wir wünschen Ihnen einen angenehmen Aufenthalt.",
@@ -2321,28 +2326,30 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "auffallen, fällt auf, fiel auf, ist aufgefallen",
         "word_bg": [
-            "да се отличавате"
+            "правя впечатление",
+            "бия на очи"
         ],
         "examples": [
             {
                 "example_de": "Mir ist aufgefallen, dass Harriett ganz blass ist.",
-                "example_bg": "Забелязах, че Хариет е много бледа."
+                "example_bg": "Направи ми впечатление, че Хариет е много бледа."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "auffordern, fordert auf, forderte auf, hat aufgefordert",
         "word_bg": [
-            "подкана"
+            "подканвам",
+            "каня"
         ],
         "examples": [
             {
                 "example_de": "Sie forderte mich auf, meine Meinung zu sagen.",
-                "example_bg": "Тя ме помоли да изкажа мнението си."
+                "example_bg": "Тя ме подкани да изкажа мнението си."
             },
             {
                 "example_de": "Er fordert sie zum Tanz auf.",
@@ -2351,36 +2358,38 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Aufforderung, -en",
         "word_bg": [
-            "Заявка"
+            "приканване",
+            "покана"
         ],
         "examples": [
             {
                 "example_de": "Sie erhalten eine Aufforderung, den Betrag bis Juni zu zahlen.",
-                "example_bg": "Ще получите искане да платите сумата до юни."
+                "example_bg": "Ще получите приканване да платите сумата до юни."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aufführen, führt auf, führte auf, hat aufgeführt",
         "word_bg": [
-            "изпълнява"
+            "представям"
         ],
         "examples": [
             {
                 "example_de": "Die Kinder führen zu Weihnachten ein Theaterstück auf.",
-                "example_bg": "Децата поставят пиеса за Коледа."
+                "example_bg": "Децата представят пиеса за Коледа."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Aufgabe, -n",
         "word_bg": [
-            "Задача"
+            "домашно",
+            "задача"
         ],
         "examples": [
             {
@@ -2389,15 +2398,16 @@
             },
             {
                 "example_de": "Das ist nicht meine Aufgabe.",
-                "example_bg": "Това не е моя работа."
+                "example_bg": "Това не е моя задача."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aufgeben, gibt auf, gab auf, hat aufgegeben",
         "word_bg": [
-            "да се откажеш"
+            "изпращам",
+            "отказвам се"
         ],
         "examples": [
             {
@@ -2411,16 +2421,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aufhalten, hält auf, hielt auf, hat aufgehalten",
         "word_bg": [
-            "спрете"
+            "задържам"
         ],
         "examples": [
-            {
-                "example_de": "Wo hält er sich gerade auf? – In München.",
-                "example_bg": "Къде е в момента? - В Мюнхен."
-            },
             {
                 "example_de": "Darf ich Ihnen die Tür aufhalten?",
                 "example_bg": "Мога ли да ви задържа вратата?"
@@ -2432,10 +2438,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
+        "word_de": "(sich) aufhalten, hält auf, hielt auf, hat aufgehalten",
+        "word_bg": [
+            "намирам се"
+        ],
+        "examples": [
+            {
+                "example_de": "Wo hält er sich gerade auf? – In München.",
+                "example_bg": "Къде се намира в момента? - В Мюнхен."
+            }
+        ]
+    },
+    {
+        "manually_verified": true,
         "word_de": "aufheben, hebt auf, hob auf, hat aufgehoben",
         "word_bg": [
-            "отмяна на"
+            "вдигам (взимам)",
+            "запазвам (съхранявам)"
         ],
         "examples": [
             {
@@ -2449,10 +2469,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aufhören, hört auf, hörte auf, hat aufgehört",
         "word_bg": [
-            "спрете"
+            "спирам"
         ],
         "examples": [
             {
@@ -2470,10 +2490,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aufladen, lädt auf, lud auf, hat aufgeladen",
         "word_bg": [
-            "зареждане"
+            "зареждам"
         ],
         "examples": [
             {
@@ -2483,10 +2503,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "auflösen, löst auf, löste auf, hat aufgelöst",
         "word_bg": [
-            "разтваряне"
+            "разтварям"
         ],
         "examples": [
             {
@@ -2496,7 +2516,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aufmerksam",
         "word_bg": [
             "внимателен"
@@ -2504,19 +2524,20 @@
         "examples": [
             {
                 "example_de": "Die Schülerin hörte aufmerksam zu.",
-                "example_bg": "Ученикът слушаше внимателно."
+                "example_bg": "Ученичката слушаше внимателно."
             },
             {
                 "example_de": "Ich mache Sie darauf aufmerksam, dass wir in einer halben Stunde schließen.",
-                "example_bg": "Бих искал да ви обърна внимание на факта, че ще приключим след половин час."
+                "example_bg": "Бих искал да обърна вниманието ви на факта, че ще приключим след половин час."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aufnehmen, nimmt auf, nahm auf, hat aufgenommen",
         "word_bg": [
-            "запис"
+            "приемам",
+            "записвам"
         ],
         "examples": [
             {
@@ -2530,10 +2551,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Aufnahme, -n",
         "word_bg": [
-            "Записване"
+            "запис"
         ],
         "examples": [
             {
@@ -2543,27 +2564,28 @@
         ]
     },
     {
-        "manually_verified": false,
-        "word_de": "aufpassen, passt auf, passte auf, hat aufgepasst",
+        "manually_verified": true,
+        "word_de": "(auf etw/jdn) aufpassen, passt auf, passte auf, hat aufgepasst",
         "word_bg": [
-            "внимавайте"
+            "внимавам (за нщ)",
+            "надзиравам (нкг)"
         ],
         "examples": [
             {
                 "example_de": "Tut mir leid. Da habe ich wohl nicht aufgepasst.",
-                "example_bg": "Съжалявам. Сигурно не съм обръщал внимание."
+                "example_bg": "Съжалявам. Сигурно не съм внимавал."
             },
             {
                 "example_de": "Ich muss zu Hause bleiben und auf die Kinder aufpassen.",
-                "example_bg": "Трябва да остана вкъщи и да се грижа за децата."
+                "example_bg": "Трябва да остана вкъщи и да надзиравам децата."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aufräumen, räumt auf, räumte auf, hat aufgeräumt",
         "word_bg": [
-            "подреждане"
+            "подреждам"
         ],
         "examples": [
             {
@@ -2573,10 +2595,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aufregen, regt auf, regte auf, hat aufgeregt",
         "word_bg": [
-            "разстроен"
+            "възбуждам",
+            "ядосвам"
         ],
         "examples": [
             {
@@ -2598,10 +2621,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aufstehen, steht auf, stand auf, ist aufgestanden",
         "word_bg": [
-            "да се изправите"
+            "ставам"
         ],
         "examples": [
             {
@@ -2615,10 +2638,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Auftrag, ¨-e",
         "word_bg": [
-            "Поръчка"
+            "поръчка",
+            "заявка"
         ],
         "examples": [
             {
@@ -2632,10 +2656,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "auftreten, tritt auf, trat auf, ist aufgetreten",
         "word_bg": [
-            "се появяват"
+            "излизам на сцената"
         ],
         "examples": [
             {
@@ -2645,10 +2669,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Auftritt, -e",
         "word_bg": [
-            "Изпълнение"
+            "представление",
+            "изпълнение"
         ],
         "examples": [
             {
@@ -2658,10 +2683,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aufwachen, wacht auf, wachte auf, ist aufgewacht",
         "word_bg": [
-            "събуждане"
+            "събуждам"
         ],
         "examples": [
             {
@@ -2671,7 +2696,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aufwärts",
         "word_bg": [
             "нагоре"
@@ -2688,10 +2713,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Aufzug, ¨-e (D, A) → Lift",
         "word_bg": [
-            "Асансьор"
+            "асансьор"
         ],
         "examples": [
             {
@@ -2701,10 +2726,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Auge, -n",
         "word_bg": [
-            "Очи"
+            "око"
         ],
         "examples": [
             {
@@ -2714,10 +2739,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Augenblick, -e",
         "word_bg": [
-            "Момент"
+            "момент"
         ],
         "examples": [
             {
