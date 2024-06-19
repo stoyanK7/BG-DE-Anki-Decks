@@ -180,14 +180,14 @@
     },
     {
         "manually_verified": true,
-        "word_de": "(von jdm/etw) abhängen, hängt ab, hing ab, hat abgehangen",
+        "word_de": "(von jdm,etw) abhängen, hängt ab, hing ab, hat abgehangen",
         "word_bg": [
             "завися (от)"
         ],
         "examples": [
             {
                 "example_de": "Vielleicht bleiben wir ein paar Tage länger, das hängt vom Wetter ab.",
-                "example_bg": "Може би ще останем няколко дни повече, в зависимост от времето."
+                "example_bg": "Може би ще останем още няколко дни, зависи от времето."
             }
         ]
     },
@@ -493,7 +493,7 @@
     },
     {
         "manually_verified": true,
-        "word_de": "(auf jdn/etw) achten, achtet, achtete, hat geachtet",
+        "word_de": "(auf jdn,etw) achten, achtet, achtete, hat geachtet",
         "word_bg": [
             "обръщам внимание (на нкг/нщ)",
             "внимавам (за нкг/нещо)"
@@ -2078,7 +2078,7 @@
         "manually_verified": true,
         "word_de": "(sich) ärgern, ärgert, ärgerte, hat geärgert",
         "word_bg": [
-            "ядосвам (се)",
+            "ядосвам (се)"
         ],
         "examples": [
             {
@@ -2565,7 +2565,7 @@
     },
     {
         "manually_verified": true,
-        "word_de": "(auf etw/jdn) aufpassen, passt auf, passte auf, hat aufgepasst",
+        "word_de": "(auf etw,jdn) aufpassen, passt auf, passte auf, hat aufgepasst",
         "word_bg": [
             "внимавам (за нщ)",
             "надзиравам (нкг)"
@@ -2772,11 +2772,27 @@
             },
             {
                 "example_de": "Frau Özgen kommt aus der Türkei.",
-                "example_bg": "Г-жа Özgen е от Турция."
+                "example_bg": "Г-жа Özgen идва от Турция."
             },
             {
-                "example_de": "Die Möbel sind noch aus der Zeit um 1900. 4. Ich trage nur Pullover aus reiner Wolle. 5. Wir haben aus Liebe geheiratet. 6. Wann ist der Kurs aus? 7. Ich seh‘ nichts! Das Licht ist aus!",
-                "example_bg": "Мебелите са от около 1900 г. 4. Нося само пуловери от чиста вълна. 5. Оженихме се по любов. 6. Кога приключва курсът? 7. Не мога да видя нищо! Светлината е изключена!"
+                "example_de": "Die Möbel sind noch aus der Zeit um 1900!",
+                "example_bg": "Мебелите са от около 1900 г.!"
+            },
+            {
+                "example_de": "Ich trage nur Pullover aus reiner Wolle.",
+                "example_bg": "Нося само пуловери от чиста вълна."
+            },
+            {
+                "example_de": "Wir haben aus Liebe geheiratet.",
+                "example_bg": "Оженихме се по любов."
+            },
+            {
+                "example_de": "Wann ist der Kurs aus?",
+                "example_bg": "Кога свършва курсът?"
+            },
+            {
+                "example_de": "Ich seh‘ nichts! Das Licht ist aus!",
+                "example_bg": "Не мога да видя нищо! Светлината е угаснала!"
             }
         ]
     },

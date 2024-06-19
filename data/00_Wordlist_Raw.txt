@@ -44,8 +44,8 @@
                                                                                   absolut                     1. Was Sie da sagen, ist absolut falsch.
         der Abfall, ¨-e                 Werfen Sie den Bioabfall bitte nicht                                  2. Ich habe absolutes Vertrauen zu dir.
                                         zum normalen Müll.
-                                                                                  abstimmen, stimmt ab,       Lasst uns über diesen Punkt abstimmen.
-                 der Abfalleimer, -     Wirf das bitte in den Abfalleimer!        stimmte ab,
+                                                                                  (über etw) abstimmen,         Lasst uns über diesen Punkt abstimmen.
+                 der Abfalleimer, -     Wirf das bitte in den Abfalleimer!        stimmt ab, stimmte ab,
                                                                                   hat abgestimmt
         Abgase (Pl.)                    Abgase aus Industrie und Haushalten
                                         verschmutzen die Luft.                    die Abteilung, -en            Meine Freundin arbeitet in der
@@ -53,10 +53,11 @@
         abgeben, gibt ab, gab ab,       Ich soll dieses Päckchen bei Herrn
         hat abgegeben                   Müller abgeben.                           der Abwart, -e                Der Abwart hat mir geholfen, den
                                                                                   die Abwartin, -nen (CH) →     Schrank in die Wohnung zu tragen.
-        abhängen, hängt ab, hing        Vielleicht bleiben wir ein paar Tage      D, A: Hausmeister
-        ab, hat abgehangen (von)        länger, das hängt vom Wetter ab.
-                                                                                  abwärts                       Von dort führt der Weg abwärts ins
-                           abhängig     Gregor ist finanziell von seinen Eltern                                 Tal.
+        (von jdm,etw) abhängen,         Vielleicht bleiben wir ein paar Tage      D, A: Hausmeister
+        hängt ab, hing ab, hat          länger, das hängt vom Wetter ab.
+        abgehangen                                                                abwärts                       Von dort führt der Weg abwärts ins Tal.
+
+        abhängig                        Gregor ist finanziell von seinen Eltern
                                         abhängig.
                                                                                   abwaschen, wäscht ab,         Ich muss noch das Geschirr abwaschen.
         abheben, hebt ab, hob ab,       Für die Reise habe ich 500 Euro von       wusch ab,
@@ -66,8 +67,8 @@
         abholen, holt ab, holte ab,     Meine Freundin hat mich vom Bahnhof       abwesend                      Herr Huber ist bis zum 25. April
         hat abgeholt                    abgeholt.                                                               abwesend.
 
-                                                                                  achten, achtet, achtete,      Achten Sie bitte darauf, dass Sie
-                                                                                  hat geachtet (auf)            abschließen, wenn Sie gehen.
+                                                                                  (auf jdn,etw) achten,             Achten Sie bitte darauf, dass Sie
+                                                                                  achtet, achtete, hat geachtet     abschließen, wenn Sie gehen.
 VS_03
 
 
@@ -205,7 +206,7 @@ VS_03
                                                                                     die Anrede, -n                     Du darfst im Brief die Anrede nicht
                        die Angabe,-n     Wir brauchen von Ihnen folgende                                               vergessen.
                                          Angaben: Name, Adresse,
-                                         Geburtsdatum.                              anrufen, ruft an, rief an,         Ich rufe Sie heute Abend an.
+                                         Geburtsdatum.                              (jdn) anrufen, ruft an, rief an,   Ich rufe Sie heute Abend an.
                                                                                     hat angerufen
         der Angehörige, -n               Der Arzt darf nur Familienangehörigen
         die Angehörige, -n               Auskunft geben.                                             der Anruf, -e     Ich warte auf einen Anruf aus Berlin.
@@ -330,12 +331,14 @@ VS_03
                                           gelesen.                                                                  2. Man darf nie aufgeben. Es gibt immer
                                        2. Im Deutschen gibt es drei Artikel: der,                                      eine Hoffnung.
                                           die, das.
-                                                                                     aufhalten, hält auf, hielt     1. Wo hält er sich gerade auf? – In
-        der Arzt, ¨-e                  1. Ich muss heute zum Arzt.                   auf, hat aufgehalten              München.
-        die Ärztin, -nen               2. Wann warst du beim Zahnarzt?                                              2. Darf ich Ihnen die Tür aufhalten?
-                                                                                                                    3. Entschuldigen Sie die Verspätung, ich
-        das Asyl, -e                     Die Menschen sind auf der Flucht und                                          wurde aufgehalten.
-                                         bitten um Asyl.
+                                                                                     aufhalten, hält auf, hielt     1. Darf ich Ihnen die Tür aufhalten?
+        der Arzt, ¨-e                  1. Ich muss heute zum Arzt.                   auf, hat aufgehalten           2. Entschuldigen Sie die Verspätung, ich
+        die Ärztin, -nen               2. Wann warst du beim Zahnarzt?                                                 wurde aufgehalten.
+
+        das Asyl, -e                     Die Menschen sind auf der Flucht und
+                                         bitten um Asyl.                             (sich) aufhalten, hält auf,     1. Wo hält er sich gerade auf? – In München.
+                                                                                     hielt auf, hat aufgehalten
+
                                                                                      aufheben, hebt auf,            1. Lassen Sie die Papiere nur auf dem
         atmen, atmet, atmete,            Er hat eine Erkältung und kann nicht        hob auf, hat aufgehoben           Boden liegen, ich hebe sie schon auf.
         hat geatmet                      durch die Nase atmen.                                                      2. Die Quittung müssen Sie gut aufheben.
@@ -373,8 +376,8 @@ VS_03
 
 
 
-        aufpassen, passt auf,          1. Tut mir leid. Da habe ich wohl nicht       die Ausbildung, -en           1. Ich habe meine Ausbildung
-        passte auf,                       aufgepasst.                                                                 abgeschlossen.
+        (auf etw,jdn) aufpassen,       1. Tut mir leid. Da habe ich wohl nicht       die Ausbildung, -en           1. Ich habe meine Ausbildung
+        passt auf, passte auf,            aufgepasst.                                                                 abgeschlossen.
         hat aufgepasst                 2. Ich muss zu Hause bleiben und auf die                                    2. Mit deiner guten Ausbildung findest du
                                           Kinder aufpassen.                                                           sicher eine Arbeit.
 
@@ -431,7 +434,7 @@ VS_03
                                           Uhr aus dem Haus.
                                        2. Frau Özgen kommt aus der Türkei.           die Auskunft, ¨-e             1. Ich hätte gern eine Auskunft.
                                        3. Die Möbel sind noch aus der Zeit um                                      2. Die Firma hat eine neue Nummer.
-                                          1900.                                                                       Bitte, rufen Sie die Auskunft an.
+                                          1900!                                                                       Bitte, rufen Sie die Auskunft an.
                                        4. Ich trage nur Pullover aus reiner Wolle.
                                        5. Wir haben aus Liebe geheiratet.            das Ausland                     Wir fahren im Urlaub meistens ins Aus-
                                        6. Wann ist der Kurs aus?                                                     land.

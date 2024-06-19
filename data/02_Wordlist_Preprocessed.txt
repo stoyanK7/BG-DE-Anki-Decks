@@ -47,10 +47,11 @@ Abgase (Pl.)                    Abgase aus Industrie und Haushalten
 abgeben, gibt ab, gab ab,       Ich soll dieses Päckchen bei Herrn
 hat abgegeben                   Müller abgeben.                          
                                                                          
-abhängen, hängt ab, hing        Vielleicht bleiben wir ein paar Tage     
-ab, hat abgehangen (von)        länger, das hängt vom Wetter ab.
-                                                                         
-                   abhängig     Gregor ist finanziell von seinen Eltern  
+(von jdm,etw) abhängen,         Vielleicht bleiben wir ein paar Tage     
+hängt ab, hing ab, hat          länger, das hängt vom Wetter ab.
+abgehangen                                                               
+
+abhängig                        Gregor ist finanziell von seinen Eltern
                                 abhängig.
                                                                          
 abheben, hebt ab, hob ab,       Für die Reise habe ich 500 Euro von      
@@ -102,8 +103,8 @@ die Absicht, -en            1. Entschuldigen Sie bitte. Meine Tochter
 absolut                     1. Was Sie da sagen, ist absolut falsch.
                             2. Ich habe absolutes Vertrauen zu dir.
 
-abstimmen, stimmt ab,       Lasst uns über diesen Punkt abstimmen.
-stimmte ab,
+(über etw) abstimmen,         Lasst uns über diesen Punkt abstimmen.
+stimmt ab, stimmte ab,
 hat abgestimmt
 
 die Abteilung, -en            Meine Freundin arbeitet in der
@@ -113,8 +114,7 @@ der Abwart, -e                Der Abwart hat mir geholfen, den
 die Abwartin, -nen (CH) →     Schrank in die Wohnung zu tragen.
 D, A: Hausmeister
 
-abwärts                       Von dort führt der Weg abwärts ins
-                              Tal.
+abwärts                       Von dort führt der Weg abwärts ins Tal.
 
 abwaschen, wäscht ab,         Ich muss noch das Geschirr abwaschen.
 wusch ab,
@@ -123,8 +123,8 @@ hat abgewaschen
 abwesend                      Herr Huber ist bis zum 25. April
                               abwesend.
 
-achten, achtet, achtete,      Achten Sie bitte darauf, dass Sie
-hat geachtet (auf)            abschließen, wenn Sie gehen.
+(auf jdn,etw) achten,             Achten Sie bitte darauf, dass Sie
+achtet, achtete, hat geachtet     abschließen, wenn Sie gehen.
 
                     Achtung!       Achtung, hier endet die Straße!           
                                                                              
@@ -369,7 +369,7 @@ die Annonce, -n                    Ich habe alle Annoncen gelesen, aber
 die Anrede, -n                     Du darfst im Brief die Anrede nicht
                                    vergessen.
 
-anrufen, ruft an, rief an,         Ich rufe Sie heute Abend an.
+(jdn) anrufen, ruft an, rief an,   Ich rufe Sie heute Abend an.
 hat angerufen
 
                  der Anruf, -e     Ich warte auf einen Anruf aus Berlin.
@@ -540,9 +540,11 @@ der Artikel, -                 1. Ich habe einen interessanten Artikel
                                                                             
 der Arzt, ¨-e                  1. Ich muss heute zum Arzt.                  
 die Ärztin, -nen               2. Wann warst du beim Zahnarzt?              
+
+das Asyl, -e                     Die Menschen sind auf der Flucht und
+                                 bitten um Asyl.                            
                                                                             
-das Asyl, -e                     Die Menschen sind auf der Flucht und       
-                                 bitten um Asyl.
+
                                                                             
 atmen, atmet, atmete,            Er hat eine Erkältung und kann nicht       
 hat geatmet                      durch die Nase atmen.                      
@@ -601,11 +603,12 @@ auf, hat aufgegeben               aufgegeben.
                                2. Man darf nie aufgeben. Es gibt immer
                                   eine Hoffnung.
 
-aufhalten, hält auf, hielt     1. Wo hält er sich gerade auf? – In
-auf, hat aufgehalten              München.
-                               2. Darf ich Ihnen die Tür aufhalten?
-                               3. Entschuldigen Sie die Verspätung, ich
+aufhalten, hält auf, hielt     1. Darf ich Ihnen die Tür aufhalten?
+auf, hat aufgehalten           2. Entschuldigen Sie die Verspätung, ich
                                   wurde aufgehalten.
+
+(sich) aufhalten, hält auf,     1. Wo hält er sich gerade auf? – In München.
+hielt auf, hat aufgehalten
 
 aufheben, hebt auf,            1. Lassen Sie die Papiere nur auf dem
 hob auf, hat aufgehoben           Boden liegen, ich hebe sie schon auf.
@@ -634,8 +637,8 @@ hat aufgenommen                2. Ich habe den Film im Urlaub
           die Aufnahme, -n       Bitte seid leise! – Ich starte die
                                  Aufnahme.
 
-aufpassen, passt auf,          1. Tut mir leid. Da habe ich wohl nicht      
-passte auf,                       aufgepasst.                               
+(auf etw,jdn) aufpassen,       1. Tut mir leid. Da habe ich wohl nicht      
+passt auf, passte auf,            aufgepasst.                               
 hat aufgepasst                 2. Ich muss zu Hause bleiben und auf die     
                                   Kinder aufpassen.                         
 
@@ -692,7 +695,7 @@ aus                            1. Frau Müller geht jeden Morgen um 8
                                   Uhr aus dem Haus.
                                2. Frau Özgen kommt aus der Türkei.          
                                3. Die Möbel sind noch aus der Zeit um       
-                                  1900.                                     
+                                  1900!                                     
                                4. Ich trage nur Pullover aus reiner Wolle.
                                5. Wir haben aus Liebe geheiratet.           
                                6. Wann ist der Kurs aus?                    

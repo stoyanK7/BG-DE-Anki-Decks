@@ -68,8 +68,9 @@ hat abgegeben
 ","Ich soll dieses Päckchen bei Herrn
 Müller abgeben.
 "
-"abhängen, hängt ab, hing
-ab, hat abgehangen (von)
+"(von jdm,etw) abhängen,
+hängt ab, hing ab, hat
+abgehangen
 ","Vielleicht bleiben wir ein paar Tage
 länger, das hängt vom Wetter ab.
 "
@@ -151,8 +152,8 @@ hat das nicht mit Absicht gemacht.
 ","1. Was Sie da sagen, ist absolut falsch.
 2. Ich habe absolutes Vertrauen zu dir.
 "
-"abstimmen, stimmt ab,
-stimmte ab,
+"(über etw) abstimmen,
+stimmt ab, stimmte ab,
 hat abgestimmt
 ","Lasst uns über diesen Punkt abstimmen.
 "
@@ -167,8 +168,7 @@ D, A: Hausmeister
 Schrank in die Wohnung zu tragen.
 "
 "abwärts
-","Von dort führt der Weg abwärts ins
-Tal.
+","Von dort führt der Weg abwärts ins Tal.
 "
 "abwaschen, wäscht ab,
 wusch ab,
@@ -179,8 +179,8 @@ hat abgewaschen
 ","Herr Huber ist bis zum 25. April
 abwesend.
 "
-"achten, achtet, achtete,
-hat geachtet (auf)
+"(auf jdn,etw) achten,
+achtet, achtete, hat geachtet
 ","Achten Sie bitte darauf, dass Sie
 abschließen, wenn Sie gehen.
 "
@@ -540,7 +540,7 @@ die Wohnungen sind zu teuer.
 ","Du darfst im Brief die Anrede nicht
 vergessen.
 "
-"anrufen, ruft an, rief an,
+"(jdn) anrufen, ruft an, rief an,
 hat angerufen
 ","Ich rufe Sie heute Abend an.
 "
@@ -885,13 +885,13 @@ eine Hoffnung.
 "
 "aufhalten, hält auf, hielt
 auf, hat aufgehalten
-
-
-","1. Wo hält er sich gerade auf? – In
-München.
-2. Darf ich Ihnen die Tür aufhalten?
-3. Entschuldigen Sie die Verspätung, ich
+","1. Darf ich Ihnen die Tür aufhalten?
+2. Entschuldigen Sie die Verspätung, ich
 wurde aufgehalten.
+"
+"(sich) aufhalten, hält auf,
+hielt auf, hat aufgehalten
+","1. Wo hält er sich gerade auf? – In München.
 "
 "aufheben, hebt auf,
 hob auf, hat aufgehoben
@@ -935,8 +935,8 @@ aufgenommen.
 ","Bitte seid leise! – Ich starte die
 Aufnahme.
 "
-"aufpassen, passt auf,
-passte auf,
+"(auf etw,jdn) aufpassen,
+passt auf, passte auf,
 hat aufgepasst
 ","1. Tut mir leid. Da habe ich wohl nicht
 aufgepasst.
@@ -1023,12 +1023,11 @@ Ausfahrt gekommen.
 
 
 
-
 ","1. Frau Müller geht jeden Morgen um 8
 Uhr aus dem Haus.
 2. Frau Özgen kommt aus der Türkei.
 3. Die Möbel sind noch aus der Zeit um
-1900.
+1900!
 4. Ich trage nur Pullover aus reiner Wolle.
 5. Wir haben aus Liebe geheiratet.
 6. Wann ist der Kurs aus?

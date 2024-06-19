@@ -10,7 +10,7 @@ aber,"['Heute kann ich nicht, aber morgen ganz bestimmt.', 'Es lag sehr viel Sch
 "der Abfalleimer, -",['Wirf das bitte in den Abfalleimer!'],der Abfalleimer,Abfalleimer
 Abgase (Pl.),['Abgase aus Industrie und Haushalten verschmutzen die Luft.'],Abgase,Abgase
 "abgeben, gibt ab, gab ab, hat abgegeben",['Ich soll dieses Päckchen bei Herrn Müller abgeben.'],abgeben,abgeben
-"abhängen, hängt ab, hing ab, hat abgehangen (von)","['Vielleicht bleiben wir ein paar Tage länger, das hängt vom Wetter ab.']",abhängen,abhängen
+"(von jdm,etw) abhängen, hängt ab, hing ab, hat abgehangen","['Vielleicht bleiben wir ein paar Tage länger, das hängt vom Wetter ab.']","(von jdm,etw) abhängen, hängt ab, hing ab, hat abgehangen",(von jdm
 abhängig,['Gregor ist finanziell von seinen Eltern abhängig.'],abhängig,abhängig
 "abheben, hebt ab, hob ab, hat abgehoben",['Für die Reise habe ich 500 Euro von meinem Konto abgehoben.'],abheben,abheben
 "abholen, holt ab, holte ab, hat abgeholt",['Meine Freundin hat mich vom Bahnhof abgeholt.'],abholen,abholen
@@ -27,13 +27,13 @@ abhängig,['Gregor ist finanziell von seinen Eltern abhängig.'],abhängig,abhä
 "der Absender, die Absenderin, -nen",['Schicken Sie das Paket an den Absender zurück.'],"der Absender, die Absenderin",Absender
 "die Absicht, -en","['Entschuldigen Sie bitte. Meine Tochter hat das nicht mit Absicht gemacht.', 'Hast du die Absicht zu studieren?']",die Absicht,Absicht
 absolut,"['Was Sie da sagen, ist absolut falsch.', 'Ich habe absolutes Vertrauen zu dir.']",absolut,absolut
-"abstimmen, stimmt ab, stimmte ab, hat abgestimmt",['Lasst uns über diesen Punkt abstimmen.'],abstimmen,abstimmen
+"(über etw) abstimmen, stimmt ab, stimmte ab, hat abgestimmt",['Lasst uns über diesen Punkt abstimmen.'],(über etw) abstimmen,(über etw) abstimmen
 "die Abteilung, -en",['Meine Freundin arbeitet in der Abteilung von Frau Kaufmann.'],die Abteilung,Abteilung
 "der Abwart, -e die Abwartin, -nen (CH) → D, A: Hausmeister","['Der Abwart hat mir geholfen, den Schrank in die Wohnung zu tragen.']","der Abwart, die Abwartin",Abwart
 abwärts,['Von dort führt der Weg abwärts ins Tal.'],abwärts,abwärts
 "abwaschen, wäscht ab, wusch ab, hat abgewaschen",['Ich muss noch das Geschirr abwaschen.'],abwaschen,abwaschen
 abwesend,['Herr Huber ist bis zum 25. April abwesend.'],abwesend,abwesend
-"achten, achtet, achtete, hat geachtet (auf)","['Achten Sie bitte darauf, dass Sie abschließen, wenn Sie gehen.']",achten,achten
+"(auf jdn,etw) achten, achtet, achtete, hat geachtet","['Achten Sie bitte darauf, dass Sie abschließen, wenn Sie gehen.']","(auf jdn,etw) achten, achtet, achtete, hat geachtet",(auf jdn
 Achtung!,"['Achtung, hier endet die Straße!']",Achtung!,Achtung!
 "die Adresse, -n",['Hast du schon meine neue Adresse?'],die Adresse,Adresse
 ähnlich,"['Emilia ist in einer ganz ähnlichen Situation wie ich.', 'Oleg sieht seinem Bruder sehr ähnlich.']",ähnlich,ähnlich
@@ -97,7 +97,7 @@ die Ankunft,"['Die Abfahrt ist um 0.55 Uhr, die Ankunft um 8.07 Uhr.', 'Gleich n
 "annehmen, nimmt an, nahm an, hat angenommen","['Ich nehme Ihre Einladung gern an.', 'Ich nehme an, dass Sie mit dem Vorschlag einverstanden sind.']",annehmen,annehmen
 "die Annonce, -n","['Ich habe alle Annoncen gelesen, aber die Wohnungen sind zu teuer.']",die Annonce,Annonce
 "die Anrede, -n",['Du darfst im Brief die Anrede nicht vergessen.'],die Anrede,Anrede
-"anrufen, ruft an, rief an, hat angerufen",['Ich rufe Sie heute Abend an.'],anrufen,anrufen
+"(jdn) anrufen, ruft an, rief an, hat angerufen",['Ich rufe Sie heute Abend an.'],(jdn) anrufen,(jdn) anrufen
 "der Anruf, -e",['Ich warte auf einen Anruf aus Berlin.'],der Anruf,Anruf
 "der Anrufbeantworter, -",['Ich habe dir eine Nachricht auf den Anrufbeantworter gesprochen.'],der Anrufbeantworter,Anrufbeantworter
 "die Ansage, -n",['Achten Sie auf die Ansage am Bahnsteig.'],die Ansage,Ansage
@@ -157,7 +157,8 @@ auf,"['Deine Brille liegt auf dem Schreibtisch.', 'Die Kinder spielen unten auf 
 "aufführen, führt auf, führte auf, hat aufgeführt",['Die Kinder führen zu Weihnachten ein Theaterstück auf.'],aufführen,aufführen
 "die Aufgabe, -n","['Hast du deine Hausaufgaben für die Schule schon gemacht?', 'Das ist nicht meine Aufgabe.']",die Aufgabe,Aufgabe
 "aufgeben, gibt auf, gab auf, hat aufgegeben","['Ich habe auf der Post ein Paket aufgegeben.', 'Man darf nie aufgeben. Es gibt immer eine Hoffnung.']",aufgeben,aufgeben
-"aufhalten, hält auf, hielt auf, hat aufgehalten","['Wo hält er sich gerade auf? – In München.', 'Darf ich Ihnen die Tür aufhalten?', 'Entschuldigen Sie die Verspätung, ich wurde aufgehalten.']",aufhalten,aufhalten
+"aufhalten, hält auf, hielt auf, hat aufgehalten","['Darf ich Ihnen die Tür aufhalten?', 'Entschuldigen Sie die Verspätung, ich wurde aufgehalten.']",aufhalten,aufhalten
+"(sich) aufhalten, hält auf, hielt auf, hat aufgehalten",['Wo hält er sich gerade auf? – In München.'],sich aufhalten,aufhalten
 "aufheben, hebt auf, hob auf, hat aufgehoben","['Lassen Sie die Papiere nur auf dem Boden liegen, ich hebe sie schon auf.', 'Die Quittung müssen Sie gut aufheben.']",aufheben,aufheben
 "aufhören, hört auf, hörte auf, hat aufgehört","['Es hört nicht auf zu schneien.', 'Wann hört ihr mit der Arbeit auf?', 'Hier hört die Hauptstraße auf.']",aufhören,aufhören
 "aufladen, lädt auf, lud auf, hat aufgeladen",['Ich muss mein Telefon aufladen. Die Batterie ist leer.'],aufladen,aufladen
@@ -165,7 +166,7 @@ auf,"['Deine Brille liegt auf dem Schreibtisch.', 'Die Kinder spielen unten auf 
 aufmerksam,"['Die Schülerin hörte aufmerksam zu.', 'Ich mache Sie darauf aufmerksam, dass wir in einer halben Stunde schließen.']",aufmerksam,aufmerksam
 "aufnehmen, nimmt auf, nahm auf, hat aufgenommen","['Wir haben Aneta in unseren Verein aufgenommen.', 'Ich habe den Film im Urlaub aufgenommen.']",aufnehmen,aufnehmen
 "die Aufnahme, -n",['Bitte seid leise! – Ich starte die Aufnahme.'],die Aufnahme,Aufnahme
-"aufpassen, passt auf, passte auf, hat aufgepasst","['Tut mir leid. Da habe ich wohl nicht aufgepasst.', 'Ich muss zu Hause bleiben und auf die Kinder aufpassen.']",aufpassen,aufpassen
+"(auf etw,jdn) aufpassen, passt auf, passte auf, hat aufgepasst","['Tut mir leid. Da habe ich wohl nicht aufgepasst.', 'Ich muss zu Hause bleiben und auf die Kinder aufpassen.']","(auf etw,jdn) aufpassen, passt auf, passte auf, hat aufgepasst",(auf etw
 "aufräumen, räumt auf, räumte auf, hat aufgeräumt",['Vor meinem Urlaub muss ich unbedingt noch meinen Schreibtisch aufräumen.'],aufräumen,aufräumen
 "aufregen, regt auf, regte auf, hat aufgeregt","['Es regt mich auf, dass ich schon wieder Überstunden machen muss.', 'Ganz ruhig! Bitte regen Sie sich nicht auf.', 'Heute hast du eine Prüfung. Bist du schon aufgeregt?', 'Die Musikgruppe zu erleben war sehr aufregend.']",aufregen,aufregen
 "aufstehen, steht auf, stand auf, ist aufgestanden","['Ich stehe jeden Morgen um sechs Uhr auf.', 'Sie brauchen nicht aufzustehen. Sie können sitzen bleiben.']",aufstehen,aufstehen
@@ -177,7 +178,7 @@ aufwärts,"['Sie müssen gute Schuhe anziehen. Der Weg geht immer aufwärts.', '
 "der Aufzug, ¨-e (D, A) → Lift",['Im Büro ist leider der Aufzug kaputt.'],der Aufzug,Aufzug
 "das Auge, -n",['Meine beiden Kinder haben blaue Augen.'],das Auge,Auge
 "der Augenblick, -e","['Ich wollte gerade parken. In dem Augenblick ist ein Wagen aus der Ausfahrt gekommen.', 'Einen Augenblick, bitte!', 'Im Augenblick sind keine Plätze frei.']",der Augenblick,Augenblick
-aus,"['Frau Müller geht jeden Morgen um 8 Uhr aus dem Haus.', 'Frau Özgen kommt aus der Türkei.', 'Die Möbel sind noch aus der Zeit um 1900. 4. Ich trage nur Pullover aus reiner Wolle. 5. Wir haben aus Liebe geheiratet. 6. Wann ist der Kurs aus? 7. Ich seh‘ nichts! Das Licht ist aus!']",aus,aus
+aus,"['Frau Müller geht jeden Morgen um 8 Uhr aus dem Haus.', 'Frau Özgen kommt aus der Türkei.', 'Die Möbel sind noch aus der Zeit um 1900!', 'Ich trage nur Pullover aus reiner Wolle.', 'Wir haben aus Liebe geheiratet.', 'Wann ist der Kurs aus?', 'Ich seh‘ nichts! Das Licht ist aus!']",aus,aus
 "die Ausbildung, -en","['Ich habe meine Ausbildung abgeschlossen.', 'Mit deiner guten Ausbildung findest du sicher eine Arbeit.']",die Ausbildung,Ausbildung
 ausgebildet,['Für diesen Beruf müssen Sie gut ausgebildet sein.'],ausgebildet,ausgebildet
 "ausdrucken, druckt aus, druckte aus, hat ausgedruckt",['Kann ich das auf deinem Drucker ausdrucken?'],ausdrucken,ausdrucken
