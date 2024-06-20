@@ -2760,7 +2760,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aus",
         "word_bg": [
             "от"
@@ -2797,24 +2797,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ausbildung, -en",
         "word_bg": [
-            "Образование"
+            "образование"
         ],
         "examples": [
             {
                 "example_de": "Ich habe meine Ausbildung abgeschlossen.",
-                "example_bg": "Завърших обучението си."
+                "example_bg": "Завърших образованието си."
             },
             {
                 "example_de": "Mit deiner guten Ausbildung findest du sicher eine Arbeit.",
-                "example_bg": "С добрата си подготовка със сигурност ще си намерите работа."
+                "example_bg": "С доброто ти образование със сигурност ще си намериш работа."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausgebildet",
         "word_bg": [
             "обучен"
@@ -2827,23 +2827,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausdrucken, druckt aus, druckte aus, hat ausgedruckt",
         "word_bg": [
-            "отпечатайте"
+            "разпечатвам"
         ],
         "examples": [
             {
                 "example_de": "Kann ich das auf deinem Drucker ausdrucken?",
-                "example_bg": "Мога ли да го разпечатам на вашия принтер?"
+                "example_bg": "Мога ли да го разпечатам на твоя принтер?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Ausdruck, ¨-e",
         "word_bg": [
-            "Изразяване"
+            "израз"
         ],
         "examples": [
             {
@@ -2853,36 +2853,36 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Ausdruck, -e",
         "word_bg": [
-            "Изразяване"
+            "разпечатка"
         ],
         "examples": [
             {
                 "example_de": "Machen Sie doch bitte einen Ausdruck von der E-Mail.",
-                "example_bg": "Моля, разпечатайте имейла."
+                "example_bg": "Моля, направете разпечатка на имейла."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "auseinander",
         "word_bg": [
-            "отделно"
+            "далече един от друг"
         ],
         "examples": [
             {
                 "example_de": "Wir wohnen nicht weit auseinander.",
-                "example_bg": "Не живеем далеч един от друг."
+                "example_bg": "Не живеем далече един от друг."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ausfahrt, -en",
         "word_bg": [
-            "Изход"
+            "изход"
         ],
         "examples": [
             {
@@ -2896,23 +2896,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausfallen, fällt aus, fiel aus, ist ausgefallen",
         "word_bg": [
-            "не успява"
+            "отпадам"
         ],
         "examples": [
             {
                 "example_de": "Nächste Woche fällt der Kurs aus.",
-                "example_bg": "Курсът се отменя през следващата седмица."
+                "example_bg": "Курсът през следващата седмица отпада."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Ausflug, ¨-e",
         "word_bg": [
-            "Екскурзия"
+            "екскурзия"
         ],
         "examples": [
             {
@@ -2922,10 +2922,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausfüllen, füllt aus, füllte aus, hat ausgefüllt",
         "word_bg": [
-            "попълнете"
+            "попълвам"
         ],
         "examples": [
             {
@@ -2935,10 +2935,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ausgabe, -n",
         "word_bg": [
-            "Издание"
+            "разходи",
+            "раздаване",
+            "издание (книга, списание)"
         ],
         "examples": [
             {
@@ -2956,10 +2958,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Ausgang, ¨-e",
         "word_bg": [
-            "Изход"
+            "изход"
         ],
         "examples": [
             {
@@ -2969,10 +2971,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausgeben, gibt aus, gab aus, hat ausgegeben",
         "word_bg": [
-            "изразходвайте"
+            "харча",
+            "изразходвам"
         ],
         "examples": [
             {
@@ -2982,10 +2985,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausgehen, geht aus, ging aus, ist ausgegangen",
         "word_bg": [
-            "да излезете"
+            "угасвам",
+            "излизам",
+            "завършвам"
         ],
         "examples": [
             {
@@ -3003,7 +3008,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausgezeichnet",
         "word_bg": [
             "отличен"
@@ -3016,23 +3021,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Aushilfe, -n",
         "word_bg": [
-            "Временна помощ"
+            "временна работа"
         ],
         "examples": [
             {
                 "example_de": "Wir suchen eine freundliche Aushilfe für unser Geschäft.",
-                "example_bg": "Търсим приятелски настроен асистент за нашия магазин."
+                "example_bg": "Търсим приятелски настроен временен асистент за нашия бизнес."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Auskunft, ¨-e",
         "word_bg": [
-            "Информация"
+            "информация",
+            "информационна служба"
         ],
         "examples": [
             {
@@ -3046,10 +3052,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Ausland",
         "word_bg": [
-            "В чужбина"
+            "чужбина"
         ],
         "examples": [
             {
@@ -3059,23 +3065,25 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Ausländer, die Ausländerin, -nen ausländisch",
         "word_bg": [
-            "Чужденци"
+            "чужденец, чужденка"
         ],
         "examples": [
             {
                 "example_de": "Viele Ausländer und Ausländerinnen lernen in der Volkshochschule Deutsch. Die ausländischen Studenten müssen zuerst einen Deutschkurs besuchen.",
-                "example_bg": "Много чужденци изучават немски език в центъра за обучение на възрастни. Чуждестранните студенти трябва първо да посещават курс по немски език."
+                "example_bg": "Много чужденци учат немски в центрове за обучение на възрастни. Чуждестранните студенти трябва първо да посещават курс по немски език."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausmachen, macht aus, machte aus, hat ausgemacht",
         "word_bg": [
-            "да се целувате"
+            "затруднявам",
+            "изгасявам (светлина)",
+            "уговарям"
         ],
         "examples": [
             {
@@ -3084,7 +3092,7 @@
             },
             {
                 "example_de": "Machen Sie bitte das Licht aus!",
-                "example_bg": "Моля, изключете светлината!"
+                "example_bg": "Моля, изгасете светлината!"
             },
             {
                 "example_de": "Wir hatten doch ausgemacht, dass du die Getränke besorgst.",
@@ -3097,10 +3105,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ausnahme, -n",
         "word_bg": [
-            "Изключение"
+            "изключение"
         ],
         "examples": [
             {
@@ -3110,10 +3118,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausreichen, reicht aus, reichte aus, hat ausgereicht",
         "word_bg": [
-            "достатъчно"
+            "стигам",
+            "достатъчен съм"
         ],
         "examples": [
             {
@@ -3127,10 +3136,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausreichend",
         "word_bg": [
-            "достатъчно"
+            "достатъчен"
         ],
         "examples": [
             {
@@ -3140,23 +3149,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausrichten, richtet aus, richtete aus, hat ausgerichtet",
         "word_bg": [
-            "подравняване"
+            "съобщавам",
+            "предавам"
         ],
         "examples": [
             {
                 "example_de": "Mein Mann ist nicht da. Soll ich ihm etwas ausrichten?",
-                "example_bg": "Съпругът ми не е тук. Трябва ли да му оставя съобщение?"
+                "example_bg": "Съпругът ми не е тук. Трябва ли да му предам нещо?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "(sich) ausruhen, ruht aus, ruhte aus, hat ausgeruht",
         "word_bg": [
-            "почивка"
+            "почивам (си)"
         ],
         "examples": [
             {
@@ -3165,15 +3175,15 @@
             },
             {
                 "example_de": "Bist du gut ausgeruht?",
-                "example_bg": "Отпочинали ли сте добре?"
+                "example_bg": "Отпочинал ли си добре?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausschließen, schließt aus, schloss aus, hat ausgeschlossen",
         "word_bg": [
-            "изключване на"
+            "изключвам"
         ],
         "examples": [
             {
@@ -3187,10 +3197,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausschließlich",
         "word_bg": [
-            "изключително"
+            "само"
         ],
         "examples": [
             {
@@ -3200,19 +3210,19 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aussehen, sieht aus, sah aus, hat ausgesehen",
         "word_bg": [
-            "погледнете"
+            "изглеждам"
         ],
         "examples": [
             {
                 "example_de": "Sie sehen wieder besser aus. Sind Sie wieder gesund?",
-                "example_bg": "Те отново изглеждат по-добре. Здрави ли сте отново?"
+                "example_bg": "Изглеждате по-добре. Здрави ли сте отново?"
             },
             {
                 "example_de": "Er sieht genauso aus wie sein Vater.",
-                "example_bg": "Прилича точно на баща си."
+                "example_bg": "Той прилича точно на баща си."
             },
             {
                 "example_de": "Es sieht so aus, als ob es bald regnen würde.",
@@ -3221,10 +3231,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "außen",
         "word_bg": [
-            "извън"
+            "вън"
         ],
         "examples": [
             {
@@ -3238,7 +3248,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "außerhalb",
         "word_bg": [
             "извън"
@@ -3251,7 +3261,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "äußerlich",
         "word_bg": [
             "външен"
@@ -3264,9 +3274,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "außer",
         "word_bg": [
+            "освен",
+            "извън",
             "с изключение на"
         ],
         "examples": [
@@ -3285,27 +3297,28 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "außerdem",
         "word_bg": [
-            "също така"
+            "освен това"
         ],
         "examples": [
             {
                 "example_de": "Möchten Sie außerdem noch etwas?",
-                "example_bg": "Има ли нещо друго, което бихте искали?"
+                "example_bg": "Освен това има ли нещо друго, което бихте искали?"
             },
             {
                 "example_de": "Der Film war langweilig, und außerdem haben die Schauspieler schlecht gespielt.",
-                "example_bg": "Филмът беше скучен, а актьорите играеха зле."
+                "example_bg": "Филмът беше скучен, пък и актьорите играеха зле."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Aussicht, -en",
         "word_bg": [
-            "Вижте"
+            "гледка",
+            "перспектива"
         ],
         "examples": [
             {
@@ -3319,10 +3332,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "aussprechen, spricht aus, sprach aus, hat ausgesprochen",
         "word_bg": [
-            "произнасяне на"
+            "произнасям"
         ],
         "examples": [
             {
@@ -3332,10 +3345,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Aussprache, -n",
         "word_bg": [
-            "Произношение"
+            "произношение"
         ],
         "examples": [
             {
@@ -3345,10 +3358,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausstellen, stellt aus, stellte aus, hat ausgestellt",
         "word_bg": [
-            "експонат"
+            "излагам",
+            "издавам"
         ],
         "examples": [
             {
@@ -3362,10 +3376,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ausstellung, -en",
         "word_bg": [
-            "Изложба"
+            "изложба",
+            "издаване"
         ],
         "examples": [
             {
@@ -3379,23 +3394,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "(sich etwas) aussuchen, sucht aus, suchte aus, hat ausgesucht",
         "word_bg": [
-            "изберете"
+            "избирам",
+            "подбирам"
         ],
         "examples": [
             {
                 "example_de": "Such dir etwas Schönes aus! Ich lade dich ein.",
-                "example_bg": "Изберете нещо хубаво! Каня ви."
+                "example_bg": "Избери си нещо хубаво! Каня те."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "auswählen, wählt aus, wählte aus, hat ausgewählt",
         "word_bg": [
-            "изберете"
+            "избирам"
         ],
         "examples": [
             {
@@ -3405,10 +3421,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Auswahl, -en",
         "word_bg": [
-            "Избор"
+            "избор"
         ],
         "examples": [
             {
@@ -3422,10 +3438,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Ausweis, -e",
         "word_bg": [
-            "Лична карта"
+            "лична карта"
         ],
         "examples": [
             {
