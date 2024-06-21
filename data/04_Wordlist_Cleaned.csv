@@ -235,7 +235,7 @@ automatisch,1. Die Tür schließt automatisch. 2. Das Zeugnis bekommen Sie autom
 "die Bahn, -en",Ich komme mit der Bahn.
 "die S-Bahn, -en",Die S-Bahn ist schneller als die Straßenbahn.
 "die Straßenbahn, -en",Nehmen Sie die Straßenbahn Nr. 16.
-"die U-Bahn, -en",Die letzte U-Bahn geht um 23.15 Uhr.
+"die U-Bahn, -en",1. Die letzte U-Bahn geht um 23.15 Uhr. 2. Ich fahre mit der U-Bahn.
 "der Bahnhof, ¨-e",Ich bringe Sie zum Bahnhof.
 "der Bahnsteig, -e (D, A) → CH: Perron",Auf Hauptbahnhöfen gibt es meist viele Bahnsteige.
 bald,"1. Besuchen Sie uns doch bald mal. 2. Geben Sie mir bitte so bald wie möglich Bescheid. 3. Auf Wiedersehen, bis bald!"
@@ -301,7 +301,7 @@ beinahe,Ich habe heute beinahe den Bus verpasst.
 bekannt,1. Ein Onkel von mir ist ein bekannter Politiker. 2. Dieses Lied ist sehr bekannt.
 "der Bekannte, -n die Bekannte, -n",In Hannover wohnen Bekannte von mir.
 "bekannt geben, gibt bekannt, gab bekannt, hat bekannt gegeben",Den Prüfungsort geben wir Ihnen noch rechtzeitig bekannt.
-"bekommen, bekommt, bekam, hat bekommen",1. Haben Sie meinen Brief bekommen? 2. Ich bekomme jeden Tag eine Spritze. 3. Was bekommen Sie? – 5 kg Kartoffeln. 4. Wir haben Besuch bekommen. 5. Laut Wetterbericht bekommen wir 6. Plötzlich bekam ich starke
+"bekommen, bekommt, bekam, hat bekommen",1. Haben Sie meinen Brief bekommen? 2. Ich bekomme jeden Tag eine Spritze. 3. Was bekommen Sie? – 5 kg Kartoffeln. 4. Wir haben Besuch bekommen. 5. Laut Wetterbericht bekommen wir Regen. 6. Plötzlich bekam ich starke Kopfschmerzen.
 "der Beleg, -e",Brauchen Sie einen Beleg?
 "beleidigen, beleidigt, beleidigte, hat beleidigt",1. Ich wollte Sie nicht beleidigen. 2. Sei doch nicht immer gleich beleidigt.
 beliebt,Dieses Spiel ist bei Jugendlichen sehr beliebt.
@@ -318,7 +318,7 @@ bequem,1. Meine Kinder ziehen am liebsten bequeme Sachen an. 2. Im Supermarkt ei
 "der Bereich, -e",1. In welchem Bereich möchten Sie arbeiten? 2. Umfahren Sie den Baustellenbereich.
 bereit,"1. Ich bin jederzeit bereit, dir zu helfen. 2. Das Paket liegt auf der Post für Sie bereit."
 bereits,Bitte melde dich bei Frau Kaiser. Sie hat bereits dreimal angerufen.
-"der Berg, -e",1. Die Zugspitze ist der höchste Berg in Deutschland. 2. Wir fahren jeden Sonntag in die Berge. 3. Auf dem Berg haben wir ein Picknick
+"der Berg, -e",1. Die Zugspitze ist der höchste Berg in Deutschland. 2. Wir fahren jeden Sonntag in die Berge. 3. Auf dem Berg haben wir ein Picknick gemacht.
 "berichten, berichtet, berichtete, hat berichtet",Alle Zeitungen haben über den Unfall berichtet.
 "der Bericht, -e",Ich habe gestern einen interessanten Bericht gelesen.
 "der Beruf, -e",Was sind Sie von Beruf?
@@ -2417,7 +2417,6 @@ trotzdem,Es war ziemlich kalt. Trotzdem bin ich schwimmen gegangen.
 "die Tüte, -n",Brauchen Sie eine Tüte für den Salat?
 "der Typ, -en",1. Mein Nachbar ist ein netter Typ. 2. Was für ein Typ bist du? Was machst du gerne? 3. Kennen Sie sich mit den verschiedenen Typen aus? Auch mit meinem Auto?
 typisch,"1. Im Hotel gab es typisch deutsches Essen. 2. Er kommt wieder zu spät, das ist typisch. 3. Diese Musik ist typisch für dieses Land."
-"die U-Bahn, -en",Ich fahre mit der U-Bahn.
 üben,Ich lerne gerade Gitarre spielen. Ich übe jeden Tag zwei Stunden.
 "die Übung, -en",1. Diese Übung war sehr schwer. 2. Ich fahre nicht oft Auto. Mir fehlt die Übung.
 über,"1. Die Müllers wohnen direkt über uns. 2. Pass bitte auf, wenn du über die Straße gehst. 3. Fahren Sie über Stuttgart oder über Würzburg? 4. Übers Wochenende fahren wir in die Berge. 5. Kinder über zehn Jahre müssen voll bezahlen. 6. Ich suche ein Buch über die deutsche Küche."

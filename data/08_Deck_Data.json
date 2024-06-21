@@ -3451,10 +3451,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ausziehen, zieht aus, zog aus, hat/ist ausgezogen",
         "word_bg": [
-            "да се изнесете"
+            "събличам (дреха)",
+            "изнасям се (от жилище)"
         ],
         "examples": [
             {
@@ -3468,10 +3469,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Auto, -s",
         "word_bg": [
-            "Автомобил"
+            "кола/автомобил"
         ],
         "examples": [
             {
@@ -3481,10 +3482,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Autobahn, -en",
         "word_bg": [
-            "Автомагистрала"
+            "(авто)магистрала"
         ],
         "examples": [
             {
@@ -3494,10 +3495,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Automat, -en",
         "word_bg": [
-            "Автоматична машина"
+            "автомат"
         ],
         "examples": [
             {
@@ -3511,7 +3512,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "automatisch",
         "word_bg": [
             "автоматично"
@@ -3528,23 +3529,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Autor, -en die Autorin, -nen",
         "word_bg": [
-            "Автор"
+            "автор, авторка"
         ],
         "examples": [
             {
                 "example_de": "Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.",
-                "example_bg": "Този автор вече е написал две книги тази година."
+                "example_bg": "Тази авторка вече е написала две книги тази година."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "backen, bäckt/backt, backte, hat gebacken",
         "word_bg": [
-            "печене"
+            "пека"
         ],
         "examples": [
             {
@@ -3554,10 +3555,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bäckerei, -en",
         "word_bg": [
-            "Пекарна"
+            "пекарна"
         ],
         "examples": [
             {
@@ -3567,10 +3568,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "baden, badet, badete, hat gebadet",
         "word_bg": [
-            "да се къпете"
+            "къпя (се)"
         ],
         "examples": [
             {
@@ -3584,27 +3585,28 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Bad, ¨-er",
         "word_bg": [
-            "Баня"
+            "баня",
+            "вана за къпане"
         ],
         "examples": [
             {
-                "example_de": "Nach einem warmen Bad fühlt man sich gleich viel besser.",
-                "example_bg": "След топла вана веднага се чувствате много по-добре."
-            },
-            {
                 "example_de": "Ich möchte ein Zimmer mit Bad.",
                 "example_bg": "Искам стая с баня."
+            },
+            {
+                "example_de": "Nach einem warmen Bad fühlt man sich gleich viel besser.",
+                "example_bg": "След топла вана веднага се чувствате много по-добре."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Badewanne, -n",
         "word_bg": [
-            "Вана"
+            "вана за къпане"
         ],
         "examples": [
             {
@@ -3614,10 +3616,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bahn, -en",
         "word_bg": [
-            "Железопътна линия"
+            "железница"
         ],
         "examples": [
             {
@@ -3627,23 +3629,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die S-Bahn, -en",
         "word_bg": [
-            "S-Bahn"
+            "градска железница"
         ],
         "examples": [
             {
                 "example_de": "Die S-Bahn ist schneller als die Straßenbahn.",
-                "example_bg": "S-Bahn е по-бърз от трамвая."
+                "example_bg": "Градската железница е по-бърза от трамвая."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Straßenbahn, -en",
         "word_bg": [
-            "Трамвай"
+            "трамвай"
         ],
         "examples": [
             {
@@ -3661,15 +3663,19 @@
         "examples": [
             {
                 "example_de": "Die letzte U-Bahn geht um 23.15 Uhr.",
-                "example_bg": "Последният влак на метрото тръгва в 23:15 ч."
+                "example_bg": "Последният влак на метрото тръгва в 23.15 ч."
+            },
+            {
+                "example_de": "Ich fahre mit der U-Bahn.",
+                "example_bg": "Аз пътувам с метрото."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bahnhof, ¨-e",
         "word_bg": [
-            "Железопътна гара"
+            "железопътна гара"
         ],
         "examples": [
             {
@@ -3679,20 +3685,20 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bahnsteig, -e (D, A) → CH: Perron",
         "word_bg": [
-            "Платформа"
+            "перон"
         ],
         "examples": [
             {
                 "example_de": "Auf Hauptbahnhöfen gibt es meist viele Bahnsteige.",
-                "example_bg": "На основните гари обикновено има много перони."
+                "example_bg": "На главните гари обикновено има много перони."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bald",
         "word_bg": [
             "скоро"
@@ -3713,10 +3719,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Balkon, -e",
         "word_bg": [
-            "Балкон"
+            "балкон"
         ],
         "examples": [
             {
@@ -3726,10 +3732,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Ball, ¨-e",
         "word_bg": [
-            "Топка"
+            "топка"
         ],
         "examples": [
             {
@@ -3739,10 +3745,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Ballett, -e",
         "word_bg": [
-            "Балет"
+            "балет"
         ],
         "examples": [
             {
@@ -3752,10 +3758,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Banane, -n",
         "word_bg": [
-            "Банан"
+            "банан"
         ],
         "examples": [
             {
@@ -3765,10 +3771,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bank, ¨-e",
         "word_bg": [
-            "Банка"
+            "пейка"
         ],
         "examples": [
             {
@@ -3778,10 +3784,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bank, -en",
         "word_bg": [
-            "Банка"
+            "банка"
         ],
         "examples": [
             {
@@ -3791,49 +3797,49 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bankomat, -en (A, CH) → D: Geldautomat",
         "word_bg": [
-            "ATM"
+            "банкомат"
         ],
         "examples": [
             {
                 "example_de": "Ich hole noch schnell Geld vom Bankomaten.",
-                "example_bg": "Бързо взимам пари от банкомата."
+                "example_bg": "Бързо ще взема пари от банкомата."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bankleitzahl, -en",
         "word_bg": [
-            "Банков код за сортиране"
+            "банков код"
         ],
         "examples": [
             {
                 "example_de": "Bitte geben Sie Ihre Bankleitzahl an.",
-                "example_bg": "Моля, въведете кода за сортиране на банката си."
+                "example_bg": "Моля, въведете банковия ви код."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bankomat-Karte, -n (A) → ec-Karte/EC-Karte",
         "word_bg": [
-            "Карта за банкомат"
+            "карта за банкомат"
         ],
         "examples": [
             {
                 "example_de": "Sie können auch mit Bankomat-Karte zahlen.",
-                "example_bg": "Можете да платите и с дебитна карта."
+                "example_bg": "Можете да платите и с карта."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bar, -s",
         "word_bg": [
-            "Бар"
+            "бар"
         ],
         "examples": [
             {
@@ -3847,10 +3853,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bar",
         "word_bg": [
-            "пари в брой"
+            "в брой"
         ],
         "examples": [
             {
@@ -3860,10 +3866,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Bargeld, -er",
         "word_bg": [
-            "Парични средства"
+            "пари в брой",
+            "кеш"
         ],
         "examples": [
             {
@@ -3873,10 +3880,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bart, ¨-e",
         "word_bg": [
-            "Брада"
+            "брада"
         ],
         "examples": [
             {
@@ -3886,15 +3893,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Basketball, ¨-e",
         "word_bg": [
-            "Баскетбол"
+            "баскетбол"
         ],
         "examples": [
             {
                 "example_de": "Sie spielt sehr gern Basketball.",
-                "example_bg": "Обича да играе баскетбол."
+                "example_bg": "Тя обича да играе баскетбол."
             },
             {
                 "example_de": "Er hat zum Geburtstag einen neuen Basketball bekommen.",
@@ -3903,10 +3910,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "basteln, bastelt, bastelte, hat gebastelt",
         "word_bg": [
-            "tinker"
+            "изработвам",
+            "занимавам се",
+            "майсторя"
         ],
         "examples": [
             {
@@ -3920,36 +3929,36 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Batterie, -n",
         "word_bg": [
-            "Батерия"
+            "батерия"
         ],
         "examples": [
             {
                 "example_de": "Bringst du bitte Batterien für die Kamera mit?",
-                "example_bg": "Може ли да донесете батерии за фотоапарата?"
+                "example_bg": "Може ли да донесеш батерии за фотоапарата?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bauch, ¨-e",
         "word_bg": [
-            "Корем"
+            "корем"
         ],
         "examples": [
             {
                 "example_de": "Mir tut der Bauch weh.",
-                "example_bg": "Стомахът ме боли."
+                "example_bg": "Коремът ме боли."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bauen, baut, baute, hat gebaut",
         "word_bg": [
-            "изграждане на"
+            "строя"
         ],
         "examples": [
             {
@@ -3959,40 +3968,42 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bau, Bauten",
         "word_bg": [
-            "Сграда"
+            "сграда",
+            "строителство"
         ],
         "examples": [
             {
-                "example_de": "Ich wohne in einer Neubauwohnung.",
-                "example_bg": "Живея в апартамент ново строителство."
-            },
-            {
                 "example_de": "Unser Haus ist ein Altbau.",
                 "example_bg": "Къщата ни е стара сграда."
+            },
+            {
+                "example_de": "Ich wohne in einer Neubauwohnung.",
+                "example_bg": "Живея в апартамент ново строителство."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Baustelle, -n",
         "word_bg": [
-            "Строителна площадка"
+            "строеж",
+            "строителен обект"
         ],
         "examples": [
             {
                 "example_de": "Wir müssen die Baustelle umfahren.",
-                "example_bg": "Трябва да заобиколим пътните работи."
+                "example_bg": "Трябва да заобиколим строежа."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bauer, -n",
         "word_bg": [
-            "Фермер"
+            "фермер"
         ],
         "examples": [
             {
@@ -4002,10 +4013,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Baum, ¨-e",
         "word_bg": [
-            "Дърво"
+            "дърво"
         ],
         "examples": [
             {
@@ -4015,23 +4026,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "beachten, beachtet, beachtete, hat beachtet",
         "word_bg": [
-            "бележка"
+            "обръщам внимание",
+            "забелязвам"
         ],
         "examples": [
             {
                 "example_de": "Bitte beachten Sie die Ansagen am Bahnsteig.",
-                "example_bg": "Моля, слушайте съобщенията на платформата."
+                "example_bg": "Моля, обърнете внимание на съобщенията на платформата."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Beamte, -n die Beamtin, -nen",
         "word_bg": [
-            "Държавни служители"
+            "държавен служител, държавна служителка"
         ],
         "examples": [
             {
@@ -4041,23 +4053,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "beantragen, beantragt, beantragte, hat beantragt",
         "word_bg": [
-            "кандидатствайте за"
+            "подавам заявление"
         ],
         "examples": [
             {
                 "example_de": "Hast du schon einen neuen Pass beantragt?",
-                "example_bg": "Вече сте подали заявление за нов паспорт?"
+                "example_bg": "Подал ли си заявление вече за нов паспорт?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "beantworten, beantwortet, beantwortete, hat beantwortet",
         "word_bg": [
-            "отговор"
+            "отговарям"
         ],
         "examples": [
             {
@@ -4067,10 +4079,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich bedanken, bedankt, bedankte, hat bedankt",
         "word_bg": [
-            "благодаря ви"
+            "благодаря"
         ],
         "examples": [
             {
@@ -4080,23 +4092,25 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bedarf",
         "word_bg": [
-            "Търсене"
+            "нужда",
+            "потребност"
         ],
         "examples": [
             {
                 "example_de": "An diesem Produkt besteht großer Bedarf.",
-                "example_bg": "Този продукт се радва на голямо търсене."
+                "example_bg": "Има голяма нужда от този продукт."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bedeuten, bedeutet, bedeutete, hat bedeutet",
         "word_bg": [
-            "средно"
+            "знача",
+            "означавам"
         ],
         "examples": [
             {
@@ -4110,10 +4124,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bedeutung, -en",
         "word_bg": [
-            "Значение"
+            "значение"
         ],
         "examples": [
             {
@@ -4131,33 +4145,33 @@
         "examples": [
             {
                 "example_de": "Werden Sie schon bedient?",
-                "example_bg": "Кафемашината е много лесна за обслужване."
+                "example_bg": "Обслужва ли ви вече някой?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bedienungsanleitung, -en",
         "word_bg": [
-            "Инструкции за експлоатация"
+            "инструкции за експлоатация"
         ],
         "examples": [
             {
                 "example_de": "Die Bedienungsanleitung verstehe ich nicht.",
-                "example_bg": "Не разбирам инструкциите за работа."
+                "example_bg": "Не разбирам инструкциите за експлоатация."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bedingung, -en",
         "word_bg": [
-            "Състояние"
+            "условие"
         ],
         "examples": [
             {
                 "example_de": "Wenn Sie unsere Bedingungen akzeptieren, können wir einen Vertrag machen.",
-                "example_bg": "Ако приемете нашите правила и условия, можем да сключим договор."
+                "example_bg": "Ако приемете нашите условия, можем да сключим договор."
             },
             {
                 "example_de": "Wir haben in unserem Betrieb sehr gute Arbeitsbedingungen.",
@@ -4166,10 +4180,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich beeilen, beeilt sich, beeilte sich, hat sich beeilt",
         "word_bg": [
-            "побързайте"
+            "бързам"
         ],
         "examples": [
             {
@@ -4179,10 +4193,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "beenden, beendet, beendete, hat beendet",
         "word_bg": [
-            "завършване"
+            "завършвам",
+            "приключвам",
+            "довършвам"
         ],
         "examples": [
             {
@@ -4192,20 +4208,20 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich befinden, befindet sich, befand sich, hat sich befunden",
         "word_bg": [
-            "са разположени"
+            "намирам се"
         ],
         "examples": [
             {
                 "example_de": "Das Bord-Bistro befindet sich in der Mitte des Zuges.",
-                "example_bg": "Бистрото във влака се намира в центъра на влака."
+                "example_bg": "Бистрото на борда се намира в средата на влака."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "befreit",
         "word_bg": [
             "освободен"
@@ -4218,10 +4234,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "befriedigend",
         "word_bg": [
-            "задоволително"
+            "задоволителен"
         ],
         "examples": [
             {
@@ -4231,10 +4247,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "begegnen, begegnet, begegnete, ist begegnet",
         "word_bg": [
-            "среща"
+            "срещам"
         ],
         "examples": [
             {
@@ -4244,9 +4260,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "begeistert",
         "word_bg": [
+            "развълнуван",
             "ентусиазиран"
         ],
         "examples": [
@@ -4257,10 +4274,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "beginnen, beginnt, begann, hat begonnen",
         "word_bg": [
-            "начало"
+            "започвам"
         ],
         "examples": [
             {
@@ -4270,10 +4287,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Beginn",
         "word_bg": [
-            "Начало"
+            "начало"
         ],
         "examples": [
             {
@@ -4283,10 +4300,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "begleiten, begleitet, begleitete, hat begleitet",
         "word_bg": [
-            "придружава"
+            "придружавам"
         ],
         "examples": [
             {
@@ -4296,7 +4313,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "begrenzt",
         "word_bg": [
             "ограничен"
@@ -4323,10 +4340,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Begründung, -en",
         "word_bg": [
-            "Причина"
+            "основание"
         ],
         "examples": [
             {
@@ -4336,10 +4353,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "begrüßen, begrüßt, begrüßte, hat begrüßt",
         "word_bg": [
-            "добре дошли"
+            "приветствам"
         ],
         "examples": [
             {
@@ -4349,23 +4366,25 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "behalten, behält, behielt, hat behalten",
         "word_bg": [
-            "запазете"
+            "задържам",
+            "запазвам"
         ],
         "examples": [
             {
                 "example_de": "Darf ich die Zeitschrift behalten?",
-                "example_bg": "Мога ли да запазя списанието?"
+                "example_bg": "Мога ли да задържа списанието?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "behandeln, behandelt, behandelte, hat behandelt",
         "word_bg": [
-            "лечение"
+            "лекувам",
+            "третирам"
         ],
         "examples": [
             {
@@ -4374,15 +4393,15 @@
             },
             {
                 "example_de": "So lasse ich mich von Ihnen nicht länger behandeln.",
-                "example_bg": "Няма да ти позволя повече да се отнасяш така с мен."
+                "example_bg": "Няма да ти позволя повече да ме третираш така."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "behaupten, behauptet, behauptete, hat behauptet",
         "word_bg": [
-            "претенция"
+            "твърдя"
         ],
         "examples": [
             {
@@ -4396,10 +4415,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "behindern, behindert, behinderte, hat behindert behindert",
         "word_bg": [
-            "възпрепятства"
+            "преча на",
+            "възпрепятствам"
         ],
         "examples": [
             {
@@ -4413,10 +4433,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Behörde, -n",
         "word_bg": [
-            "Орган"
+            "държавен орган"
         ],
         "examples": [
             {
@@ -4426,10 +4446,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bei",
         "word_bg": [
-            "с"
+            "при"
         ],
         "examples": [
             {
@@ -4455,10 +4475,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "beid-",
         "word_bg": [
-            "и двете -"
+            "и двете-"
         ],
         "examples": [
             {
@@ -4472,10 +4492,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Bein, -e",
         "word_bg": [
-            "Крака"
+            "крак"
         ],
         "examples": [
             {
@@ -4485,7 +4505,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "beinahe",
         "word_bg": [
             "почти"
@@ -4493,15 +4513,15 @@
         "examples": [
             {
                 "example_de": "Ich habe heute beinahe den Bus verpasst.",
-                "example_bg": "Днес едва не изпуснах автобуса."
+                "example_bg": "Днес почти изпуснах автобуса."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Beispiel, -e",
         "word_bg": [
-            "Пример"
+            "пример"
         ],
         "examples": [
             {
@@ -4510,19 +4530,19 @@
             },
             {
                 "example_de": "Mein Freund hat viele Hobbys wie zum Beispiel Kochen, Tanzen, Fußballspielen.",
-                "example_bg": "Приятелят ми има много хобита, като готвене, танци и футбол."
+                "example_bg": "Приятелят ми има много хобита, като например готвене, танци и футбол."
             },
             {
                 "example_de": "Hier gibt’s so viele Sachen: beispielsweise Wurst, Obst, Brot …",
-                "example_bg": "Тук има толкова много неща: колбаси, плодове, хляб, например.."
+                "example_bg": "Тук има толкова много неща: например колбаси, плодове, хляб, например.."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "beißen, beißt, biss, hat gebissen",
         "word_bg": [
-            "ухапване"
+            "хапя"
         ],
         "examples": [
             {
@@ -4532,10 +4552,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Beitrag, ¨-e",
         "word_bg": [
-            "Принос"
+            "вноска",
+            "дял"
         ],
         "examples": [
             {
@@ -4549,10 +4570,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bekannt",
         "word_bg": [
-            "известен"
+            "известен",
+            "познат"
         ],
         "examples": [
             {
@@ -4566,23 +4588,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bekannte, -n die Bekannte, -n",
         "word_bg": [
-            "Известен"
+            "познат, позната"
         ],
         "examples": [
             {
                 "example_de": "In Hannover wohnen Bekannte von mir.",
-                "example_bg": "Мои приятели живеят в Хановер."
+                "example_bg": "Мои познати живеят в Хановер."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bekannt geben, gibt bekannt, gab bekannt, hat bekannt gegeben",
         "word_bg": [
-            "обяви"
+            "информирам"
         ],
         "examples": [
             {
@@ -4592,7 +4614,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bekommen, bekommt, bekam, hat bekommen",
         "word_bg": [
             "да получите"
@@ -4615,20 +4637,21 @@
                 "example_bg": "Имахме посетител."
             },
             {
-                "example_de": "Laut Wetterbericht bekommen wir",
-                "example_bg": "Според прогнозата за времето получаваме"
+                "example_de": "Laut Wetterbericht bekommen wir Regen.",
+                "example_bg": "Според прогнозата за времето ще вали дъжд."
             },
             {
-                "example_de": "Plötzlich bekam ich starke",
-                "example_bg": "Изведнъж станах силен"
+                "example_de": "Plötzlich bekam ich starke Kopfschmerzen.",
+                "example_bg": "Изведнъж получих силно главоболие."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Beleg, -e",
         "word_bg": [
-            "Разписка"
+            "касова бележка",
+            "разписка"
         ],
         "examples": [
             {
@@ -4638,10 +4661,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "beleidigen, beleidigt, beleidigte, hat beleidigt",
         "word_bg": [
-            "обида"
+            "обиждам"
         ],
         "examples": [
             {
@@ -4650,15 +4673,15 @@
             },
             {
                 "example_de": "Sei doch nicht immer gleich beleidigt.",
-                "example_bg": "Не се обиждайте винаги."
+                "example_bg": "Недей винаги да се обиждаш."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "beliebt",
         "word_bg": [
-            "любим"
+            "популярен"
         ],
         "examples": [
             {
@@ -4668,23 +4691,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bemerken, bemerkt, bemerkte, hat bemerkt",
         "word_bg": [
-            "известие"
+            "забелязвам",
+            "усещам"
         ],
         "examples": [
             {
                 "example_de": "Ich habe nicht bemerkt, dass das Fenster offen ist.",
-                "example_bg": "Не разбрах, че прозорецът е отворен."
+                "example_bg": "Не забелязах, че прозорецът е отворен."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich bemühen, bemüht, bemühte, hat bemüht",
         "word_bg": [
-            "усилие"
+            "старая се"
         ],
         "examples": [
             {
@@ -4693,28 +4717,28 @@
             },
             {
                 "example_de": "Ich werde mich um einen Termin bemühen.",
-                "example_bg": "Ще се постарая да ви уредя среща."
+                "example_bg": "Ще се постарая да уговоря среща."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "benötigen, benötigt, benötigte, hat benötigt",
         "word_bg": [
-            "нужда от"
+            "нуждая се от"
         ],
         "examples": [
             {
                 "example_de": "Sagen Sie Bescheid, wenn Sie noch etwas benötigen.",
-                "example_bg": "Уведомете ни, ако имате нужда от нещо друго."
+                "example_bg": "Уведомете ни, ако се нуждаете от нещо друго."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "benutzen, benutzt, benutzte, hat benutzt",
         "word_bg": [
-            "използване на"
+            "използвам"
         ],
         "examples": [
             {
@@ -4724,10 +4748,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Benzin, -e",
         "word_bg": [
-            "Петрол"
+            "бензин"
         ],
         "examples": [
             {
@@ -4737,20 +4761,21 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "beobachten, beobachtet, beobachtete, hat beobachtet",
         "word_bg": [
-            "наблюдавайте"
+            "наблюдавам",
+            "забелязвам"
         ],
         "examples": [
             {
                 "example_de": "Wer hat den Unfall beobachtet?",
-                "example_bg": "Кой е бил свидетел на произшествието?"
+                "example_bg": "Кой е забелязал произшествието?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bequem",
         "word_bg": [
             "удобен"
@@ -4771,10 +4796,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "beraten, berät, beriet, hat beraten",
         "word_bg": [
-            "съветва"
+            "съветвам"
         ],
         "examples": [
             {
@@ -4784,10 +4809,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Beratung, -en",
         "word_bg": [
-            "Консултации"
+            "консултация"
         ],
         "examples": [
             {
@@ -4797,10 +4822,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "berechnen, berechnet, berechnete, hat berechnet",
         "word_bg": [
-            "изчислете"
+            "изчислявам"
         ],
         "examples": [
             {
@@ -4813,11 +4838,16 @@
         "manually_verified": true,
         "word_de": "der Bereich, -e",
         "word_bg": [
-            "област"
+            "област",
+            "район"
         ],
         "examples": [
             {
                 "example_de": "In welchem Bereich möchten Sie arbeiten?",
+                "example_bg": "В коя област бихте искали да работите?"
+            },
+            {
+                "example_de": "Umfahren Sie den Baustellenbereich.",
                 "example_bg": "Обиколете района на строителната площадка."
             }
         ]
@@ -4856,7 +4886,7 @@
         "manually_verified": false,
         "word_de": "der Berg, -e",
         "word_bg": [
-            "Mountain"
+            "планина"
         ],
         "examples": [
             {
@@ -4868,8 +4898,8 @@
                 "example_bg": "Всяка неделя ходим в планината."
             },
             {
-                "example_de": "Auf dem Berg haben wir ein Picknick",
-                "example_bg": "Правим пикник в планината"
+                "example_de": "Auf dem Berg haben wir ein Picknick gemacht.",
+                "example_bg": "Направихме си пикник в планината."
             }
         ]
     },
@@ -37323,19 +37353,6 @@
             {
                 "example_de": "Diese Musik ist typisch für dieses Land.",
                 "example_bg": "Тази музика е типична за тази страна."
-            }
-        ]
-    },
-    {
-        "manually_verified": false,
-        "word_de": "die U-Bahn, -en",
-        "word_bg": [
-            "Underground"
-        ],
-        "examples": [
-            {
-                "example_de": "Ich fahre mit der U-Bahn.",
-                "example_bg": "Последният влак на метрото тръгва в 23:15 ч."
             }
         ]
     },

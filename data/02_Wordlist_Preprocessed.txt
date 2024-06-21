@@ -907,8 +907,9 @@ die Bahn, -en                     Ich komme mit der Bahn.
                                                                          
        die Straßenbahn, -en       Nehmen Sie die Straßenbahn Nr. 16.     
 
-            die U-Bahn, -en       Die letzte U-Bahn geht um 23.15 Uhr.   
-                                                                         
+            die U-Bahn, -en    1. Die letzte U-Bahn geht um 23.15 Uhr.   
+                               2. Ich fahre mit der U-Bahn.              
+
 der Bahnhof, ¨-e                  Ich bringe Sie zum Bahnhof.
                                                                          
 der Bahnsteig, -e (D, A) →        Auf Hauptbahnhöfen gibt es meist
@@ -1068,7 +1069,8 @@ hat behalten
 behandeln, behandelt,         1. Welcher Arzt hat Sie bis jetzt          
 behandelte,                      behandelt?                              
 hat behandelt                 2. So lasse ich mich von Ihnen nicht       
-                                 länger behandeln.
+                                 länger behandeln.                       
+                                                                         
 
 behaupten, behauptet,        1. Er behauptet, unsere Meinung sei nicht
 behauptete,                     wichtig.
@@ -1132,11 +1134,10 @@ bekommen, bekommt,           1. Haben Sie meinen Brief bekommen?
 bekam, hat bekommen          2. Ich bekomme jeden Tag eine Spritze.
                              3. Was bekommen Sie? – 5 kg Kartoffeln.
                              4. Wir haben Besuch bekommen.
+                             5. Laut Wetterbericht bekommen wir Regen.
+                             6. Plötzlich bekam ich starke Kopfschmerzen.
 
-                               5. Laut Wetterbericht bekommen wir           
-                                  Regen.                                    
-                               6. Plötzlich bekam ich starke
-                                  Kopfschmerzen.                            
+                                                                            
                                                                             
 der Beleg, -e                     Brauchen Sie einen Beleg?
                                                                             
@@ -1195,7 +1196,6 @@ bereits                           Bitte melde dich bei Frau Kaiser. Sie
 der Berg, -e                   1. Die Zugspitze ist der höchste Berg in     
                                   Deutschland.                              
                                2. Wir fahren jeden Sonntag in die Berge.
-
                                3. Auf dem Berg haben wir ein Picknick
                                   gemacht.
 
@@ -9094,7 +9094,7 @@ hat getrunken
                                   Trinkgeld gegeben.
                                                                             
 trocken                         1. Die Wäsche ist noch nicht trocken.
-                                2. Hoffentlich regnet es bald. Alles ist    
+                                2. Hoffentlich regnet es bald. Alles ist
                                    ganz trocken.
                                 3. Bitte einen trockenen Wein.              
                                                                             
@@ -9153,8 +9153,6 @@ der Typ, -en                  1. Mein Nachbar ist ein netter Typ.
                                  Land.
 
 U
-
-die U-Bahn, -en                  Ich fahre mit der U-Bahn.
 
 üben                             Ich lerne gerade Gitarre spielen. Ich
                                  übe jeden Tag zwei Stunden.

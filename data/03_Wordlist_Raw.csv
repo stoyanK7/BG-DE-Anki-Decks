@@ -1337,7 +1337,9 @@ Straßenbahn.
 ","Nehmen Sie die Straßenbahn Nr. 16.
 "
 "die U-Bahn, -en
-","Die letzte U-Bahn geht um 23.15 Uhr.
+
+","1. Die letzte U-Bahn geht um 23.15 Uhr.
+2. Ich fahre mit der U-Bahn.
 "
 "der Bahnhof, ¨-e
 ","Ich bringe Sie zum Bahnhof.
@@ -1673,8 +1675,8 @@ bekam, hat bekommen
 2. Ich bekomme jeden Tag eine Spritze.
 3. Was bekommen Sie? – 5 kg Kartoffeln.
 4. Wir haben Besuch bekommen.
-5. Laut Wetterbericht bekommen wir
-6. Plötzlich bekam ich starke
+5. Laut Wetterbericht bekommen wir Regen.
+6. Plötzlich bekam ich starke Kopfschmerzen.
 "
 "der Beleg, -e
 ","Brauchen Sie einen Beleg?
@@ -1765,6 +1767,7 @@ hat bereits dreimal angerufen.
 Deutschland.
 2. Wir fahren jeden Sonntag in die Berge.
 3. Auf dem Berg haben wir ein Picknick
+gemacht.
 "
 "berichten, berichtet,
 berichtete, hat berichtet
@@ -13369,9 +13372,6 @@ Essen.
 typisch.
 3. Diese Musik ist typisch für dieses
 Land.
-"
-"die U-Bahn, -en
-","Ich fahre mit der U-Bahn.
 "
 "üben
 ","Ich lerne gerade Gitarre spielen. Ich

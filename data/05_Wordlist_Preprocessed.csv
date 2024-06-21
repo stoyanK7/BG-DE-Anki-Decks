@@ -235,7 +235,7 @@ automatisch,"['Die Tür schließt automatisch.', 'Das Zeugnis bekommen Sie autom
 "die Bahn, -en",['Ich komme mit der Bahn.'],die Bahn,Bahn
 "die S-Bahn, -en",['Die S-Bahn ist schneller als die Straßenbahn.'],die S-Bahn,S-Bahn
 "die Straßenbahn, -en",['Nehmen Sie die Straßenbahn Nr. 16.'],die Straßenbahn,Straßenbahn
-"die U-Bahn, -en",['Die letzte U-Bahn geht um 23.15 Uhr.'],die U-Bahn,U-Bahn
+"die U-Bahn, -en","['Die letzte U-Bahn geht um 23.15 Uhr.', 'Ich fahre mit der U-Bahn.']",die U-Bahn,U-Bahn
 "der Bahnhof, ¨-e",['Ich bringe Sie zum Bahnhof.'],der Bahnhof,Bahnhof
 "der Bahnsteig, -e (D, A) → CH: Perron",['Auf Hauptbahnhöfen gibt es meist viele Bahnsteige.'],der Bahnsteig,Bahnsteig
 bald,"['Besuchen Sie uns doch bald mal.', 'Geben Sie mir bitte so bald wie möglich Bescheid.', 'Auf Wiedersehen, bis bald!']",bald,bald
@@ -301,7 +301,7 @@ beinahe,['Ich habe heute beinahe den Bus verpasst.'],beinahe,beinahe
 bekannt,"['Ein Onkel von mir ist ein bekannter Politiker.', 'Dieses Lied ist sehr bekannt.']",bekannt,bekannt
 "der Bekannte, -n die Bekannte, -n",['In Hannover wohnen Bekannte von mir.'],"der Bekannte, die Bekannte",Bekannte
 "bekannt geben, gibt bekannt, gab bekannt, hat bekannt gegeben",['Den Prüfungsort geben wir Ihnen noch rechtzeitig bekannt.'],bekannt geben,bekannt geben
-"bekommen, bekommt, bekam, hat bekommen","['Haben Sie meinen Brief bekommen?', 'Ich bekomme jeden Tag eine Spritze.', 'Was bekommen Sie? – 5 kg Kartoffeln.', 'Wir haben Besuch bekommen.', 'Laut Wetterbericht bekommen wir', 'Plötzlich bekam ich starke']",bekommen,bekommen
+"bekommen, bekommt, bekam, hat bekommen","['Haben Sie meinen Brief bekommen?', 'Ich bekomme jeden Tag eine Spritze.', 'Was bekommen Sie? – 5 kg Kartoffeln.', 'Wir haben Besuch bekommen.', 'Laut Wetterbericht bekommen wir Regen.', 'Plötzlich bekam ich starke Kopfschmerzen.']",bekommen,bekommen
 "der Beleg, -e",['Brauchen Sie einen Beleg?'],der Beleg,Beleg
 "beleidigen, beleidigt, beleidigte, hat beleidigt","['Ich wollte Sie nicht beleidigen.', 'Sei doch nicht immer gleich beleidigt.']",beleidigen,beleidigen
 beliebt,['Dieses Spiel ist bei Jugendlichen sehr beliebt.'],beliebt,beliebt
@@ -318,7 +318,7 @@ bequem,"['Meine Kinder ziehen am liebsten bequeme Sachen an.', 'Im Supermarkt ei
 "der Bereich, -e","['In welchem Bereich möchten Sie arbeiten?', 'Umfahren Sie den Baustellenbereich.']",der Bereich,Bereich
 bereit,"['Ich bin jederzeit bereit, dir zu helfen.', 'Das Paket liegt auf der Post für Sie bereit.']",bereit,bereit
 bereits,['Bitte melde dich bei Frau Kaiser. Sie hat bereits dreimal angerufen.'],bereits,bereits
-"der Berg, -e","['Die Zugspitze ist der höchste Berg in Deutschland.', 'Wir fahren jeden Sonntag in die Berge.', 'Auf dem Berg haben wir ein Picknick']",der Berg,Berg
+"der Berg, -e","['Die Zugspitze ist der höchste Berg in Deutschland.', 'Wir fahren jeden Sonntag in die Berge.', 'Auf dem Berg haben wir ein Picknick gemacht.']",der Berg,Berg
 "berichten, berichtet, berichtete, hat berichtet",['Alle Zeitungen haben über den Unfall berichtet.'],berichten,berichten
 "der Bericht, -e",['Ich habe gestern einen interessanten Bericht gelesen.'],der Bericht,Bericht
 "der Beruf, -e",['Was sind Sie von Beruf?'],der Beruf,Beruf
@@ -2417,7 +2417,6 @@ trotzdem,['Es war ziemlich kalt. Trotzdem bin ich schwimmen gegangen.'],trotzdem
 "die Tüte, -n",['Brauchen Sie eine Tüte für den Salat?'],die Tüte,Tüte
 "der Typ, -en","['Mein Nachbar ist ein netter Typ.', 'Was für ein Typ bist du? Was machst du gerne?', 'Kennen Sie sich mit den verschiedenen Typen aus? Auch mit meinem Auto?']",der Typ,Typ
 typisch,"['Im Hotel gab es typisch deutsches Essen.', 'Er kommt wieder zu spät, das ist typisch.', 'Diese Musik ist typisch für dieses Land.']",typisch,typisch
-"die U-Bahn, -en",['Ich fahre mit der U-Bahn.'],die U-Bahn,U-Bahn
 üben,['Ich lerne gerade Gitarre spielen. Ich übe jeden Tag zwei Stunden.'],üben,üben
 "die Übung, -en","['Diese Übung war sehr schwer.', 'Ich fahre nicht oft Auto. Mir fehlt die Übung.']",die Übung,Übung
 über,"['Die Müllers wohnen direkt über uns.', 'Pass bitte auf, wenn du über die Straße gehst.', 'Fahren Sie über Stuttgart oder über Würzburg?', 'Übers Wochenende fahren wir in die Berge.', 'Kinder über zehn Jahre müssen voll bezahlen.', 'Ich suche ein Buch über die deutsche Küche.']",über,über

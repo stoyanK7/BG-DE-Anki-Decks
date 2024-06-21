@@ -475,8 +475,9 @@ die Bahn, -en                     Ich komme mit der Bahn.                       
        die Straßenbahn, -en       Nehmen Sie die Straßenbahn Nr. 16.      hat gebaut
 
 
-            die U-Bahn, -en       Die letzte U-Bahn geht um 23.15 Uhr.                  der Bau, Bauten   1. Ich wohne in einer Neubauwohnung.
-                                                                                                          2. Unser Haus ist ein Altbau.
+            die U-Bahn, -en    1. Die letzte U-Bahn geht um 23.15 Uhr.                  der Bau, Bauten   1. Ich wohne in einer Neubauwohnung.
+                               2. Ich fahre mit der U-Bahn.                                               2. Unser Haus ist ein Altbau.
+
 der Bahnhof, ¨-e                  Ich bringe Sie zum Bahnhof.
                                                                                         die Baustelle, -n     Wir müssen die Baustelle umfahren.
 der Bahnsteig, -e (D, A) →        Auf Hauptbahnhöfen gibt es meist
@@ -576,12 +577,10 @@ hat behalten
 behandeln, behandelt,         1. Welcher Arzt hat Sie bis jetzt           bekam, hat bekommen          2. Ich bekomme jeden Tag eine Spritze.
 behandelte,                      behandelt?                                                            3. Was bekommen Sie? – 5 kg Kartoffeln.
 hat behandelt                 2. So lasse ich mich von Ihnen nicht                                     4. Wir haben Besuch bekommen.
-                                 länger behandeln.
+                                 länger behandeln.                                                     5. Laut Wetterbericht bekommen wir Regen.
+                                                                                                       6. Plötzlich bekam ich starke Kopfschmerzen.
 
-                               5. Laut Wetterbericht bekommen wir                                           3. Auf dem Berg haben wir ein Picknick
-                                  Regen.                                                                       gemacht.
-                               6. Plötzlich bekam ich starke
-                                  Kopfschmerzen.                             berichten, berichtet,             Alle Zeitungen haben über den Unfall
+                                                                             berichten, berichtet,             Alle Zeitungen haben über den Unfall
                                                                              berichtete, hat berichtet         berichtet.
 der Beleg, -e                     Brauchen Sie einen Beleg?
                                                                                           der Bericht, -e      Ich habe gestern einen interessanten
@@ -640,6 +639,8 @@ bereits                           Bitte melde dich bei Frau Kaiser. Sie
 der Berg, -e                   1. Die Zugspitze ist der höchste Berg in      beschwerte sich,
                                   Deutschland.                               hat sich beschwert
                                2. Wir fahren jeden Sonntag in die Berge.
+                               3. Auf dem Berg haben wir ein Picknick
+                                  gemacht.
 
 besetzen, besetzt,            1. Dieser Platz ist besetzt.                sich beteiligen, beteiligt       Wir wollen unserer Lehrerin ein
 besetzte, hat besetzt         2. Ich habe drei Plätze besetzt.            sich, beteiligte sich,           Geschenk kaufen. Wer möchte sich
@@ -4630,7 +4631,7 @@ hat getrunken
                                   Trinkgeld gegeben.
                                                                              U
 trocken                         1. Die Wäsche ist noch nicht trocken.
-                                2. Hoffentlich regnet es bald. Alles ist     die U-Bahn, -en                  Ich fahre mit der U-Bahn.
+                                2. Hoffentlich regnet es bald. Alles ist
                                    ganz trocken.
                                 3. Bitte einen trockenen Wein.               üben                             Ich lerne gerade Gitarre spielen. Ich
                                                                                                               übe jeden Tag zwei Stunden.
