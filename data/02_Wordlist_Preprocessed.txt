@@ -1164,8 +1164,12 @@ benutzte, hat benutzt             Verkehrsmittel.
 das Benzin, -e                    Das Benzin soll wieder teurer werden.     
                                                                             
 beobachten, beobachtet,           Wer hat den Unfall beobachtet?            
-beobachtete,                                                                
+beobachtete,
 hat beobachtet
+                                                                            
+                                                                            
+                                                                            
+
                                                                             
 bequem                         1. Meine Kinder ziehen am liebsten           
                                   bequeme Sachen an.
@@ -1223,10 +1227,13 @@ beschädigen, beschädigt,          Bitte machen Sie eine Liste davon, was
 beschädigte,                      die Einbrecher beschädigt haben.
 hat beschädigt
 
-beschäftigen, beschäftigt,  1. Womit haben Sie sich bei Ihrer Arbeit
-beschäftigte,                  beschäftigt?
-hat beschäftigt             2. Seit wann sind Sie bei dieser Firma
-                               beschäftigt?
+beschäftigen, beschäftigt,          Seit wann sind Sie bei dieser Firma
+beschäftigte,                       beschäftigt?
+hat beschäftigt
+
+(sich) beschäftigen,               Womit haben Sie sich bei Ihrer Arbeit
+beschäftigt, beschäftigte,         beschäftigt?
+hat beschäftigt
 
      die Beschäftigung, -en       Ich suche eine Halbtagsbeschäftigung,
                                   weil ich ein kleines Kind habe.

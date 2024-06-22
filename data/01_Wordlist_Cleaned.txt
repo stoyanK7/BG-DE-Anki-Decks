@@ -604,11 +604,15 @@ benötigte, hat benötigt           etwas benötigen.
 benutzen, benutzt,                Benutzen Sie bitte die öffentlichen        beschädigte,                      die Einbrecher beschädigt haben.
 benutzte, hat benutzt             Verkehrsmittel.                            hat beschädigt
 
-das Benzin, -e                    Das Benzin soll wieder teurer werden.      beschäftigen, beschäftigt,  1. Womit haben Sie sich bei Ihrer Arbeit
-                                                                             beschäftigte,                  beschäftigt?
-beobachten, beobachtet,           Wer hat den Unfall beobachtet?             hat beschäftigt             2. Seit wann sind Sie bei dieser Firma
-beobachtete,                                                                                                beschäftigt?
+das Benzin, -e                    Das Benzin soll wieder teurer werden.      beschäftigen, beschäftigt,          Seit wann sind Sie bei dieser Firma
+                                                                             beschäftigte,                       beschäftigt?
+beobachten, beobachtet,           Wer hat den Unfall beobachtet?             hat beschäftigt
+beobachtete,
 hat beobachtet
+                                                                             (sich) beschäftigen,               Womit haben Sie sich bei Ihrer Arbeit
+                                                                             beschäftigt, beschäftigte,         beschäftigt?
+                                                                             hat beschäftigt
+
                                                                                   die Beschäftigung, -en       Ich suche eine Halbtagsbeschäftigung,
 bequem                         1. Meine Kinder ziehen am liebsten                                              weil ich ein kleines Kind habe.
                                   bequeme Sachen an.
