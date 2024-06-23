@@ -6170,10 +6170,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "blond",
         "word_bg": [
-            "блондинка"
+            "рус"
         ],
         "examples": [
             {
@@ -6187,7 +6187,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bloß",
         "word_bg": [
             "само"
@@ -6203,15 +6203,15 @@
             },
             {
                 "example_de": "Ach, wenn ich bloß mehr verdienen würde!",
-                "example_bg": "О, само ако можех да печеля повече!"
+                "example_bg": "О, само ако можех да изкарвам повече!"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "blühen, blüht, blühte, hat geblüht",
         "word_bg": [
-            "цъфти"
+            "цъфтя"
         ],
         "examples": [
             {
@@ -6221,10 +6221,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Blume, -n",
         "word_bg": [
-            "Цвете"
+            "цвете"
         ],
         "examples": [
             {
@@ -6234,10 +6234,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bluse, -n",
         "word_bg": [
-            "Блуза"
+            "блуза"
         ],
         "examples": [
             {
@@ -6247,10 +6247,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bluten, blutet, blutete, hat geblutet",
         "word_bg": [
-            "кървене"
+            "кървя"
         ],
         "examples": [
             {
@@ -6260,10 +6260,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Blut",
         "word_bg": [
-            "Кръв"
+            "кръв"
         ],
         "examples": [
             {
@@ -6273,10 +6273,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Boden, ¨-",
         "word_bg": [
-            "Под"
+            "под",
+            "почва",
+            "земя"
         ],
         "examples": [
             {
@@ -6290,10 +6292,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bogen, -/¨-",
         "word_bg": [
-            "Лък"
+            "лист хартия"
         ],
         "examples": [
             {
@@ -6303,10 +6305,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bohne, -n",
         "word_bg": [
-            "Боб"
+            "боб"
         ],
         "examples": [
             {
@@ -6316,10 +6318,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Boot, -e",
         "word_bg": [
-            "Лодка"
+            "лодка"
         ],
         "examples": [
             {
@@ -6329,10 +6331,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Botschaft, -en",
         "word_bg": [
-            "Съобщение"
+            "посолство"
         ],
         "examples": [
             {
@@ -6342,10 +6344,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "böse",
         "word_bg": [
-            "зло"
+            "лош",
+            "ядосан",
+            "сърдит"
         ],
         "examples": [
             {
@@ -6362,15 +6366,16 @@
             },
             {
                 "example_de": "Zeig mal! Du hast dich verletzt? Das sieht aber böse aus.",
-                "example_bg": "Да видим! Наранили сте се? Но това изглежда гадно."
+                "example_bg": "Да видим! Наранили сте се? Но това изглежда тежко.."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "braten, brät, briet, hat gebraten",
         "word_bg": [
-            "пържене"
+            "пека (на фурна)",
+            "пържа (в тиган)"
         ],
         "examples": [
             {
@@ -6384,10 +6389,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Braten, -",
         "word_bg": [
-            "Печено"
+            "печено"
         ],
         "examples": [
             {
@@ -6397,10 +6402,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "brauchen, braucht, brauchte, hat gebraucht",
         "word_bg": [
-            "нужда от"
+            "нуждая се от",
+            "трябвам на"
         ],
         "examples": [
             {
@@ -6409,7 +6415,7 @@
             },
             {
                 "example_de": "Brauchst du die Zeitung noch?",
-                "example_bg": "Все още ли ви трябва вестникът?"
+                "example_bg": "Все още ли ти трябва вестникът?"
             },
             {
                 "example_de": "Meine Großmutter ist krank. Sie braucht viel Ruhe.",
@@ -6421,15 +6427,15 @@
             },
             {
                 "example_de": "Sie brauchen morgen nicht zu kommen. Ich schaffe das alleine.",
-                "example_bg": "Не е нужно да идваш утре. Мога да го направя сам."
+                "example_bg": "Не е нужно да идвате утре. Мога да го направя сам."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "brechen, bricht, brach, hat gebrochen",
         "word_bg": [
-            "почивка"
+            "счупвам"
         ],
         "examples": [
             {
@@ -6443,7 +6449,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "breit",
         "word_bg": [
             "широк"
@@ -6456,10 +6462,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Breite, -n",
         "word_bg": [
-            "Ширина"
+            "ширина"
         ],
         "examples": [
             {
@@ -6469,36 +6475,36 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bremsen, bremst, bremste, hat gebremst",
+        "word_bg": [
+            "спирам"
+        ],
+        "examples": [
+            {
+                "example_de": "Der Mann ist ganz plötzlich über die Straße gegangen. Ich musste stark bremsen.",
+                "example_bg": "Мъжът внезапно пресече пътя. Трябваше рязко да спра."
+            }
+        ]
+    },
+    {
+        "manually_verified": true,
+        "word_de": "die Bremse, -n",
         "word_bg": [
             "спирачка"
         ],
         "examples": [
             {
-                "example_de": "Der Mann ist ganz plötzlich über die Straße gegangen. Ich musste stark bremsen.",
-                "example_bg": "Мъжът внезапно пресече пътя. Трябваше да натисна рязко спирачката."
-            }
-        ]
-    },
-    {
-        "manually_verified": false,
-        "word_de": "die Bremse, -n",
-        "word_bg": [
-            "Спирачка"
-        ],
-        "examples": [
-            {
                 "example_de": "Du musst unbedingt die Bremsen kontrollieren lassen.",
-                "example_bg": "Задължително трябва да проверите спирачките."
+                "example_bg": "Задължително трябва да провериш спирачките."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "brennen, brennt, brannte, hat gebrannt",
         "word_bg": [
-            "изгаряне"
+            "горя"
         ],
         "examples": [
             {
@@ -6507,7 +6513,7 @@
             },
             {
                 "example_de": "Die Kerze brennt noch. Mach sie bitte aus.",
-                "example_bg": "Свещта все още гори. Моля, изключете го."
+                "example_bg": "Свещта все още гори. Моля, загаси я."
             },
             {
                 "example_de": "In deinem Zimmer hat die ganze Nacht das Licht gebrannt.",
@@ -6516,10 +6522,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Brief, -e",
         "word_bg": [
-            "Писмо"
+            "писмо"
         ],
         "examples": [
             {
@@ -6529,10 +6535,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Briefkasten, ¨-",
         "word_bg": [
-            "Пощенска кутия"
+            "пощенска кутия"
         ],
         "examples": [
             {
@@ -6541,54 +6547,54 @@
             },
             {
                 "example_de": "Hol bitte mal die Zeitung aus dem Briefkasten.",
-                "example_bg": "Моля, извадете вестника от пощенската кутия."
+                "example_bg": "Моля, извади вестника от пощенската кутия."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Briefmarke, -n",
         "word_bg": [
-            "Печат"
+            "пощенска марка"
         ],
         "examples": [
             {
                 "example_de": "Briefmarken bekommen Sie am Schalter 7.",
-                "example_bg": "Печатите са на разположение на гише 7."
+                "example_bg": "Пощенските марки са на разположение на гише 7."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Briefträger, die Briefträgerin,-nen",
         "word_bg": [
-            "Пощальон"
+            "пощальон, пощальонка"
         ],
         "examples": [
             {
-                "example_de": "War die Briefträgerin schon da? → CH: Pöstler",
-                "example_bg": "Пристигна ли вече пощальонката? → CH: Пощальон"
+                "example_de": "War die Briefträgerin schon da?",
+                "example_bg": "Пристигна ли вече пощальонката?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Briefumschlag, ¨-e → A: Kuvert; CH: Couvert",
         "word_bg": [
-            "Плик"
+            "плик за писмо"
         ],
         "examples": [
             {
                 "example_de": "Ich hätte gern 50 Briefumschläge und Briefmarken dazu.",
-                "example_bg": "Искам 50 плика и марки."
+                "example_bg": "Бих искал 50 плика и марки."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Brieftasche, -n → D, CH: Portemonnaie/Portmonee; A: Geldbörse",
         "word_bg": [
-            "Портфейл"
+            "портфейл"
         ],
         "examples": [
             {
@@ -6598,10 +6604,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Brille, -n",
         "word_bg": [
-            "Очила"
+            "очила"
         ],
         "examples": [
             {
@@ -6611,10 +6617,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bringen, bringt, brachte, hat gebracht",
         "word_bg": [
-            "донесете"
+            "донасям",
+            "нося",
+            "публикувам/излъчвам"
         ],
         "examples": [
             {
@@ -6632,10 +6640,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Broschüre, -n",
         "word_bg": [
-            "Брошура"
+            "брошура"
         ],
         "examples": [
             {
@@ -6645,10 +6653,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Brot, -e",
         "word_bg": [
-            "Хляб"
+            "хляб"
         ],
         "examples": [
             {
@@ -6657,45 +6665,45 @@
             },
             {
                 "example_de": "Was möchtest du aufs Brot haben?",
-                "example_bg": "Какво бихте искали върху хляба си?"
+                "example_bg": "Какво би искал върху хляба си?"
             },
             {
                 "example_de": "Nimm noch ein paar belegte Brote für die Fahrt mit.",
-                "example_bg": "Вземете със себе си няколко сандвича за пътуването."
+                "example_bg": "Вземи със себе си няколко сандвича за пътуването."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Brötchen, - (D) → A: Semmel; CH: Brötli",
         "word_bg": [
-            "Хлебна ролка"
+            "хлебче"
         ],
         "examples": [
             {
                 "example_de": "Ich hole schnell ein paar Brötchen zum Frühstück.",
-                "example_bg": "Бързо взех няколко рула за закуска."
+                "example_bg": "Бързо взех няколко хлебчета за закуска."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Brötli, - (CH) → D: Brötchen; A: Semmel",
         "word_bg": [
-            "Rolls"
+            "хлебче"
         ],
         "examples": [
             {
                 "example_de": "Ich hole schnell ein paar Brötli zum Frühstück.",
-                "example_bg": "Бързо взех няколко рула за закуска."
+                "example_bg": "Бързо взех няколко хлебчета за закуска."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Brücke, -n",
         "word_bg": [
-            "Мост"
+            "мост"
         ],
         "examples": [
             {
@@ -6705,10 +6713,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bruder, ¨-",
         "word_bg": [
-            "Brother"
+            "брат"
         ],
         "examples": [
             {
@@ -6718,10 +6726,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Brust, , ¨-e",
         "word_bg": [
-            "Гърди"
+            "гърди"
         ],
         "examples": [
             {
@@ -6731,10 +6739,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bub, -en (A, CH) → D: Junge",
         "word_bg": [
-            "Bub"
+            "момче"
         ],
         "examples": [
             {
@@ -6744,10 +6752,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Buch, ¨-er",
         "word_bg": [
-            "Книга"
+            "книга"
         ],
         "examples": [
             {
@@ -6757,10 +6765,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Buchhandlung, -en",
         "word_bg": [
-            "Книжарница"
+            "книжарница"
         ],
         "examples": [
             {
@@ -6770,10 +6778,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "buchen, bucht, buchte, hat gebucht",
         "word_bg": [
-            "книга"
+            "резервирам"
         ],
         "examples": [
             {
@@ -6783,10 +6791,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "buchstabieren, buchstabiert, buchstabierte, hat buchstabiert",
         "word_bg": [
-            "заклинание"
+            "произнасям буква по буква"
         ],
         "examples": [
             {
@@ -6799,12 +6807,12 @@
         "manually_verified": false,
         "word_de": "der Buchstabe, -n",
         "word_bg": [
-            "Писмо"
+            "буква"
         ],
         "examples": [
             {
                 "example_de": "Gibt es diesen Buchstaben auch in deiner Muttersprache?",
-                "example_bg": "Съществува ли това писмо и на родния ви език?"
+                "example_bg": "Съществува ли тази буква и на родния ти език?"
             },
             {
                 "example_de": "Ihr Name beginnt mit K. – Buchstabe K ist in Zimmer",

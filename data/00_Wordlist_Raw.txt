@@ -908,9 +908,9 @@ VS_03
                                                                                                die Briefmarke, -n      Briefmarken bekommen Sie am
         die Bohne, -n                      Ich esse gern Bohnen.                                                       Schalter 7.
 
-        das Boot, -e                       An diesem See kann man Boote                        der Briefträger,        War die Briefträgerin schon da?
-                                           mieten.                                    die Briefträgerin,-nen
-                                                                                           → CH: Pöstler
+        das Boot, -e                       An diesem See kann man Boote               der Briefträger, die Briefträgerin,-nen → CH: Pöstler                 War die Briefträgerin schon da?
+                                           mieten.                                    
+                                                                                           
         die Botschaft, -en                 Das Visum habe ich von der Botschaft
                                            bekommen.                                  der Briefumschlag, ¨-e →         Ich hätte gern 50 Briefumschläge und
                                                                                          A: Kuvert; CH: Couvert        Briefmarken dazu.
@@ -979,7 +979,7 @@ VS_03
                  der Buchstabe, -n   1. Gibt es diesen Buchstaben auch in                                      Hände.
                                         deiner Muttersprache?                                               2. Für die Creme habe ich Butter und
                                      2. Ihr Name beginnt mit K. – Buchstabe K                                  Schokolade genommen.
-                                        ist in Zimmer 3. Bitte warten Sie dort.
+                                        ist in Zimmer 3! Bitte warten Sie dort.
                                                                                  der Cousin, -s               Meine Cousine wohnt jetzt in Brasilien.
         die Büchse, -n (D, CH) →       Ich habe noch eine Büchse Bohnen.         die Cousine, -n
         A: Dose
