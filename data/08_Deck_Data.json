@@ -6825,23 +6825,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Büchse, -n (D, CH) → A: Dose",
         "word_bg": [
-            "Кутия"
+            "кутия",
+            "консерва"
         ],
         "examples": [
             {
                 "example_de": "Ich habe noch eine Büchse Bohnen.",
-                "example_bg": "Все още имам кутия боб."
+                "example_bg": "Все още имам консерва боб."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Buffet, -s",
         "word_bg": [
-            "Бюфет"
+            "бюфет"
         ],
         "examples": [
             {
@@ -6851,10 +6852,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bühne, -n",
         "word_bg": [
-            "Етап"
+            "сцена"
         ],
         "examples": [
             {
@@ -6864,7 +6865,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "bunt",
         "word_bg": [
             "пъстър"
@@ -6877,10 +6878,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Burg, -en",
         "word_bg": [
-            "Замък"
+            "замък"
         ],
         "examples": [
             {
@@ -6890,10 +6891,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bürger, die Bürgerin, -nen",
         "word_bg": [
-            "Граждани"
+            "гражданин, гражданка"
         ],
         "examples": [
             {
@@ -6903,10 +6904,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Büro, -s",
         "word_bg": [
-            "Офис"
+            "офис"
         ],
         "examples": [
             {
@@ -6920,10 +6921,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Bürste, -n",
         "word_bg": [
-            "Четка"
+            "четка"
         ],
         "examples": [
             {
@@ -6937,10 +6938,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Zahnbürste, -n",
         "word_bg": [
-            "Четка за зъби"
+            "четка за зъби"
         ],
         "examples": [
             {
@@ -6950,10 +6951,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Bus, -se",
         "word_bg": [
-            "Автобус"
+            "автобус"
         ],
         "examples": [
             {
@@ -6963,10 +6964,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Butter",
         "word_bg": [
-            "Масло"
+            "масло"
         ],
         "examples": [
             {
@@ -6976,10 +6977,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Café, -s",
         "word_bg": [
-            "Кафене"
+            "кафене"
         ],
         "examples": [
             {
@@ -6989,23 +6990,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Cafeteria, -s",
         "word_bg": [
-            "Кафетерия"
+            "кафетерия"
         ],
         "examples": [
             {
                 "example_de": "Ich hole mir schnell etwas aus der Cafeteria.",
-                "example_bg": "Бързо взех нещо от кафенето."
+                "example_bg": "Бързо взех нещо от кафетерията."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Chance, -n",
         "word_bg": [
-            "Възможност"
+            "шанс"
         ],
         "examples": [
             {
@@ -7015,10 +7016,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Chef, -s die Chefin, -nen",
         "word_bg": [
-            "Началник"
+            "шеф, шефка"
         ],
         "examples": [
             {
@@ -7028,10 +7029,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "schick/chic",
         "word_bg": [
-            "шик"
+            "шик",
+            "елегантен"
         ],
         "examples": [
             {
@@ -7041,15 +7043,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Coiffeur, -e die Coiffeuse, -n (CH) → D, A: Friseur",
         "word_bg": [
-            "Фризьорски салон"
+            "фризьор, фризьорка"
         ],
         "examples": [
             {
                 "example_de": "Du siehst toll aus! Wer ist dein Coiffeur?",
-                "example_bg": "Изглеждаш страхотно! Кой е вашият фризьор?"
+                "example_bg": "Изглеждаш страхотно! Кой е фризьорът ти?"
             },
             {
                 "example_de": "Meine Tochter will Coiffeuse werden.",
@@ -7058,23 +7060,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Couch, -s",
         "word_bg": [
-            "Диван"
+            "диван"
         ],
         "examples": [
             {
                 "example_de": "Wir haben uns eine Couch und neue Sessel gekauft.",
-                "example_bg": "Купихме диван и нови фотьойли."
+                "example_bg": "Купихме си диван и нови фотьойли."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Creme, -n/-s",
         "word_bg": [
-            "Крем"
+            "крем"
         ],
         "examples": [
             {
@@ -7088,23 +7090,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Cousin, -s die Cousine, -n",
         "word_bg": [
-            "Братовчед"
+            "братовчед, братовчедка"
         ],
         "examples": [
             {
                 "example_de": "Meine Cousine wohnt jetzt in Brasilien.",
-                "example_bg": "Братовчед ми сега живее в Бразилия."
+                "example_bg": "Братовчедка ми сега живее в Бразилия."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Couvert, -s (CH) → Briefumschlag; A: Kuvert",
         "word_bg": [
-            "Плик"
+            "плик за писма"
         ],
         "examples": [
             {
@@ -7114,10 +7116,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "da",
         "word_bg": [
-            "там"
+            "там",
+            "тогава"
         ],
         "examples": [
             {
@@ -7130,7 +7133,7 @@
             },
             {
                 "example_de": "Ich wollte gerade einparken. Da kam ein Wagen rückwärts aus der Einfahrt.",
-                "example_bg": "Тъкмо се канех да паркирам. От алеята излезе кола на заден ход."
+                "example_bg": "Тъкмо се канех да паркирам. Тогава от алеята излезе кола на заден ход."
             },
             {
                 "example_de": "Wir haben schon geschlossen. – Da kann man nichts machen.",
@@ -7142,11 +7145,11 @@
             },
             {
                 "example_de": "Wir haben gerade über dich gesprochen. Da bist du ja.",
-                "example_bg": "Току-що говорихме за теб. Ето ви."
+                "example_bg": "Току-що говорихме за теб. Ето еи."
             },
             {
                 "example_de": "Welche Bluse nehmen Sie? – Die da.",
-                "example_bg": "Коя блуза избирате? - Този."
+                "example_bg": "Коя блуза избирате? - Тази."
             },
             {
                 "example_de": "Ist Herr Klein schon da?",
@@ -7155,15 +7158,16 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dabei",
         "word_bg": [
-            "по този начин"
+            "при това",
+            "едновременно с това"
         ],
         "examples": [
             {
                 "example_de": "Was hast du dir dabei gedacht?",
-                "example_bg": "Какво си мислехте?"
+                "example_bg": "Какво си мислеше при това?"
             },
             {
                 "example_de": "Schön, dass du da bist. Ist deine Familie auch dabei?",
@@ -7176,10 +7180,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Dach, ¨-er",
         "word_bg": [
-            "Покрив"
+            "покрив"
         ],
         "examples": [
             {
@@ -7193,33 +7197,26 @@
         ]
     },
     {
-        "manually_verified": false,
-        "word_de": "dafür",
+        "manually_verified": true,
+        "word_de": "dafür sein",
         "word_bg": [
-            "в полза на"
+            "за нщ съм"
         ],
         "examples": [
             {
-                "example_de": "Meine Schwester interessiert sich für Politik. Ich interessiere mich nicht dafür.",
-                "example_bg": "Сестра ми се интересува от политика. Това не ме интересува."
-            },
-            {
                 "example_de": "Ich bin dafür, dass wir möglichst früh losfahren.",
-                "example_bg": "Подкрепям идеята да се тръгне възможно най-рано."
+                "example_bg": "Аз съм за това да се тръгне възможно най-рано."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dagegen",
         "word_bg": [
-            "от друга страна"
+            "против",
+            "срещу това"
         ],
         "examples": [
-            {
-                "example_de": "Vorsicht, da ist ein Baum! Fahr nicht dagegen!",
-                "example_bg": "Внимавайте, там има дърво! Не карайте срещу него!"
-            },
             {
                 "example_de": "Sind Sie für oder gegen ein Rauchverbot? - Ich bin dagegen.",
                 "example_bg": "Подкрепяте или сте против забраната за пушене? - Аз съм против."
@@ -7227,27 +7224,31 @@
             {
                 "example_de": "Ich habe nichts dagegen, dass wir schon nach Hause gehen.",
                 "example_bg": "Нямам нищо против да се приберем вече у дома."
+            },
+            {
+                "example_de": "Vorsicht, da ist ein Baum! Fahr nicht dagegen!",
+                "example_bg": "Внимавайте, там има дърво! Не карайте срещу него!"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "daher",
         "word_bg": [
-            "следователно"
+            "затова"
         ],
         "examples": [
             {
                 "example_de": "Ich bin erkältet, daher kann ich heute nicht kommen.",
-                "example_bg": "Имам настинка, така че не мога да дойда днес."
+                "example_bg": "Имам настинка, затова не мога да дойда днес."
             }
         ]
     },
     {
-        "manually_verified": false,
-        "word_de": "dahin",
+        "manually_verified": true,
+        "word_de": "bis dahin",
         "word_bg": [
-            "там"
+            "дотогава"
         ],
         "examples": [
             {
@@ -7257,23 +7258,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "damals",
         "word_bg": [
-            "след това"
+            "тогава",
+            "по онова време"
         ],
         "examples": [
             {
                 "example_de": "Mit 15 wollte ich gerne Klavier spielen lernen. Aber damals hatte ich kein Geld dafür.",
-                "example_bg": "Когато бях на 15 години, исках да се науча да свиря на пиано. Но тогава нямах пари за това."
+                "example_bg": "Когато бях на 15 години, исках да се науча да свиря на пиано. Но по онова време нямах пари за това."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Dame, -n",
         "word_bg": [
-            "Шашки"
+            "дама"
         ],
         "examples": [
             {
@@ -7286,29 +7288,25 @@
             },
             {
                 "example_de": "Sehr geehrte Damen und Herren.",
-                "example_bg": "Дами и господа."
+                "example_bg": "Драги Дами и господа."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "damit",
         "word_bg": [
-            "така че"
+            "за да"
         ],
         "examples": [
             {
                 "example_de": "Mach schnell, damit wir nicht zu spät kommen.",
-                "example_bg": "Побързайте, за да не закъснеем."
-            },
-            {
-                "example_de": "Was macht man mit diesem Ding? Damit kann man Dosen aufmachen.",
-                "example_bg": "Какво правиш с това нещо? Можете да го използвате за отваряне на консерви."
+                "example_bg": "Побързай, за да не закъснеем."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "danach",
         "word_bg": [
             "след това"
@@ -7316,25 +7314,25 @@
         "examples": [
             {
                 "example_de": "Zuerst gehen wir einkaufen, danach grillen wir auf unserem Balkon.",
-                "example_bg": "Първо пазаруваме, а после правим барбекю на балкона."
+                "example_bg": "Първо пазаруваме, а след това правим барбекю на балкона."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "daneben",
         "word_bg": [
-            "до него"
+            "до това"
         ],
         "examples": [
             {
                 "example_de": "Du weißt doch, wo die Post ist. Gleich daneben ist die Bank.",
-                "example_bg": "Знаете къде е пощата. Точно до него е банката."
+                "example_bg": "Знаеш къде е пощата. Точно до нея е банката."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "danken, dankt, dankte, hat gedankt",
         "word_bg": [
             "благодаря"
@@ -7342,15 +7340,15 @@
         "examples": [
             {
                 "example_de": "Ich danke dir für die Einladung.",
-                "example_bg": "Благодарим ви за поканата."
+                "example_bg": "Благодаря ти за поканата."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Dank",
         "word_bg": [
-            "Благодарение на"
+            "благодарност"
         ],
         "examples": [
             {
@@ -7363,7 +7361,7 @@
             },
             {
                 "example_de": "Herzlichen Dank!",
-                "example_bg": "Много ви благодаря!"
+                "example_bg": "Сърдечно благодаря!"
             },
             {
                 "example_de": "Gott sei Dank hat es nicht geregnet.",
@@ -7372,10 +7370,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dankbar",
         "word_bg": [
-            "благодарност"
+            "благодарен"
         ],
         "examples": [
             {
@@ -7385,10 +7383,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "danke",
         "word_bg": [
-            "благодаря ви"
+            "благодаря"
         ],
         "examples": [
             {
@@ -7402,10 +7400,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dann",
         "word_bg": [
-            "след това"
+            "след това",
+            "после",
+            "тогава"
         ],
         "examples": [
             {
@@ -7422,28 +7422,28 @@
             },
             {
                 "example_de": "Wenn es nicht regnet, dann kommen wir.",
-                "example_bg": "Ако не вали, ще дойдем."
+                "example_bg": "Ако не вали, тогава ще дойдем."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "darstellen, stellt dar, stellte dar, hat dargestellt",
         "word_bg": [
-            "представляват"
+            "представям"
         ],
         "examples": [
             {
                 "example_de": "Er konnte das Problem sehr gut darstellen.",
-                "example_bg": "Той успя да обясни проблема много добре."
+                "example_bg": "Той успя да представи проблема много добре."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Darstellung, -en",
         "word_bg": [
-            "Представителство"
+            "представяне"
         ],
         "examples": [
             {
@@ -7453,7 +7453,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dass",
         "word_bg": [
             "че"
@@ -7466,23 +7466,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Datei, -en",
         "word_bg": [
-            "Файл"
+            "файл"
         ],
         "examples": [
             {
                 "example_de": "Wo hast du die Datei gespeichert?",
-                "example_bg": "Къде сте записали файла?"
+                "example_bg": "Къде си записал файла?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Datum, die Daten",
         "word_bg": [
-            "Дата"
+            "дата, дати"
         ],
         "examples": [
             {
@@ -7492,18 +7492,14 @@
             {
                 "example_de": "Bitte Datum und Unterschrift nicht vergessen.",
                 "example_bg": "Моля, не забравяйте датата и подписа."
-            },
-            {
-                "example_de": "Ich brauche noch ein paar Daten von Ihnen.",
-                "example_bg": "Имам нужда от още няколко подробности."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Daten (Plural)",
         "word_bg": [
-            "Данни"
+            "данни"
         ],
         "examples": [
             {
@@ -7513,10 +7509,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dauern, dauert, dauerte, hat gedauert",
         "word_bg": [
-            "последно"
+            "продължавам",
+            "трая"
         ],
         "examples": [
             {
@@ -7526,15 +7523,16 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Dauer",
         "word_bg": [
-            "Продължителност"
+            "продължителност",
+            "период"
         ],
         "examples": [
             {
                 "example_de": "Sie können das Buch für die Dauer einer Woche ausleihen.",
-                "example_bg": "Можете да вземете книгата назаем за една седмица."
+                "example_bg": "Можете да вземете книгата назаем за период от една седмица."
             },
             {
                 "example_de": "Auf Dauer ist die Arbeit nicht interessant.",
@@ -7543,7 +7541,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dauernd",
         "word_bg": [
             "постоянен"
@@ -7551,7 +7549,7 @@
         "examples": [
             {
                 "example_de": "Das dauernde Klingeln des Telefons stört mich.",
-                "example_bg": "Постоянното звънене на телефона ме притеснява."
+                "example_bg": "Постоянното звънене на телефона ми пречи."
             },
             {
                 "example_de": "Er ist dauernd krank.",
@@ -7560,10 +7558,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Decke, -n",
         "word_bg": [
-            "Таван"
+            "таван",
+            "завивка"
         ],
         "examples": [
             {
@@ -7572,28 +7571,29 @@
             },
             {
                 "example_de": "Kann ich noch eine Decke bekommen? Mir ist kalt.",
-                "example_bg": "Мога ли все още да получа одеяло? Студено ми е."
+                "example_bg": "Мога ли да получа още една завивка? Студено ми е."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dekorieren, dekoriert, dekorierte, hat dekoriert",
         "word_bg": [
-            "украса"
+            "украсявам",
+            "декорирам"
         ],
         "examples": [
             {
                 "example_de": "Hilfst du mir, den Tisch für die Party zu dekorieren?",
-                "example_bg": "Можете ли да ми помогнете да украся масата за партито?"
+                "example_bg": "Можеш ли да ми помогнеш да украся масата за партито?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "denken, denkt, dachte, hat gedacht",
         "word_bg": [
-            "мисли"
+            "мисля"
         ],
         "examples": [
             {
@@ -7627,10 +7627,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Gedanke, -n",
         "word_bg": [
-            "Мисъл"
+            "мисъл"
         ],
         "examples": [
             {
@@ -7656,10 +7656,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Denkmal, ¨-er",
         "word_bg": [
-            "Паметник"
+            "паметник"
         ],
         "examples": [
             {
@@ -7669,7 +7669,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "denn",
         "word_bg": [
             "защото"
@@ -7677,45 +7677,41 @@
         "examples": [
             {
                 "example_de": "Ich lerne jetzt auch Portugiesisch, denn ich möchte nach Südamerika reisen.",
-                "example_bg": "Сега уча и португалски, защото искам да пътувам до Южна Америка."
-            },
-            {
-                "example_de": "Wie ist das Spiel denn ausgegangen?",
-                "example_bg": "Как завърши играта?"
+                "example_bg": "Сега уча и португалски, защото бих искал да пътувам до Южна Америка."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "derselbe, dieselbe, dasselbe",
         "word_bg": [
-            "същото"
+            "същият, същата, същото"
         ],
         "examples": [
             {
                 "example_de": "Mein Freund und ich gehen in dieselbe Schule.",
-                "example_bg": "С приятеля ми учим в едно и също училище."
+                "example_bg": "С приятеля ми учим в същото училище."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "deshalb",
         "word_bg": [
-            "следователно"
+            "затова"
         ],
         "examples": [
             {
                 "example_de": "Ich war krank. Deshalb war ich nicht im Büro.",
-                "example_bg": "Бях болен. Ето защо не бях в офиса."
+                "example_bg": "Бях болен. Затова не бях в офиса."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Dessert, -s → D, A: Nachspeise",
         "word_bg": [
-            "Десерт"
+            "десерт"
         ],
         "examples": [
             {
@@ -7725,36 +7721,42 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "deswegen",
         "word_bg": [
-            "следователно"
+            "затова",
+            "пореди това"
         ],
         "examples": [
             {
                 "example_de": "Ich habe falsch geparkt. Deswegen habe ich einen Strafzettel bekommen.",
-                "example_bg": "Паркирах в грешната посока. Ето защо получих глоба за паркиране."
+                "example_bg": "Паркирах в грешната посока. Поради това получих глоба за паркиране."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Detail, -s",
         "word_bg": [
-            "Подробности"
+            "детайл",
+            "подробност"
         ],
         "examples": [
             {
-                "example_de": "Dieses Detail ist unwichtig. 2.      Ich habe alles bis ins kleinste Detail vorbereitet.",
-                "example_bg": "Тази подробност е маловажна. 2.      Подготвих всичко до най-малкия детайл."
+                "example_de": "Ich habe alles bis ins kleinste Detail vorbereitet.",
+                "example_bg": "Подготвих всичко до най-малкия детайл."
+            },
+            {
+                "example_de": "Dieses Detail ist unwichtig.",
+                "example_bg": "Тази подробност е маловажна."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "deutlich",
         "word_bg": [
-            "ясно"
+            "ясен"
         ],
         "examples": [
             {
@@ -7764,10 +7766,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Diät, -en",
         "word_bg": [
-            "Диета"
+            "диета"
         ],
         "examples": [
             {
@@ -7777,23 +7779,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Dialekt, -e",
         "word_bg": [
-            "Диалект"
+            "диалект"
         ],
         "examples": [
             {
                 "example_de": "Ich verstehe dich besser, wenn du nicht Dialekt sprichst.",
-                "example_bg": "Разбирам ви по-добре, когато не говорите на диалект."
+                "example_bg": "Разбирам те по-добре, когато не говориш на диалект."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Dialog, -e",
         "word_bg": [
-            "Диалог"
+            "диалог"
         ],
         "examples": [
             {
@@ -7803,20 +7805,20 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dicht",
         "word_bg": [
-            "гъст"
+            "уплътнен"
         ],
         "examples": [
             {
                 "example_de": "Unsere Fenster sind nicht dicht. Es zieht immer.",
-                "example_bg": "Прозорците ни не са плътни. Винаги се дърпа."
+                "example_bg": "Прозорците ни не са уплътнени. Винаги има течение."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dick",
         "word_bg": [
             "дебел"
@@ -7833,10 +7835,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Dieb, -e",
         "word_bg": [
-            "Крадец"
+            "крадец"
         ],
         "examples": [
             {
@@ -7846,10 +7848,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dienen, dient, diente, hat gedient",
         "word_bg": [
-            "сервирайте"
+            "служа"
         ],
         "examples": [
             {
@@ -7867,15 +7869,16 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Dienst, -e",
         "word_bg": [
-            "Услуга"
+            "служба",
+            "работа"
         ],
         "examples": [
             {
                 "example_de": "Als Krankenschwester habe ich oft Frühdienst.",
-                "example_bg": "Като медицинска сестра често съм на ранна смяна."
+                "example_bg": "Като медицинска сестра често съм на ранна служба."
             },
             {
                 "example_de": "Morgen habe ich Dienst. Deshalb kann ich nicht kommen.",
@@ -7884,10 +7887,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dies-",
         "word_bg": [
-            "това -"
+            "това-"
         ],
         "examples": [
             {
@@ -7896,12 +7899,12 @@
             },
             {
                 "example_de": "Welche Hose nehmen Sie? – Diese hier.",
-                "example_bg": "Кои панталони избирате? - Този."
+                "example_bg": "Кои панталони избирате? - Тези."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "diesmal",
         "word_bg": [
             "този път"
@@ -7914,23 +7917,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "digital",
         "word_bg": [
-            "цифров"
+            "дигитален"
         ],
         "examples": [
             {
                 "example_de": "Ich habe eine Digitaluhr gekauft. Die geht genauer als meine alte Uhr.",
-                "example_bg": "Купих си цифров часовник. Той е по-точен от стария ми часовник."
+                "example_bg": "Купих си дигитален часовник. Той е по-точен от стария ми часовник."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Ding, -e",
         "word_bg": [
-            "Нещо"
+            "нещо"
         ],
         "examples": [
             {
@@ -7940,10 +7943,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Diplom, -e",
         "word_bg": [
-            "Диплома"
+            "диплома"
         ],
         "examples": [
             {
@@ -7953,10 +7956,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "direkt",
         "word_bg": [
-            "директно"
+            "директен"
         ],
         "examples": [
             {
@@ -7978,23 +7981,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Direktor, -en die Direktorin, -nen",
         "word_bg": [
-            "Директор"
+            "директор, директорка"
         ],
         "examples": [
             {
                 "example_de": "Ich möchte gern mit dem Direktor sprechen.",
-                "example_bg": "Искам да говоря с директора."
+                "example_bg": "Бих искал да говоря с директора."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Diskothek, -en/Disko, -s",
         "word_bg": [
-            "Дискотека"
+            "дискотека"
         ],
         "examples": [
             {
@@ -8004,10 +8007,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "diskutieren, diskutiert, diskutierte, hat diskutiert",
         "word_bg": [
-            "обсъждане"
+            "обсъждам"
         ],
         "examples": [
             {
@@ -8017,10 +8020,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Diskussion, -en",
         "word_bg": [
-            "Дискусия"
+            "дискусия"
         ],
         "examples": [
             {
@@ -8030,10 +8033,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Distanz, -en",
         "word_bg": [
-            "Разстояние"
+            "разстояние"
         ],
         "examples": [
             {
@@ -8043,10 +8046,14 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "doch",
         "word_bg": [
-            "но"
+            "но",
+            "все пак",
+            "обаче",
+            "ама",
+            "та"
         ],
         "examples": [
             {
@@ -8085,15 +8092,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Dokument, -e",
         "word_bg": [
-            "Документ"
+            "документ"
         ],
         "examples": [
             {
                 "example_de": "Hast du alle Dokumente für die Anmeldung dabei?",
-                "example_bg": "Разполагате ли с всички необходими документи за регистрация?"
+                "example_bg": "Разполагаш ли с всички необходими документи за регистрация?"
             },
             {
                 "example_de": "Dieser Stein ist ein wichtiges Dokument für die alte römische Kultur.",
@@ -8102,10 +8109,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "donnern, donnert, donnerte, hat gedonnert",
         "word_bg": [
-            "гръм"
+            "гърмя"
         ],
         "examples": [
             {
@@ -8119,10 +8126,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Donner, -",
         "word_bg": [
-            "Thunder"
+            "гръм",
+            "мълния"
         ],
         "examples": [
             {
@@ -8132,7 +8140,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "doppelt",
         "word_bg": [
             "двоен"
@@ -8145,10 +8153,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "Doppel-",
         "word_bg": [
-            "Двойна"
+            "двоен-"
         ],
         "examples": [
             {
@@ -8162,10 +8170,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Dorf, ¨-er",
         "word_bg": [
-            "Село"
+            "село"
         ],
         "examples": [
             {
@@ -8175,7 +8183,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dort",
         "word_bg": [
             "там"
@@ -8192,7 +8200,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dorthin",
         "word_bg": [
             "там"
@@ -8205,23 +8213,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Dose, -n → D, CH: Büchse",
         "word_bg": [
-            "Може да"
+            "кутия",
+            "консерва"
         ],
         "examples": [
             {
                 "example_de": "Ich habe noch eine Dose Bohnen.",
-                "example_bg": "Все още имам кутия боб."
+                "example_bg": "Все още имам консерва боб."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "draußen",
         "word_bg": [
-            "извън"
+            "навън"
         ],
         "examples": [
             {
@@ -8235,15 +8244,16 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Dreck",
         "word_bg": [
-            "Мръсотия"
+            "кал",
+            "мръсотия"
         ],
         "examples": [
             {
                 "example_de": "Iss den Apfel nicht! Der lag im Dreck.",
-                "example_bg": "Не яжте ябълката! То лежеше в пръстта."
+                "example_bg": "Не яжте ябълката! Тя лежеше в калта."
             },
             {
                 "example_de": "Ich konnte vor lauter Dreck auf dem Fenster nichts sehen.",
@@ -8251,15 +8261,16 @@
             },
             {
                 "example_de": "Kümmere dich um deinen eigenen Dreck!",
-                "example_bg": "Занимавайте се със собствения си бизнес!"
+                "example_bg": "Занимавайте се със собствените си глупости!"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "drehen, dreht, drehte, hat gedreht",
         "word_bg": [
-            "завъртете"
+            "завъртам",
+            "въртя"
         ],
         "examples": [
             {
@@ -8277,10 +8288,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dringend",
         "word_bg": [
-            "спешно"
+            "спешен"
         ],
         "examples": [
             {
@@ -8298,31 +8309,27 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "drinnen/drin",
         "word_bg": [
-            "вътре в"
+            "вътре"
         ],
         "examples": [
             {
                 "example_de": "Wo wollt ihr sitzen? Draußen oder drinnen?",
-                "example_bg": "Къде искате да седнете? На открито или на закрито?"
+                "example_bg": "Къде искате да седнете? Вън или вътре?"
             },
             {
                 "example_de": "Bei der Hitze ist es drinnen viel angenehmer.",
                 "example_bg": "В жегата вътре е много по-приятно."
-            },
-            {
-                "example_de": "In der Packung ist nichts mehr drin.",
-                "example_bg": "В опаковката не е останало нищо."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Droge, -n",
         "word_bg": [
-            "Наркотици"
+            "наркотик"
         ],
         "examples": [
             {
@@ -8332,20 +8339,20 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Drogerie, -n",
         "word_bg": [
-            "Аптека"
+            "дрогерия"
         ],
         "examples": [
             {
                 "example_de": "Waschmittel bekommst du in der Drogerie.",
-                "example_bg": "Можете да закупите перилен препарат от аптеката."
+                "example_bg": "Можете да закупите перилен препарат от дрогерията."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "drüben",
         "word_bg": [
             "там"
@@ -8358,19 +8365,20 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "drucken, druckt, druckte, hat gedruckt",
         "word_bg": [
-            "отпечатайте"
+            "принтирам",
+            "печатам"
         ],
         "examples": [
             {
                 "example_de": "Warum hast du den Brief noch nicht ausgedruckt?",
-                "example_bg": "Защо все още не сте отпечатали писмото?"
+                "example_bg": "Защо все още не сте принтирали писмото?"
             },
             {
                 "example_de": "Bei welcher Firma haben Sie diese Prospekte drucken lassen?",
-                "example_bg": "От коя фирма са отпечатани тези брошури?"
+                "example_bg": "От коя фирма са принтирани тези брошури?"
             },
             {
                 "example_de": "Du gehst einfach auf „Datei drucken“!",
@@ -8379,10 +8387,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Drucker, -",
         "word_bg": [
-            "Принтер"
+            "принтер"
         ],
         "examples": [
             {
@@ -8392,10 +8400,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "drücken, drückt, drückte, hat gedrückt",
         "word_bg": [
-            "натиснете"
+            "натискам",
+            "стискам/убивам (обувки)"
         ],
         "examples": [
             {
@@ -8403,20 +8412,21 @@
                 "example_bg": "Трябва само да натиснете бутона."
             },
             {
-                "example_de": "Die neuen Schuhe drücken.",
-                "example_bg": "Новите обувки притискат."
-            },
-            {
                 "example_de": "Wenn du hier drückst, geht die Tür auf.",
-                "example_bg": "Ако натиснете тук, вратата ще се отвори."
+                "example_bg": "Ако натиснеш тук, вратата ще се отвори."
+            }
+            {
+                "example_de": "Die neuen Schuhe drücken.",
+                "example_bg": "Новите обувки ми убиват."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Druck, ¨-e",
         "word_bg": [
-            "Налягане"
+            "натискане",
+            "налягане"
         ],
         "examples": [
             {
@@ -8430,7 +8440,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dumm",
         "word_bg": [
             "глупав"
