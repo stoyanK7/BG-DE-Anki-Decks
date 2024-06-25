@@ -1194,10 +1194,10 @@ VS_03
 
 
 
-        drehen, dreht, drehte,        1. Drehen Sie zum Einschalten den                                            3. Wir haben den ganzen Mai durch
-        hat gedreht                      Schalter nach rechts.                                                        geheizt.
-                                      2. Die Kinder drehen sich zur Musik im                                       4. Wir haben unsere Wohnung durch
-                                         Kreis.                                                                       einen Freund bekommen.
+        drehen, dreht, drehte,        1. Drehen Sie zum Einschalten den                                            
+        hat gedreht                      Schalter nach rechts.                                                        
+                                      2. Die Kinder drehen sich zur Musik im                                       
+                                         Kreis.                                                                       
                                       3. Bei Familie Huber dreht sich jetzt alles
                                          um das Baby.                               durcheinander                  1. Alle meine Sachen sind durcheinander.
                                                                                                                       Ich finde nichts mehr.
@@ -1257,6 +1257,10 @@ VS_03
                                          Wald gefahren.                                                              Wochenende. – Danke, ebenfalls.
                                       2. Wenn Sie zum Bahnhof gehen, kom-
                                          men Sie durch die Goethestraße.            ebenso                           Schöne Feiertage. – Danke, ebenso.
+                                      3. Wir haben den ganzen Mai durch
+                                         geheizt.
+                                      4. Wir haben unsere Wohnung durch
+                                         einen Freund bekommen.
 VS_03
 
 

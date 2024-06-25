@@ -8461,7 +8461,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dunkel",
         "word_bg": [
             "тъмен"
@@ -8482,15 +8482,16 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dünn",
         "word_bg": [
+            "кльощав",
             "тънък"
         ],
         "examples": [
             {
                 "example_de": "Mein Sohn ist sehr dünn. Er isst zu wenig.",
-                "example_bg": "Синът ми е много слаб. Той се храни твърде малко."
+                "example_bg": "Синът ми е много кльощав. Той се храни твърде малко."
             },
             {
                 "example_de": "Warum ziehst du nur so einen dünnen Mantel an? Es ist kalt draußen.",
@@ -8524,7 +8525,7 @@
         ]
     },
     {
-        "manually_verified": true,
+        "manually_verified": false,
         "word_de": "durcheinander",
         "word_bg": [
             "разбъркано",
@@ -8538,10 +8539,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Durchsage, -n",
         "word_bg": [
-            "Обявление"
+            "съобщение"
         ],
         "examples": [
             {
@@ -8555,10 +8556,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Durchschnitt, -e",
         "word_bg": [
-            "Средно"
+            "средна стойност"
         ],
         "examples": [
             {
@@ -8576,7 +8577,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "durchschnittlich",
         "word_bg": [
             "средно"
@@ -8589,10 +8590,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "dürfen, darf, durfte, hat gedurft (hat dürfen als Modalverb)",
         "word_bg": [
-            "май"
+            "позволено ми е",
+            "мога",
+            "имам право"
         ],
         "examples": [
             {
@@ -8605,7 +8608,7 @@
             },
             {
                 "example_de": "Das hätten Sie nicht machen dürfen!",
-                "example_bg": "Не трябваше да го правиш!"
+                "example_bg": "Не трябваше да го правите!"
             },
             {
                 "example_de": "Was darf ich Ihnen anbieten?",
@@ -8618,53 +8621,49 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Durst",
         "word_bg": [
-            "Жажда"
+            "жажда"
         ],
         "examples": [
             {
                 "example_de": "Ich hole Ihnen etwas zu trinken. Sie haben sicher Durst.",
-                "example_bg": "Ще ти донеса нещо за пиене. Сигурно сте жадни."
+                "example_bg": "Ще ви донеса нещо за пиене. Сигурно сте жадни."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "durstig",
         "word_bg": [
-            "thirsty"
+            "жаден"
         ],
         "examples": [
             {
                 "example_de": "Du bist sicher durstig. Was möchtest du trinken?",
-                "example_bg": "Сигурно сте жадни. Какво бихте искали да пиете?"
+                "example_bg": "Сигурно сте жадни. Какво би искал да пиеш?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "(sich) duschen, duscht, duschte, hat geduscht",
         "word_bg": [
-            "душ"
+            "изкъпвам (се)"
         ],
         "examples": [
             {
                 "example_de": "Wenn Sie sich duschen wollen: Das Badezimmer ist dort hinten links.",
-                "example_bg": "Ако искате да си вземете душ: банята е там, вляво."
-            },
-            {
-                "example_de": "Ich bade nicht so gern, ich dusche lieber.",
-                "example_bg": "Не обичам да се къпя толкова много, предпочитам да вземам душ."
+                "example_bg": "Ако искате да се изкъпете: банята е там, вляво."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Dusche, -n",
         "word_bg": [
-            "Душ"
+            "душ"
         ],
         "examples": [
             {
@@ -8673,33 +8672,33 @@
             },
             {
                 "example_de": "Unsere Wohnung hat nur eine Dusche.",
-                "example_bg": "В апартамента ни има само душ."
+                "example_bg": "В апартамента ни има само един душ."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "duzen, duzt, duzte, hat geduzt",
         "word_bg": [
-            "да си приказваме на четири очи"
+            "говоря на ти"
         ],
         "examples": [
             {
-                "example_de": "Wollen wir Du zueinander sagen? Ja, wir können uns gern duzen?",
-                "example_bg": "Да си кажем \"ти\"? Да, можем да си приказваме на четири очи?"
+                "example_de": "Wir können uns duzen.",
+                "example_bg": "Можем да си говорим на ти."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "eben",
         "word_bg": [
-            "дори"
+            "тъкмо"
         ],
         "examples": [
             {
                 "example_de": "Ich bin eben erst angekommen.",
-                "example_bg": "Току-що пристигнах."
+                "example_bg": "Тъкмо пристигнах."
             },
             {
                 "example_de": "Ich gebe auf. Ich habe eben kein Glück!",
@@ -8708,20 +8707,20 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ebenfalls",
         "word_bg": [
-            "също така"
+            "подобно"
         ],
         "examples": [
             {
                 "example_de": "Ich wünsche Ihnen ein schönes Wochenende. – Danke, ebenfalls.",
-                "example_bg": "Приятни почивни дни. - Благодаря и на вас."
+                "example_bg": "Пожелавам Ви приятни почивни дни. - Благодаря, подобно."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ebenso",
         "word_bg": [
             "също така"
@@ -8729,12 +8728,12 @@
         "examples": [
             {
                 "example_de": "Schöne Feiertage. – Danke, ebenso.",
-                "example_bg": "Весели празници. - Благодаря и на вас."
+                "example_bg": "Весели празници. - Благодаря, също така и на вас."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die e-card (A) → D: die Versichertenkarte",
         "word_bg": [
             "електронна картичка"
