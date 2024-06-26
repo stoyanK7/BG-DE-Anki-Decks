@@ -1275,7 +1275,7 @@ VS_03
         die e-card (A)                    Haben Sie Ihre e-card dabei?               eilen, eilt, eilte,                 Es eilt sehr. Bitte machen Sie schnell.
         → D: die Versichertenkarte                                                   hat/ist geeilt
 
-        echt                            1. Ich träume von einem echten                                     die Eile   1. Ich bin sehr in Eile
+        echt                            1. Ich träume von einem echten               die Eile                         1. Ich bin sehr in Eile
                                            Perserteppich.                                                             2. Das hat keine Eile.
                                         2. Der Film war echt gut.
                                                                                                                eilig     Hast du es eilig?
@@ -1292,8 +1292,8 @@ VS_03
                                         3. Wo ist die Apotheke? − Gleich ums Eck.    brach ein,                          eingebrochen.
                                                                                      ist eingebrochen
                                eckig      Ich möchte einen eckigen Tisch, keinen
-                                          runden.                                                 der Einbrecher, -      Die Einbrecher haben nichts gestohlen.
-                                                                                            die Einbrecherin, -nen
+                                          runden.                                    der Einbrecher, -                   Die Einbrecher haben nichts gestohlen.
+                                                                                     die Einbrecherin, -nen        
         egal                            1. Es ist mir ganz egal, was die Leute
                                            denken.                                               der Einbruch, ¨-e       In der Urlaubszeit gibt es viele
                                         2. Egal, wie das Wetter ist, ich gehe                                            Wohnungseinbrüche.
@@ -1301,8 +1301,8 @@ VS_03
                                                                                      eindeutig                         1. Das Ergebnis ist eindeutig. Du hast
         die Ehe, -n                       Sie hat zwei Kinder aus erster Ehe.                                             gewonnen.
                                                                                                                        2. Du kannst eindeutig besser kochen als
-                 die Ehefrau, -en/der     Wie heißt Ihre Ehefrau mit Vornamen?                                            ich.
-                       Ehemann, ¨-er
+        die Ehefrau, -en,                 Wie heißt Ihre Ehefrau mit Vornamen?                                             ich.
+        der Ehemann, ¨-er  
                                                                                      der Eindruck, ¨-e                 1. Ich finde die Leute auf der Straße
                       das Ehepaar, -e     Das Ehepaar unter uns hat zwei                                                  ziemlich unfreundlich. Wie ist dein
                                           Kinder.                                                                         Eindruck?
@@ -1346,7 +1346,7 @@ VS_03
 
 
         beeinflussen, beeinflusst,       Dieses Ereignis hat die Wahlen                        die Einnahme, -n     Unser Geschäft läuft gut. Unsere
-        beeinflusste, hat beeinflusst                                                                               Einnahmen waren in diesem Monat
+        beeinflusste, hat beeinflusst    beeinflusst.                                                               Einnahmen waren in diesem Monat
                                                                                                                     höher als im letzten.
 
         einfügen, fügt ein,              Markieren Sie zuerst die Zeilen, dann      einpacken, packt ein,        1. Hast du Handtücher eingepackt?
