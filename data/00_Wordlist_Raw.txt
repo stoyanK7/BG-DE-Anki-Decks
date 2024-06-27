@@ -1491,8 +1491,8 @@ VS_03
 
 
 
-        entscheiden, entscheidet,  1. Das kann ich nicht allein entscheiden,                                        3. An der Konferenz nehmen Vertreter
-        entschied,                    da muss ich erst fragen.                                                         aus fast allen Ländern der Erde teil.
+        entscheiden, entscheidet,  1. Das kann ich nicht allein entscheiden,                                        
+        entschied,                    da muss ich erst fragen.                                                         
         hat entschieden            2. Für welchen Anzug haben Sie sich
                                       entschieden?                                        der Erdapfel, ¨- (A) →      Kann ich bitte noch Erdäpfel
                                                                                                       Kartoffel       bekommen?
@@ -1553,6 +1553,8 @@ VS_03
         die Erde, -n                   1. Die Pflanzen brauchen neue Erde.
                                        2. Mein Sohn hat das Glas auf die Erde       erhöhen, erhöht, erhöhte,  1. Die Regierung wird sicher bald wieder
                                           fallen lassen.                            hat erhöht                    die Steuern erhöhen.
+                                       3. An der Konferenz nehmen Vertreter                                    2. Die Zahl der Unfälle hat sich stark
+                                          aus fast allen Ländern der Erde teil.                                   erhöht. 
 VS_03
 
 
@@ -1564,8 +1566,8 @@ VS_03
 
 
 
-                                        2. Die Zahl der Unfälle hat sich stark       erledigen, erledigt,              Diese zwei Pakete müssen zur Post.
-                                           erhöht.                                   erledigte, hat erledigt           Könntest du das für mich erledigen?
+                                                                                     erledigen, erledigt,              Diese zwei Pakete müssen zur Post.
+                                                                                     erledigte, hat erledigt           Könntest du das für mich erledigen?
 
                  die Erhöhung, -en        Wir streiken für eine Lohnerhöhung.        erleichtern, erleichtert,       1. Ich bin erleichtert, dass alles so gut
                                                                                      erleichterte,                      geklappt hat.

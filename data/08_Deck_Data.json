@@ -10241,10 +10241,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "entscheiden, entscheidet, entschied, hat entschieden",
         "word_bg": [
-            "реши"
+            "решавам"
         ],
         "examples": [
             {
@@ -10258,10 +10258,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Entscheidung, -en",
         "word_bg": [
-            "Решение"
+            "решение"
         ],
         "examples": [
             {
@@ -10279,20 +10279,20 @@
         ],
         "examples": [
             {
-                "example_de": "Es steht unentschieden zwischen den beiden Mannschaften.",
-                "example_bg": "Двата отбора са с равен брой точки."
-            },
-            {
                 "example_de": "Ich bin noch immer unentschieden, was ich morgen tun soll.",
                 "example_bg": "Все още не съм решил какво да правя утре."
+            },
+            {
+                "example_de": "Es steht unentschieden zwischen den beiden Mannschaften.",
+                "example_bg": "Двата отбора са с равен брой точки."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich entschließen, entschließt sich, entschloss sich, hat sich entschlossen",
         "word_bg": [
-            "реши"
+            "решавам се"
         ],
         "examples": [
             {
@@ -10302,10 +10302,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "entschlossen",
         "word_bg": [
-            "определено"
+            "решен"
         ],
         "examples": [
             {
@@ -10315,27 +10315,27 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "entschuldigen, entschuldigt, entschuldigte, hat entschuldigt",
         "word_bg": [
-            "да се извиниш"
+            "извинявам се"
         ],
         "examples": [
             {
                 "example_de": "Entschuldigen Sie bitte, dass ich Sie störe. Aber es gibt ein Problem.",
-                "example_bg": "Извинявам се, че ви обезпокоих. Но има проблем."
+                "example_bg": "Извинявам се, че ви безпокоя. Но има проблем."
             },
             {
                 "example_de": "Herr Meier lässt sich entschuldigen, er ist stark erkältet.",
-                "example_bg": "Г-н Meier поднася извиненията си, има силна настинка."
+                "example_bg": "Г-н Мейер поднася извиненията си, има силна настинка."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Entschuldigung, -en",
         "word_bg": [
-            "Съжалявам"
+            "извинение"
         ],
         "examples": [
             {
@@ -10345,10 +10345,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "entsorgen, entsorgt, entsorgte, hat entsorgt",
         "word_bg": [
-            "изхвърляне на"
+            "изхвърлям (отпадък)"
         ],
         "examples": [
             {
@@ -10358,7 +10358,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "entspannend",
         "word_bg": [
             "релаксиращ"
@@ -10371,10 +10371,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "entstehen, entsteht, entstand, ist entstanden",
         "word_bg": [
-            "възникват"
+            "образувам се",
+            "възниквам",
+            "произлизам"
         ],
         "examples": [
             {
@@ -10388,10 +10390,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "enttäuschen, enttäuscht, enttäuschte, hat enttäuscht",
         "word_bg": [
-            "да разочарова"
+            "разочаровам"
         ],
         "examples": [
             {
@@ -10409,10 +10411,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Enttäuschung, -en",
         "word_bg": [
-            "Разочарование"
+            "разочарование"
         ],
         "examples": [
             {
@@ -10422,7 +10424,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "entweder ... oder",
         "word_bg": [
             "или ... или"
@@ -10430,15 +10432,17 @@
         "examples": [
             {
                 "example_de": "Nur einer kann gewinnen, entweder du oder ich.",
-                "example_bg": "Само един може да спечели - ти или аз."
+                "example_bg": "Само един може да спечели - или ти или аз."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "entwickeln, entwickelt, entwickelte, hat entwickelt",
         "word_bg": [
-            "разработване на"
+            "развивам",
+            "разработвам",
+            "изобретявам"
         ],
         "examples": [
             {
@@ -10452,10 +10456,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Entwicklung, -en",
         "word_bg": [
-            "Развитие"
+            "развитие"
         ],
         "examples": [
             {
@@ -10465,10 +10469,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Erde, -n",
         "word_bg": [
-            "Земя"
+            "Земя (планета)",
+            "почва",
+            "под"
         ],
         "examples": [
             {
@@ -10480,16 +10486,16 @@
                 "example_bg": "Синът ми изпусна стъклото на земята."
             },
             {
-                "example_de": "An der Konferenz nehmen Vertreter",
-                "example_bg": "На конференцията ще присъстват представители на"
+                "example_de": "An der Konferenz nehmen Vertreter aus fast allen Ländern der Erde teil.",
+                "example_bg": "В конференцията участват представители на почти всички страни в света."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Erdapfel, ¨- (A) → Kartoffel",
         "word_bg": [
-            "Картофи"
+            "картоф"
         ],
         "examples": [
             {
@@ -10499,23 +10505,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Erdgeschoss, -e",
         "word_bg": [
-            "Приземен етаж"
+            "приземен етаж"
         ],
         "examples": [
             {
                 "example_de": "Unsere Wohnung befindet sich im Erdgeschoss.",
-                "example_bg": "Апартаментът ни се намира на първия етаж."
+                "example_bg": "Апартаментът ни се намира на приземния етаж."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Ereignis, -se",
         "word_bg": [
-            "Събитие"
+            "събитие"
         ],
         "examples": [
             {
@@ -10529,36 +10535,38 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich ereignen, ereignet sich, ereignete sich, hat sich ereignet",
         "word_bg": [
-            "се появяват"
+            "случвам се",
+            "ставам"
         ],
         "examples": [
             {
                 "example_de": "Der Unfall ereignete sich am frühen Morgen.",
-                "example_bg": "Инцидентът е станал рано сутринта."
+                "example_bg": "Инцидентът се е случил рано сутринта."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erfahren, erfährt, erfuhr, hat erfahren",
         "word_bg": [
-            "опитен"
+            "научавам",
+            "узнавам"
         ],
         "examples": [
             {
                 "example_de": "Wann erfahren wir das Ergebnis der Prüfung?",
-                "example_bg": "Кога ще разберем резултата от одита?"
+                "example_bg": "Кога ще научим резултата от изпита?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Erfahrung, -en",
         "word_bg": [
-            "Опит"
+            "опит"
         ],
         "examples": [
             {
@@ -10572,10 +10580,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erfinden, erfindet, erfand, hat erfunden",
         "word_bg": [
-            "изобретение"
+            "изобретявам",
+            "измислям"
         ],
         "examples": [
             {
@@ -10585,10 +10594,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Erfindung, -en",
         "word_bg": [
-            "Изобретение"
+            "изобретение"
         ],
         "examples": [
             {
@@ -10598,15 +10607,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Erfolg, -e",
         "word_bg": [
-            "Успех"
+            "успех"
         ],
         "examples": [
             {
                 "example_de": "Der Film war ein großer Erfolg.",
-                "example_bg": "Филмът има голям успех."
+                "example_bg": "Филмът имаше голям успех."
             },
             {
                 "example_de": "Ich wünsche Ihnen viel Erfolg bei der Prüfung.",
@@ -10615,7 +10624,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erfolgreich",
         "word_bg": [
             "успешен"
@@ -10628,10 +10637,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erforderlich",
         "word_bg": [
-            "изисква се"
+            "необходим"
         ],
         "examples": [
             {
@@ -10645,10 +10654,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erfordern, erfordert, erforderte, hat erfordert",
         "word_bg": [
-            "изисква"
+            "изисквам",
+            "искам"
         ],
         "examples": [
             {
@@ -10658,10 +10668,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erfüllen, erfüllt, erfüllte, hat erfüllt",
         "word_bg": [
-            "изпълни"
+            "изпълнявам"
         ],
         "examples": [
             {
@@ -10675,10 +10685,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ergänzen, ergänzt, ergänzte, hat ergänzt",
         "word_bg": [
-            "приложение"
+            "попълвам",
+            "допълвам"
         ],
         "examples": [
             {
@@ -10688,10 +10699,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Ergebnis, -se",
         "word_bg": [
-            "Резултат"
+            "резултат"
         ],
         "examples": [
             {
@@ -10701,10 +10712,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erhalten, erhält, erhielt, hat erhalten",
         "word_bg": [
-            "получавате"
+            "получавам"
         ],
         "examples": [
             {
@@ -10714,10 +10725,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erhöhen, erhöht, erhöhte, hat erhöht",
         "word_bg": [
-            "увеличаване на"
+            "повишавам",
+            "увеличававам"
         ],
         "examples": [
             {
@@ -10725,16 +10737,16 @@
                 "example_bg": "Правителството със сигурност скоро отново ще повиши данъците."
             },
             {
-                "example_de": "Die Zahl der Unfälle hat sich stark",
-                "example_bg": "Броят на произшествията рязко се е увеличил"
+                "example_de": "Die Zahl der Unfälle hat sich stark erhöht.",
+                "example_bg": "Броят на произшествията рязко се е увеличил."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Erhöhung, -en",
         "word_bg": [
-            "Увеличаване на"
+            "увеличение"
         ],
         "examples": [
             {
@@ -10744,10 +10756,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich erholen, erholt sich, erholte sich, hat sich erholt",
         "word_bg": [
-            "възстановяване"
+            "възстановявам се"
         ],
         "examples": [
             {
@@ -10756,15 +10768,16 @@
             },
             {
                 "example_de": "Er hat sich nach dem Unfall sehr schnell wieder erholt.",
-                "example_bg": "Той се възстановява много бързо след инцидента."
+                "example_bg": "Той се възстанови много бързо след инцидента."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Erholung, -en",
         "word_bg": [
-            "Отдих"
+            "почивка",
+            "отдих"
         ],
         "examples": [
             {
@@ -10788,10 +10801,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Erinnerung, -en",
         "word_bg": [
-            "Напомняне"
+            "спомен",
+            "памет"
         ],
         "examples": [
             {
@@ -10801,10 +10815,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich erkälten, erkältet sich, erkältete sich, hat sich erkältet",
         "word_bg": [
-            "да се простудиш"
+            "простудявам се"
         ],
         "examples": [
             {
@@ -10814,36 +10828,37 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erkältet",
         "word_bg": [
-            "cold"
+            "настинал"
         ],
         "examples": [
             {
                 "example_de": "Ich bin stark erkältet.",
-                "example_bg": "Имам силна настинка."
+                "example_bg": "Здраво съм настинал."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Erkältung, -en",
         "word_bg": [
-            "Cold"
+            "настинка"
         ],
         "examples": [
             {
                 "example_de": "Du hast eine schlimme Erkältung!",
-                "example_bg": "Имате лоша настинка!"
+                "example_bg": "Имаш лоша настинка!"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erkennen, erkennt, erkannte, hat erkannt",
         "word_bg": [
-            "разпознаване на"
+            "разпознавам",
+            "осъзнавам"
         ],
         "examples": [
             {
@@ -10861,15 +10876,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erklären, erklärt, erklärte, hat erklärt",
         "word_bg": [
-            "обяснете"
+            "обяснявам"
         ],
         "examples": [
             {
                 "example_de": "Kannst du mir erklären, wie man diesen Apparat bedient?",
-                "example_bg": "Можете ли да ми обясните как да работя с това устройство?"
+                "example_bg": "Можеш ли да ми обясниш как да работя с това устройство?"
             },
             {
                 "example_de": "Ich kann mir nicht erklären, wie der Brief verschwinden konnte.",
@@ -10886,21 +10901,22 @@
         ],
         "examples": [
             {
-                "example_de": "Hast du schon die Steuererklärung gemacht?",
+                "example_de": "Die Erklärung der Lehrerin ist besser als die Erklärung im Buch.",
                 "example_bg": "Обяснението на учителката е по-добро от обяснението в книгата."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich erkundigen, erkundigt sich, erkundigte sich, hat sich erkundigt",
         "word_bg": [
-            "запитване"
+            "поинтересувам се",
+            "осведомявам се"
         ],
         "examples": [
             {
                 "example_de": "Hast du dich schon nach einem Zug erkundigt?",
-                "example_bg": "Вече сте направили запитване за влак?"
+                "example_bg": "Поинтересувал ли си се вече за влак?"
             },
             {
                 "example_de": "Ich möchte mich erkundigen, wie es Ihnen geht.",
@@ -10909,10 +10925,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erlauben, erlaubt, erlaubte, hat erlaubt",
         "word_bg": [
-            "позволи"
+            "позволявам",
+            "разрешавам"
         ],
         "examples": [
             {
@@ -10926,10 +10943,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Erlaubnis, -se",
         "word_bg": [
-            "Разрешение"
+            "разрешение"
         ],
         "examples": [
             {
@@ -10939,10 +10956,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erleben, erlebt, erlebte, hat erlebt",
         "word_bg": [
-            "опит"
+            "преживявам",
+            "изживявам"
         ],
         "examples": [
             {
@@ -10952,10 +10970,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Erlebnis, -se",
         "word_bg": [
-            "Опит"
+            "преживяване",
+            "изживяване"
         ],
         "examples": [
             {
@@ -10965,23 +10984,26 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erledigen, erledigt, erledigte, hat erledigt",
         "word_bg": [
-            "пълен"
+            "свършвам",
+            "извършвам",
+            "изпълнявам"
         ],
         "examples": [
             {
                 "example_de": "Diese zwei Pakete müssen zur Post. Könntest du das für mich erledigen?",
-                "example_bg": "Тези две пратки трябва да отидат в пощата. Можете ли да го направите за мен?"
+                "example_bg": "Тези две пратки трябва да отидат в пощата. Можеш ли да го направиш за мен?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erleichtern, erleichtert, erleichterte, hat erleichtert",
         "word_bg": [
-            "улесняване на"
+            "успокоявам",
+            "улеснявам"
         ],
         "examples": [
             {
@@ -10995,10 +11017,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ermäßigung, -en",
         "word_bg": [
-            "Намаление"
+            "отстъпка",
+            "намаление"
         ],
         "examples": [
             {
@@ -11022,10 +11045,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ernährung",
         "word_bg": [
-            "Хранене"
+            "хранене"
         ],
         "examples": [
             {
@@ -11035,7 +11058,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ernst",
         "word_bg": [
             "сериозен"
@@ -11048,10 +11071,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ernsthaft",
         "word_bg": [
-            "сериозно"
+            "сериозен"
         ],
         "examples": [
             {
@@ -11061,10 +11084,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ernte, -n",
         "word_bg": [
-            "Harvest"
+            "реколта"
         ],
         "examples": [
             {
@@ -11074,10 +11097,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "eröffnen, eröffnet, eröffnete, hat eröffnet",
         "word_bg": [
-            "отворен"
+            "отварям",
+            "откривам"
         ],
         "examples": [
             {
@@ -11091,10 +11115,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Eröffnung, -en",
         "word_bg": [
-            "Откриване на"
+            "откриване"
         ],
         "examples": [
             {
@@ -11104,15 +11128,17 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erreichen, erreicht, erreichte, hat erreicht",
         "word_bg": [
-            "достигнете"
+            "стигам",
+            "свързвам се с",
+            "постигам"
         ],
         "examples": [
             {
                 "example_de": "Wenn wir uns beeilen, erreichen wir noch den 8-Uhr-Zug.",
-                "example_bg": "Ако побързаме, все още можем да хванем влака в 8 часа."
+                "example_bg": "Ако побързаме, все още можем да стигнем влака в 8 часа."
             },
             {
                 "example_de": "Bis 17 Uhr können Sie mich im Büro erreichen.",
@@ -11129,10 +11155,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "erschöpft",
         "word_bg": [
-            "изчерпан"
+            "изтощен"
         ],
         "examples": [
             {
