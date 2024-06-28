@@ -1754,7 +1754,7 @@ VS_03
                                                                                      der Fauteuil, -s (A, CH) →          Ich hätte gern einen bequemen
         fallen, fällt, fiel,            1. Das Glas ist auf den Boden gefallen.      D, CH: Sessel                       Fauteuil.
         ist gefallen                    2. In den Bergen ist schon Schnee
-                                           gefallen.                                 fehlen, fehlt, fehlte,            1 Auf dem Brief fehlt der Absender.
+                                           gefallen.                                 fehlen, fehlt, fehlte,            1. Auf dem Brief fehlt der Absender.
                                         3. Die Temperatur ist ganz plötzlich unter   hat gefehlt                       2. Hast du Kleingeld? Mir fehlt ein Euro.
                                            null gefallen.                                                              3. In der Kasse fehlen 20 Euro.
                                                                                                                        4. Antonio war nicht in der Schule, er
@@ -1772,8 +1772,8 @@ VS_03
         die Familie, -n                   Ich habe eine große Familie.
                                                                                                    die Feier, -n         Es war eine schöne Feier.
         der Familienstand (D, A) →        Bei „Familienstand“ musst du „ledig“
-                   Personenstand;         ankreuzen.                                              der Feierabend         Einen schönen Feierabend.
-                    CH: Zivilstand
+        Personenstand; CH: Zivilstand     ankreuzen.                                              der Feierabend         Einen schönen Feierabend.
+                    
                                                                                               der Feiertag, -e         1. Am Montag ist Feiertag.
         fangen, fängt, fing,            1. Das Kind hat den Ball gefangen.                                             2. Schöne Feiertage.
         hat gefangen                    2. Unsere Katze hat eine Maus gefangen.
