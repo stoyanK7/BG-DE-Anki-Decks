@@ -12211,10 +12211,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Fehler, -",
         "word_bg": [
-            "Грешка"
+            "грешка"
         ],
         "examples": [
             {
@@ -12223,28 +12223,29 @@
             },
             {
                 "example_de": "Die Schülerin hat den Fehler sofort gefunden.",
-                "example_bg": "Ученикът веднага открива грешката."
+                "example_bg": "Ученичката веднага откри грешката."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "feiern, feiert, feierte, hat gefeiert",
         "word_bg": [
-            "празнувайте"
+            "празнувам"
         ],
         "examples": [
             {
                 "example_de": "Wir haben gestern Karls Geburtstag gefeiert.",
-                "example_bg": "Вчера отпразнувахме рождения ден на Карл."
+                "example_bg": "Вчера празнувахме рождения ден на Карл."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Feier, -n",
         "word_bg": [
-            "Празник"
+            "празник",
+            "тържество"
         ],
         "examples": [
             {
@@ -12254,10 +12255,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Feierabend",
         "word_bg": [
-            "Време за затваряне"
+            "край на работния ден"
         ],
         "examples": [
             {
@@ -12267,10 +12268,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Feiertag, -e",
         "word_bg": [
-            "Официален празник"
+            "официален празник"
         ],
         "examples": [
             {
@@ -12284,10 +12285,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Feld, -er",
         "word_bg": [
-            "Поле"
+            "поле"
         ],
         "examples": [
             {
@@ -12297,10 +12298,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Fenster, -",
         "word_bg": [
-            "Windows"
+            "прозорец"
         ],
         "examples": [
             {
@@ -12310,10 +12311,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Ferien (Pl.) (CH) → D, A: Urlaub Ferien-",
         "word_bg": [
-            "Празници"
+            "ваканция"
         ],
         "examples": [
             {
@@ -12323,23 +12324,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Fernbedienung, -en",
         "word_bg": [
-            "Дистанционно управление"
+            "дистанционно (управление)"
         ],
         "examples": [
             {
                 "example_de": "Hast du die Fernbedienung gesehen?",
-                "example_bg": "Виждали ли сте дистанционното управление?"
+                "example_bg": "Виждал ли си дистанционното (управление)?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fernsehen, sieht fern, sah fern, hat ferngesehen",
         "word_bg": [
-            "телевизия"
+            "гледам телевизия"
         ],
         "examples": [
             {
@@ -12349,10 +12350,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Fernsehen",
         "word_bg": [
-            "Телевизия"
+            "телевизия"
         ],
         "examples": [
             {
@@ -12362,10 +12363,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Fernseher, -",
         "word_bg": [
-            "Телевизия"
+            "телевизор"
         ],
         "examples": [
             {
@@ -12375,10 +12376,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fertig",
         "word_bg": [
-            "готов"
+            "готов",
+            "уморен"
         ],
         "examples": [
             {
@@ -12387,23 +12389,25 @@
             },
             {
                 "example_de": "Wenn ich mit der Arbeit fertig bin, gehe ich nach Hause.",
-                "example_bg": "Когато приключа работа, се прибирам вкъщи."
+                "example_bg": "Когато съм готов с работата, се прибирам вкъщи."
             },
             {
                 "example_de": "Bist du fertig?",
-                "example_bg": "Готови ли сте?"
+                "example_bg": "Готов ли си?"
             },
             {
                 "example_de": "Das war ein schlimmer Tag. Ich bin total fertig.",
-                "example_bg": "Това беше лош ден. Напълно съм изтощена."
+                "example_bg": "Това беше лош ден. Напълно съм уморена."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fest",
         "word_bg": [
-            "фирма"
+            "твърд",
+            "здрав",
+            "стабилен"
         ],
         "examples": [
             {
@@ -12421,27 +12425,28 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Fest, -e",
         "word_bg": [
-            "Фирма"
+            "тържество",
+            "празник"
         ],
         "examples": [
             {
                 "example_de": "Wenn ich 18 werde, feiern wir ein großes Fest.",
-                "example_bg": "Когато навърша 18 години, ще направим голямо парти."
+                "example_bg": "Когато навърша 18 години, ще направим голямо тържество."
             },
             {
                 "example_de": "Frohes Fest!",
-                "example_bg": "Весела Коледа!"
+                "example_bg": "Весели празници!"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Festplatte, -n",
         "word_bg": [
-            "Твърд диск"
+            "твърд диск"
         ],
         "examples": [
             {
@@ -12451,10 +12456,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "festhalten, hält fest, hielt fest, hat festgehalten",
         "word_bg": [
-            "задръжте"
+            "държа здраво",
+            "не пускам"
         ],
         "examples": [
             {
@@ -12468,27 +12474,28 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "festlegen, legt fest, legte fest, hat festgelegt",
         "word_bg": [
-            "задаване на"
+            "фиксирам/определям",
+            "ангажирам се"
         ],
         "examples": [
             {
-                "example_de": "Ich weiß noch nicht, ob ich das mache. Ich möchte mich noch nicht festlegen.",
-                "example_bg": "Все още не знам дали ще го направя. Все още не искам да се ангажирам."
-            },
-            {
                 "example_de": "Habt ihr den Hochzeitstermin schon festgelegt?",
                 "example_bg": "Определили ли сте вече датата на сватбата?"
+            },
+            {
+                "example_de": "Ich weiß noch nicht, ob ich das mache. Ich möchte mich noch nicht festlegen.",
+                "example_bg": "Все още не знам дали ще го направя. Все още не искам да се ангажирам."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "festnehmen, nimmt fest, nahm fest, hat festgenommen",
         "word_bg": [
-            "арест"
+            "арестувам"
         ],
         "examples": [
             {
@@ -12498,10 +12505,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "festsetzen, setzt fest, setzte fest, hat festgesetzt",
         "word_bg": [
-            "задаване на"
+            "фиксирам/определям"
         ],
         "examples": [
             {
@@ -12511,10 +12518,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "feststehen, steht fest, stand fest, ist festgestanden",
         "word_bg": [
-            "да бъде фиксиран"
+            "фиксирам/определям"
         ],
         "examples": [
             {
@@ -12524,27 +12531,29 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "feststellen, stellt fest, stellte fest, hat festgestellt",
         "word_bg": [
-            "определяне на"
+            "забелязвам",
+            "констатирам"
         ],
         "examples": [
             {
                 "example_de": "Er hat festgestellt, dass der Absender des Briefes falsch war.",
-                "example_bg": "Той разбра, че подателят на писмото е сбъркал."
+                "example_bg": "Той забеляза, че подателят на писмото е сбъркал."
             },
             {
                 "example_de": "Der Arzt hat mich untersucht, konnte aber nichts feststellen.",
-                "example_bg": "Лекарят ме прегледа, но не можа да открие нищо нередно."
+                "example_bg": "Лекарят ме прегледа, но не можа да констатира нищо нередно."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fett",
         "word_bg": [
-            "удебелен шрифт"
+            "тлъст/мазен",
+            "дебел"
         ],
         "examples": [
             {
@@ -12558,10 +12567,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Fett",
         "word_bg": [
-            "Fat"
+            "мазнина"
         ],
         "examples": [
             {
@@ -12571,7 +12580,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "feucht",
         "word_bg": [
             "влажен"
@@ -12579,7 +12588,7 @@
         "examples": [
             {
                 "example_de": "Die Wäsche ist noch feucht.",
-                "example_bg": "Пералнята е все още влажна."
+                "example_bg": "Прането е все още влажно."
             },
             {
                 "example_de": "Es ist heute feucht draußen.",
@@ -12588,10 +12597,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Feuer",
         "word_bg": [
-            "Пожар"
+            "огън",
+            "пожар",
+            "огънче (за цигари)"
         ],
         "examples": [
             {
@@ -12600,15 +12611,15 @@
             },
             {
                 "example_de": "Haben Sie Feuer?",
-                "example_bg": "Имате ли светлина?"
+                "example_bg": "Имате ли огънче?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Feuerzeug, -e",
         "word_bg": [
-            "Lighter"
+            "запалка"
         ],
         "examples": [
             {
@@ -12618,10 +12629,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Feuerwehr, -en",
         "word_bg": [
-            "Пожарна команда"
+            "пожарна команда"
         ],
         "examples": [
             {
@@ -12631,10 +12642,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Fieber",
         "word_bg": [
-            "Треска"
+            "(повишена) температора"
         ],
         "examples": [
             {
@@ -12644,10 +12655,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Figur, -en",
         "word_bg": [
-            "Фигура"
+            "фигура"
         ],
         "examples": [
             {
@@ -12661,23 +12672,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Film, -e",
         "word_bg": [
-            "Филм"
+            "филм"
         ],
         "examples": [
             {
                 "example_de": "Den Film musst du dir unbedingt ansehen.",
-                "example_bg": "Трябва непременно да видите филма."
+                "example_bg": "Трябва непременно да видиш филма."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "finanzieren, finanziert, finanzierte, hat finanziert",
         "word_bg": [
-            "финанси"
+            "финансирам"
         ],
         "examples": [
             {
@@ -12687,7 +12698,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "finanziell",
         "word_bg": [
             "финансов"
@@ -12700,10 +12711,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "finden, findet, fand, hat gefunden",
         "word_bg": [
-            "намерете"
+            "намирам"
         ],
         "examples": [
             {
@@ -12716,15 +12727,15 @@
             },
             {
                 "example_de": "Luigi finde ich sehr nett.",
-                "example_bg": "Мисля, че Луиджи е много хубав."
+                "example_bg": "Намирам Луиджи за много мил."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Finger, -",
         "word_bg": [
-            "Пръсти"
+            "пръст"
         ],
         "examples": [
             {
@@ -12734,10 +12745,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Firma, Firmen",
         "word_bg": [
-            "Компания"
+            "компания",
+            "фирма"
         ],
         "examples": [
             {
@@ -12747,10 +12759,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "flach",
         "word_bg": [
-            "плосък"
+            "равен",
+            "плосък",
+            "плитък"
         ],
         "examples": [
             {
@@ -12764,10 +12778,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Fläche, -n",
         "word_bg": [
-            "Повърхностна площ"
+            "повърхностна площ"
         ],
         "examples": [
             {
@@ -12777,10 +12791,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Flasche, -n",
         "word_bg": [
-            "Бутилка"
+            "бутилка"
         ],
         "examples": [
             {
@@ -12794,10 +12808,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Fleck, -en",
         "word_bg": [
-            "Петна"
+            "петно"
         ],
         "examples": [
             {
@@ -12807,10 +12821,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Fleisch",
         "word_bg": [
-            "Месо"
+            "месо"
         ],
         "examples": [
             {
@@ -12820,10 +12834,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Fleischhauer, die Fleischhauerin, -nen (A) → Metzger",
         "word_bg": [
-            "Месарница"
+            "месарница"
         ],
         "examples": [
             {
@@ -12833,20 +12847,20 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fleißig",
         "word_bg": [
-            "усърден"
+            "старателен"
         ],
         "examples": [
             {
                 "example_de": "Pamela ist wirklich fleißig. Sie macht immer ihre Hausaufgaben.",
-                "example_bg": "Памела е много трудолюбива. Тя винаги си пише домашното."
+                "example_bg": "Памела е много старателна. Тя винаги си пише домашното."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "flexibel",
         "word_bg": [
             "гъвкав"
@@ -12859,10 +12873,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fliegen, fliegt, flog, ist geflogen",
         "word_bg": [
-            "муха"
+            "летя"
         ],
         "examples": [
             {
@@ -12880,10 +12894,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fliehen, flieht, floh, ist geflohen",
         "word_bg": [
-            "бягство"
+            "бягам/избягвам"
         ],
         "examples": [
             {
@@ -12893,10 +12907,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Flucht",
         "word_bg": [
-            "Бягство"
+            "бягство"
         ],
         "examples": [
             {
@@ -12906,10 +12920,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fließen, fließt, floss, ist geflossen",
         "word_bg": [
-            "поток"
+            "тека",
+            "вливам се"
         ],
         "examples": [
             {
@@ -12919,10 +12934,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fließend",
         "word_bg": [
-            "свободно"
+            "свободен/плавен",
+            "течащ"
         ],
         "examples": [
             {
@@ -12936,23 +12952,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Flohmarkt, ¨-e",
         "word_bg": [
-            "Бълхарски пазар"
+            "битпазар"
         ],
         "examples": [
             {
                 "example_de": "Diesen Hut habe ich am Flohmarkt gekauft.",
-                "example_bg": "Купих тази шапка на един бълхарски пазар."
+                "example_bg": "Купих тази шапка на един битпазар."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Flöte, -n",
         "word_bg": [
-            "Флейта"
+            "флейта"
         ],
         "examples": [
             {
@@ -12962,10 +12978,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Flug, ¨-e",
         "word_bg": [
-            "Полет"
+            "полет"
         ],
         "examples": [
             {
@@ -12975,10 +12991,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Flughafen, ¨-",
         "word_bg": [
-            "Летище"
+            "летище"
         ],
         "examples": [
             {
@@ -12988,10 +13004,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Flugzeug, -e",
         "word_bg": [
-            "Аероплан"
+            "самолет"
         ],
         "examples": [
             {
@@ -13001,10 +13017,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Flur, -e → Gang; D, CH: Korridor",
         "word_bg": [
-            "Коридор"
+            "коридор"
         ],
         "examples": [
             {
@@ -13014,10 +13030,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Fluss, ¨-e",
         "word_bg": [
-            "Река"
+            "река"
         ],
         "examples": [
             {
@@ -13027,10 +13043,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Flüssigkeit, -en",
         "word_bg": [
-            "Течност"
+            "течност"
         ],
         "examples": [
             {
@@ -13040,15 +13056,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "folgen, folgt, folgte, ist gefolgt",
         "word_bg": [
-            "следвайте"
+            "следвам"
         ],
         "examples": [
             {
                 "example_de": "Es folgen die Nachrichten.",
-                "example_bg": "Новината е следната."
+                "example_bg": "Следват новините."
             },
             {
                 "example_de": "Folgen Sie der Reiseleiterin.",
@@ -13057,10 +13073,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Folge, -n",
         "word_bg": [
-            "Последици"
+            "последица"
         ],
         "examples": [
             {
@@ -13070,10 +13086,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "folgend",
         "word_bg": [
-            "след"
+            "следващ"
         ],
         "examples": [
             {
@@ -13087,10 +13103,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fordern, fordert, forderte, hat gefordert",
         "word_bg": [
-            "търсене"
+            "искам",
+            "изисквам"
         ],
         "examples": [
             {
@@ -13100,10 +13117,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Forderung, -en",
         "word_bg": [
-            "Търсене"
+            "искане",
+            "изискване",
+            "претенция"
         ],
         "examples": [
             {
@@ -13113,10 +13132,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fördern, fördert, förderte, hat gefördert",
         "word_bg": [
-            "популяризиране на"
+            "спонсорирам",
+            "подпомагам"
         ],
         "examples": [
             {
@@ -13126,10 +13146,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Förderung, -en",
         "word_bg": [
-            "Промоция"
+            "подпомагане"
         ],
         "examples": [
             {
@@ -13139,10 +13159,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Form, -en",
         "word_bg": [
-            "Форма"
+            "форма"
         ],
         "examples": [
             {
@@ -13156,10 +13176,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Formular, -e",
         "word_bg": [
-            "Формуляр"
+            "формуляр"
         ],
         "examples": [
             {
@@ -13169,10 +13189,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Forschung, -en",
         "word_bg": [
-            "Изследвания"
+            "изследване"
         ],
         "examples": [
             {
@@ -13182,23 +13202,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Fortbildung, -en",
         "word_bg": [
-            "Допълнително обучение"
+            "допълнително обучение",
+            "повишаване на квалификацията"
         ],
         "examples": [
             {
                 "example_de": "Die Fortbildung, die ich machen will, ist sehr teuer.",
-                "example_bg": "Обучението, което искам да направя, е много скъпо."
+                "example_bg": "Допълнителното обучение, което искам да направя, е много скъпо."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Fortschritt, -e",
         "word_bg": [
-            "Прогрес"
+            "напредък"
         ],
         "examples": [
             {
@@ -13208,10 +13229,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fortsetzen, setzt fort, setzte fort, hat fortgesetzt",
         "word_bg": [
-            "продължете"
+            "продължавам"
         ],
         "examples": [
             {
@@ -13221,23 +13242,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Fortsetzung, -en",
         "word_bg": [
-            "Продължение"
+            "продължение"
         ],
         "examples": [
             {
                 "example_de": "Fortsetzung folgt.",
-                "example_bg": "Продължаваме."
+                "example_bg": "Следва продължение."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Forum, Foren (Internetforum)",
         "word_bg": [
-            "Форум"
+            "форум"
         ],
         "examples": [
             {
@@ -13247,10 +13268,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fotografieren, fotografiert, fotografierte, hat fotografiert",
         "word_bg": [
-            "снимка"
+            "правя снимка",
+            "фотографирам"
         ],
         "examples": [
             {
@@ -13260,10 +13282,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Foto, -s",
         "word_bg": [
-            "Снимка"
+            "снимка"
         ],
         "examples": [
             {
@@ -13273,10 +13295,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Fotoapparat, -e",
         "word_bg": [
-            "Камера"
+            "фотоапарат",
+            "камера"
         ],
         "examples": [
             {
@@ -13286,23 +13309,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Fotograf, -en",
         "word_bg": [
-            "Фотограф"
+            "фотограф"
         ],
         "examples": [
             {
                 "example_de": "Die Fotografin hat sehr schöne Fotos gemacht.",
-                "example_bg": "Фотографът направи много хубави снимки."
+                "example_bg": "Фотографката направи много хубави снимки."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Fotografie, -n",
         "word_bg": [
-            "Фотография"
+            "фотография"
         ],
         "examples": [
             {
@@ -13312,15 +13335,15 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fragen, fragt, fragte, hat gefragt",
         "word_bg": [
-            "попитайте"
+            "питам"
         ],
         "examples": [
             {
                 "example_de": "Darf ich Sie etwas fragen?",
-                "example_bg": "Мога ли да ви задам един въпрос?"
+                "example_bg": "Мога ли да ви питам нещо?"
             },
             {
                 "example_de": "Hat jemand nach mir gefragt?",
@@ -13328,15 +13351,15 @@
             },
             {
                 "example_de": "Ich frage mich, ob das richtig war.",
-                "example_bg": "Чудя се дали това е било правилно."
+                "example_bg": "Питам се дали това е било правилно."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Frage, -n",
         "word_bg": [
-            "Въпрос"
+            "въпрос"
         ],
         "examples": [
             {
@@ -13350,10 +13373,12 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Frau, -en",
         "word_bg": [
-            "Г-жа"
+            "жена",
+            "съпруга",
+            "госпожа"
         ],
         "examples": [
             {
@@ -13371,7 +13396,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "frech",
         "word_bg": [
             "нахален"
@@ -13384,10 +13409,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "frei",
         "word_bg": [
-            "безплатно"
+            "безплатен",
+            "свободен"
         ],
         "examples": [
             {
@@ -13417,7 +13443,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "im Freien",
         "word_bg": [
             "на открито"
@@ -13430,10 +13456,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Freiheit",
         "word_bg": [
-            "Freedom"
+            "свобода"
         ],
         "examples": [
             {
@@ -13443,10 +13469,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Freizeit",
         "word_bg": [
-            "Свободно време"
+            "свободно време"
         ],
         "examples": [
             {
@@ -13456,10 +13482,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "freiwillig",
         "word_bg": [
-            "доброволно"
+            "доброволен"
         ],
         "examples": [
             {
@@ -13469,10 +13495,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fremd",
         "word_bg": [
-            "чуждестранен"
+            "чуждестранен",
+            "непознат"
         ],
         "examples": [
             {
@@ -13486,10 +13513,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fressen, frisst, fraß, hat gefressen",
         "word_bg": [
-            "яжте"
+            "ям"
         ],
         "examples": [
             {
@@ -13499,10 +13526,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich freuen, freut sich, freute sich, hat sich gefreut",
         "word_bg": [
-            "да очаквате с нетърпение"
+            "радвам се",
+            "очаквам"
         ],
         "examples": [
             {
@@ -13511,7 +13539,7 @@
             },
             {
                 "example_de": "Ich habe mich über Ihr Geschenk sehr gefreut.",
-                "example_bg": "Останах много доволна от подаръка ви."
+                "example_bg": "Много се зарадвах на подаръка ви."
             },
             {
                 "example_de": "Ich freue mich schon auf meinen nächsten Urlaub.",
@@ -13520,23 +13548,24 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Freude",
         "word_bg": [
-            "Joy"
+            "радост",
+            "удоволствие"
         ],
         "examples": [
             {
                 "example_de": "Diese Arbeit macht mir viel Freude.",
-                "example_bg": "Наистина ми харесва тази работа."
+                "example_bg": "Тази работа ми доставя много удоволствие."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Freund, -e",
         "word_bg": [
-            "Приятел"
+            "приятел"
         ],
         "examples": [
             {
@@ -13546,7 +13575,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "freundlich",
         "word_bg": [
             "приятелски"
