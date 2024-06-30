@@ -1940,10 +1940,10 @@ VS_03
 
 
 
-        freiwillig                          Manchmal bleibe ich freiwillig länger                                    4. Wir sind eine halbe Stunde zu früh
-                                            im Büro.                                                                    gekommen.
-                                                                                                                     5. Wecken Sie mich bitte morgen früh um
-        fremd                            1. Ich reise gern in fremde Länder.                                            6 Uhr.
+        freiwillig                          Manchmal bleibe ich freiwillig länger                                    
+                                            im Büro.                                                                    
+                                                                                                                     
+        fremd                            1. Ich reise gern in fremde Länder.                                            
                                          2. Ich bin fremd hier.
                                                                                         früher/früher-               1. Früher habe ich in Berlin gewohnt.
         fressen, frisst, fraß,              Hat der Hund schon etwas zu fressen                                      2. Wir nehmen den früheren Zug.
@@ -1966,11 +1966,11 @@ VS_03
                                       3. Mit freundlichen Grüßen                                                     2. Frau Meyer führt den Betrieb schon
                                                                                                                         seit zehn Jahren.
                die Freundschaft, -en        Deine Freundschaft ist mir sehr                                          3. Nach 20 Minuten führte unsere
-                                            wichtig.                                                                    Mannschaft 2 : 0.
+                                            wichtig.                                                                    Mannschaft 2 : 0
                                                                                                                      4. Die Straße führt direkt zum Bahnhof.
         der Friede, Frieden, -              Endlich ist hier Frieden!
-                                                                                        der Führerausweis, -e (CH)    Hast du einen Führerausweis?
-        frieren, friert, fror,           1. Wenn Sie frieren, mache ich das                  → D, A: Führerschein
+                                                                                        der Führerausweis, -e (CH) → D, A: Führerschein    Hast du einen Führerausweis?
+        frieren, friert, fror,           1. Wenn Sie frieren, mache ich das                  
         hat gefroren                        Fenster wieder zu.
                                          2. Heute Nacht hat es gefroren.                der Führerschein, -e (D, A)  1. Hast du einen Führerschein?
                                                                                              → CH: Führerausweis     2. Ich habe vor einem halben Jahr den
@@ -2004,6 +2004,8 @@ VS_03
                                             starker Verkehr.
                                          2. Mein Vater arbeitet von früh bis spät.
                                          3. Ich bin heute sehr früh aufgestanden.
+                                         4. Wir sind eine halbe Stunde zu früh gekommen.
+                                         5. Wecken Sie mich bitte morgen früh um 6 Uhr.
 VS_03
 
 
@@ -2028,8 +2030,8 @@ VS_03
                                       2. Jonas wünscht sich zu Weihnachten                                               beschwert.
                                          einen neuen Fußball.
                                                                                             das Gasthaus, ¨-er (A)      Gehen wir noch in ein Gasthaus ein
-                    der Fußgänger, -       Dieser Weg ist nur für Fußgänger.                                            Bier trinken?
-               die Fußgängerin, -nen
+      der Fußgänger, - die                 Dieser Weg ist nur für Fußgänger.                                            Bier trinken?
+      Fußgängerin, -nen
                                                                                              die Gaststätte, -n (D)     Ich arbeite seit einem Monat in einer
               die Fußgängerzone, -n        Wir treffen uns um 15 Uhr in der                                             Gaststätte.
                                            Fußgängerzone.
@@ -2047,8 +2049,8 @@ VS_03
                                                                                        das Gebiet, -e                 1. In diesem Gebiet gibt es kaum
         die Galerie, -n                    Diese Galerie ist sehr interessant.                                           Industrie.
                                                                                                                       2. Die Zeitschrift berichtet regelmäßig
-        der Gang, ¨-e                    1. Wir warten draußen im Gang.                                                  über Fortschritte auf dem Gebiet der
-                                            ( → D, CH: Korridor; D: Flur)                                                Medizin.
+        der Gang, ¨-e                    1. Wir warten draußen im                                                        über Fortschritte auf dem Gebiet der
+                                            Gang.                                                                        Medizin.
                                          2. Schalten Sie bitte jetzt in den dritten
                                             Gang.                                      das Gebirge                      Wir haben unseren Urlaub im Gebirge
                                          3. Was möchten Sie als ersten Gang?                                            verbracht.

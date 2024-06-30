@@ -13596,10 +13596,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Freundschaft, -en",
         "word_bg": [
-            "Приятелство"
+            "приятелство"
         ],
         "examples": [
             {
@@ -13609,10 +13609,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Friede, Frieden, -",
         "word_bg": [
-            "Peace"
+            "мир"
         ],
         "examples": [
             {
@@ -13622,15 +13622,16 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "frieren, friert, fror, hat gefroren",
         "word_bg": [
-            "замразяване"
+            "мръзна, зъзна",
+            "замръзвам"
         ],
         "examples": [
             {
                 "example_de": "Wenn Sie frieren, mache ich das Fenster wieder zu.",
-                "example_bg": "Ако ви стане студено, ще затворя прозореца отново."
+                "example_bg": "Ако мръзнете, ще затворя прозореца отново."
             },
             {
                 "example_de": "Heute Nacht hat es gefroren.",
@@ -13639,7 +13640,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "frisch",
         "word_bg": [
             "пресен"
@@ -13651,7 +13652,7 @@
             },
             {
                 "example_de": "Die Handtücher sind frisch gewaschen.",
-                "example_bg": "Кърпите са прясно изпирани."
+                "example_bg": "Кърпите са прясно изпрани."
             },
             {
                 "example_de": "Ich muss mal an die frische Luft.",
@@ -13660,10 +13661,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Friseur, -e die Friseurin, -nen (D, A) → CH: Coiffeur",
         "word_bg": [
-            "Фризьорски салон"
+            "фризьор, фризьорка"
         ],
         "examples": [
             {
@@ -13677,23 +13678,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Frisur, -en",
         "word_bg": [
-            "Прическа"
+            "прическа"
         ],
         "examples": [
             {
                 "example_de": "Du hast eine tolle Frisur! Warst du beim Friseur?",
-                "example_bg": "Имате страхотна прическа! Ходили ли сте на фризьор?"
+                "example_bg": "Имаш страхотна прическа! При фризьора ли си бил?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Frist, -en",
         "word_bg": [
-            "Краен срок"
+            "срок"
         ],
         "examples": [
             {
@@ -13703,10 +13704,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "froh",
         "word_bg": [
-            "щастлив"
+            "радостен",
+            "весел"
         ],
         "examples": [
             {
@@ -13720,10 +13722,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fröhlich",
         "word_bg": [
-            "весел"
+            "весел",
+            "радостен"
         ],
         "examples": [
             {
@@ -13737,23 +13740,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Frucht, ¨-e",
         "word_bg": [
-            "Плодове"
+            "плод"
         ],
         "examples": [
             {
                 "example_de": "Welche Früchte kann man essen?",
-                "example_bg": "Кои плодове можете да ядете?"
+                "example_bg": "Кои плодове може да се ядат?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Früchte (CH) → D, A: Obst",
         "word_bg": [
-            "Плодове"
+            "плодове"
         ],
         "examples": [
             {
@@ -13763,7 +13766,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "früh",
         "word_bg": [
             "рано"
@@ -13782,25 +13785,26 @@
                 "example_bg": "Днес станах много рано."
             },
             {
-                "example_de": "Wir sind eine halbe Stunde zu früh",
-                "example_bg": "Дойдохме половин час по-рано"
+                "example_de": "Wir sind eine halbe Stunde zu früh gekommen.",
+                "example_bg": "Пристигнахме половин час по-рано."
             },
             {
-                "example_de": "Wecken Sie mich bitte morgen früh um",
-                "example_bg": "Моля, събудете ме утре сутринта в"
+                "example_de": "Wecken Sie mich bitte morgen früh um 6 Uhr.",
+                "example_bg": "Моля, събудете ме утре сутринта в 6 часа."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "früher/früher-",
         "word_bg": [
+            "някога",
             "по-рано"
         ],
         "examples": [
             {
                 "example_de": "Früher habe ich in Berlin gewohnt.",
-                "example_bg": "Живях в Берлин."
+                "example_bg": "Някога живях в Берлин."
             },
             {
                 "example_de": "Wir nehmen den früheren Zug.",
@@ -13809,10 +13813,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "frühstücken, frühstückt, frühstückte, hat gefrühstückt",
         "word_bg": [
-            "закусвате"
+            "закусвам"
         ],
         "examples": [
             {
@@ -13822,10 +13826,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Frühstück",
         "word_bg": [
-            "Закуска"
+            "закуска"
         ],
         "examples": [
             {
@@ -13839,10 +13843,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "fühlen, fühlt, fühlte, hat gefühlt",
         "word_bg": [
-            "усещане"
+            "чувствам"
         ],
         "examples": [
             {
@@ -13856,10 +13860,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "führen, führt, führte, hat geführt",
         "word_bg": [
-            "олово"
+            "водя"
         ],
         "examples": [
             {
@@ -13871,34 +13875,38 @@
                 "example_bg": "Г-жа Майер ръководи бизнеса от десет години."
             },
             {
-                "example_de": "Nach 20 Minuten führte unsere Mannschaft 2 : 0. 4. Die Straße führt direkt zum Bahnhof.",
-                "example_bg": "След 20 минути нашият отбор водеше с 2:0. 4. пътят води директно до жп гарата."
+                "example_de": "Nach 20 Minuten führte unsere Mannschaft 2 : 0",
+                "example_bg": "След 20 минути нашият отбор водеше с 2 на 0"
+            },
+            {
+                "example_de": "Die Straße führt direkt zum Bahnhof.",
+                "example_bg": "Пътят води директно до жп гарата."
             }
         ]
     },
     {
-        "manually_verified": false,
-        "word_de": "der Führerausweis, -e (CH)",
+        "manually_verified": true,
+        "word_de": "der Führerausweis, -e (CH) → D, A: Führerschein",
         "word_bg": [
-            "Свидетелство за управление на МПС"
+            "свидетелство за управление на МПС"
         ],
         "examples": [
             {
-                "example_de": "Hast du einen Führerausweis? → D, A: Führerschein",
-                "example_bg": "Имате ли шофьорска книжка? → D, A: Свидетелство за управление на МПС"
+                "example_de": "Hast du einen Führerausweis? ",
+                "example_bg": "Имаш ли шофьорска книжка?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Führerschein, -e (D, A) → CH: Führerausweis",
         "word_bg": [
-            "Свидетелство за управление на МПС"
+            "свидетелство за управление на МПС"
         ],
         "examples": [
             {
                 "example_de": "Hast du einen Führerschein?",
-                "example_bg": "Имате ли шофьорска книжка?"
+                "example_bg": "Имаш ли шофьорска книжка?"
             },
             {
                 "example_de": "Ich habe vor einem halben Jahr den Führerschein gemacht.",
@@ -13907,10 +13915,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Führung, -en",
         "word_bg": [
-            "Насочване"
+            "развеждане",
+            "обиколка"
         ],
         "examples": [
             {
@@ -13924,10 +13933,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Fundbüro, -s",
         "word_bg": [
-            "Служба за изгубени вещи"
+            "служба за изгубени вещи"
         ],
         "examples": [
             {
@@ -13937,10 +13946,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "funktionieren, funktioniert, funktionierte, hat funktioniert",
         "word_bg": [
-            "функция"
+            "работя",
+            "функционирам"
         ],
         "examples": [
             {
@@ -13954,7 +13964,7 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "für",
         "word_bg": [
             "за"
@@ -13982,7 +13992,7 @@
             },
             {
                 "example_de": "Du kannst nicht einkaufen gehen? Ich kann es für dich machen.",
-                "example_bg": "Не можете да пазарувате? Мога да го направя за вас."
+                "example_bg": "Не можеш да отидеш да пазаруваш? Мога да го направя за(вместо) теб."
             },
             {
                 "example_de": "Für mich ist das ein schwerer Fehler.",
@@ -13995,10 +14005,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "furchtbar",
         "word_bg": [
-            "ужасно"
+            "ужасен"
         ],
         "examples": [
             {
@@ -14012,10 +14022,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "(sich) fürchten, fürchtet, fürchtete, hat gefürchtet",
         "word_bg": [
-            "страх"
+            "страхувам (се)"
         ],
         "examples": [
             {
@@ -14025,10 +14035,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Fuß, ¨-e",
         "word_bg": [
-            "Крака"
+            "крак"
         ],
         "examples": [
             {
@@ -14042,10 +14052,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Fußball, ¨-e",
         "word_bg": [
-            "Футбол"
+            "футбол"
         ],
         "examples": [
             {
@@ -14054,28 +14064,28 @@
             },
             {
                 "example_de": "Jonas wünscht sich zu Weihnachten einen neuen Fußball.",
-                "example_bg": "Джонас иска нова футболна топка за Коледа."
+                "example_bg": "Джонас си е пожелал нова футболна топка за Коледа."
             }
         ]
     },
     {
-        "manually_verified": false,
-        "word_de": "der Fußgänger, -",
+        "manually_verified": true,
+        "word_de": "der Fußgänger, - die Fußgängerin, -nen",
         "word_bg": [
-            "Пешеходци"
+            "пешеходец, пешеходка"
         ],
         "examples": [
             {
-                "example_de": "Dieser Weg ist nur für Fußgänger. die Fußgängerin, -nen",
-                "example_bg": "Тази пътека е предназначена само за пешеходци. пешеходецът"
+                "example_de": "Dieser Weg ist nur für Fußgänger.",
+                "example_bg": "Тази пътека е предназначена само за пешеходци."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Fußgängerzone, -n",
         "word_bg": [
-            "Пешеходна зона"
+            "пешеходна зона"
         ],
         "examples": [
             {
@@ -14085,10 +14095,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "füttern, füttert, fütterte, hat gefüttert",
         "word_bg": [
-            "захранване"
+            "храня",
+            "давам храна на"
         ],
         "examples": [
             {
@@ -14098,10 +14109,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Gabel, -n",
         "word_bg": [
-            "Вилица"
+            "вилица"
         ],
         "examples": [
             {
@@ -14111,10 +14122,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Galerie, -n",
         "word_bg": [
-            "Галерия"
+            "галерия"
         ],
         "examples": [
             {
@@ -14124,15 +14135,17 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Gang, ¨-e",
         "word_bg": [
-            "Предавка"
+            "коридор",
+            "предавка (на кола)",
+            "ястие"
         ],
         "examples": [
             {
-                "example_de": "Wir warten draußen im Gang. ( → D, CH: Korridor; D: Flur)",
-                "example_bg": "Чакаме отвън в коридора. ( → D, CH: коридор; D: коридор)"
+                "example_de": "Wir warten draußen im Gang.",
+                "example_bg": "Чакаме отвън в коридора."
             },
             {
                 "example_de": "Schalten Sie bitte jetzt in den dritten Gang.",
@@ -14140,15 +14153,17 @@
             },
             {
                 "example_de": "Was möchten Sie als ersten Gang? Suppe oder Salat?",
-                "example_bg": "Какво бихте желали да изберете за първия си курс? Супа или салата?"
+                "example_bg": "Какво бихте желали да изберете за първото си ястие? Супа или салата?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "ganz",
         "word_bg": [
-            "целият"
+            "цял",
+            "напълно",
+            "доста"
         ],
         "examples": [
             {
@@ -14174,10 +14189,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "gar",
         "word_bg": [
-            "дори"
+            "сварен",
+            "изобщо не (vor Negationen)"
         ],
         "examples": [
             {
@@ -14191,10 +14207,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Garage, -n",
         "word_bg": [
-            "Гараж"
+            "гараж"
         ],
         "examples": [
             {
@@ -14204,10 +14220,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "garantieren, garantiert, garantierte, hat garantiert",
         "word_bg": [
-            "гаранция"
+            "гарантирам"
         ],
         "examples": [
             {
@@ -14217,23 +14233,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Garantie",
         "word_bg": [
-            "Гаранция"
+            "гаранция"
         ],
         "examples": [
             {
                 "example_de": "Auf die Waschmaschine haben Sie ein Jahr Garantie.",
-                "example_bg": "Пералната машина се предлага с едногодишна гаранция."
+                "example_bg": "Пералната машина е с едногодишна гаранция."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Garderobe, -n",
         "word_bg": [
-            "Гардероб"
+            "гардероб"
         ],
         "examples": [
             {
@@ -14247,10 +14263,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Garten, ¨-",
         "word_bg": [
-            "Градина"
+            "градина"
         ],
         "examples": [
             {
@@ -14260,10 +14276,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Gas",
         "word_bg": [
-            "Газ"
+            "газ"
         ],
         "examples": [
             {
@@ -14272,15 +14288,15 @@
             },
             {
                 "example_de": "Gib Gas! Die Ampel ist grün.",
-                "example_bg": "Натиснете газта! Светофарът светва зелено."
+                "example_bg": "Дай газ! Светофарът светна зелено."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Gast, ¨-e",
         "word_bg": [
-            "Гост"
+            "гост"
         ],
         "examples": [
             {
@@ -14289,28 +14305,29 @@
             },
             {
                 "example_de": "Der Gast hat sich über das Essen beschwert.",
-                "example_bg": "Гостът се оплаква от храната."
+                "example_bg": "Гостът се оплака от храната."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Gasthaus, ¨-er (A)",
         "word_bg": [
-            "Ин"
+            "странноприемница",
+            "малък хотел"
         ],
         "examples": [
             {
                 "example_de": "Gehen wir noch in ein Gasthaus ein Bier trinken?",
-                "example_bg": "Да отидем в кръчмата за по бира?"
+                "example_bg": "Да отидем в странноприемницата за по бира?"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Gaststätte, -n (D)",
         "word_bg": [
-            "Ресторант"
+            "ресторант"
         ],
         "examples": [
             {
@@ -14320,10 +14337,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Gebäude, -",
         "word_bg": [
-            "Сграда"
+            "сграда"
         ],
         "examples": [
             {
@@ -14333,10 +14350,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "geben, gibt, gab, hat gegeben",
         "word_bg": [
-            "дайте"
+            "дава,"
         ],
         "examples": [
             {
@@ -14362,10 +14379,11 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Gebäck",
         "word_bg": [
-            "Сладкарски изделия"
+            "сладкиши",
+            "сладкарски изделия"
         ],
         "examples": [
             {
@@ -14375,9 +14393,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Gebiet, -e",
         "word_bg": [
+            "район",
             "област"
         ],
         "examples": [
@@ -14392,10 +14411,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Gebirge",
         "word_bg": [
-            "Планини"
+            "планина (като планински масив или верига)"
         ],
         "examples": [
             {
@@ -14405,10 +14424,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "geboren werden, wird geboren, wurde geboren, ist geboren worden",
         "word_bg": [
-            "да се роди"
+            "да се родя"
         ],
         "examples": [
             {
@@ -14418,10 +14437,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "gebrauchen, gebraucht, gebrauchte, hat gebraucht",
         "word_bg": [
-            "използване на"
+            "използвам"
         ],
         "examples": [
             {
@@ -14439,10 +14458,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Gebrauchsanweisung, -en",
         "word_bg": [
-            "Инструкции за употреба"
+            "инструкции за употреба"
         ],
         "examples": [
             {
@@ -14452,10 +14471,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Gebühr, -en",
         "word_bg": [
-            "Такса"
+            "такса"
         ],
         "examples": [
             {
@@ -14465,10 +14484,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Geburt, -en",
         "word_bg": [
-            "Раждане"
+            "раждане"
         ],
         "examples": [
             {
@@ -14478,23 +14497,23 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Geburtstag, -e",
         "word_bg": [
-            "Рожден ден"
+            "рожден ден"
         ],
         "examples": [
             {
                 "example_de": "Herzlichen Glückwunsch zum Geburtstag!",
-                "example_bg": "Честит рожден ден на вас!"
+                "example_bg": "Със сърдечни пожелания, честит рожден ден!"
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Gedicht, -e",
         "word_bg": [
-            "Стихотворение"
+            "стихотворение"
         ],
         "examples": [
             {
@@ -14504,33 +14523,34 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Geduld",
         "word_bg": [
-            "Търпение"
+            "търпение"
         ],
         "examples": [
             {
                 "example_de": "Bitte haben Sie etwas Geduld.",
-                "example_bg": "Моля, бъдете търпеливи."
+                "example_bg": "Моля, имайте малко търпение."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "geehrt",
         "word_bg": [
+            "уважаван",
             "почетен"
         ],
         "examples": [
             {
                 "example_de": "Sehr geehrte Damen und Herren, …",
-                "example_bg": "Дами и господа, ..."
+                "example_bg": "Уважаеми дами и господа, ..."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "geeignet",
         "word_bg": [
             "подходящ"
@@ -14543,20 +14563,20 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "die Gefahr, -en",
         "word_bg": [
-            "Опасност"
+            "опасност"
         ],
         "examples": [
             {
                 "example_de": "Betreten der Baustelle auf eigene Gefahr.",
-                "example_bg": "Влизате на строителната площадка на свой риск."
+                "example_bg": "Влизайте на строителната площадка на свой риск."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "gefährlich",
         "word_bg": [
             "опасен"
@@ -14573,10 +14593,10 @@
         ]
     },
     {
-        "manually_verified": false,
-        "word_de": "gefallen, gefällt, gefiel, hat gefallen",
+        "manually_verified": true,
+        "word_de": "(jdm, etw) gefallen, gefällt, gefiel, hat gefallen",
         "word_bg": [
-            "паднал"
+            "харесвам (нкм, нщ)"
         ],
         "examples": [
             {
@@ -14590,10 +14610,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "sich etwas gefallen lassen, lässt sich etwas gefallen, ließ sich etwas gefallen, hat sich etwas gefallen lassen",
         "word_bg": [
-            "да се примири с"
+            "примирявам се"
         ],
         "examples": [
             {
@@ -14603,10 +14623,10 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Gefängnis, -se",
         "word_bg": [
-            "Затвор"
+            "затвор"
         ],
         "examples": [
             {
@@ -14616,23 +14636,25 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "das Gefühl, -e",
         "word_bg": [
-            "Усещане"
+            "чувство",
+            "усещане"
         ],
         "examples": [
             {
                 "example_de": "Ich glaube, ich schaffe die Prüfung. Ich habe ein gutes Gefühl.",
-                "example_bg": "Мисля, че ще издържа изпита. Имам добро усещане."
+                "example_bg": "Мисля, че ще издържа изпита. Имам добро чувство."
             }
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "gegen",
         "word_bg": [
-            "срещу."
+            "против",
+            "срещу"
         ],
         "examples": [
             {
@@ -14666,19 +14688,20 @@
         ]
     },
     {
-        "manually_verified": false,
+        "manually_verified": true,
         "word_de": "der Gegner, -",
         "word_bg": [
-            "Съперник"
+            "противник",
+            "съперник"
         ],
         "examples": [
             {
-                "example_de": "Sie ist eine Gegnerin von Tierversuchen.",
-                "example_bg": "Тя е противник на опитите с животни."
-            },
-            {
                 "example_de": "Die Mannschaft aus Frankreich war ein sehr starker Gegner.",
                 "example_bg": "Отборът на Франция беше много силен противник."
+            },
+            {
+                "example_de": "Sie ist eine Gegnerin von Tierversuchen.",
+                "example_bg": "Тя е противник на опитите с животни."
             }
         ]
     },
